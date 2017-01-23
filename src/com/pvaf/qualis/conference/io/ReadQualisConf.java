@@ -76,17 +76,21 @@ public class ReadQualisConf {
                     
                     byte array[] = a1.getContents().getBytes("UTF-8");
                     String sigla = new String(array,"UTF-8");
-                    sigla = Strings.getPattern(sigla, ">[^<]+<").replaceAll("[<>\n]", "");
+                    sigla = sigla.toUpperCase();
+                    sigla = sigla.replaceAll(";", "");
                     sigla = sigla.replace(";","");
                                         
                     array = a2.getContents().getBytes("UTF-8");
                     String title = new String(array,"UTF-8");
-                    title = Strings.getPattern(title, ">[^<]+<").replaceAll("[<>\n]", "");
-                    title = title.replace(";","");
+                    title = title.toUpperCase();
+                    title = title.replaceAll(";","");
+                    title = title.trim();
                     
                     array = a3.getContents().getBytes("UTF-8");
                     String classification = new String(array,"UTF-8");
-                    classification = classification.replace(";","");
+                    classification = classification.toUpperCase();
+                    classification = classification.replaceAll(";","");
+                    classification =  classification.trim();
                     
                     String line = sigla+";"+title+";"+classification;
                     conferencesQualis.add(line);
