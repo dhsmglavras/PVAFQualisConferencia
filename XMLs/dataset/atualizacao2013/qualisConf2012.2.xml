@@ -1,0 +1,3686 @@
+<publication-venues>
+   <author>Denilson Alves Pereira - denilsonpereira@dcc.ufla.br</author>
+   <author>Eduardo Emanuel Braga da Silva - maneul2000@yahoo.com.br</author>
+   <affiliation>Computer Science Department - Federal University of Lavras</affiliation>
+   <from>WebQualis - http://qualis.capes.gov.br/webqualis/Index.faces</from>
+   <pub-venue>
+      <id>0</id>
+      <idClass>0</idClass>
+      <acronym>3PGCIC</acronym>
+      <title>International Conference on P2P, Parallel, Grid, Cloud, and Internet Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>0</idClass>
+      <acronym>AAECC</acronym>
+      <title>Applied algebra, Algebraic algorithms, and Error Correcting Codes</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <idClass>0</idClass>
+      <acronym>AAIM</acronym>
+      <title>Algorithmic Applications in Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>3</id>
+      <idClass>0</idClass>
+      <acronym>AAIP</acronym>
+      <title>Workshop on Approaches and Applications of Inductive Programming</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4</id>
+      <idClass>0</idClass>
+      <acronym>ABiALS</acronym>
+      <title>Anticipatory Behavior in Adaptive Learning Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5</id>
+      <idClass>0</idClass>
+      <acronym>ACE_A</acronym>
+      <title>International Conference on Advances in Computer Entertainment Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>6</id>
+      <idClass>0</idClass>
+      <acronym>ACiD</acronym>
+      <title>Algorithms and Complexity in Durham</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>7</id>
+      <idClass>0</idClass>
+      <acronym>ACII</acronym>
+      <title>International Conference on Affective Computing and Intelligent Interaction</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>8</id>
+      <idClass>0</idClass>
+      <acronym>ACIL</acronym>
+      <title>Advances in Computational Intelligence and Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>9</id>
+      <idClass>0</idClass>
+      <acronym>ACIS-ICIS</acronym>
+      <title>International Conference on Computer and Information Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>10</id>
+      <idClass>0</idClass>
+      <acronym>ACMC</acronym>
+      <title>Australasian Computer Music Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>11</id>
+      <idClass>0</idClass>
+      <acronym>ADHOCNETS</acronym>
+      <title>International Conference on Ad Hoc Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>12</id>
+      <idClass>0</idClass>
+      <acronym>ADMI</acronym>
+      <title>International Workshop on Agents and Data Mining Interaction</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>13</id>
+      <idClass>0</idClass>
+      <acronym>ADPRL</acronym>
+      <title>IEEE International Symposium on Approximate Dynamic Programming and Reinforcement Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>14</id>
+      <idClass>0</idClass>
+      <acronym>ADT</acronym>
+      <title>Algorithmic Decision Theory</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>15</id>
+      <idClass>0</idClass>
+      <acronym>AEM</acronym>
+      <title>International Conference on Applied and Engineering Mathematics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>16</id>
+      <idClass>0</idClass>
+      <acronym>AES-Brasil</acronym>
+      <title>Audio Engineering Society - Brasil</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>17</id>
+      <idClass>0</idClass>
+      <acronym>AFRICACRYPT</acronym>
+      <title>International Conference on Cryptology in Africa</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>18</id>
+      <idClass>0</idClass>
+      <acronym>AGI</acronym>
+      <title>Artificial General Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>19</id>
+      <idClass>0</idClass>
+      <acronym>AGILE_A</acronym>
+      <title>AGILE Conference on Geographic Information Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <idClass>0</idClass>
+      <acronym>AGS</acronym>
+      <title>Agents for Games and Simulations</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>21</id>
+      <idClass>0</idClass>
+      <acronym>AI*IA</acronym>
+      <title>Congress of the Italian Association for Artificial Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>22</id>
+      <idClass>0</idClass>
+      <acronym>AIED_A</acronym>
+      <title>Workshop on Motivation and Affect in Educational Software</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>23</id>
+      <idClass>0</idClass>
+      <acronym>AIMS</acronym>
+      <title>Autonomous Infrastructure, Management and Security</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>24</id>
+      <idClass>0</idClass>
+      <acronym>AIMSA</acronym>
+      <title>Artificial Intelligence: Methodology, Systems, Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>25</id>
+      <idClass>0</idClass>
+      <acronym>AISec</acronym>
+      <title>AI &amp; Security Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>26</id>
+      <idClass>0</idClass>
+      <acronym>ALGOSENSORS</acronym>
+      <title>Algorithmic Aspects of Wireless Sensor Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>27</id>
+      <idClass>0</idClass>
+      <acronym>ALIFE</acronym>
+      <title>IEEE Symposium on Artificial Life</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>28</id>
+      <idClass>0</idClass>
+      <acronym>ALIFE_A</acronym>
+      <title>International Conference on the Simulation and Synthesis of Living Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>29</id>
+      <idClass>0</idClass>
+      <acronym>ALTA</acronym>
+      <title>Australasian Language Technology Association Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>30</id>
+      <idClass>0</idClass>
+      <acronym>AMAS-BT</acronym>
+      <title>Workshop on Architectural and Microarchitectural Support for Binary Translation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>31</id>
+      <idClass>0</idClass>
+      <acronym>AMCS</acronym>
+      <title>International Conference on Algorithmic Mathematics and Computer Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>32</id>
+      <idClass>0</idClass>
+      <acronym>AMIA</acronym>
+      <title>AMIA Annual Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>33</id>
+      <idClass>0</idClass>
+      <acronym>AMINING</acronym>
+      <title>Active Mining</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>34</id>
+      <idClass>0</idClass>
+      <acronym>AMS</acronym>
+      <title>Autonome Mobile Systeme</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>35</id>
+      <idClass>0</idClass>
+      <acronym>AMSTA</acronym>
+      <title>Agent and Multi-Agent Systems: Technologies and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>36</id>
+      <idClass>0</idClass>
+      <acronym>ANDESCON</acronym>
+      <title>IEEE Andean Region International Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>37</id>
+      <idClass>0</idClass>
+      <acronym>ANPPOM</acronym>
+      <title>Congresso da Associação Nacional de Pesquisa e Pós-Graduação em Música</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>38</id>
+      <idClass>0</idClass>
+      <acronym>ANTS_A</acronym>
+      <title>International Workshop on Ant Colony Optimization and Swarm Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>39</id>
+      <idClass>0</idClass>
+      <acronym>ANTS_C</acronym>
+      <title>International Symposium on Advanced Networks and Telecommunication Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>40</id>
+      <idClass>0</idClass>
+      <acronym>APEID</acronym>
+      <title>UNESCO-APEID International Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>41</id>
+      <idClass>0</idClass>
+      <acronym>ARCS</acronym>
+      <title>Architecture of Computing Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>42</id>
+      <idClass>0</idClass>
+      <acronym>ArgMas</acronym>
+      <title>International Workshop on Argumentation in Multi-Agent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>43</id>
+      <idClass>0</idClass>
+      <acronym>ASAMA</acronym>
+      <title>International Symposium on Agent Systems and Applications / International Symposium on Mobile Agents</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>44</id>
+      <idClass>0</idClass>
+      <acronym>ASID</acronym>
+      <title>International Workshop on Anti-counterfeiting, Security and Identification</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>45</id>
+      <idClass>0</idClass>
+      <acronym>ASRU</acronym>
+      <title>IEEE Workshop on Automatic Speech Recognition &amp; Understanding</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>46</id>
+      <idClass>0</idClass>
+      <acronym>ATMOS</acronym>
+      <title>Workshop on Algorithmic Approaches for Transportation Modeling, Optimization, and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>47</id>
+      <idClass>0</idClass>
+      <acronym>ATVA</acronym>
+      <title>Automated Technology for Verification and Analysis</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>48</id>
+      <idClass>0</idClass>
+      <acronym>AUTOMATA</acronym>
+      <title>Cellular Automata Theory and Applicatins</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>49</id>
+      <idClass>0</idClass>
+      <acronym>BCS-HCI</acronym>
+      <title>Conference of the British Computer Society Human Computer Interaction Specialist Group</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>50</id>
+      <idClass>0</idClass>
+      <acronym>BEA</acronym>
+      <title>Workshop on the Innovative Use of NLP for Building Educational Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>51</id>
+      <idClass>0</idClass>
+      <acronym>BIBMW</acronym>
+      <title>IEEE International Conference on Bioinformatics and Biomedicine Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>52</id>
+      <idClass>0</idClass>
+      <acronym>BICA</acronym>
+      <title>Annual International Conference on Biologically Inspired Cognitive Architectures</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>53</id>
+      <idClass>0</idClass>
+      <acronym>BICS</acronym>
+      <title>Brain-Inspired Cognitive Systems Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>54</id>
+      <idClass>0</idClass>
+      <acronym>BIODEVICES</acronym>
+      <title>International Conference on Biomedical Electronics and Devices</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>55</id>
+      <idClass>0</idClass>
+      <acronym>BIOINFORMATICS</acronym>
+      <title>International Conference on Bioinformatics Models, Methods and Algorithms</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>56</id>
+      <idClass>0</idClass>
+      <acronym>BIOSIGNALS</acronym>
+      <title>International Conference on Bio-inspired Systems and Signal Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>57</id>
+      <idClass>0</idClass>
+      <acronym>BIOTECHNO</acronym>
+      <title>International Conference on Bioinformatics, Biocomputational Systems and Biotechnologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>58</id>
+      <idClass>0</idClass>
+      <acronym>BIRTE</acronym>
+      <title>International Workshop on Business Intelligence for the Real Time Enterprise</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>59</id>
+      <idClass>0</idClass>
+      <acronym>BIS</acronym>
+      <title>International Conference on Business Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>60</id>
+      <idClass>0</idClass>
+      <acronym>BPMDS</acronym>
+      <title>International Conference on Business Process Modeling, Development, and Support</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>61</id>
+      <idClass>0</idClass>
+      <acronym>BPMN</acronym>
+      <title>International Workshop on Business Process Modeling Notation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>62</id>
+      <idClass>0</idClass>
+      <acronym>BPSC</acronym>
+      <title>Business Process and Services Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>63</id>
+      <idClass>0</idClass>
+      <acronym>BTAS</acronym>
+      <title>IEEE International Conference on Biometrics: Theory, Applications and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>64</id>
+      <idClass>0</idClass>
+      <acronym>BUCC</acronym>
+      <title>Workshop on Building and Using Comparable Corpora</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>65</id>
+      <idClass>0</idClass>
+      <acronym>CAOS</acronym>
+      <title>Workshop on Computer Architecture and Operating System co-design</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>66</id>
+      <idClass>0</idClass>
+      <acronym>CASE_A</acronym>
+      <title>IEEE Conference on Automation Science and Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>67</id>
+      <idClass>0</idClass>
+      <acronym>CBA</acronym>
+      <title>Congresso Brasileiro de Automática</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>68</id>
+      <idClass>0</idClass>
+      <acronym>CBEE</acronym>
+      <title>Congresso Brasileiro de Educação Especial</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>69</id>
+      <idClass>0</idClass>
+      <acronym>CBIC</acronym>
+      <title>Congresso Brasileiro de Inteligência Computacional</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>70</id>
+      <idClass>0</idClass>
+      <acronym>CBIS</acronym>
+      <title>Congresso Brasileiro de Informática em Saúde</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>71</id>
+      <idClass>0</idClass>
+      <acronym>CCA_A</acronym>
+      <title>International Conference on Computability and Complexity in Analysis</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>72</id>
+      <idClass>0</idClass>
+      <acronym>CCC_A</acronym>
+      <title>Colombian Computing Congress</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>73</id>
+      <idClass>0</idClass>
+      <acronym>CC_A</acronym>
+      <title>Creativity and Cognition Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>74</id>
+      <idClass>0</idClass>
+      <acronym>CDVE</acronym>
+      <title>Cooperative Design, Visualization and Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>75</id>
+      <idClass>0</idClass>
+      <acronym>CEA</acronym>
+      <title>International Conference on Computer Engineering and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>76</id>
+      <idClass>0</idClass>
+      <acronym>CEC_A</acronym>
+      <title>IEEE Congress on Evolutionary Computation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>77</id>
+      <idClass>0</idClass>
+      <acronym>CELDA</acronym>
+      <title>Cognition and Exploratory Learning in Digital Age</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>78</id>
+      <idClass>0</idClass>
+      <acronym>CIAED</acronym>
+      <title>Congresso Internacional ABED de Educação a Distância</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>79</id>
+      <idClass>0</idClass>
+      <acronym>CIAIE</acronym>
+      <title>Congresso Ibero-Americano de Informática Educativa</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>80</id>
+      <idClass>0</idClass>
+      <acronym>CIBSE</acronym>
+      <title>Ibero-American Conference on Software Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>81</id>
+      <idClass>0</idClass>
+      <acronym>CIM</acronym>
+      <title>Conference on Interdisciplinary Musicology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>82</id>
+      <idClass>0</idClass>
+      <acronym>CINTED</acronym>
+      <title>Ciclo de Palestras Novas Tecnologias na Educação</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>83</id>
+      <idClass>0</idClass>
+      <acronym>CISched</acronym>
+      <title>IEEE Symposium on Computational Intelligence in Scheduling</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>84</id>
+      <idClass>0</idClass>
+      <acronym>CISTI</acronym>
+      <title>Iberian Conference on Information Systems and Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>85</id>
+      <idClass>0</idClass>
+      <acronym>CISW</acronym>
+      <title>International Conference on Computational Intelligence and Security Workshops</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>86</id>
+      <idClass>0</idClass>
+      <acronym>CISWSN</acronym>
+      <title>Collective Intelligence in Semantic Web and Social Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>87</id>
+      <idClass>0</idClass>
+      <acronym>CITA</acronym>
+      <title>International Conference on IT in Asia</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>88</id>
+      <idClass>0</idClass>
+      <acronym>CKC</acronym>
+      <title>Social and Collaborative Construction of Structured Knowledge</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>89</id>
+      <idClass>0</idClass>
+      <acronym>CLAIO</acronym>
+      <title>Congreso Latino-Iberoamericano de Investigación Operativa</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>90</id>
+      <idClass>0</idClass>
+      <acronym>CLIMA</acronym>
+      <title>International Workshop on Computational Logic in Multi-Agent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>91</id>
+      <idClass>0</idClass>
+      <acronym>CLOSER</acronym>
+      <title>International Conference on Cloud Computing and Services Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>92</id>
+      <idClass>0</idClass>
+      <acronym>CMMR</acronym>
+      <title>International Symposium on Computer Music Modeling and Retrieval</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>93</id>
+      <idClass>0</idClass>
+      <acronym>CNMAC</acronym>
+      <title>Congresso Nacional de Matemática Aplicada e Computacional</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>94</id>
+      <idClass>0</idClass>
+      <acronym>CollaborateCom</acronym>
+      <title>International Conference on Collaborative Computing: Networking, Applications and Worksharing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>95</id>
+      <idClass>0</idClass>
+      <acronym>COMS</acronym>
+      <title>Conference on Optimization Methods and Software</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>96</id>
+      <idClass>0</idClass>
+      <acronym>Conf-IRM</acronym>
+      <title>International Conference on Information Resources Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>97</id>
+      <idClass>0</idClass>
+      <acronym>CONFENIS</acronym>
+      <title>IFIP International Conference on Research and Practical Issues of Enterprise Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>98</id>
+      <idClass>0</idClass>
+      <acronym>CONTECSI</acronym>
+      <title>International Conference on Information Systems and Technology Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>99</id>
+      <idClass>0</idClass>
+      <acronym>COOP</acronym>
+      <title>International Conference on the Design of Cooperative Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>100</id>
+      <idClass>0</idClass>
+      <acronym>CPAIOR</acronym>
+      <title>International Conference o Integration of Artificial Intelligence and Operations Research</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>101</id>
+      <idClass>0</idClass>
+      <acronym>CROWNCOM</acronym>
+      <title>International Conference on Cognitive Radio Oriented Wireless Networks and Communications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>102</id>
+      <idClass>0</idClass>
+      <acronym>CSEE</acronym>
+      <title>International Conference on Computer Science, Environment, Ecoinformatics, and Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>103</id>
+      <idClass>0</idClass>
+      <acronym>CSNDSP</acronym>
+      <title>International Symposium on Communication Systems, Networks and Digital Signal Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>104</id>
+      <idClass>0</idClass>
+      <acronym>CSREA_EEE</acronym>
+      <title>International Conference on E-Learning, E-Business, Enterprise Information Systems, &amp; E-Government</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>105</id>
+      <idClass>0</idClass>
+      <acronym>DAFX</acronym>
+      <title>International Conference on Digital Audio Effects</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>106</id>
+      <idClass>0</idClass>
+      <acronym>DB&amp;IS</acronym>
+      <title>International Baltic Conference on Databases and Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>107</id>
+      <idClass>0</idClass>
+      <acronym>DCAI</acronym>
+      <title>International Conference on Distributed Computing and Artificial Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>108</id>
+      <idClass>0</idClass>
+      <acronym>DeLFI</acronym>
+      <title>Fachtagung "e-Learning" der Gesellschaft für Informatik</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>109</id>
+      <idClass>0</idClass>
+      <acronym>DENVECT</acronym>
+      <title>IEEE International Workshop on Digital Entertainment, Networked Virtual Environments, and Creative Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>110</id>
+      <idClass>0</idClass>
+      <acronym>DesignCon</acronym>
+      <title>Design Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>111</id>
+      <idClass>0</idClass>
+      <acronym>DICTAP</acronym>
+      <title>International Conference on Digital Information and Communication Technology and Its Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>112</id>
+      <idClass>0</idClass>
+      <acronym>DMO</acronym>
+      <title>Data Mining and Optimization</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>113</id>
+      <idClass>0</idClass>
+      <acronym>DNIS</acronym>
+      <title>Databases in Networked Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>114</id>
+      <idClass>0</idClass>
+      <acronym>DSP</acronym>
+      <title>International Conference on Digital Signal Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>115</id>
+      <idClass>0</idClass>
+      <acronym>E-ACTIVITIES</acronym>
+      <title>International Conference on E-Activities</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>116</id>
+      <idClass>0</idClass>
+      <acronym>e-Learning</acronym>
+      <title>IADIS International Conference on e-Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>117</id>
+      <idClass>0</idClass>
+      <acronym>E-SCIENCE</acronym>
+      <title>Brazilian e-Science Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>118</id>
+      <idClass>0</idClass>
+      <acronym>ECCO</acronym>
+      <title>Conference of European Chapter on Combinatorial Optimization</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>119</id>
+      <idClass>0</idClass>
+      <acronym>EC_A</acronym>
+      <title>IADIS International Conference e-Commerce</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>120</id>
+      <idClass>0</idClass>
+      <acronym>EDM</acronym>
+      <title>International Conference on Educational Data Mining</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>121</id>
+      <idClass>0</idClass>
+      <acronym>EDUCON</acronym>
+      <title>IEEE Engineering Education Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>122</id>
+      <idClass>0</idClass>
+      <acronym>EISWT</acronym>
+      <title>International Conference on Enterprise Information Systems and Web Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>123</id>
+      <idClass>0</idClass>
+      <acronym>ELAVIO</acronym>
+      <title>Latin American Operations Research Summer School</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>124</id>
+      <idClass>0</idClass>
+      <acronym>ELC</acronym>
+      <title>Encontro de Linguística de Corpus</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>125</id>
+      <idClass>0</idClass>
+      <acronym>ELearn</acronym>
+      <title>World Conference on E-Learning in Corporate, Government, Healthcare &amp; Higher Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>126</id>
+      <idClass>0</idClass>
+      <acronym>EMicro</acronym>
+      <title>South Microelectronics School</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>127</id>
+      <idClass>0</idClass>
+      <acronym>EMS</acronym>
+      <title>EMS Network Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>128</id>
+      <idClass>0</idClass>
+      <acronym>ENADI</acronym>
+      <title>Encontro de Administração da Informação</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>129</id>
+      <idClass>0</idClass>
+      <acronym>ENASE</acronym>
+      <title>International Conference on Evaluation of Novel Approaches to Software Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>130</id>
+      <idClass>0</idClass>
+      <acronym>Engopt</acronym>
+      <title>International Conference on Engineering Optimization</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>131</id>
+      <idClass>0</idClass>
+      <acronym>ENIA</acronym>
+      <title>Encontro Nacional de Intelig</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>132</id>
+      <idClass>0</idClass>
+      <acronym>ENRI</acronym>
+      <title>Encontro de Robótica Inteligente</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>133</id>
+      <idClass>0</idClass>
+      <acronym>ENTER</acronym>
+      <title>International Conference on Information and Communication Technologies in Tourism</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>134</id>
+      <idClass>0</idClass>
+      <acronym>EOMAS</acronym>
+      <title>Enterprise and Organizational Modeling and Simulation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>135</id>
+      <idClass>0</idClass>
+      <acronym>ePart</acronym>
+      <title>International Conference on Electronic Participation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>136</id>
+      <idClass>0</idClass>
+      <acronym>EPIA</acronym>
+      <title>Portuguese Conference on Artiificial Intelligence/Encontro Português de Inteligência Artificial</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>137</id>
+      <idClass>0</idClass>
+      <acronym>EPIO</acronym>
+      <title>Escuela de Perfeccionamiento en Investigación Operativa</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>138</id>
+      <idClass>0</idClass>
+      <acronym>ERAD</acronym>
+      <title>Escola Regional de Alto Desempenho</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>139</id>
+      <idClass>0</idClass>
+      <acronym>ESAW</acronym>
+      <title>International Workshop on Engineering Societies in the Agents World</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>140</id>
+      <idClass>0</idClass>
+      <acronym>ESEC/FSE</acronym>
+      <title>European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>141</id>
+      <idClass>0</idClass>
+      <acronym>Euro-Plop</acronym>
+      <title>European Conference on Pattern Languages of Programs</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>142</id>
+      <idClass>0</idClass>
+      <acronym>EuroIMSA</acronym>
+      <title>IASTED International Conference on Internet and Multimedia Systems and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>143</id>
+      <idClass>0</idClass>
+      <acronym>EuroMPI</acronym>
+      <title>European MPI Users Group Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>144</id>
+      <idClass>0</idClass>
+      <acronym>Evoapplications</acronym>
+      <title>European Conference on the Applications of Evolutionary Computation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>145</id>
+      <idClass>0</idClass>
+      <acronym>Evobio</acronym>
+      <title>European Conference on Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>146</id>
+      <idClass>0</idClass>
+      <acronym>EWME</acronym>
+      <title>European Workshop on Microelectronics Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>147</id>
+      <idClass>0</idClass>
+      <acronym>FC</acronym>
+      <title>Financial Cryptography</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>148</id>
+      <idClass>0</idClass>
+      <acronym>FedCSIS</acronym>
+      <title>Federated Conference on Computer Science and Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>149</id>
+      <idClass>0</idClass>
+      <acronym>FGIT</acronym>
+      <title>Future Generation Information Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>150</id>
+      <idClass>0</idClass>
+      <acronym>FIND</acronym>
+      <title>Dynamic Taxonomies and Faceted Search</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>151</id>
+      <idClass>0</idClass>
+      <acronym>FINTDI</acronym>
+      <title>Promotion and Innovation with New Technologies in Engineering Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>152</id>
+      <idClass>0</idClass>
+      <acronym>FLAIRS</acronym>
+      <title>Florida Artificial Intelligence Research Society</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>153</id>
+      <idClass>0</idClass>
+      <acronym>FLINS</acronym>
+      <title>International FLINS Conference on Uncertainty Modeling in Knowledge Engineering and Decision Making</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>154</id>
+      <idClass>0</idClass>
+      <acronym>FMN</acronym>
+      <title>Future Multimedia Networking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>155</id>
+      <idClass>0</idClass>
+      <acronym>FOMI</acronym>
+      <title>Formal Ontologies Meet Industry</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>156</id>
+      <idClass>0</idClass>
+      <acronym>FSE_A</acronym>
+      <title>ACM SIGSOFT Conference on the Foundations of Software Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>157</id>
+      <idClass>0</idClass>
+      <acronym>FTFC</acronym>
+      <title>IEEE Faible Tension Faible Consommation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>158</id>
+      <idClass>0</idClass>
+      <acronym>GECON</acronym>
+      <title>Grid Economics and Business Models</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>159</id>
+      <idClass>0</idClass>
+      <acronym>GEFS</acronym>
+      <title>International Workshop on Genetic and Evolving Fuzzy Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>160</id>
+      <idClass>0</idClass>
+      <acronym>GENSIPS</acronym>
+      <title>IEEE International Workshop on Genomic Signal Processing and Statistics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>161</id>
+      <idClass>0</idClass>
+      <acronym>GOW</acronym>
+      <title>Global Optimization Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>162</id>
+      <idClass>0</idClass>
+      <acronym>GREENCOM</acronym>
+      <title>Green Computing and Communications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>163</id>
+      <idClass>0</idClass>
+      <acronym>GREENCOM-CPSCOM</acronym>
+      <title>IEEE-ACM International Conference on Green Computing and Communications and International Conference on Cyber Physical and Social Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>164</id>
+      <idClass>0</idClass>
+      <acronym>GWC</acronym>
+      <title>International Global Wordnet Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>165</id>
+      <idClass>0</idClass>
+      <acronym>HAIS</acronym>
+      <title>International Conference on Hybrid Artificial Intelligence Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>166</id>
+      <idClass>0</idClass>
+      <acronym>HC</acronym>
+      <title>Humans and Computers</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>167</id>
+      <idClass>0</idClass>
+      <acronym>HCII</acronym>
+      <title>International Conference on Human-Computer Interaction</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>168</id>
+      <idClass>0</idClass>
+      <acronym>HEALTHINF</acronym>
+      <title>International Conference on Health Informatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>169</id>
+      <idClass>0</idClass>
+      <acronym>HoloMAS</acronym>
+      <title>Holonic and Multi-Agent Systems for Manufacturing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>170</id>
+      <idClass>0</idClass>
+      <acronym>HOST</acronym>
+      <title>Hardware-Oriented Security and Trust HOST), IEEE International Workshop on</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>171</id>
+      <idClass>0</idClass>
+      <acronym>HotInterconnect</acronym>
+      <title>Symposium on High-Performance Interconnects</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>172</id>
+      <idClass>0</idClass>
+      <acronym>I</acronym>
+      <title>IADIS International Conference Informatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>173</id>
+      <idClass>0</idClass>
+      <acronym>I&amp;CPS</acronym>
+      <title>IEEE Industrial and Commercial Power Systems Technical Conference - Conference Record</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>174</id>
+      <idClass>0</idClass>
+      <acronym>I-KNOW</acronym>
+      <title>International Conference on Knowledge Management and Knowledge Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>175</id>
+      <idClass>0</idClass>
+      <acronym>I2TS</acronym>
+      <title>Information and Telecommunication Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>176</id>
+      <idClass>0</idClass>
+      <acronym>IAIT</acronym>
+      <title>International Conference on Advances in Information Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>177</id>
+      <idClass>0</idClass>
+      <acronym>IBERCHIP</acronym>
+      <title>Workshop Iberchip</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>178</id>
+      <idClass>0</idClass>
+      <acronym>ICAIE</acronym>
+      <title>International Conference on Artificial Intelligence and Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>179</id>
+      <idClass>0</idClass>
+      <acronym>ICAISC</acronym>
+      <title>International Conference on Artifical Intelligence and Soft Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>180</id>
+      <idClass>0</idClass>
+      <acronym>ICALIP</acronym>
+      <title>International Conference on Audio, Language and Image Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>181</id>
+      <idClass>0</idClass>
+      <acronym>ICBBE</acronym>
+      <title>International Conference on Bioinformatics and Biomedical Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>182</id>
+      <idClass>0</idClass>
+      <acronym>ICCBR</acronym>
+      <title>International Conference on Case-Based Reasoning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>183</id>
+      <idClass>0</idClass>
+      <acronym>ICCCAS</acronym>
+      <title>International Conference on Communications, Circuits and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>184</id>
+      <idClass>0</idClass>
+      <acronym>ICCDCS</acronym>
+      <title>International Caribbean Conference on Devices, Circuits and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>185</id>
+      <idClass>0</idClass>
+      <acronym>ICCI_A</acronym>
+      <title>IEEE International Conference on Cognitive Informatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>186</id>
+      <idClass>0</idClass>
+      <acronym>ICCSE</acronym>
+      <title>International Conference on Computer Science &amp; Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>187</id>
+      <idClass>0</idClass>
+      <acronym>ICCST</acronym>
+      <title>Annual International Carnahan Conference on Security Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>188</id>
+      <idClass>0</idClass>
+      <acronym>ICCS_A</acronym>
+      <title>International Conference on Conceptual Structures</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>189</id>
+      <idClass>0</idClass>
+      <acronym>ICDCIT</acronym>
+      <title>International Conference on Distributed Computing and Internet Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>190</id>
+      <idClass>0</idClass>
+      <acronym>ICDE_A</acronym>
+      <title>World Conference on Open Learning and Distance Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>191</id>
+      <idClass>0</idClass>
+      <acronym>ICDF</acronym>
+      <title>IFIP WG 11.9 International Conference on Digital Forensics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>192</id>
+      <idClass>0</idClass>
+      <acronym>ICDL-EpiRob</acronym>
+      <title>IEEE Conference on Development and Learning and Epigenetic Robotics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>193</id>
+      <idClass>0</idClass>
+      <acronym>ICDLE</acronym>
+      <title>International Conference on Distance Learning and Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>194</id>
+      <idClass>0</idClass>
+      <acronym>ICDVRAT</acronym>
+      <title>International Conference on Disability, Virtual Reality and Associated Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>195</id>
+      <idClass>0</idClass>
+      <acronym>ICE-B</acronym>
+      <title>International Conference on e-Business</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>196</id>
+      <idClass>0</idClass>
+      <acronym>ICECE</acronym>
+      <title>International Conference on Engineering and Computer Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>197</id>
+      <idClass>0</idClass>
+      <acronym>ICEC_A</acronym>
+      <title>IFIP International Conference on Entertainment Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>198</id>
+      <idClass>0</idClass>
+      <acronym>ICEIT</acronym>
+      <title>International Conference on Educational and Information Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>199</id>
+      <idClass>0</idClass>
+      <acronym>ICELET</acronym>
+      <title>International Conference on E-Learning and E-Teaching</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>200</id>
+      <idClass>0</idClass>
+      <acronym>ICEMT</acronym>
+      <title>International Conference on Education and Management Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>201</id>
+      <idClass>0</idClass>
+      <acronym>ICIAS</acronym>
+      <title>International Conference on Intelligent and Advanced Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>202</id>
+      <idClass>0</idClass>
+      <acronym>ICICA</acronym>
+      <title>International Conference on Information Computing and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>203</id>
+      <idClass>0</idClass>
+      <acronym>ICIDS</acronym>
+      <title>International Conference on Interactive Digital Storytelling</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>204</id>
+      <idClass>0</idClass>
+      <acronym>ICIS_A</acronym>
+      <title>IEEE/ACIS International Conference on Computer and Information Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>205</id>
+      <idClass>0</idClass>
+      <acronym>ICITS</acronym>
+      <title>International Conference on Intelligent Tutoring Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>206</id>
+      <idClass>0</idClass>
+      <acronym>ICL</acronym>
+      <title>International Conference on Interactive Collaborative Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>207</id>
+      <idClass>0</idClass>
+      <acronym>ICMC</acronym>
+      <title>International Computer Music Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>208</id>
+      <idClass>0</idClass>
+      <acronym>ICMIC</acronym>
+      <title>International Conference on Modelling, Identification and Control</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>209</id>
+      <idClass>0</idClass>
+      <acronym>ICMPC</acronym>
+      <title>International Conference of Music Perception and Cognition</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>210</id>
+      <idClass>0</idClass>
+      <acronym>ICMSAO</acronym>
+      <title>International Conferecen on Modeling, Simulation and Applied Optimization</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>211</id>
+      <idClass>0</idClass>
+      <acronym>ICMTS</acronym>
+      <title>IEEE International Conference on Microelectronics Test Structures</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>212</id>
+      <idClass>0</idClass>
+      <acronym>ICNCC</acronym>
+      <title>International Conference on Network Communication and Computer</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>213</id>
+      <idClass>0</idClass>
+      <acronym>ICoFCS</acronym>
+      <title>International Conference on Forensic Computer Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>214</id>
+      <idClass>0</idClass>
+      <acronym>ICORE</acronym>
+      <title>International Conference on Reputation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>215</id>
+      <idClass>0</idClass>
+      <acronym>ICSC_A</acronym>
+      <title>International Computer Science Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>216</id>
+      <idClass>0</idClass>
+      <acronym>ICSMA</acronym>
+      <title>International Conference on Smart Manufacturing Application</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>217</id>
+      <idClass>0</idClass>
+      <acronym>ICSOB</acronym>
+      <title>International Conference on Software Business</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>218</id>
+      <idClass>0</idClass>
+      <acronym>ICSTW</acronym>
+      <title>IEEE International Conference on Software Testing Verification and Validation Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>219</id>
+      <idClass>0</idClass>
+      <acronym>ICTEL</acronym>
+      <title>International Conference on Technology-Enhanced Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>220</id>
+      <idClass>0</idClass>
+      <acronym>ICTERI</acronym>
+      <title>International Conference on ICT in Education, Research, and Industrial Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>221</id>
+      <idClass>0</idClass>
+      <acronym>ICTON</acronym>
+      <title>International Conference on Transparent Optical Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>222</id>
+      <idClass>0</idClass>
+      <acronym>ICUMT</acronym>
+      <title>Ultra Modern Telecommunications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>223</id>
+      <idClass>0</idClass>
+      <acronym>ICVES</acronym>
+      <title>IEEE International Conference on Vehicular Electronics and Safety</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>224</id>
+      <idClass>0</idClass>
+      <acronym>ICVS_A</acronym>
+      <title>International Conference on Virtual Storytelling</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>225</id>
+      <idClass>0</idClass>
+      <acronym>ICWI</acronym>
+      <title>International Conference WWW/Internet</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>226</id>
+      <idClass>0</idClass>
+      <acronym>IDAACS</acronym>
+      <title>Intelligent Data Acquisition and Advanced Computing Systems Technology and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>227</id>
+      <idClass>0</idClass>
+      <acronym>IDC_A</acronym>
+      <title>IEEE Conference on Information Decision and Control</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>228</id>
+      <idClass>0</idClass>
+      <acronym>IDEAS_A</acronym>
+      <title>International Database Engineering and Applications Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>229</id>
+      <idClass>0</idClass>
+      <acronym>IEEERFID</acronym>
+      <title>IEEE IEEE International Conference on RFID</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>230</id>
+      <idClass>0</idClass>
+      <acronym>IESS_A</acronym>
+      <title>International Embedded Systems Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>231</id>
+      <idClass>0</idClass>
+      <acronym>IFIPAI</acronym>
+      <title>IFIP Artificial Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>232</id>
+      <idClass>0</idClass>
+      <acronym>IGIP</acronym>
+      <title>IGIP International Symposium on Engineering Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>233</id>
+      <idClass>0</idClass>
+      <acronym>IMAGAPP/IVAPP</acronym>
+      <title>International Conference on Imaging Theory and Applications and International Conference on Information Visualization Theory and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>234</id>
+      <idClass>0</idClass>
+      <acronym>IMS</acronym>
+      <title>Advanced Information Management and Service</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>235</id>
+      <idClass>0</idClass>
+      <acronym>IMSA</acronym>
+      <title>International Conference on Internet and Multimedia Systems and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>236</id>
+      <idClass>0</idClass>
+      <acronym>IMS_A</acronym>
+      <title>IFAC Workshop on Intelligent Manufacturing Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>237</id>
+      <idClass>0</idClass>
+      <acronym>INA-OCMC</acronym>
+      <title>Interconnection Network Architectures: On-Chip, Multi-Chip</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>238</id>
+      <idClass>0</idClass>
+      <acronym>InCoB</acronym>
+      <title>International Conference on Bioinformatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>239</id>
+      <idClass>0</idClass>
+      <acronym>INEX</acronym>
+      <title>International Workshop of the Inititative for the Evaluation of XML Retrieval</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>240</id>
+      <idClass>0</idClass>
+      <acronym>INFORMS</acronym>
+      <title>Joint International Meeting</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>241</id>
+      <idClass>0</idClass>
+      <acronym>INTED</acronym>
+      <title>International Technology, Education and Development Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>242</id>
+      <idClass>0</idClass>
+      <acronym>IPEC</acronym>
+      <title>International Symposium on Parameterized and Exact Computation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>243</id>
+      <idClass>0</idClass>
+      <acronym>IR</acronym>
+      <title>Research and Development in Information Retrieval</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>244</id>
+      <idClass>0</idClass>
+      <acronym>IRMA</acronym>
+      <title>Information Resources Management Association International Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>245</id>
+      <idClass>0</idClass>
+      <acronym>IS</acronym>
+      <title>IADIS International Conference Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>246</id>
+      <idClass>0</idClass>
+      <acronym>ISBRA</acronym>
+      <title>International Symposium on Bioinformatics Research and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>247</id>
+      <idClass>0</idClass>
+      <acronym>ISC_A</acronym>
+      <title>International Supercomputing Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>248</id>
+      <idClass>0</idClass>
+      <acronym>ISIE</acronym>
+      <title>IEEE International Symposium on Industrial Electronics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>249</id>
+      <idClass>0</idClass>
+      <acronym>ISMIS</acronym>
+      <title>International Syposium on Methodologies for Intelligent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>250</id>
+      <idClass>0</idClass>
+      <acronym>ISMM_A</acronym>
+      <title>International Symposium on Memory Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>251</id>
+      <idClass>0</idClass>
+      <acronym>ISoLA</acronym>
+      <title>International Symposium on Leveraging Applications of Formal Methods, Verification and Validation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>252</id>
+      <idClass>0</idClass>
+      <acronym>ISRE</acronym>
+      <title>IEEE International Symposium on Requirements Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>253</id>
+      <idClass>0</idClass>
+      <acronym>IST</acronym>
+      <title>IEEE International Workshop on Imaging Systems and Techniques</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>254</id>
+      <idClass>0</idClass>
+      <acronym>ISWC_A</acronym>
+      <title>IEEE International Symposium on Wearable Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>255</id>
+      <idClass>0</idClass>
+      <acronym>ISWPC</acronym>
+      <title>Wireless Pervasive Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>256</id>
+      <idClass>0</idClass>
+      <acronym>ITAT</acronym>
+      <title>Conference on Theory and Practice of Information Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>257</id>
+      <idClass>0</idClass>
+      <acronym>ITBAM</acronym>
+      <title>International Conference on Information Technology in Bio- and Medical Informatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>258</id>
+      <idClass>0</idClass>
+      <acronym>ITEM</acronym>
+      <title>Conference on Information Technology in Educational Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>259</id>
+      <idClass>0</idClass>
+      <acronym>ITHET</acronym>
+      <title>International Conference on Information Technology Based Higher Education and Training</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>260</id>
+      <idClass>0</idClass>
+      <acronym>ITP</acronym>
+      <title>Interactive Theorem Proving continues TPHOL)</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>261</id>
+      <idClass>0</idClass>
+      <acronym>ITRE</acronym>
+      <title>International Conference on Information Technology: Research and Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>262</id>
+      <idClass>0</idClass>
+      <acronym>ITS_A</acronym>
+      <title>International Telecommunications Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>263</id>
+      <idClass>0</idClass>
+      <acronym>IUKM</acronym>
+      <title>Integrated Uncertainty in Knowledge Modelling and Decision Making</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>264</id>
+      <idClass>0</idClass>
+      <acronym>IV_A</acronym>
+      <title>Intelligent Vehicles Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>265</id>
+      <idClass>0</idClass>
+      <acronym>IWOS</acronym>
+      <title>International Workshop on Self-Organizing Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>266</id>
+      <idClass>0</idClass>
+      <acronym>IWSM-MENSURA</acronym>
+      <title>International Workshop on Software Measurement and the International Conference on Software Process and Product Measurement</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>267</id>
+      <idClass>0</idClass>
+      <acronym>JADT</acronym>
+      <title>International conference on statistical analysis of textual data</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>268</id>
+      <idClass>0</idClass>
+      <acronym>JDP</acronym>
+      <title>Jornada de Descrição do Português</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>269</id>
+      <idClass>0</idClass>
+      <acronym>KAMC</acronym>
+      <title>Knowledge Acquisition from Multimedia Content</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>270</id>
+      <idClass>0</idClass>
+      <acronym>KES-AMSTA</acronym>
+      <title>International Conference on Agent and Multi-Agent Systems: Technologies and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>271</id>
+      <idClass>0</idClass>
+      <acronym>KSEM</acronym>
+      <title>International Conference on Knowledge Science, Engineering and Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>272</id>
+      <idClass>0</idClass>
+      <acronym>LACLO</acronym>
+      <title>Latin American Conference on Learning Objects</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>273</id>
+      <idClass>0</idClass>
+      <acronym>LARS</acronym>
+      <title>IEEE Latin American Robotics Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>274</id>
+      <idClass>0</idClass>
+      <acronym>LASCAS</acronym>
+      <title>IEEE Latin American Symposium on Circuits and Systems - LASCAS</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>275</id>
+      <idClass>0</idClass>
+      <acronym>LATA</acronym>
+      <title>Language and Automata Theory and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>276</id>
+      <idClass>0</idClass>
+      <acronym>LaTeCH</acronym>
+      <title>Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>277</id>
+      <idClass>0</idClass>
+      <acronym>LATINCOM</acronym>
+      <title>IEEE Latin-american Conference on Communications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>278</id>
+      <idClass>0</idClass>
+      <acronym>Latincrypt</acronym>
+      <title>International Conference on Cryptology and Information Security in Latin</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>279</id>
+      <idClass>0</idClass>
+      <acronym>LATINTCS</acronym>
+      <title>Latin American Theoretical Informatics Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>280</id>
+      <idClass>0</idClass>
+      <acronym>LINZ</acronym>
+      <title>Linz Seminar on Fuzzy Set Theory</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>281</id>
+      <idClass>0</idClass>
+      <acronym>LION</acronym>
+      <title>Learning and Intelligent Optimization</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>282</id>
+      <idClass>0</idClass>
+      <acronym>LoCA</acronym>
+      <title>International Symposium on Location- and Context-Awareness</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>283</id>
+      <idClass>0</idClass>
+      <acronym>LSFA</acronym>
+      <title>Workshop on Logical and Semantic Frameworks, with Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>284</id>
+      <idClass>0</idClass>
+      <acronym>m-ICTE</acronym>
+      <title>International Conference on Multimedia and ICT in Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>285</id>
+      <idClass>0</idClass>
+      <acronym>M4M</acronym>
+      <title>Methods for Modalities</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>286</id>
+      <idClass>0</idClass>
+      <acronym>MATES</acronym>
+      <title>German Conference on Multiagent System Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>287</id>
+      <idClass>0</idClass>
+      <acronym>Matheuristics</acronym>
+      <title>International Workshop on Model-based metaheuristics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>288</id>
+      <idClass>0</idClass>
+      <acronym>MCCSIS</acronym>
+      <title>IADIS International Conference Web Based Communities and Social Media</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>289</id>
+      <idClass>0</idClass>
+      <acronym>MCM</acronym>
+      <title>International Conference on Mathematics and Computation in Music</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>290</id>
+      <idClass>0</idClass>
+      <acronym>MCO</acronym>
+      <title>International Conference on Modelling, Computation and Optimization in Information Systems and Management Sciences</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>291</id>
+      <idClass>0</idClass>
+      <acronym>META</acronym>
+      <title>International Conference on Metaheuristics and Nature Inspired Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>292</id>
+      <idClass>0</idClass>
+      <acronym>MFI</acronym>
+      <title>IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>293</id>
+      <idClass>0</idClass>
+      <acronym>MKM</acronym>
+      <title>Mathematical Knowledge Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>294</id>
+      <idClass>0</idClass>
+      <acronym>ML</acronym>
+      <title>IADIS International Conference on Mobile Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>295</id>
+      <idClass>0</idClass>
+      <acronym>MobiCASE</acronym>
+      <title>Mobile Computing, Applications, and Services</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>296</id>
+      <idClass>0</idClass>
+      <acronym>MOBILITY</acronym>
+      <title>Mobility Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>297</id>
+      <idClass>0</idClass>
+      <acronym>MoDISE-EUS</acronym>
+      <title>Model Driven Information Systems Engineering: Enterprise, User and System Models</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>298</id>
+      <idClass>0</idClass>
+      <acronym>MoodleMoot</acronym>
+      <title>MoodleMoot Brasil</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>299</id>
+      <idClass>0</idClass>
+      <acronym>MS</acronym>
+      <title>Multimedia Semantics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>300</id>
+      <idClass>0</idClass>
+      <acronym>MSA</acronym>
+      <title>International Conference on Multimedia Systems and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>301</id>
+      <idClass>0</idClass>
+      <acronym>MSVVEIS</acronym>
+      <title>International Workshop on Modelling, Simulation, Verification and Validation of Enterprise Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>302</id>
+      <idClass>0</idClass>
+      <acronym>MTAGS</acronym>
+      <title>Workshop on Many-Task Computing on Grids and Supercomputers</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>303</id>
+      <idClass>0</idClass>
+      <acronym>MTSR</acronym>
+      <title>International Conference on Metadata and Semantics Research</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>304</id>
+      <idClass>0</idClass>
+      <acronym>MTSummit</acronym>
+      <title>Machine Translation Summit</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>305</id>
+      <idClass>0</idClass>
+      <acronym>MULTIPROG</acronym>
+      <title>Workshop on Programmability Issues for Multi-Core Computers</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>306</id>
+      <idClass>0</idClass>
+      <acronym>MWE</acronym>
+      <title>Workshop on Multiword Expressions</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>307</id>
+      <idClass>0</idClass>
+      <acronym>NANO</acronym>
+      <title>IEEE Conference on Nanotechnology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>308</id>
+      <idClass>0</idClass>
+      <acronym>NEW2AN</acronym>
+      <title>Next Generation Teletraffic and Wired/Wireless Advanced Networking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>309</id>
+      <idClass>0</idClass>
+      <acronym>NEWCAS</acronym>
+      <title>IEEE North-East Workshop on Circuits and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>310</id>
+      <idClass>0</idClass>
+      <acronym>NFM</acronym>
+      <title>NASA Formal Methods</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>311</id>
+      <idClass>0</idClass>
+      <acronym>NGITS</acronym>
+      <title>International Conference on Next Generation Information Technologies and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>312</id>
+      <idClass>0</idClass>
+      <acronym>NLP-KE</acronym>
+      <title>International Conference on Natural Language Processing and Knowledge Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>313</id>
+      <idClass>0</idClass>
+      <acronym>NMR</acronym>
+      <title>International Workshop on Non-Monotonic Reasoning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>314</id>
+      <idClass>0</idClass>
+      <acronym>NORCHIP</acronym>
+      <title>The Nordic Microelectronics event</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>315</id>
+      <idClass>0</idClass>
+      <acronym>NTMS</acronym>
+      <title>New Technologies, Mobility and Security</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>316</id>
+      <idClass>0</idClass>
+      <acronym>OASICS</acronym>
+      <title>OpenAcess Series in Informatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>317</id>
+      <idClass>0</idClass>
+      <acronym>ODBIS</acronym>
+      <title>Ontologies-Based Databases and Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>318</id>
+      <idClass>0</idClass>
+      <acronym>OL</acronym>
+      <title>Ontology Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>319</id>
+      <idClass>0</idClass>
+      <acronym>OM</acronym>
+      <title>Ontology Matching</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>320</id>
+      <idClass>0</idClass>
+      <acronym>ONTOSE</acronym>
+      <title>Ontology, Conceptualization and Epistemology for Information Systems, Software Engineering and Service Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>321</id>
+      <idClass>0</idClass>
+      <acronym>OPTIM</acronym>
+      <title>Optimization of Electrical and Electronic Equipment</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>322</id>
+      <idClass>0</idClass>
+      <acronym>OptMAS</acronym>
+      <title>Workshop on Optimisation in Multi-Agent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>323</id>
+      <idClass>0</idClass>
+      <acronym>OSS</acronym>
+      <title>International Conference on Open Source Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>324</id>
+      <idClass>0</idClass>
+      <acronym>OWLED</acronym>
+      <title>OWLED Workshop on OWL: Experiences and Directions</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>325</id>
+      <idClass>0</idClass>
+      <acronym>PAAMS</acronym>
+      <title>International Conference on Practical Applications of Agents and Multiagent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>326</id>
+      <idClass>0</idClass>
+      <acronym>PAKM</acronym>
+      <title>International Conference on Practical Aspects of Knowledge Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>327</id>
+      <idClass>0</idClass>
+      <acronym>PDMC-HIBI</acronym>
+      <title>International Workshop on Parallel and Distributed Methods in Verification, International Workshop on High Performance Computational Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>328</id>
+      <idClass>0</idClass>
+      <acronym>PERCOL</acronym>
+      <title>Workshop on Pervasive Collaboration and Social Networking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>329</id>
+      <idClass>0</idClass>
+      <acronym>PEREL</acronym>
+      <title>Workshop on Pervasive Learning, Life, and Leisure</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>330</id>
+      <idClass>0</idClass>
+      <acronym>PhiSE</acronym>
+      <title>Philosophical Foundations on Information Systems Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>331</id>
+      <idClass>0</idClass>
+      <acronym>PoEM</acronym>
+      <title>The IFIP WG8.1 Working Conference on the Practice of Enterprise Modelling</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>332</id>
+      <idClass>0</idClass>
+      <acronym>PPSN</acronym>
+      <title>Parallel Problem Solving From Nature</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>333</id>
+      <idClass>0</idClass>
+      <acronym>PPSWR</acronym>
+      <title>Principles and Practice of Semantic Web Reasoning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>334</id>
+      <idClass>0</idClass>
+      <acronym>PQCrypto</acronym>
+      <title>International Workshop on Post-Quantum Cryptography</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>335</id>
+      <idClass>0</idClass>
+      <acronym>PRIS</acronym>
+      <title>International Workshop on Pattern Recognition in Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>336</id>
+      <idClass>0</idClass>
+      <acronym>PRO-VE</acronym>
+      <title>IFIP Working Conference on Virtual Enterprises</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>337</id>
+      <idClass>0</idClass>
+      <acronym>ProMAS</acronym>
+      <title>International Workshop on Programming Multi-Agent Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>338</id>
+      <idClass>0</idClass>
+      <acronym>PROPOR</acronym>
+      <title>International Conference on Computational Processing of Portuguese</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>339</id>
+      <idClass>0</idClass>
+      <acronym>QoSA</acronym>
+      <title>International ACM Sigsoft Conference on the Quality of Software Architectures</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>340</id>
+      <idClass>0</idClass>
+      <acronym>RADECS</acronym>
+      <title>Conference on RADIATION EFFECTS on COMPONENTS and SYSTEMS</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>341</id>
+      <idClass>0</idClass>
+      <acronym>RANLP</acronym>
+      <title>Recent Advances in Natural Language Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>342</id>
+      <idClass>0</idClass>
+      <acronym>RCIS</acronym>
+      <title>International Conference on Research Challenges in Information Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>343</id>
+      <idClass>0</idClass>
+      <acronym>ReCoSoC</acronym>
+      <title>International Workshop on Reconfigurable Communication-centric Systems-on-Chip</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>344</id>
+      <idClass>0</idClass>
+      <acronym>REFSQ</acronym>
+      <title>Working Conference on Requirements Engineering: Foundation for Software Quality</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>345</id>
+      <idClass>0</idClass>
+      <acronym>RFID-TA</acronym>
+      <title>RFID-Technologies and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>346</id>
+      <idClass>0</idClass>
+      <acronym>RR</acronym>
+      <title>International Conference on Web Reasoning and Rule Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>347</id>
+      <idClass>0</idClass>
+      <acronym>RST</acronym>
+      <title>Reliable Software Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>348</id>
+      <idClass>0</idClass>
+      <acronym>RST_A</acronym>
+      <title>Workshop A RST e os Estudos do Texto</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>349</id>
+      <idClass>0</idClass>
+      <acronym>RuleApps</acronym>
+      <title>East European Workshop on Rule-Based Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>350</id>
+      <idClass>0</idClass>
+      <acronym>SAB</acronym>
+      <title>International Conference on Simulation of Adaptive Behavior</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>351</id>
+      <idClass>0</idClass>
+      <acronym>SACI</acronym>
+      <title>International Symposium on Applied Computational Intelligence and Informatics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>352</id>
+      <idClass>0</idClass>
+      <acronym>SAC_A</acronym>
+      <title>Selected Areas in Cryptography</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>353</id>
+      <idClass>0</idClass>
+      <acronym>SAMOS</acronym>
+      <title>International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>354</id>
+      <idClass>0</idClass>
+      <acronym>SAMT</acronym>
+      <title>Semantics and Digital Media Technologies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>355</id>
+      <idClass>0</idClass>
+      <acronym>SARNOFF</acronym>
+      <title>IEEE Sarnoff Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>356</id>
+      <idClass>0</idClass>
+      <acronym>SAST</acronym>
+      <title>Brazilian Workshop on Systematic and Automated Software Testing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>357</id>
+      <idClass>0</idClass>
+      <acronym>SBAI</acronym>
+      <title>Simpósio Brasileiro de Automação Inteligente</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>358</id>
+      <idClass>0</idClass>
+      <acronym>SBCUP</acronym>
+      <title>Simpósio Brasileiro de Computação Ubíqua e Pervasiva</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>359</id>
+      <idClass>0</idClass>
+      <acronym>SBESC</acronym>
+      <title>Simpósio Brasileiro de Engenharia de Sistemas Computacionais</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>360</id>
+      <idClass>0</idClass>
+      <acronym>SBRT</acronym>
+      <title>Simpósio Brasileiro de Telecomunicações</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>361</id>
+      <idClass>0</idClass>
+      <acronym>SBSE</acronym>
+      <title>Simpósio Brasileiro de Sistemas Elétricos</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>362</id>
+      <idClass>0</idClass>
+      <acronym>SCCI</acronym>
+      <title>IEEE Symp. Series on Computational Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>363</id>
+      <idClass>0</idClass>
+      <acronym>SCW</acronym>
+      <title>IEEE Workshop on Speech Coding</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>364</id>
+      <idClass>0</idClass>
+      <acronym>SC_A</acronym>
+      <title>International Symposium on Software Composition</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>365</id>
+      <idClass>0</idClass>
+      <acronym>SDKB</acronym>
+      <title>International Workshops on Semantics in Data and Knowledge Bases</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>366</id>
+      <idClass>0</idClass>
+      <acronym>SEA_A</acronym>
+      <title>Software Engineering and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>367</id>
+      <idClass>0</idClass>
+      <acronym>SEBIZ</acronym>
+      <title>Applications and Business Aspects of the Semantic Web</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>368</id>
+      <idClass>0</idClass>
+      <acronym>SECIII</acronym>
+      <title>Social, Ethical and Cognitive Issues on Informatics and ICT</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>369</id>
+      <idClass>0</idClass>
+      <acronym>SECRYPT</acronym>
+      <title>International Conference on Information Security and Cryptology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>370</id>
+      <idClass>0</idClass>
+      <acronym>SECURECOMM</acronym>
+      <title>Security and Privacy in Communication Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>371</id>
+      <idClass>0</idClass>
+      <acronym>SEDE</acronym>
+      <title>Software Engineering and Data Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>372</id>
+      <idClass>0</idClass>
+      <acronym>SemDial</acronym>
+      <title>Workshop on the Semantics and Pragmatics of Dialogue</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>373</id>
+      <idClass>0</idClass>
+      <acronym>SemWiki</acronym>
+      <title>Semantic Wiki Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>374</id>
+      <idClass>0</idClass>
+      <acronym>SERP</acronym>
+      <title>International Conference on Software Engineering Research &amp; Practice</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>375</id>
+      <idClass>0</idClass>
+      <acronym>ServiceWave</acronym>
+      <title>ServiceWave</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>376</id>
+      <idClass>0</idClass>
+      <acronym>SForum</acronym>
+      <title>Microelectronics Students Forum</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>377</id>
+      <idClass>0</idClass>
+      <acronym>SIGSEM</acronym>
+      <title>ACL Workshop on Prepositions</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>378</id>
+      <idClass>0</idClass>
+      <acronym>SIIE</acronym>
+      <title>Simpósio Internacional de Informática Educativa</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>379</id>
+      <idClass>0</idClass>
+      <acronym>SIIT</acronym>
+      <title>International Conference on Standardization and Innovation in Information Technology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>380</id>
+      <idClass>0</idClass>
+      <acronym>SLE</acronym>
+      <title>International Conference on Software Language Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>381</id>
+      <idClass>0</idClass>
+      <acronym>SMC_A</acronym>
+      <title>Sound and Music Computing Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>382</id>
+      <idClass>0</idClass>
+      <acronym>SOAS</acronym>
+      <title>Self-Organization and Autonomous Systems in Computing and Communications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>383</id>
+      <idClass>0</idClass>
+      <acronym>SOCASE</acronym>
+      <title>International Workshop on Service-Oriented Computing: Agents, Semantics, and Engineering</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>384</id>
+      <idClass>0</idClass>
+      <acronym>SocialCom</acronym>
+      <title>International Conference on Social Computing and its Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>385</id>
+      <idClass>0</idClass>
+      <acronym>SOCO</acronym>
+      <title>International Conference on Soft Computing Models in Industrial and Environmental Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>386</id>
+      <idClass>0</idClass>
+      <acronym>SoMeT</acronym>
+      <title>Software Methodologies, Tools and Techniques</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>387</id>
+      <idClass>0</idClass>
+      <acronym>SPL</acronym>
+      <title>Southern Conference on Programmable Logic</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>388</id>
+      <idClass>0</idClass>
+      <acronym>SSRR</acronym>
+      <title>IEEE International Workshop on Safety, Security, &amp; Rescue Robots</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>389</id>
+      <idClass>0</idClass>
+      <acronym>SSST</acronym>
+      <title>Workshop on Syntax, Semantics and Structure in Statistical Translation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>390</id>
+      <idClass>0</idClass>
+      <acronym>STAIRS</acronym>
+      <title>Starting Artificial Intelligence Research Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>391</id>
+      <idClass>0</idClass>
+      <acronym>Storage</acronym>
+      <title>IEEE Symposium on Mass Storage Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>392</id>
+      <idClass>0</idClass>
+      <acronym>SugarLoafPlop</acronym>
+      <title>Latin American Conference on Pattern Languages of Programming</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>393</id>
+      <idClass>0</idClass>
+      <acronym>SWAP</acronym>
+      <title>Workshop on Semantic Web Applications and Perspectives</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>394</id>
+      <idClass>0</idClass>
+      <acronym>SWEL</acronym>
+      <title>Workshop on Ontologies and Social Semantic Web for Intelligent Educational Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>395</id>
+      <idClass>0</idClass>
+      <acronym>T4E</acronym>
+      <title>International Workshop on Technology for Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>396</id>
+      <idClass>0</idClass>
+      <acronym>TAC</acronym>
+      <title>Text Analysis Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>397</id>
+      <idClass>0</idClass>
+      <acronym>TALN</acronym>
+      <title>Traitement Automatique des Langues Naturelles</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>398</id>
+      <idClass>0</idClass>
+      <acronym>TAP</acronym>
+      <title>Tests and Proofs</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>399</id>
+      <idClass>0</idClass>
+      <acronym>TaPP</acronym>
+      <title>USENIX Workshop on the Theory and Practice of Provenance</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>400</id>
+      <idClass>0</idClass>
+      <acronym>TAU</acronym>
+      <title>IEEE International Workshop on Timing Issues</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>401</id>
+      <idClass>0</idClass>
+      <acronym>TCGOV</acronym>
+      <title>International Conference on E-Government</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>402</id>
+      <idClass>0</idClass>
+      <acronym>TCoB</acronym>
+      <title>International Workshop on Technologies for Collaborative Business Process Management</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>403</id>
+      <idClass>0</idClass>
+      <acronym>TEAA</acronym>
+      <title>International Conference on Trends in Enterprise Application Architecture</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>404</id>
+      <idClass>0</idClass>
+      <acronym>TEAR</acronym>
+      <title>Trends in Enterprise Architecture Research</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>405</id>
+      <idClass>0</idClass>
+      <acronym>TECHEDUCA</acronym>
+      <title>International Conference on Technology Enhanced Learning, Quality of Teaching and Education Reform</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>406</id>
+      <idClass>0</idClass>
+      <acronym>TEL</acronym>
+      <title>Technology for Education and Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>407</id>
+      <idClass>0</idClass>
+      <acronym>TES</acronym>
+      <title>International Workshop on Technologies for E-Services</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>408</id>
+      <idClass>0</idClass>
+      <acronym>TextGraphs</acronym>
+      <title>Graph-based Methods for Natural Language Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>409</id>
+      <idClass>0</idClass>
+      <acronym>TISE</acronym>
+      <title>Taller Internacional de Software Educativo</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>410</id>
+      <idClass>0</idClass>
+      <acronym>TLT</acronym>
+      <title>International Workshop on Treebanks and Linguistic Theories</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>411</id>
+      <idClass>0</idClass>
+      <acronym>TMRA</acronym>
+      <title>International Conference on Topic Maps Research and Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>412</id>
+      <idClass>0</idClass>
+      <acronym>TRUST</acronym>
+      <title>Trust in Agent Societies</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>413</id>
+      <idClass>0</idClass>
+      <acronym>UCAS</acronym>
+      <title>International Workshop on Unique Chips and Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>414</id>
+      <idClass>0</idClass>
+      <acronym>UMAP</acronym>
+      <title>International Conference on User Modeling, Adaption and Personalization</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>415</id>
+      <idClass>0</idClass>
+      <acronym>UNISCON</acronym>
+      <title>International United Information Systems Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>416</id>
+      <idClass>0</idClass>
+      <acronym>URSW</acronym>
+      <title>Uncertainty Reasoning for the Semantic Web</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>417</id>
+      <idClass>0</idClass>
+      <acronym>VAMOS</acronym>
+      <title>International Workshop on Variability Modelling of Software-intensive Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>418</id>
+      <idClass>0</idClass>
+      <acronym>Virtual</acronym>
+      <title>International Workshop on Virtual Rehabilitation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>419</id>
+      <idClass>0</idClass>
+      <acronym>VLSI-DAT</acronym>
+      <title>International Symposium on VLSI Design, Automation and Test</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>420</id>
+      <idClass>0</idClass>
+      <acronym>WAC</acronym>
+      <title>Web as Corpus Workshop</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>421</id>
+      <idClass>0</idClass>
+      <acronym>WACC</acronym>
+      <title>WSEAS Applied Computing Conference</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>422</id>
+      <idClass>0</idClass>
+      <acronym>WADS_A</acronym>
+      <title>Workshop on Architecting Dependable Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>423</id>
+      <idClass>0</idClass>
+      <acronym>WAMPS</acronym>
+      <title>Workshop anual do MPS.BR pessoal enviou meta-dados separadamente)</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>424</id>
+      <idClass>0</idClass>
+      <acronym>WASSA</acronym>
+      <title>Workshop on Computational Approaches to Subjectivity and Sentiment Analysis</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>425</id>
+      <idClass>0</idClass>
+      <acronym>WBC</acronym>
+      <title>Web Based Communities</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>426</id>
+      <idClass>0</idClass>
+      <acronym>WBPM</acronym>
+      <title>Workshop Brasileiro de Gestão de Processos de Negócio</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>427</id>
+      <idClass>0</idClass>
+      <acronym>WCAMA</acronym>
+      <title>Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>428</id>
+      <idClass>0</idClass>
+      <acronym>WCCM</acronym>
+      <title>World Congress on Computational Mechanics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>429</id>
+      <idClass>0</idClass>
+      <acronym>WCGE</acronym>
+      <title>Workshop de Computação Aplicada em Governo Eletrônico</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>430</id>
+      <idClass>0</idClass>
+      <acronym>WCOLDE</acronym>
+      <title>ICDE World Conference on Open Learning and Distance Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>431</id>
+      <idClass>0</idClass>
+      <acronym>WD</acronym>
+      <title>IFIP Wireless Days</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>432</id>
+      <idClass>0</idClass>
+      <acronym>WDDD</acronym>
+      <title>Workshop on Duplicating, Deconstructing and Debunking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>433</id>
+      <idClass>0</idClass>
+      <acronym>WEAC</acronym>
+      <title>Workshop sobre Educação em Arquitetura de Computadores</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>434</id>
+      <idClass>0</idClass>
+      <acronym>WebKDD</acronym>
+      <title>Web Mining and Web Usage Analysis</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>435</id>
+      <idClass>0</idClass>
+      <acronym>WebPRES</acronym>
+      <title>Web Personalization and Recommender Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>436</id>
+      <idClass>0</idClass>
+      <acronym>WEED</acronym>
+      <title>Workshop on Energy-Efficient Design</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>437</id>
+      <idClass>0</idClass>
+      <acronym>WEI</acronym>
+      <title>Workshop sobre Educação em Informática</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>438</id>
+      <idClass>0</idClass>
+      <acronym>WES</acronym>
+      <title>International Workshop on Web Services, E-Business, and the Semantic Web</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>439</id>
+      <idClass>0</idClass>
+      <acronym>WESAAC</acronym>
+      <title>Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>440</id>
+      <idClass>0</idClass>
+      <acronym>WIM</acronym>
+      <title>Workshop de Informática Médica</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>441</id>
+      <idClass>0</idClass>
+      <acronym>WIS</acronym>
+      <title>International Workshop on Wireless Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>442</id>
+      <idClass>0</idClass>
+      <acronym>WISM</acronym>
+      <title>Web Information Systems Modeling</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>443</id>
+      <idClass>0</idClass>
+      <acronym>WISP</acronym>
+      <title>IEEE International Workshop on Intelligent Signal Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>444</id>
+      <idClass>0</idClass>
+      <acronym>WMIS</acronym>
+      <title>Workshop on Mobile Information Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>445</id>
+      <idClass>0</idClass>
+      <acronym>WMT</acronym>
+      <title>Workshop on Statistical Machine Translation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>446</id>
+      <idClass>0</idClass>
+      <acronym>WOCN</acronym>
+      <title>IFIP International Conference on Wireless and Optical Communications Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>447</id>
+      <idClass>0</idClass>
+      <acronym>WoSIDA</acronym>
+      <title>Workshop on Autonomic Distributed Systems</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>448</id>
+      <idClass>0</idClass>
+      <acronym>WRC</acronym>
+      <title>Workshop on Reconfigurable Computing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>449</id>
+      <idClass>0</idClass>
+      <acronym>WRVA</acronym>
+      <title>Workshop de Realidade Virtual e Aumentada</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>450</id>
+      <idClass>0</idClass>
+      <acronym>WSCAD-SSC</acronym>
+      <title>Simpósio em Sistemas Computacionais</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>451</id>
+      <idClass>0</idClass>
+      <acronym>WSE</acronym>
+      <title>IEEE International Symposium on Web Systems Evolution</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>452</id>
+      <idClass>0</idClass>
+      <acronym>WSKS</acronym>
+      <title>World Summit on the Knowledge Society</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>453</id>
+      <idClass>0</idClass>
+      <acronym>WSWED</acronym>
+      <title>Brazilian Workshop on Semantic Web and Education</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>454</id>
+      <idClass>0</idClass>
+      <acronym>WTI</acronym>
+      <title>International Workshop on Web and Text Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>455</id>
+      <idClass>0</idClass>
+      <acronym>WTS</acronym>
+      <title>Wireless Telecommunications Symposium</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>456</id>
+      <idClass>0</idClass>
+      <acronym>WUWNET</acronym>
+      <title>International Conference on Underwater Networks</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>457</id>
+      <idClass>0</idClass>
+      <acronym>WVC</acronym>
+      <title>Workshop de Visão computacional</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>458</id>
+      <idClass>0</idClass>
+      <acronym>WWIC</acronym>
+      <title>Wired/Wireless Internet Communications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>459</id>
+      <idClass>0</idClass>
+      <acronym>X-Meeting</acronym>
+      <title>International Conference of the Brazilian Association for Bioinformatics and Computational Biology</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</publication-venues>

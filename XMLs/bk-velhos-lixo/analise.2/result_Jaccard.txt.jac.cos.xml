@@ -1,0 +1,420 @@
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Correcter.                                                                           Wronger.
+Tested : conference thvldb vldb                                                      Tested : conference thvldb vldb
+Id     : 158                                                                         Id     : 158
+Cleared: conference thvldb vldb                                                      Cleared: conference thvldb vldb
+                                                                                     
+Correct:                                                                             Wrong: 
+titleSelect:  International Conference on Very Large Databases VLDB                  titleSelect:  International B Conference B
+Id: 157                                                                              Id: 3620
+Jaccard: 0.3333333333333333                                                          Cossine: 0.5773502588272095
+Cleared    : conference databases large very vldb                                    Cleared    : conference
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Correcter.
+Tested : based deja image new panel really rendering siggraph vu                     Tested : based deja image new panel really rendering siggraph vu
+Id     : 215                                                                         Id     : 215
+Cleared: based deja image new panel really rendering siggraph vu                     Cleared: based deja image new panel really rendering siggraph vu
+                                                                                     
+Wrong:                                                                               Correct: 
+titleSelect:  international conference on Content-based image and video retrieval    titleSelect: SIGGRAPH
+Id: 258                                                                              Id: 214
+Jaccard: 0.15384615384615385                                                         Cossine: 0.3333333432674408
+Cleared    : based conference content image retrieval video                          Cleared    : siggraph
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : aaai ai conference                                                          Tested : aaai ai conference
+Id     : 178                                                                         Id     : 178
+Cleared: aaai ai conference                                                          Cleared: aaai ai conference
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Scandinavian Conference on AI                                          titleSelect:  Scandinavian Conference on AI
+Id: 3470                                                                             Id: 3470
+Jaccard: 0.5                                                                         Cossine: 0.6666666865348816
+Cleared    : ai conference scandinavian                                              Cleared    : ai conference scandinavian
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Correcter.
+Tested : acm conference ieee mobicom                                                 Tested : acm conference ieee mobicom
+Id     : 124                                                                         Id     : 124
+Cleared: acm conference ieee mobicom                                                 Cleared: acm conference ieee mobicom
+                                                                                     
+Wrong:                                                                               Correct: 
+titleSelect:  ACM/IEEE Conference on Supercomputing                                  titleSelect: annual ACM/IEEE international conference on Mobile computing and networking MobiCom
+Id: 57                                                                               Id: 123
+Jaccard: 0.6                                                                         Cossine: 0.7559289932250977
+Cleared    : acm conference ieee supercomputing                                      Cleared    : acm computing conference ieee mobicom mobile networking
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : ieee jssc                                                                   Tested : ieee jssc
+Id     : 5505                                                                        Id     : 5505
+Cleared: ieee jssc                                                                   Cleared: ieee jssc
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Proceedings of the IEEE                                                titleSelect:  Proceedings of the IEEE
+Id: 4760                                                                             Id: 4760
+Jaccard: 0.5                                                                         Cossine: 0.7071067690849304
+Cleared    : ieee                                                                    Cleared    : ieee
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : graphics group interest siggraph special                                    Tested : graphics group interest siggraph special
+Id     : 215                                                                         Id     : 215
+Cleared: graphics group interest siggraph special                                    Cleared: graphics group interest siggraph special
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Annual Meeting of the Special Interest Group on Discourse and Dialogue titleSelect:  Annual Meeting of the Special Interest Group on Discourse and Dialogue
+Id: 3492                                                                             Id: 3492
+Jaccard: 0.375                                                                       Cossine: 0.5477225184440613
+Cleared    : dialogue discourse group interest meeting special                       Cleared    : dialogue discourse group interest meeting special
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : ieeetse se tse                                                              Tested : ieeetse se tse
+Id     : 4053                                                                        Id     : 4053
+Cleared: ieeetse se tse                                                              Cleared: ieeetse se tse
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  SE                                                                     titleSelect:  SE
+Id: 2615                                                                             Id: 2615
+Jaccard: 0.3333333333333333                                                          Cossine: 0.5773502588272095
+Cleared    : se                                                                      Cleared    : se
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : acm ieee mobicom                                                            Tested : acm ieee mobicom
+Id     : 124                                                                         Id     : 124
+Cleared: acm ieee mobicom                                                            Cleared: acm ieee mobicom
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  IEEE ACM T NETWORK                                                     titleSelect:  IEEE ACM T NETWORK
+Id: 3794                                                                             Id: 3794
+Jaccard: 0.5                                                                         Cossine: 0.6666666865348816
+Cleared    : acm ieee network                                                        Cleared    : acm ieee network
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Correcter.
+Tested : articulated cvpr ieee motion nonrigid worskhop                              Tested : articulated cvpr ieee motion nonrigid worskhop
+Id     : 198                                                                         Id     : 198
+Cleared: articulated cvpr ieee motion nonrigid worskhop                              Cleared: articulated cvpr ieee motion nonrigid worskhop
+                                                                                     
+Wrong:                                                                               Correct: 
+titleSelect:  IEEE Computer Society Workshop on Motion of Non-Rigid and Articulated OtitleSelect: CVPRbjects
+Id: 2532                                                                             Id: 197
+Jaccard: 0.25                                                                        Cossine: 0.40824827551841736
+Cleared    : articulated computer ieee motion non objects rigid society workshop     Cleared    : cvpr
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : conference uai                                                              Tested : conference uai
+Id     : 181                                                                         Id     : 181
+Cleared: conference uai                                                              Cleared: conference uai
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  International B Conference B                                           titleSelect:  International B Conference B
+Id: 3620                                                                             Id: 3620
+Jaccard: 0.5                                                                         Cossine: 0.7071067690849304
+Cleared    : conference                                                              Cleared    : conference
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : acl association computational conference conjunction corpora empirical held Tested : acl association computational conference conjunction corpora empirical held joint language large linguistics meeting methods natural processing sigdat very joint language large linguistics meeting methods natural processing sigdat very volume
+Id     : 208                                                                         Id     : 208
+Cleared: acl association computational conference conjunction corpora empirical held Cleared: acl association computational conference conjunction corpora empirical held joint language large linguistics meeting methods natural processing sigdat very joint language large linguistics meeting methods natural processing sigdat very volume
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Conference on Empirical Methods in Natural Language Processing and ComptitleSelect:  Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learningutational Natural Language Learning
+Id: 321                                                                              Id: 321
+Jaccard: 0.35                                                                        Cossine: 0.5677749514579773
+Cleared    : computational conference empirical language learning methods natural proCleared    : computational conference empirical language learning methods natural processingcessing
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : acm annu comput geom socg sympos                                            Tested : acm annu comput geom socg sympos
+Id     : 15                                                                          Id     : 15
+Cleared: acm annu comput geom socg sympos                                            Cleared: acm annu comput geom socg sympos
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Discret. Comput. Geom.                                                 titleSelect:  Discret. Comput. Geom.
+Id: 4068                                                                             Id: 4068
+Jaccard: 0.2857142857142857                                                          Cossine: 0.4714045524597168
+Cleared    : comput discret geom                                                     Cleared    : comput discret geom
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : acm mobicom                                                                 Tested : acm mobicom
+Id     : 124                                                                         Id     : 124
+Cleared: acm mobicom                                                                 Cleared: acm mobicom
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  ACM                                                                    titleSelect:  ACM
+Id: 4986                                                                             Id: 4986
+Jaccard: 0.5                                                                         Cossine: 0.7071067690849304
+Cleared    : acm                                                                     Cleared    : acm
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : architecture information large lucassen scale sosp systems                  Tested : architecture information large lucassen scale sosp systems
+Id     : 80                                                                          Id     : 80
+Cleared: architecture information large lucassen scale sosp systems                  Cleared: architecture information large lucassen scale sosp systems
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  ACM workshop on Large-Scale distributed systems for information retrievtitleSelect:  ACM workshop on Large-Scale distributed systems for information retrievalal
+Id: 1507                                                                             Id: 1507
+Jaccard: 0.36363636363636365                                                         Cossine: 0.5345224738121033
+Cleared    : acm distributed information large retrieval scale systems workshop      Cleared    : acm distributed information large retrieval scale systems workshop
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : association cacm communications computing machinery                         Tested : association cacm communications computing machinery
+Id     : 3802                                                                        Id     : 3802
+Cleared: association cacm communications computing machinery                         Cleared: association cacm communications computing machinery
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Journal of the Association for Computing Machinery                     titleSelect:  Journal of the Association for Computing Machinery
+Id: 3809                                                                             Id: 3809
+Jaccard: 0.5                                                                         Cossine: 0.6708203554153442
+Cleared    : association computing journal machinery                                 Cleared    : association computing journal machinery
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Correcter.
+Tested : conference focs ieee                                                        Tested : conference focs ieee
+Id     : 2                                                                           Id     : 2
+Cleared: conference focs ieee                                                        Cleared: conference focs ieee
+                                                                                     
+Wrong:                                                                               Correct: 
+titleSelect:  IEEE International Conference on eScience                              titleSelect: IEEE Symposium on Foundations of Computer Science FOCS
+Id: 2213                                                                             Id: 2
+Jaccard: 0.5                                                                         Cossine: 0.7071068286895752
+Cleared    : conference escience ieee                                                Cleared    : computer conference focs foundations ieee science
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : conference vldb                                                             Tested : conference vldb
+Id     : 158                                                                         Id     : 158
+Cleared: conference vldb                                                             Cleared: conference vldb
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  International B Conference B                                           titleSelect:  International B Conference B
+Id: 3620                                                                             Id: 3620
+Jaccard: 0.5                                                                         Cossine: 0.7071067690849304
+Cleared    : conference                                                              Cleared    : conference
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : aaai ai conference nat                                                      Tested : aaai ai conference nat
+Id     : 178                                                                         Id     : 178
+Cleared: aaai ai conference nat                                                      Cleared: aaai ai conference nat
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  Scandinavian Conference on AI                                          titleSelect:  Scandinavian Conference on AI
+Id: 3470                                                                             Id: 3470
+Jaccard: 0.4                                                                         Cossine: 0.5773502588272095
+Cleared    : ai conference scandinavian                                              Cleared    : ai conference scandinavian
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Correcter.                                                                           Wronger.
+Tested : aaai artif conference intell national                                       Tested : aaai artif conference intell national
+Id     : 178                                                                         Id     : 178
+Cleared: aaai artif conference intell national                                       Cleared: aaai artif conference intell national
+                                                                                     
+Correct:                                                                             Wrong: 
+titleSelect:  National Conference on Artificial Intelligence AAAI                    titleSelect:  ARTIF INTELL
+Id: 177                                                                              Id: 3661
+Jaccard: 0.42857142857142855                                                         Cossine: 0.6324555277824402
+Cleared    : aaai artificial conference intelligence national                        Cleared    : artif intell
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Correcter.
+Tested : 3d acquisition model siggraph time                                          Tested : 3d acquisition model siggraph time
+Id     : 215                                                                         Id     : 215
+Cleared: 3d acquisition model siggraph time                                          Cleared: 3d acquisition model siggraph time
+                                                                                     
+Wrong:                                                                               Correct: 
+titleSelect:  ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games            titleSelect: SIGGRAPH
+Id: 215                                                                              Id: 214
+Jaccard: 0.2                                                                         Cossine: 0.4472135901451111
+Cleared    : 3d acm conference games graphics interactive siggraph                   Cleared    : siggraph
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : computing data kk parallel structures toplas                                Tested : computing data kk parallel structures toplas
+Id     : 4030                                                                        Id     : 4030
+Cleared: computing data kk parallel structures toplas                                Cleared: computing data kk parallel structures toplas
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  PARALLEL COMPUTING                                                     titleSelect:  PARALLEL COMPUTING
+Id: 4097                                                                             Id: 4097
+Jaccard: 0.3333333333333333                                                          Cossine: 0.5773502588272095
+Cleared    : computing parallel                                                      Cleared    : computing parallel
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : acm pldi sigplan                                                            Tested : acm pldi sigplan
+Id     : 29                                                                          Id     : 29
+Cleared: acm pldi sigplan                                                            Cleared: acm pldi sigplan
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  ACM Sigplan Not.                                                       titleSelect:  ACM Sigplan Not.
+Id: 4007                                                                             Id: 4007
+Jaccard: 0.5                                                                         Cossine: 0.6666666865348816
+Cleared    : acm not sigplan                                                         Cleared    : acm not sigplan
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Correcter.                                                                           Wronger.
+Tested : ca francisco icra ieee san                                                  Tested : ca francisco icra ieee san
+Id     : 455                                                                         Id     : 455
+Cleared: ca francisco icra ieee san                                                  Cleared: ca francisco icra ieee san
+                                                                                     
+Correct:                                                                             Wrong: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA          titleSelect:  CA
+Id: 453                                                                              Id: 314
+Jaccard: 0.25                                                                        Cossine: 0.4472135901451111
+Cleared    : automation conference icra ieee robotics                                Cleared    : ca
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : networks ton transactions                                                   Tested : networks ton transactions
+Id     : 3813                                                                        Id     : 3813
+Cleared: networks ton transactions                                                   Cleared: networks ton transactions
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  ACM Transactions on Sensor Networks                                    titleSelect:  ACM Transactions on Sensor Networks
+Id: 3830                                                                             Id: 3830
+Jaccard: 0.4                                                                         Cossine: 0.5773502588272095
+Cleared    : acm networks sensor transactions                                        Cleared    : acm networks sensor transactions
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : communications conference ieee mobicom mobile                               Tested : communications conference ieee mobicom mobile
+Id     : 124                                                                         Id     : 124
+Cleared: communications conference ieee mobicom mobile                               Cleared: communications conference ieee mobicom mobile
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  IEEE International Conference on Communications                        titleSelect:  IEEE International Conference on Communications
+Id: 433                                                                              Id: 433
+Jaccard: 0.6                                                                         Cossine: 0.774596631526947
+Cleared    : communications conference ieee                                          Cleared    : communications conference ieee
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : conference focs                                                             Tested : conference focs
+Id     : 2                                                                           Id     : 2
+Cleared: conference focs                                                             Cleared: conference focs
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  International B Conference B                                           titleSelect:  International B Conference B
+Id: 3620                                                                             Id: 3620
+Jaccard: 0.5                                                                         Cossine: 0.7071067690849304
+Cleared    : conference                                                              Cleared    : conference
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Correcter.                                                                           Wronger.
+Tested : conference rence vldb                                                       Tested : conference rence vldb
+Id     : 158                                                                         Id     : 158
+Cleared: conference rence vldb                                                       Cleared: conference rence vldb
+                                                                                     
+Correct:                                                                             Wrong: 
+titleSelect:  International Conference on Very Large Databases VLDB                  titleSelect:  International B Conference B
+Id: 157                                                                              Id: 3620
+Jaccard: 0.3333333333333333                                                          Cossine: 0.5773502588272095
+Cleared    : conference databases large very vldb                                    Cleared    : conference
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Correcter.
+Tested : acm conference mobicom                                                      Tested : acm conference mobicom
+Id     : 124                                                                         Id     : 124
+Cleared: acm conference mobicom                                                      Cleared: acm conference mobicom
+                                                                                     
+Wrong:                                                                               Correct: 
+titleSelect:  ACM Multimedia Conference MULTIMEDIA                                   titleSelect: ACM International Conference on Mobile Computing and Networking MobiCom
+Id: 216                                                                              Id: 123
+Jaccard: 0.5                                                                         Cossine: 0.7071068286895752
+Cleared    : acm conference multimedia                                               Cleared    : acm computing conference mobicom mobile networking
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : automat conference icra ieee robot                                          Tested : automat conference icra ieee robot
+Id     : 455                                                                         Id     : 455
+Cleared: automat conference icra ieee robot                                          Cleared: automat conference icra ieee robot
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  IEEE- International Conference on Robot Communication and Coordination titleSelect:  IEEE- International Conference on Robot Communication and Coordination
+Id: 523                                                                              Id: 523
+Jaccard: 0.42857142857142855                                                         Cossine: 0.6000000238418579
+Cleared    : communication conference coordination ieee robot                        Cleared    : communication conference coordination ieee robot
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+Wronger.                                                                             Wronger.
+Tested : ai uai uncertainty                                                          Tested : ai uai uncertainty
+Id     : 181                                                                         Id     : 181
+Cleared: ai uai uncertainty                                                          Cleared: ai uai uncertainty
+                                                                                     
+Wrong:                                                                               Wrong: 
+titleSelect:  AI                                                                     titleSelect:  AI
+Id: 2797                                                                             Id: 2797
+Jaccard: 0.3333333333333333                                                          Cossine: 0.5773502588272095
+Cleared    : ai                                                                      Cleared    : ai

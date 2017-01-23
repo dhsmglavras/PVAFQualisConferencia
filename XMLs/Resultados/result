@@ -1,0 +1,343 @@
+run:
+***************************INICIO DO TESTE*******************
+
+                                          Data do teste: Wed Sep 03 11:17:35 BRT 2014
+                                         Variables{proc:1,
+                                                    ini:0.0,
+                                      fileSaveModelFile:/home/maneul/temp/model.bin,
+                                                 saveTM:/home/maneul/temp/tm.bin,
+                                          fileStopWords:./../XMLs/configuracao/conjunto-de-stopWords.txt,
+                                     fileWordsToReplace:./../XMLs/configuracao/conjunto-de-palavras-a-serem-substituidas.txt,
+                                               fileTest:./../XMLs/dataset/Microsoft-DataSet.v6.xml,
+                                         fileCollection:./../XMLs/dataset/Collection-DataSet.v6.xml,
+                                  fileCollectionJournal:./../XMLs/dataset/,
+                                     fileCollectionConf:./../XMLs/dataset/,
+                                  fileMicrosoftOriginal:./../XMLs/dataset/Microsoft-DataSet.v6.xml,
+                                             fileResult:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Resultados-dos-testes.txt,
+                                              fileRules:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Regras-gerada-pelo-treino.xml,
+                          fileTitlesPredictBySimilarity:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-preditos-pelo-modelo-na-etapa-de-comparacao.xml,
+                               fileTitlesPredictByRules:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-preditos-pelo-modelo-na-etapa-utilizando-regras.xml,
+                                           fileNewClass:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-preditos-como-sendo-de-uma-nova-classe.xml,
+                                    fileInstWithNoRules:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-que-nao-tem-nenhuma-regra-no-treino.xml,
+                              fileInstWithNoRulesInTest:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-que-nao-tem-nenhuma-regra-no-teste.xml,
+                                          thresholdRule:0.0,
+                                        thresholdNoRule:0.3,
+                                        fileTrainOutSVM:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/svm-train,
+                                         fileTestOutSVM:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/svm-test,
+                           fileResultJaccardComparation:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Resultados-utilizando-apenas-jaccard.xml,
+                           fileResultCossineComparation:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Resultados-utilizando-apenas-cosseno.xml,
+                                                     ji:/home/maneul/temp/ji.bin,
+                                        alreadyAnalyzed:/home/maneul/temp/ij.bin,
+                                              fileVenue:./../XMLs/dataset/Google-DataSet.v6.xml,
+                                         fileVenueClear:./../XMLs/dataset/,
+                               fileMicrosoftWithIdClass:./../XMLs/dataset/microsoft-original.test.final.v5.xml,
+                           fileMicrosoftWithIdClassConf:./../XMLs/dataset/,
+                        fileMicrosoftWithIdClassJournal:./../XMLs/dataset/,
+                            fileMicrosoftWithOutIdClass:./../XMLs/dataset/,
+                                     fileVenueClearConf:./../XMLs/dataset/,
+                                  fileVenueClearJournal:./../XMLs/dataset/,
+                                     fileCollectionTest:./../XMLs/dataset/,
+                                              precision:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Precision.xml,
+                                                 recall:./../XMLs/Resultados/Microsoft-DataSet.v6--JACCARD---TRCB-TEALL/Recall.xml}
+                        Threshold utilizado para regras: 0.0
+                       Threshold utilizado para jaccard: 0.3
+
+
+INFORMACÕES SOBRE O MODELO
+Inicializando o modelo de regras.
+                             Tipo de similaridade usada: JACCARD
+                                    Total de instâncias: 17393
+            Total de instâncias que possui alguma regra: 15532
+               Total de instâncias que não possui regra: 1861
+             Total de instâncias com mais de uma classe: 173
+                        Total de publicações com regras: 5221
+                        Total de publicações sem regras: 303
+             Total de instâncias duplicacadas no modelo: 17393
+                                Total de regras geradas: 26849
+                                                Journal: 1937
+                                               Magazine: 16
+                                               Workshop: 1344
+                                             Conference: 2227
+                                       Total de títulos: 7725
+                                     Total de Acrônimos: 3867
+
+                              Total de títulos testados: 3113
+
+RESULTADO DO MODELO
+Títulos classificados com regras
+                   Total de títulos preditos por regras: 2773
+          total de títulos preditos por regras corretos: 2766
+           Total de títulos preditos por regras errados: 7
+                                       Total de títulos: 2773
+                                       Median Precision: 99.81955972573078
+                                          Median Recall: 99.7475658131987
+                                               Macro F1: 90.29544664581162
+                                                 Mic F1: 99.78354978354977
+                                               Acurácia: 99.7475658131987 (2766/2773)
+
+
+Títulos classificados por comparação.
+               Total de títulos preditos por comparação: 340
+                Total de títulos classificados corretos: 277
+                Total de títulos classificados errados : 63
+                                      Total de títulos : 340
+
+
+                                  Definidos por votacao: 2733
+                         Definidos por votacao corretos: 2727
+                               Definidos por similarity: 38
+                      Definidos por similarity corretos: 37
+                                     Definidos por Peso: 1
+                            Definidos por Peso corretos: 1
+                              Definidos por menor regra: 1
+                     Definidos por menor regra corretos: 1
+                                       Median Precision: 99.15281850765722
+                                          Median Recall: 97.75136524253132
+                                               Macro F1: 98.13829992662107
+                                                 Mic F1: 98.44710449692656
+                                               Acurácia: 97.75136524253132 (3043/3113)
+
+
+
+Classificados como nova classe
+        Total de títulos classificados como nova classe: 0
+        Total de classes com nenhum título classificado: 0
+                             Tempo total para os testes: 4.9100166666666665m
+
+**************************FIM DO TESTE*************************
+Playing beep-7.wav
+Set 03, 2014 11:22:30 AM common.Alert alert
+GRAVE: null
+java.io.FileNotFoundException: /home/maneul/Dropbox/beep-7.wav (Arquivo ou diretório não encontrado)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+***************************INICIO DO TESTE*******************
+
+                                          Data do teste: Wed Sep 03 11:22:30 BRT 2014
+                                         Variables{proc:1,
+                                                    ini:0.0,
+                                      fileSaveModelFile:/home/maneul/temp/model.bin,
+                                                 saveTM:/home/maneul/temp/tm.bin,
+                                          fileStopWords:./../XMLs/configuracao/conjunto-de-stopWords.txt,
+                                     fileWordsToReplace:./../XMLs/configuracao/conjunto-de-palavras-a-serem-substituidas.txt,
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:164)
+                                               fileTest:./../XMLs/dataset/Google-DataSet.v6.xml,
+                                         fileCollection:./../XMLs/dataset/Collection-DataSet.v6.xml,
+	at javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1179)
+	at common.Alert.alert(Alert.java:48)
+                                  fileCollectionJournal:./../XMLs/dataset/,
+                                     fileCollectionConf:./../XMLs/dataset/,
+                                  fileMicrosoftOriginal:./../XMLs/dataset/Microsoft-DataSet.v6.xml,
+                                             fileResult:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Resultados-dos-testes.txt,
+	at common.Alert.alert(Alert.java:63)
+	at newModel.Main.maine(Main.java:718)
+	at newModel.Main.main(Main.java:107)
+
+                                              fileRules:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Regras-gerada-pelo-treino.xml,
+                          fileTitlesPredictBySimilarity:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-preditos-pelo-modelo-na-etapa-de-comparacao.xml,
+                               fileTitlesPredictByRules:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-preditos-pelo-modelo-na-etapa-utilizando-regras.xml,
+                                           fileNewClass:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-preditos-como-sendo-de-uma-nova-classe.xml,
+                                    fileInstWithNoRules:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-que-nao-tem-nenhuma-regra-no-treino.xml,
+                              fileInstWithNoRulesInTest:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Titulos-que-nao-tem-nenhuma-regra-no-teste.xml,
+                                          thresholdRule:0.0,
+                                        thresholdNoRule:0.3,
+                                        fileTrainOutSVM:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/svm-train,
+                                         fileTestOutSVM:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/svm-test,
+                           fileResultJaccardComparation:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Resultados-utilizando-apenas-jaccard.xml,
+                           fileResultCossineComparation:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Resultados-utilizando-apenas-cosseno.xml,
+                                                     ji:/home/maneul/temp/ji.bin,
+                                        alreadyAnalyzed:/home/maneul/temp/ij.bin,
+                                              fileVenue:./../XMLs/dataset/Google-DataSet.v6.xml,
+                                         fileVenueClear:./../XMLs/dataset/,
+                               fileMicrosoftWithIdClass:./../XMLs/dataset/microsoft-original.test.final.v5.xml,
+                           fileMicrosoftWithIdClassConf:./../XMLs/dataset/,
+                        fileMicrosoftWithIdClassJournal:./../XMLs/dataset/,
+                            fileMicrosoftWithOutIdClass:./../XMLs/dataset/,
+                                     fileVenueClearConf:./../XMLs/dataset/,
+                                  fileVenueClearJournal:./../XMLs/dataset/,
+                                     fileCollectionTest:./../XMLs/dataset/,
+                                              precision:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Precision.xml,
+                                                 recall:./../XMLs/Resultados/Google-DataSet.v6--JACCARD---TRCB-TEALL/Recall.xml}
+                        Threshold utilizado para regras: 0.0
+                       Threshold utilizado para jaccard: 0.3
+
+
+INFORMACÕES SOBRE O MODELO
+Inicializando o modelo de regras.
+                             Tipo de similaridade usada: JACCARD
+                                    Total de instâncias: 17393
+            Total de instâncias que possui alguma regra: 15532
+               Total de instâncias que não possui regra: 1861
+             Total de instâncias com mais de uma classe: 173
+                        Total de publicações com regras: 5221
+                        Total de publicações sem regras: 303
+             Total de instâncias duplicacadas no modelo: 17393
+                                Total de regras geradas: 26849
+                                                Journal: 1937
+                                               Magazine: 16
+                                               Workshop: 1344
+                                             Conference: 2227
+                                       Total de títulos: 7725
+                                     Total de Acrônimos: 3867
+Size: 2
+IdPub: 2113
+IdPub: 2969
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2113
+IdPub: 2969
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2131
+IdPub: 2132
+Size: 2
+IdPub: 2113
+IdPub: 2969
+Size: 2
+IdPub: 2131
+IdPub: 2132
+
+                              Total de títulos testados: 1110
+
+RESULTADO DO MODELO
+Títulos classificados com regras
+   <pub-venue>
+      <id>3358</id>
+      <idClass>201413</idClass>
+      <entity>ACM</entity>
+      <acronym>ICOOOLPS</acronym>
+      <title>Workshop on the Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems</title>
+      <title-formerly>workshop on the Implementation, Compilation, Optimization of Object-Oriented Languages and Programming Systems</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+
+   <pub-venue>
+      <id>2766</id>
+      <idClass>20814</idClass>
+      <acronym>IFL</acronym>
+      <title>International Symposium on Implementation and Application of Functional Languages</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+
+   <pub-venue>
+      <id>2344</id>
+      <idClass>20391</idClass>
+      <acronym>FDL</acronym>
+      <title>Forum on Specification and Design Languages</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+
+   <pub-venue>
+      <id>1981</id>
+      <idClass>2029</idClass>
+      <entity>ACM</entity>
+      <acronym>PLDI</acronym>
+      <title>SIGPLAN Conference on Programming Language Design and Implementation</title>
+      <title>ACM SIGPLAN Conference on Programming Language Design and Implementation</title>
+      <title>ACM-SIGPLAN Symposium on Programming Language Design and Implementation</title>
+      <title-formerly>SIGPLAN Symposium on Compiler Construction</title-formerly>
+      <title-formerly>meeting on Programming languages and information retrieval</title-formerly>
+      <title-formerly>SIGPLAN Symposium on Compiler Optimization</title-formerly>
+      <title-formerly>ACM symposium on The ADA programming language</title-formerly>
+      <title-formerly>symposium on Compiler construction</title-formerly>
+      <title-formerly>Symposium on Interpreters and interpretive techniques</title-formerly>
+      <title-formerly>ACM symposium on Ada programming language</title-formerly>
+      <title-formerly>ACM symposium on Programming language issues in software systems</title-formerly>
+      <acronym-formerly>SIGPLAN</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+
+                   Total de títulos preditos por regras: 778
+          total de títulos preditos por regras corretos: 757
+           Total de títulos preditos por regras errados: 21
+                                       Total de títulos: 778
+                                       Median Precision: 99.86807387862797
+                                          Median Recall: 97.30077120822622
+                                               Macro F1: 91.74449795739838
+                                                 Mic F1: 98.56770833333334
+                                               Acurácia: 97.30077120822622 (757/778)
+
+
+Títulos classificados por comparação.
+               Total de títulos preditos por comparação: 324
+                Total de títulos classificados corretos: 272
+                Total de títulos classificados errados : 52
+                                      Total de títulos : 324
+
+
+                                  Definidos por votacao: 749
+                         Definidos por votacao corretos: 735
+                               Definidos por similarity: 26
+                      Definidos por similarity corretos: 21
+                                     Definidos por Peso: 2
+                            Definidos por Peso corretos: 1
+                              Definidos por menor regra: 1
+                     Definidos por menor regra corretos: 0
+                                       Median Precision: 99.70930232558139
+                                          Median Recall: 93.37568058076225
+                                               Macro F1: 93.09273129547792
+                                                 Mic F1: 96.4386129334583
+                                               Acurácia: 93.37568058076225 (1029/1102)
+
+
+
+Classificados como nova classe
+        Total de títulos classificados como nova classe: 8
+        Total de classes com nenhum título classificado: 1
+                             Tempo total para os testes: 49.915s
+
+**************************FIM DO TESTE*************************
+Playing beep-7.wav
+Set 03, 2014 11:23:20 AM common.Alert alert
+GRAVE: null
+java.io.FileNotFoundException: /home/maneul/Dropbox/beep-7.wav (Arquivo ou diretório não encontrado)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+Playing ambulance.wav
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:164)
+	at javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1179)
+	at common.Alert.alert(Alert.java:48)
+	at common.Alert.alert(Alert.java:63)
+	at newModel.Main.maine(Main.java:718)
+	at newModel.Main.main(Main.java:122)
+
+Set 03, 2014 11:23:20 AM common.Alert alert
+GRAVE: null
+java.io.FileNotFoundException: /media/maneul/Hitachi/Dropbox/ambulance.wav (Arquivo ou diretório não encontrado)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:164)
+	at javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1179)
+	at common.Alert.alert(Alert.java:48)
+	at newModel.Main.main(Main.java:175)
+
+CONSTRUÍDO COM SUCESSO (tempo total: 5 minutos 47 segundos)

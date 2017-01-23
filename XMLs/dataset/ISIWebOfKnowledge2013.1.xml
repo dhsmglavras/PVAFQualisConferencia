@@ -1,0 +1,505 @@
+<publication-venues>
+   <from>ISI Web of Knowledge</from>
+   <pub-venue>
+      <id>0</id>
+      <idClass>0</idClass>
+      <issn>1936-7406</issn>
+      <title>ACM Transactions on Reconfigurable Technology and Systems</title>
+      <title-abrev>ACM T. Reconfigurable Technol. Syst.</title-abrev>
+      <title-abrev>ACM T RECONFIG TECHN</title-abrev>
+      <publisher>ASSOC COMPUTING MACHINERY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, HARDWARE `AND` ARCHITECTURE</subject>
+      <impact-factor-2013>0.408</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>0</idClass>
+      <issn>1553-3077</issn>
+      <title>ACM Transactions on Storage</title>
+      <title-abrev>ACM Trans. Storage</title-abrev>
+      <title-abrev>ACM T STORAGE</title-abrev>
+      <publisher>ASSOC COMPUTING MACHINERY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, HARDWARE `AND` ARCHITECTURE</subject>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <impact-factor-2013>0.586</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <idClass>0</idClass>
+      <issn>2168-2356</issn>
+      <title>IEEE Design `AND` Test</title>
+      <title-abrev>IEEE Des. Test</title-abrev>
+      <title-abrev>IEEE DES TEST</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <subject>COMPUTER SCIENCE, HARDWARE `AND` ARCHITECTURE</subject>
+      <impact-factor-2013>1.140</impact-factor-2013>
+      <impact-factor-5-years2013>1.290</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>3</id>
+      <idClass>0</idClass>
+      <issn>2162-237X</issn>
+      <title>IEEE Transactions on Neural Networks and Learning Systems</title>
+      <title-abrev>IEEE T NEUR NET LEAR</title-abrev>
+      <title-abrev>IEEE Trans. Neural Netw. Learn. Syst.</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <subject>COMPUTER SCIENCE, HARDWARE `AND` ARCHITECTURE</subject>
+      <subject>COMPUTER SCIENCE, THEORY `AND` METHODS</subject>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <impact-factor-2013>4.370</impact-factor-2013>
+      <impact-factor-5-years2013>4.308</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>4</id>
+      <idClass>0</idClass>
+      <issn>2157-6904</issn>
+      <title>ACM Transactions on Intelligent Systems and Technology</title>
+      <title-abrev>ACM T INTEL SYST TEC</title-abrev>
+      <title-abrev>ACM Trans. Intell. Syst. Technol.</title-abrev>
+      <publisher>ASSOC COMPUTING MACHINERY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>9.390</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>5</id>
+      <idClass>0</idClass>
+      <issn>1556-4681</issn>
+      <title>ACM Transactions on Knowledge Discovery from Data</title>
+      <title-abrev>ACM T KNOWL DISCOV D</title-abrev>
+      <title-abrev>ACM Trans. Knowl. Discov. Data</title-abrev>
+      <publisher>ASSOC COMPUTING MACHINERY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>1.147</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>6</id>
+      <idClass>0</idClass>
+      <issn>2095-2228</issn>
+      <title>Frontiers of Computer Science</title>
+      <title-abrev>FRONT COMPUT SCI-CHI</title-abrev>
+      <title-abrev>Front.. Comput. Sci.</title-abrev>
+      <publisher>HIGHER EDUCATION PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, THEORY `AND` METHODS</subject>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>0.405</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>7</id>
+      <idClass>0</idClass>
+      <issn>2168-2194</issn>
+      <title>IEEE Journal of Biomedical and Health Informatics</title>
+      <title-abrev>IEEE J BIOMED HEALTH</title-abrev>
+      <title-abrev>IEEE J. Biomed. Health Inform.</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+   </pub-venue>
+   <pub-venue>
+      <id>8</id>
+      <idClass>0</idClass>
+      <issn>1939-1374</issn>
+      <title>IEEE Transactions on Services Computing</title>
+      <title-abrev>IEEE Trans. Serv. Comput.</title-abrev>
+      <title-abrev>IEEE T SERV COMPUT</title-abrev>
+      <publisher>IEEE COMPUTER SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>1.985</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>9</id>
+      <idClass>0</idClass>
+      <issn>1874-5482</issn>
+      <title>International Journal of Critical Infrastructure Protection</title>
+      <title-abrev>INT J CRIT INFR PROT</title-abrev>
+      <title-abrev>Int. J. Crit. Infrastruct. Prot.</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ENGINEERING, MULTIDISCIPLINARY</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>0.429</impact-factor-2013>
+      <impact-factor-5-years2013>0.652</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>10</id>
+      <idClass>0</idClass>
+      <issn>1758-2946</issn>
+      <title>Journal of Cheminformatics</title>
+      <title-abrev>J CHEMINFORMATICS</title-abrev>
+      <title-abrev>J. Cheminformatics</title-abrev>
+      <publisher>BIOMED CENTRAL LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <subject>CHEMISTRY, MULTIDISCIPLINARY</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>4.540</impact-factor-2013>
+      <impact-factor-5-years2013>4.797</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>11</id>
+      <idClass>0</idClass>
+      <issn>1546-2234</issn>
+      <title>Journal of Organizational and End User Computing</title>
+      <title-abrev>J. Organ. End User Comput.</title-abrev>
+      <title-abrev>J ORGAN END USER COM</title-abrev>
+      <publisher>IGI PUBL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>0.417</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>12</id>
+      <idClass>0</idClass>
+      <issn>1869-1951</issn>
+      <title>Journal of Zhejiang University-SCIENCE C-Computers `AND` Electronics</title>
+      <title-abrev>J ZHEJIANG U-SCI C</title-abrev>
+      <title-abrev>J. Zhejiang Univ.-SCI. C.</title-abrev>
+      <publisher>ZHEJIANG UNIV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>ENGINEERING, ELECTRICAL `AND` ELECTRONIC</subject>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>0.380</impact-factor-2013>
+      <impact-factor-5-years2013>0.399</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>13</id>
+      <idClass>0</idClass>
+      <issn>1574-1192</issn>
+      <title>Pervasive and Mobile Computing</title>
+      <title-abrev>PERVASIVE MOB COMPUT</title-abrev>
+      <title-abrev>Pervasive Mob. Comput.</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>TELECOMMUNICATIONS</subject>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2013>1.667</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>14</id>
+      <idClass>0</idClass>
+      <issn>1875-6891</issn>
+      <title>International Journal of Computational Intelligence Systems</title>
+      <title-abrev>INT J COMPUT INT SYS</title-abrev>
+      <title-abrev>Int. J. Comput. Intell. Syst.</title-abrev>
+      <publisher>ATLANTIS PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <impact-factor-2013>0.451</impact-factor-2013>
+      <impact-factor-5-years2013>0.749</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>15</id>
+      <idClass>0</idClass>
+      <issn>1877-7503</issn>
+      <title>Journal of Computational Science</title>
+      <title-abrev>J. Comput. Sci.</title-abrev>
+      <title-abrev>J COMPUT SCI-NETH</title-abrev>
+      <publisher>ELSEVIER SCIENCE BV</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, THEORY `AND` METHODS</subject>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <impact-factor-2013>1.567</impact-factor-2013>
+      <impact-factor-5-years2013>1.610</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>16</id>
+      <idClass>0</idClass>
+      <issn>1747-7778</issn>
+      <title>Journal of Simulation</title>
+      <title-abrev>J SIMUL</title-abrev>
+      <title-abrev>J. Simul.</title-abrev>
+      <publisher>PALGRAVE MACMILLAN LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>OPERATIONS RESEARCH `AND` MANAGEMENT SCIENCE</subject>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <impact-factor-2013>0.383</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>17</id>
+      <idClass>0</idClass>
+      <issn>1343-8875</issn>
+      <title>JOURNAL OF VISUALIZATION</title>
+      <title-abrev>J VISUAL-JAPAN</title-abrev>
+      <title-abrev>J. Vis.</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <subject>IMAGING SCIENCE `AND` PHOTOGRAPHIC TECHNOLOGY</subject>
+      <impact-factor-2013>0.588</impact-factor-2013>
+      <impact-factor-5-years2013>0.568</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>18</id>
+      <idClass>0</idClass>
+      <issn>2073-4859</issn>
+      <title-abrev>R Journal</title-abrev>
+      <title-abrev>R J</title-abrev>
+      <publisher>R FOUNDATION STATISTICAL COMPUTING</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <subject>STATISTICS `AND` PROBABILITY</subject>
+      <impact-factor-2013>0.895</impact-factor-2013>
+      <impact-factor-5-years2013>1.273</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>19</id>
+      <idClass>0</idClass>
+      <issn>1359-4338</issn>
+      <title>VIRTUAL REALITY</title>
+      <title-abrev>Virtual Real.</title-abrev>
+      <title-abrev>VIRTUAL REAL-LONDON</title-abrev>
+      <publisher>SPRINGER LONDON LTD</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS</subject>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <subject>IMAGING SCIENCE `AND` PHOTOGRAPHIC TECHNOLOGY</subject>
+      <impact-factor-2013>0.729</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <idClass>0</idClass>
+      <issn>1462-7264</issn>
+      <title>DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE</title>
+      <title-abrev>DISCRETE MATH THEOR</title-abrev>
+      <title-abrev>Discret. Math. Theor. Comput. Sci.</title-abrev>
+      <publisher>DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>MATHEMATICS, APPLIED</subject>
+      <subject>MATHEMATICS</subject>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <impact-factor-2013>0.609</impact-factor-2013>
+      <impact-factor-5-years2013>0.676</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>21</id>
+      <idClass>0</idClass>
+      <issn>1943-068X</issn>
+      <title>IEEE Transactions on Computational Intelligence and AI in Games</title>
+      <title-abrev>IEEE Trans. Comput. Intell. AI Games</title-abrev>
+      <title-abrev>IEEE T COMP INTEL AI</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <impact-factor-2013>1.167</impact-factor-2013>
+      <impact-factor-5-years2013>1.274</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>22</id>
+      <idClass>0</idClass>
+      <issn>2047-7473</issn>
+      <title>Journal of Software-Evolution and Process</title>
+      <title-abrev>J. Softw.-Evol. Proc.</title-abrev>
+      <title-abrev>J SOFTW-EVOL PROC</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <impact-factor-2013>0.442</impact-factor-2013>
+      <impact-factor-5-years2013>0.462</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>23</id>
+      <idClass>0</idClass>
+      <issn>1936-2447</issn>
+      <title>Cryptography and Communications-Discrete-Structures Boolean Functions and Sequences</title>
+      <title-abrev>CRYPTOGR COMMUN</title-abrev>
+      <title-abrev>Cryptogr. Commun.</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>MATHEMATICS, APPLIED</subject>
+      <subject>COMPUTER SCIENCE, THEORY `AND` METHODS</subject>
+      <impact-factor-2013>0.647</impact-factor-2013>
+      <impact-factor-5-years2013>0.615</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>24</id>
+      <idClass>0</idClass>
+      <issn>1567-7818</issn>
+      <title>Natural Computing</title>
+      <title-abrev>Nat. Comput.</title-abrev>
+      <title-abrev>NAT COMPUT</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, THEORY `AND` METHODS</subject>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <impact-factor-2013>0.539</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>25</id>
+      <idClass>0</idClass>
+      <issn>1942-4787</issn>
+      <title>Wiley Interdisciplinary Reviews-Data Mining and Knowledge Discovery</title>
+      <title-abrev>WIRES DATA MIN KNOWL</title-abrev>
+      <title-abrev>Wiley Interdiscip. Rev.-Data Mining Knowl. Discov.</title-abrev>
+      <publisher>WILEY PERIODICALS, INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, THEORY `AND` METHODS</subject>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <impact-factor-2013>1.358</impact-factor-2013>
+      <impact-factor-5-years2013>1.358</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>26</id>
+      <idClass>0</idClass>
+      <issn>1949-3045</issn>
+      <title>IEEE Transactions on Affective Computing</title>
+      <title-abrev>IEEE T AFFECT COMPUT</title-abrev>
+      <title-abrev>IEEE Trans. Affect. Comput.</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <subject>COMPUTER SCIENCE, CYBERNETICS</subject>
+      <impact-factor-2013>3.466</impact-factor-2013>
+      <impact-factor-5-years2013>3.871</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>27</id>
+      <idClass>0</idClass>
+      <issn>2168-2267</issn>
+      <title>IEEE Transactions on Cybernetics</title>
+      <title-abrev>IEEE T CYBERNETICS</title-abrev>
+      <title-abrev>IEEE T. Cybern.</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+   </pub-venue>
+   <pub-venue>
+      <id>28</id>
+      <idClass>0</idClass>
+      <issn>1939-1412</issn>
+      <title>IEEE Transactions on Haptics</title>
+      <title-abrev>IEEE T HAPTICS</title-abrev>
+      <title-abrev>IEEE Trans. Haptics</title-abrev>
+      <publisher>IEEE COMPUTER SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, CYBERNETICS</subject>
+      <impact-factor-2013>2.030</impact-factor-2013>
+      <impact-factor-5-years2013>2.571</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>29</id>
+      <idClass>0</idClass>
+      <issn>2168-2291</issn>
+      <title>IEEE Transactions on Human-Machine Systems</title>
+      <title-abrev>IEEE T HUM-MACH SYST</title-abrev>
+      <title-abrev>IEEE T. Hum.-Mach. Syst.</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+   </pub-venue>
+   <pub-venue>
+      <id>30</id>
+      <idClass>0</idClass>
+      <issn>2168-2216</issn>
+      <title>IEEE Transactions on Systems Man Cybernetics-Systems</title>
+      <title-abrev>IEEE T SYST MAN CY-S</title-abrev>
+      <title-abrev>IEEE Trans. Syst. Man Cybern. -Syst.</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, CYBERNETICS</subject>
+      <subject>AUTOMATION `AND` CONTROL SYSTEMS</subject>
+      <impact-factor-2013>2.169</impact-factor-2013>
+      <impact-factor-5-years2013>2.565</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>31</id>
+      <idClass>0</idClass>
+      <issn>1783-7677</issn>
+      <title>Journal on Multimodal User Interfaces</title>
+      <title-abrev>J. Multimodal User Interfaces</title-abrev>
+      <title-abrev>J MULTIMODAL USER IN</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <subject>COMPUTER SCIENCE, CYBERNETICS</subject>
+      <impact-factor-2013>0.462</impact-factor-2013>
+      <impact-factor-5-years2013>0.644</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>32</id>
+      <idClass>0</idClass>
+      <issn>1943-0604</issn>
+      <title>IEEE Transactions on Autonomous Mental Development</title>
+      <title-abrev>IEEE Trans. Auton. Ment. Dev.</title-abrev>
+      <title-abrev>IEEE T AUTON MENT DE</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <subject>NEUROSCIENCES</subject>
+      <subject>ROBOTICS</subject>
+      <impact-factor-2013>1.348</impact-factor-2013>
+      <impact-factor-5-years2013>1.875</impact-factor-5-years2013>
+   </pub-venue>
+   <pub-venue>
+      <id>33</id>
+      <idClass>0</idClass>
+      <issn>1351-3249</issn>
+      <title>Natural Language Engineering</title>
+      <title-abrev>NAT LANG ENG</title-abrev>
+      <title-abrev>Nat. Lang. Eng.</title-abrev>
+      <publisher>CAMBRIDGE UNIV PRESS</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <impact-factor-2013>0.463</impact-factor-2013>
+   </pub-venue>
+   <pub-venue>
+      <id>34</id>
+      <idClass>0</idClass>
+      <issn>1935-3812</issn>
+      <title>Swarm Intelligence</title>
+      <title-abrev>SWARM INTELL-US</title-abrev>
+      <title-abrev>Swarm Intell.</title-abrev>
+      <publisher>SPRINGER</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+      <subject>ROBOTICS</subject>
+      <impact-factor-2013>1.833</impact-factor-2013>
+   </pub-venue>
+</publication-venues>

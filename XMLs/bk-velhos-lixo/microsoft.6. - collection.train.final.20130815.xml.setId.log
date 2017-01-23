@@ -1,0 +1,668 @@
+Thu Oct 03 15:49:20 BRT 2013
+minSim: 1.0
+maxSim: 1.0
+minSimIfAcronEqual: 0.7
+toAsk: false
+
+<setId>
+    <pub-venue>
+            <id>1055</id>
+            <idClass>201700</idClass>
+            <acronym>QSHINE</acronym>
+            <title>Quality of Service in Heterogeneous Wired/Wireless Networks</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>20</id>
+            <idClass>201700</idClass>
+            <entity>ACM</entity>
+            <acronym>Qsine</acronym>
+            <acronym>QShine</acronym>
+            <title>International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness</title>
+            <title>International ICST Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness</title>
+            <title-formerly>international conference on Quality of service in heterogeneous wired/wireless networks</title-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B5</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>682</id>
+            <idClass>2023</idClass>
+            <acronym>SYMSAC</acronym>
+            <title>Symposium on Symbolic and Algebraic Manipulation</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>68</id>
+            <idClass>2023</idClass>
+            <entity>ACM</entity>
+            <acronym>ISSAC</acronym>
+            <title>International Symposium on Symbolic and Algebraic Computation</title>
+            <title>ACM-SIGSAM international symposium on Symbolic and algebraic computation</title>
+            <title-formerly>ACM symposium on Symbolic and algebraic computation</title-formerly>
+            <title-formerly>ACM symposium on Symbolic and algebraic manipulation</title-formerly>
+            <acronym-formerly>SYMSAC</acronym-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>105</id>
+            <idClass>2032</idClass>
+            <acronym>ICLP(JICSLP)</acronym>
+            <title>International Conference on Logic Programming/Joint International Conference and Symposium on Logic Programming</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>77</id>
+            <idClass>2032</idClass>
+            <acronym>ILPS</acronym>
+            <title>International Symposium on Logic Programming</title>
+            <title-formerly>North American Conference on Logic Programming</title-formerly>
+            <title-formerly>International Conference and Symposium on Logic Programming</title-formerly>
+            <title-formerly>International Conference on Logic Programming</title-formerly>
+            <title-formerly>Joint International Conference and Symposium on Logic Programming</title-formerly>
+            <acronym-formerly>ICLP</acronym-formerly>
+            <acronym-formerly>SLP</acronym-formerly>
+            <acronym-formerly>JICSLP</acronym-formerly>
+            <acronym-formerly>NACLP</acronym-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>192</id>
+            <idClass>2032</idClass>
+            <acronym>ILPS/ISLP/NACLP/SLP</acronym>
+            <title>International Logic Programming Symposium/International Symposium on Logic Programming/North American Conference on Logic Programming/Symposium on Logic Programming</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>77</id>
+            <idClass>2032</idClass>
+            <acronym>ILPS</acronym>
+            <title>International Symposium on Logic Programming</title>
+            <title-formerly>North American Conference on Logic Programming</title-formerly>
+            <title-formerly>International Conference and Symposium on Logic Programming</title-formerly>
+            <title-formerly>International Conference on Logic Programming</title-formerly>
+            <title-formerly>Joint International Conference and Symposium on Logic Programming</title-formerly>
+            <acronym-formerly>ICLP</acronym-formerly>
+            <acronym-formerly>SLP</acronym-formerly>
+            <acronym-formerly>JICSLP</acronym-formerly>
+            <acronym-formerly>NACLP</acronym-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>210</id>
+            <idClass>20172</idClass>
+            <acronym>SSD</acronym>
+            <title>Symposium on Large Spatial Databases</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>214</id>
+            <idClass>20172</idClass>
+            <acronym>SSTD</acronym>
+            <title>International Symposium on Spatial and Temporal Databases</title>
+            <title>Symposium on Spatial and Temporal Databases</title>
+            <title>International Symposium on Advances in Spatial and Temporal Databases</title>
+            <title-formerly>International Symposium on Advances in Spatial Databases</title-formerly>
+            <title-formerly>Symposium on Large Spatial Databases</title-formerly>
+            <title-formerly>Symposium on Design and Implementation of Large Spatial Databases</title-formerly>
+            <acronym-formerly>SSD</acronym-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>372</id>
+            <idClass>20222</idClass>
+            <acronym>HWWS</acronym>
+            <title>SIGGRAPH/EUROGRAPHICS Workshop On Graphics Hardware</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>261</id>
+            <idClass>20222</idClass>
+            <entity>ACM</entity>
+            <acronym>GH</acronym>
+            <title>ACM SIGGRAPH/EUROGRAPHICS symposium on Graphics hardware</title>
+            <title>ACM SIGGRAPH/Eurographics Conference on Graphics Hardware</title>
+            <title-formerly>ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware</title-formerly>
+            <acronym-formerly>HWWS</acronym-formerly>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>563</id>
+            <idClass>20681</idClass>
+            <acronym>IEA/AIE</acronym>
+            <title>Industrial and Engineering Applications of Artificial Intelligence and Expert Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>708</id>
+            <idClass>20681</idClass>
+            <entity>ACM</entity>
+            <acronym>IEA/AIE</acronym>
+            <title>International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems</title>
+            <title-formerly>international conference on Industrial and engineering applications of artificial intelligence and expert systems</title-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>709</id>
+            <idClass>20721</idClass>
+            <acronym>PDCS</acronym>
+            <title>Parallel and Distributed Computing Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>748</id>
+            <idClass>20721</idClass>
+            <acronym>PDCCS</acronym>
+            <title>ISCA International Conference on Parallel and Distributed Computing and Communications Systems</title>
+            <title-formerly>ISCA International Conference on Parallel and Distributed Computing Systems</title-formerly>
+            <title-formerly>International Conference on Parallel and Distributed Computing and Systems</title-formerly>
+            <acronym-formerly>PDCS</acronym-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>949</id>
+            <idClass>20721</idClass>
+            <acronym>ISCAPDCS</acronym>
+            <title>ISCA International Conference on Parallel and Distributed Computing Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>748</id>
+            <idClass>20721</idClass>
+            <acronym>PDCCS</acronym>
+            <title>ISCA International Conference on Parallel and Distributed Computing and Communications Systems</title>
+            <title-formerly>ISCA International Conference on Parallel and Distributed Computing Systems</title-formerly>
+            <title-formerly>International Conference on Parallel and Distributed Computing and Systems</title-formerly>
+            <acronym-formerly>PDCS</acronym-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1652</id>
+            <idClass>20910</idClass>
+            <acronym>INAP</acronym>
+            <title>International Conference on Applications of Prolog</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>934</id>
+            <idClass>20910</idClass>
+            <acronym>INAP</acronym>
+            <title>Joint Conference on Application of Declarative Programming and Knowledge Management</title>
+            <title>International Conference on Applications of Declarative Programming and Knowledge Management</title>
+            <title-formerly>International Conference on Applications of Prolog</title-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B5</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1253</id>
+            <idClass>20969</idClass>
+            <acronym>SFP</acronym>
+            <title>Scottish Functional Programming Workshops</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>993</id>
+            <idClass>20969</idClass>
+            <acronym>TFP</acronym>
+            <title>International Symposium on Trends in Functional Programming</title>
+            <title>Trends in Functional Programming</title>
+            <title-formerly>Scottish Functional Programming Workshop</title-formerly>
+            <acronym-formerly>SFP</acronym-formerly>
+            <pub-type>W</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>816</id>
+            <idClass>201036</idClass>
+            <acronym>SIBGRAPI</acronym>
+            <title>Brazilian Symposium on Computer Graphics and Image Processing</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1059</id>
+            <idClass>201036</idClass>
+            <acronym>SIBGRAPI</acronym>
+            <title>SIBGRAPI Conference on Graphics, Patterns and Images</title>
+            <title-formerly>Brazilian Symposium on Computer Graphics and Image Processing</title-formerly>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2557</id>
+            <idClass>201095</idClass>
+            <acronym>ACSE</acronym>
+            <title>Australasian Conference on Computer Science Education</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1117</id>
+            <idClass>201095</idClass>
+            <entity>ACM</entity>
+            <acronym>ACE</acronym>
+            <title>Australasian Conference on Computing Education</title>
+            <title>Australasian Computing Education Conference</title>
+            <title-formerly>Australasian conference on Computer science education</title-formerly>
+            <acronym-formerly>ACSE</acronym-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>528</id>
+            <idClass>201250</idClass>
+            <acronym>DIAL-M</acronym>
+            <title>Workshop on Discrete Algorithms and Methods for Mobile Computing and Communications</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1271</id>
+            <idClass>201250</idClass>
+            <entity>ACM</entity>
+            <acronym>DIALM-POMC</acronym>
+            <title>International Workshop on Foundations of Mobile Computing</title>
+            <title-formerly>joint workshop on Foundations of mobile computing</title-formerly>
+            <title-formerly>international workshop on Discrete algorithms and methods for mobile computing and communications</title-formerly>
+            <acronym-formerly>DIALM</acronym-formerly>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2970</id>
+            <idClass>201348</idClass>
+            <acronym>GCE</acronym>
+            <title>Grid Computing Environments Workshop</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1367</id>
+            <idClass>201348</idClass>
+            <entity>ACM</entity>
+            <acronym>GCE</acronym>
+            <title>ACM workshop on Gateway computing environments</title>
+            <title-formerly>Grid Computing Environments Workshop</title-formerly>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2632</id>
+            <idClass>201780</idClass>
+            <acronym>SIGSMALL/PC</acronym>
+            <title>Symposium on Small Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1789</id>
+            <idClass>201780</idClass>
+            <entity>ACM</entity>
+            <acronym>SIGSMALL</acronym>
+            <title>ACM SIGSMALL/PC symposium on Small systems</title>
+            <title-formerly>SIGPC symposium on Small systems</title-formerly>
+            <title-formerly>ACM symposium on Personal and small computers</title-formerly>
+            <title-formerly>symposium on Small systems</title-formerly>
+            <title-formerly>ACM PC symposium on ACTES</title-formerly>
+            <title-formerly>ACM symposium on Small systems</title-formerly>
+            <acronym-formerly>SIGSMALL/PC</acronym-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>968</id>
+            <idClass>201893</idClass>
+            <acronym>VAST</acronym>
+            <title>Virtual reality, archeology, and cultural heritage</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1900</id>
+            <idClass>201893</idClass>
+            <entity>IEEE</entity>
+            <entity>ACM</entity>
+            <acronym>VAST</acronym>
+            <title>IEEE Conference on Visual Analytics Science and Technology</title>
+            <title>IEEE Symposium on Visual Analytics Science and Technology</title>
+            <title>Symposium On Visual Analytics Science And Technology</title>
+            <title-formerly>conference on Virtual reality, archeology, and cultural heritage</title-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2137</id>
+            <idClass>201911</idClass>
+            <acronym>WADAS</acronym>
+            <title>Washington Ada Symposium</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1917</id>
+            <idClass>201911</idClass>
+            <entity>ACM</entity>
+            <acronym>WADAS</acronym>
+            <title>annual Washington Ada symposium and summer ACM SIGAda meeting on Ada</title>
+            <title-formerly>annual Washington Ada symposium on Ada acquisition management</title-formerly>
+            <title-formerly>Washington Ada symposium on Ada</title-formerly>
+            <title-formerly>Joint Ada national conference on Ada technology and Washington Ada Symposium</title-formerly>
+            <title-formerly>annual Washington Ada symposium and summer SIGAda meeting on Ada</title-formerly>
+            <title-formerly>annual Washington Ada symposium on Ada</title-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2923</id>
+            <idClass>202767</idClass>
+            <acronym>SEC</acronym>
+            <title>IEEE International Symposium on Embedded Computing</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2750</id>
+            <idClass>202767</idClass>
+            <acronym>EMBEDDEDCOM</acronym>
+            <title>International Conference on Embedded Computing</title>
+            <title-formerly>IEEE International Symposium on Embedded Computing</title-formerly>
+            <acronym-formerly>SEC</acronym-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2980</id>
+            <idClass>203646</idClass>
+            <acronym>iStar</acronym>
+            <title>International i* Workshop</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3603</id>
+            <idClass>203646</idClass>
+            <acronym>ABZ</acronym>
+            <title>International Conference on Abstract State Machines, Alloy, B and Z</title>
+            <title-formerly>International Conference of B Users</title-formerly>
+            <title-formerly>International B Conference</title-formerly>
+            <title-formerly>International Conference of B and Z Users</title-formerly>
+            <title-formerly>International Conference of Z Users</title-formerly>
+            <title-formerly>Z User Workshop</title-formerly>
+            <acronym-formerly>B</acronym-formerly>
+            <acronym-formerly>ZUM</acronym-formerly>
+            <acronym-formerly>ZB</acronym-formerly>
+            <acronym-formerly>Z</acronym-formerly>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3914</id>
+            <idClass>1040</idClass>
+            <acronym>IEEE INTELL SYST APPL</acronym>
+            <title>IEEE Intelligent Systems &amp; Their Applications</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3671</id>
+            <idClass>1040</idClass>
+            <entity>IEEE</entity>
+            <title>IEEE INTELLIGENT SYSTEMS</title>
+            <title-formerly>IEEE Intelligent Systems and their Applications</title-formerly>
+            <title-formerly>IEEE Expert</title-formerly>
+            <publisher>IEEE COMPUTER SOC</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE</subject>
+            <subject>ENGINEERING, ELECTRICAL AND ELECTRONIC</subject>
+            <impact-factor-2010>2.570</impact-factor-2010>
+            <qualis-estrato>A1</qualis-estrato>
+            <site>http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=64</site>
+            <site>http://www.computer.org/portal/web/intelligent/home</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3615</id>
+            <idClass>10137</idClass>
+            <acronym>CN</acronym>
+            <title>Computer Networks and Isdn Systems</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3768</id>
+            <idClass>10137</idClass>
+            <entity>ELSEVIER</entity>
+            <title>Computer Networks</title>
+            <title-formerly>Computer Networks and ISDN Systems</title-formerly>
+            <publisher>ELSEVIER SCIENCE BV</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, HARDWARE AND ARCHITECTURE</subject>
+            <subject>TELECOMMUNICATIONS</subject>
+            <subject>ENGINEERING, ELECTRICAL AND ELECTRONIC</subject>
+            <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+            <impact-factor-2010>1.176</impact-factor-2010>
+            <qualis-estrato>A1</qualis-estrato>
+            <site>http://www.sciencedirect.com/science/journal/13891286</site>
+            <site>http://www.journals.elsevier.com/computer-networks/</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4739</id>
+            <idClass>10169</idClass>
+            <title>Microprocessors</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3799</id>
+            <idClass>10169</idClass>
+            <entity>ELSEVIER</entity>
+            <title>Microprocessors and Microsystems - Embedded Hardware Design</title>
+            <title>MICROPROCESSORS AND MICROSYSTEMS</title>
+            <title-formerly>Microprocessors</title-formerly>
+            <publisher>ELSEVIER SCIENCE BV</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, HARDWARE AND ARCHITECTURE</subject>
+            <subject>COMPUTER SCIENCE, THEORY AND METHODS</subject>
+            <subject>ENGINEERING, ELECTRICAL AND ELECTRONIC</subject>
+            <impact-factor-2010>0.545</impact-factor-2010>
+            <qualis-estrato>B2</qualis-estrato>
+            <site>http://www.sciencedirect.com/science/journal/01419331</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4125</id>
+            <idClass>10215</idClass>
+            <title>Information Storage and Retrieval</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3845</id>
+            <idClass>10215</idClass>
+            <entity>ELSEVIER</entity>
+            <acronym>IPM</acronym>
+            <title>INFORMATION PROCESSING AND MANAGEMENT</title>
+            <title-formerly>Information Storage and Retrieval</title-formerly>
+            <publisher>Elsevier</publisher>
+            <publisher>PERGAMON-ELSEVIER SCIENCE LTD</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+            <impact-factor-2010>1.673</impact-factor-2010>
+            <qualis-estrato>A2</qualis-estrato>
+            <site>http://www.sciencedirect.com/science/journal/03064573</site>
+            <site>http://www.journals.elsevier.com/information-processing-and-management/</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3671</id>
+            <idClass>10236</idClass>
+            <acronym>J AMER SOC INFORM SCI</acronym>
+            <title>Journal of The American Society for Information Science</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3865</id>
+            <idClass>10236</idClass>
+            <entity>WILEY-BLACKWELL</entity>
+            <acronym>JASIST</acronym>
+            <title>JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY</title>
+            <title-formerly>Journal of the American Society for Information Science</title-formerly>
+            <acronym-formerly>JASIS</acronym-formerly>
+            <publisher>WILEY-BLACKWELL</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+            <impact-factor-2010>2.137</impact-factor-2010>
+            <qualis-estrato>A1</qualis-estrato>
+            <site>http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291532-2890</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4254</id>
+            <idClass>10373</idClass>
+            <acronym>COMPUT LANG</acronym>
+            <title>Computer Languages</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>4001</id>
+            <idClass>10373</idClass>
+            <entity>ELSEVIER</entity>
+            <title>COMPUTER LANGUAGES SYSTEMS AND STRUCTURES</title>
+            <title-formerly>Computer Languages</title-formerly>
+            <publisher>PERGAMON-ELSEVIER SCIENCE LTD</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+            <impact-factor-2010>0.541</impact-factor-2010>
+            <qualis-estrato>B3</qualis-estrato>
+            <site>http://www.sciencedirect.com/science/journal/14778424</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4461</id>
+            <idClass>10374</idClass>
+            <acronym>CONCURRENCY-PRACT EXPER</acronym>
+            <title>Concurrency-practice and Experience</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>4002</id>
+            <idClass>10374</idClass>
+            <entity>WILEY-BLACKWELL</entity>
+            <title>Concurrency and Computation</title>
+            <title>CONCURRENCY AND COMPUTATION - PRACTICE AND EXPERIENCE</title>
+            <title-formerly>Concurrency: Practice and Experience</title-formerly>
+            <publisher>WILEY-BLACKWELL</publisher>
+            <pub-type>J</pub-type>
+            <language>ENGLISH</language>
+            <subject>COMPUTER SCIENCE, THEORY AND METHODS</subject>
+            <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+            <impact-factor-2010>0.907</impact-factor-2010>
+            <qualis-estrato>B2 ou A2?</qualis-estrato>
+            <site>http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291532-0634</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4316</id>
+            <idClass>10493</idClass>
+            <title>Annual Review in Automatic Programming</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>4120</id>
+            <idClass>10493</idClass>
+            <title>Annual Reviews in Control</title>
+            <title-formerly>Annual Review in Automatic Programming</title-formerly>
+            <pub-type>J</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+            <site>http://www.sciencedirect.com/science/journal/13675788</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3953</id>
+            <idClass>101696</idClass>
+            <acronym>ETT</acronym>
+            <title>European Transactions on Telecommunications</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>5320</id>
+            <idClass>101696</idClass>
+            <title>Transactions on Emerging Telecommunications Technologies</title>
+            <title-formerly>European Transactions on Telecommunications</title-formerly>
+            <pub-type>J</pub-type>
+            <site>http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291541-8251</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4019</id>
+            <idClass>101696</idClass>
+            <acronym>EUR TRANS TELECOMMUN</acronym>
+            <title>European Transactions on Telecommunications</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>5320</id>
+            <idClass>101696</idClass>
+            <title>Transactions on Emerging Telecommunications Technologies</title>
+            <title-formerly>European Transactions on Telecommunications</title-formerly>
+            <pub-type>J</pub-type>
+            <site>http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291541-8251</site>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3598</id>
+            <idClass>101774</idClass>
+            <acronym>IEEE SAP</acronym>
+            <title>IEEE Transactions on Speech and Audio Processing</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>5398</id>
+            <idClass>101774</idClass>
+            <title>IEEE Transactions on Audio, Speech and Language Processing</title>
+            <title-formerly>IEEE Transactions on Speech and Audio Processing</title-formerly>
+            <pub-type>J</pub-type>
+            <site>http://www.signalprocessingsociety.org/publications/periodicals/taslp/</site>
+    </pub-venue>
+</setId>

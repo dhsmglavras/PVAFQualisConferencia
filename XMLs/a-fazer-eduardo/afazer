@@ -1,0 +1,32 @@
+Fazeres:
+feito Adicionar todas as regras no resultado. preditos por regras. 
+feito Consertar o arquivo de teste (iscas).(canadian 15). 
+feito trocar symposium por conference para processamento. 
+feito adicionar a classe do gabarito no nova classe. 
+feito teste: comparar todos usando jaccard. verificar resultado. 
+feito teste: comparar com svm fazendo a normalizacao. 
+feito fazer comparacao usando palavras duplas. (um regra foi selecionada, nao ficou bom) 
+feito adicionar as informacoes quais que existem regra mais o valor do jaccard é menor que o threshold, e quais que não possuem regras. 
+feito calcular tempo entre metodos.  
+feito revisar o email. 
+feito considera como nova regra se existe regra e nao tem jaccard maior que threshold. 
+feito adicionar siglas no final de cada titulo na base de teste.
+feito fazer uma apresentacao explicar o algoritmo, complexidade, objetivo, motivacao, resultados. 20 minutos.
+feito adicionar os idClass.
+feito adicionar similaridade do cosseno. Foram reconhecidas duas instancias a mais, nas regras.
+feito nao posso remover numero junto com palavras, somente se estiverem separados.
+feito configurar normalize para arquivos
+feito rever normalizacao.
+
+feito Obter por bibtex. (http://liinwww.ira.uka.de/bibliography/index.html)
+feito criar um arguivo com os n primeiros jaccard. marcar os certos e errados.
+
+comparar usando outra base de teste. 
+usar  o jaccard para classificar semiautomaticamente a nova base de teste.
+
+corrigir a base.
+
+adicionar o id do veiculo no jaccard result
+
+
+	

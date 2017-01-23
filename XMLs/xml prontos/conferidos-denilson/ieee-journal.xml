@@ -1,0 +1,99 @@
+<publication-venues>
+   <from>IEEE - http://www.computer.org/csdl</from>
+   <pub-venue>
+      <id>16</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE/ACM Transactions on Computational Biology and Bioinformatics</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>17</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Affective Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>18</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Cloud Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>19</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Computers</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Dependable and Secure Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>21</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Emerging Topics in Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>22</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Haptics</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>23</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Knowledge & Data Engineering</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>24</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Learning Technologies</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>25</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Mobile Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>26</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Parallel & Distributed Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>27</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Pattern Analysis & Machine Intelligence</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>28</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Services Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>29</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Software Engineering</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>30</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Transactions on Visualization & Computer Graphics</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>31</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Computer Architecture Letters</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+</publication-venues>

@@ -1,0 +1,16 @@
+<publication-venues>
+   <from>Wikipedia</from>
+   <pub-venue>
+      <id>1</id>
+      <acronym>FCCM</acronym>
+      <pub-venue-title>FieldProgrammable Custom Computing Machines</pub-venue-title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <acronym>FCCM</acronym>
+      <pub-venue-title>IEEE Symposium on Field-Programmable Custom Computing Machines</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+</publication-venues>

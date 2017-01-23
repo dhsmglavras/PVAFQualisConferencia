@@ -1,0 +1,726 @@
+   juntado 
+   <pub-venue>
+      <id>3953</id>
+      <idClass>202011</idClass>
+      <entity>IEEE</entity>
+      <acronym>VolVis</acronym>
+      <title>IEEE Symposium on Volume Visualization and Graphics</title>
+      <title-formerly>workshop on visualization</title-formerly>
+      <title-formerly>Symposium on Volume Visualization</title-formerly>
+      <title-formerly>IEEE symposium on visualization</title-formerly>
+      <title-formerly>symposium on visualization</title-formerly>
+      <title-formerly>IEEE symposium on visualization and graphics</title-formerly>
+      <title-formerly>Chapel Hill workshop on visualization</title-formerly>
+      <acronym-formerly>VVS</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+      <pub-venue>
+      <id>4640</id>
+      <idClass>202718</idClass>
+      <entity>IEEE</entity>
+      <acronym>VolVis</acronym>
+      <acronym>VV</acronym>
+      <title>IEEE Symposium on Volume Visualization and Graphics</title>
+      <title>IEEE/SIGGRAPH Symposium on Volume Visualization and Graphics</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   
+   
+   juntado
+      <pub-venue>
+      <id>4990</id>
+      <idClass>203093</idClass>
+      <acronym>ICGT</acronym>
+      <title>International Conference on Graph Transformation</title>
+      <title-formerly>International Workshop on Theory and Application of Graph Transformations</title-formerly>
+      <acronym-formerly>TAGT</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+      <pub-venue>
+      <id>2623</id>
+      <idClass>20669</idClass>
+      <acronym>ICGT</acronym>
+      <title>International Conference on Graph Transformation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   
+   
+   
+   juntado
+      <pub-venue>
+      <id>2593</id>
+      <idClass>20639</idClass>
+      <acronym>DEXA</acronym>
+      <title>International Conference on Database and Expert Systems Applications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+      <pub-venue>
+      <id>4121</id>
+      <idClass>202184</idClass>
+      <acronym>DEXA</acronym>
+      <title>International Conference on Database and Expert Systems Applications</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+
+
+juntado
+--------------------------------------------------------
+<pub-venue>
+   <id>2371</id>
+   <idClass>20417</idClass>
+   <entity>IEEE</entity>
+   <acronym>ISVLSI</acronym>
+   <title>Annual Symposium on VLSI</title>
+   <title>IEEE Computer Society Annual Symposium on VLSI</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B4</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>4421</id>
+   <idClass>202491</idClass>
+   <entity>IEEE</entity>
+   <acronym>ISVLSI</acronym>
+   <title>IEEE Computer Society Annual Symposium on VLSI</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+juntado
+--------------------------------------------------------
+<pub-venue>
+   <id>2915</id>
+   <idClass>20960</idClass>
+   <acronym>SPIRE</acronym>
+   <title>Symposium on String Processing and Information Retrieval</title>
+   <title>International Symposium on String Processing and Information Retrieval</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>5410</id>
+   <idClass>203539</idClass>
+   <acronym>SPIRE</acronym>
+   <title>International Symposium on String Processing and Information Retrieval</title>
+   <title-formerly>Workshop on String Processing</title-formerly>
+   <acronym-formerly>WSP</acronym-formerly>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2944</id>
+   <idClass>20990</idClass>
+   <acronym>PROPOR</acronym>
+   <title>Workshop on Computational Processing of Written and Spoken Portuguese</title>
+   <pub-type>W</pub-type>
+   <qualis-estrato>B3</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>3002</id>
+   <idClass>201049</idClass>
+   <acronym>PROPOR</acronym>
+   <title>Workshop on Computational Processing of the Portuguese Language</title>
+   <pub-type>W</pub-type>
+   <qualis-estrato>B5</qualis-estrato>
+</pub-venue>
+
+juntado e adicionado
+   <pub-venue>
+      <id>3002</id>
+      <idClass>201049</idClass>
+      <acronym>PROPOR</acronym>
+      <title>Workshop on Computational Processing of the Portuguese Language</title>
+      <title>Workshop on Computational Processing of the Portuguese Language - Written and Spoken</title>
+      <title>Workshop on Computational Processing of Written and Spoken Portuguese</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2634</id>
+   <idClass>20680</idClass>
+   <acronym>ILP</acronym>
+   <title>International Conference on Inductive Logic Programming</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>5119</id>
+   <idClass>203234</idClass>
+   <acronym>ILP</acronym>
+   <title>International Workshop on Inductive Logic Programming</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+juntado
+<pub-venue>
+   <id>2634</id>
+   <idClass>20680</idClass>
+   <acronym>ILP</acronym>
+   <title>International Conference on Inductive Logic Programming</title>
+   <title-formerly>International Workshop on Inductive Logic Programming</title-formerly>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>1991</id>
+   <idClass>2039</idClass>
+   <acronym>LOPSTR</acronym>
+   <title>International Symposium on Logic-based Program Synthesis and Transformation</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>5236</id>
+   <idClass>203354</idClass>
+   <acronym>LOPSTR</acronym>
+   <title>International Workshop on Logic Program Synthesis and Transformation</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+juntado
+<pub-venue>
+   <id>1991</id>
+   <idClass>2039</idClass>
+   <acronym>LOPSTR</acronym>
+   <title>International Symposium on Logic-based Program Synthesis and Transformation</title>
+   <title-formerly>International Workshop on Logic Program Synthesis and Transformation</title-formerly>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+
+
+--------------------------------------------------------
+--------------------------------------------------------
+<pub-venue>
+   <id>2201</id>
+   <idClass>20246</idClass>
+   <entity>IEEE</entity>
+   <acronym>ICDCS</acronym>
+   <title>IEEE International Conference on Distributed Computing Systems</title> mantido
+   <pub-type>C</pub-type>
+   <qualis-estrato>B1</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>4720</id>
+   <idClass>202807</idClass>
+   <acronym>ICDCS</acronym>
+   <title>International Conference on Distributed ComputingSystems</title> removido
+   <pub-type>C</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2911</id>
+   <idClass>20956</idClass>
+   <acronym>PEPM</acronym>
+   <title>Symposium on Partial Evaluation and Program Manipulation</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B4</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>3611</id>
+   <idClass>201661</idClass>
+   <entity>ACM</entity>
+   <acronym>PEPM</acronym>
+   <title>ACM SIGPLAN workshop on Partial evaluation and program manipulation</title>
+   <title-formerly>ACM SIGPLAN workshop on Partial evaluation and semantics-based program manipulation</title-formerly>
+   <title-formerly>ACM SIGPLAN Symposium on Partial Evaluation and Semantics-based Program Manipulation</title-formerly>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+juntado 
+   <pub-venue>
+      <id>2911</id>
+      <idClass>20956</idClass>
+      <acronym>PEPM</acronym>
+      <title-formerly>Symposium on Partial Evaluation and Program Manipulation</title-formerly>
+      <title>ACM SIGPLAN workshop on Partial evaluation and program manipulation</title>
+      <title-formerly>ACM SIGPLAN workshop on Partial evaluation and semantics-based program manipulation</title-formerly>
+      <title-formerly>ACM SIGPLAN Symposium on Partial Evaluation and Semantics-based Program Manipulation</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2729</id>
+   <idClass>20772</idClass>
+   <acronym>ALT</acronym>
+   <title>International Conferences on Algorithmic Learning Theory</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B3</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>4744</id>
+   <idClass>202831</idClass>
+   <acronym>ALT</acronym>
+   <title>International Workshop on Algorithmic Learning Theory</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+juntado
+
+   <pub-venue>
+      <id>2729</id>
+      <idClass>20772</idClass>
+      <acronym>ALT</acronym>
+      <title>International Conferences on Algorithmic Learning Theory</title>
+      <title-formerly>International Workshop on Algorithmic Learning Theory</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+
+--------------------------------------------------------
+--------------------------------------------------------
+<pub-venue>
+   <id>2871</id>
+   <idClass>20915</idClass>
+   <acronym>LDTA</acronym>
+   <title>Language Descriptions Tools and Applications</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B4</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>3462</id>
+   <idClass>201510</idClass>
+   <entity>ACM</entity>
+   <acronym>LDTA</acronym>
+   <title>Workshop on Language Descriptions, Tools and Applications</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+juntado
+<pub-venue>
+   <id>3462</id>
+   <idClass>201510</idClass>
+   <entity>ACM</entity>
+   <acronym>LDTA</acronym>
+   <title>Workshop on Language Descriptions, Tools and Applications</title>
+   <title>Language Descriptions Tools and Applications</title>
+   <qualis-estrato>B4</qualis-estrato>
+   <pub-type>W</pub-type>
+</pub-venue>
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2228</id>
+   <idClass>20273</idClass>
+   <acronym>SAC</acronym>
+   <title>ACM Symposium on Applied Computing</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B3</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>3675</id>
+   <idClass>201726</idClass>
+   <entity>ACM</entity>
+   <acronym>SAC</acronym>
+   <title>workshop on Applied computing</title> removido
+   <title>Annual ACM Symposium on Applied Computing</title>
+   <title>ACM Symposium on Applied Computing</title>
+   <title>ACM/SIGAPP symposium on Applied computing</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+juntado
+
+<pub-venue>
+   <id>3675</id>
+   <idClass>201726</idClass>
+   <entity>ACM</entity>
+   <acronym>SAC</acronym>
+   <title>Annual ACM Symposium on Applied Computing</title>
+   <title>ACM Symposium on Applied Computing</title>
+   <title>ACM/SIGAPP symposium on Applied computing</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B3</qualis-estrato>
+</pub-venue>
+
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2014</id>
+   <idClass>2063</idClass>
+   <entity>IEEE</entity>
+   <acronym>CLUSTER</acronym>
+   <title>International Conference on Cluster Computing</title>
+   <title>IEEE International Conference on Cluster Computing</title>
+   <title>Cluster Computing Conference</title>
+   <title-formerly>IEEE International Workshop on Cluster Computing</title-formerly>
+   <acronym-formerly>IWCC</acronym-formerly>
+   <pub-type>W</pub-type>
+   <qualis-estrato>B5</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>2452</id>
+   <idClass>20495</idClass>
+   <acronym>IWCC</acronym>
+   <title>IEEE International Workshop on Cluster Computing</title>
+   <title>International Workshop on Cluster Computing</title>
+   <pub-type>W</pub-type>
+   <qualis-estrato>B4</qualis-estrato>
+</pub-venue>
+
+juntado 
+<pub-venue>
+   <id>2014</id>
+   <idClass>2063</idClass>
+   <entity>IEEE</entity>
+   <acronym>CLUSTER</acronym>
+   <title>International Conference on Cluster Computing</title>
+   <title>IEEE International Conference on Cluster Computing</title>
+   <title>Cluster Computing Conference</title>
+   <title-formerly>IEEE International Workshop on Cluster Computing</title-formerly>
+   <title-formerly>International Workshop on Cluster Computing</title-formerly>
+   <acronym-formerly>IWCC</acronym-formerly>
+   <pub-type>W</pub-type>
+   <qualis-estrato>B5</qualis-estrato>
+</pub-venue>
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2038</id>
+   <idClass>2087</idClass>
+   <entity>ACM</entity>
+   <acronym>NOSSDAV</acronym>
+   <title>International Workshop on Network and Operating System Support for Digital Audio and Video</title>
+   <title>International Workshop on Network and Operating Systems Support for Digital Audio and Video</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+<pub-venue>
+   <id>2883</id>
+   <idClass>20928</idClass>
+   <acronym>NOSSDAV</acronym>
+   <title>Network and Operating System Support for Digital A/V</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+
+juntado
+<pub-venue>
+   <id>2038</id>
+   <idClass>2087</idClass>
+   <entity>ACM</entity>
+   <acronym>NOSSDAV</acronym>
+   <title>International Workshop on Network and Operating System Support for Digital Audio and Video</title>
+   <title>International Workshop on Network and Operating Systems Support for Digital Audio and Video</title>
+   <title>Network and Operating System Support for Digital A/V</title>
+   <pub-type>W</pub-type>
+   <qualis-estrato>B2</qualis-estrato>
+</pub-venue>
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2063</id>
+   <idClass>20112</idClass>
+   <acronym>CoNEXT</acronym>
+   <title>ACM Conference on emerging Networking EXperiments and Technologies</title>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+<pub-venue>
+   <id>3180</id>
+   <idClass>201226</idClass>
+   <entity>ACM</entity>
+   <acronym>Co-NEXT</acronym>
+   <acronym>CoNEXT</acronym>
+   <title>international student workshop on Emerging networking experiments and technologies</title>
+   <title>ACM CoNEXT Student Workshop</title>
+   <title>international conference on Emerging networking experiments and technologies</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+<pub-venue>
+   <id>4852</id>
+   <idClass>202946</idClass>
+   <acronym>CoNEXT</acronym>
+   <title>Conference on Emerging Network Experiment and Technology</title>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+juntado
+<pub-venue>
+   <id>3180</id>
+   <idClass>201226</idClass>
+   <entity>ACM</entity>
+   <acronym>Co-NEXT</acronym>
+   <acronym>CoNEXT</acronym>
+   <title>international student workshop on Emerging networking experiments and technologies</title>
+   <title>ACM CoNEXT Student Workshop</title>
+   <title>international conference on Emerging networking experiments and technologies</title>
+   <title>Conference on Emerging Network Experiment and Technology</title>
+   <title>ACM Conference on emerging Networking EXperiments and Technologies</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2136</id>
+   <idClass>20182</idClass>
+   <entity>ACM</entity>
+   <entity>IFAAMAS</entity>
+   <acronym>AAMAS</acronym>
+   <title>International Joint Conference on Autonomous Agents and Multiagents Systems</title>
+   <title>International Joint Conference on Autonomous Agents and Multiagent Systems</title>
+   <title>International Conference on Autonomous Agents and Multiagent Systems</title>
+   <title-formerly>international conference on Advanced Agent Technology</title-formerly>
+   <merge-of-title>International Conference on Multiagent Systems</merge-of-title>
+   <merge-of-title>Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+   <merge-of-title>International Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+   <merge-of-title>International Conference on Autonomous Agents</merge-of-title>
+   <merge-of-acronym>AA</merge-of-acronym>
+   <merge-of-acronym>AGENTS</merge-of-acronym>
+   <merge-of-acronym>ATAL</merge-of-acronym>
+   <merge-of-acronym>ICMAS</merge-of-acronym>
+   <pub-type>W</pub-type>
+   <qualis-estrato>A2</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>4296</id>
+   <idClass>202365</idClass>
+   <acronym>ICMAS</acronym>
+   <title>International Conference on Multi-Agent Systems</title>
+   <title>International Conference on Multiagent Systems</title>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+juntado
+<pub-venue>
+   <id>2136</id>
+   <idClass>20182</idClass>
+   <entity>ACM</entity>
+   <entity>IFAAMAS</entity>
+   <acronym>AAMAS</acronym>
+   <title>International Joint Conference on Autonomous Agents and Multiagents Systems</title>
+   <title>International Joint Conference on Autonomous Agents and Multiagent Systems</title>
+   <title>International Conference on Autonomous Agents and Multiagent Systems</title>
+   <title-formerly>international conference on Advanced Agent Technology</title-formerly>
+   <merge-of-title>International Conference on Multiagent Systems</merge-of-title>
+   <merge-of-title>International Conference on Multi-Agent Systems</merge-of-title>
+   <merge-of-title>International Conference on Multiagent Systems</merge-of-title>
+   <merge-of-title>Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+   <merge-of-title>International Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+   <merge-of-title>International Conference on Autonomous Agents</merge-of-title>
+   <merge-of-acronym>AA</merge-of-acronym>
+   <merge-of-acronym>AGENTS</merge-of-acronym>
+   <merge-of-acronym>ATAL</merge-of-acronym>
+   <merge-of-acronym>ICMAS</merge-of-acronym>
+   <pub-type>C</pub-type>
+   <qualis-estrato>A2</qualis-estrato>
+</pub-venue>
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>3862</id>
+   <idClass>201927</idClass>
+   <entity>IEEE</entity>
+   <entity>ACM</entity>
+   <acronym>WI-IATW</acronym>
+   <title>IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+<pub-venue>
+   <id>4641</id>
+   <idClass>202731</idClass>
+   <entity>WIC</entity>
+   <entity>IEEE</entity>
+   <entity>ACM</entity>
+   <acronym>WI-IAT</acronym>
+   <title>IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology</title>
+   <title-formerly>IEEE / WIC / ACM International Conference on Web Intelligence</title-formerly>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+
+juntada
+<pub-venue>
+   <id>4641</id>
+   <idClass>202731</idClass>
+   <entity>WIC</entity>
+   <entity>IEEE</entity>
+   <entity>ACM</entity>
+   <acronym>WI-IAT</acronym>
+   <acronym>WI-IATW</acronym>
+   <title>IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology</title>
+   <title-formerly>IEEE / WIC / ACM International Conference on Web Intelligence</title-formerly>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+--------------------------------------------------------
+<pub-venue>
+   <id>4651</id>
+   <idClass>202741</idClass>
+   <acronym>WKDD</acronym>
+   <title>International Conference on Knowledge Discovery and Data Mining</title>
+   <title-formerly>International Workshop on Knowledge Discovery and Data Mining</title-formerly>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+<pub-venue>
+   <id>4776</id>
+   <idClass>202876</idClass>
+   <title>International Conference on Knowledge Discovery and Data Mining</title>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+trocado o pubType para C
+<pub-venue>
+   <id>4651</id>
+   <idClass>202741</idClass>
+   <acronym>WKDD</acronym>
+   <title>International Conference on Knowledge Discovery and Data Mining</title>
+   <title-formerly>International Workshop on Knowledge Discovery and Data Mining</title-formerly>
+   <pub-type>C</pub-type>
+</pub-venue>
+--------------------------------------------------------
+--------------------------------------------------------
+<pub-venue>
+   <id>2201</id>
+   <idClass>20247</idClass>
+   <entity>IEEE</entity>
+   <entity>ACM</entity>
+   <acronym>DCOSS</acronym>
+   <title>IEEE International Conference on Distributed Computing in Sensor Systems</title>
+   <title>International Conference on Distributed Computing in Sensor Systems</title>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+<pub-venue>removido
+   <id>4102</id>
+   <idClass>202175</idClass>
+   <acronym>DCOSS</acronym>
+   <title>International Conference on Distributed Computing in Sensor Systems</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2135</id>
+   <idClass>20182</idClass>
+   <entity>ACM</entity>
+   <entity>IFAAMAS</entity>
+   <acronym>AAMAS</acronym>
+   <title>International Joint Conference on Autonomous Agents and Multiagents Systems</title>
+   <title>International Joint Conference on Autonomous Agents and Multiagent Systems</title>
+   <title>International Conference on Autonomous Agents and Multiagent Systems</title>
+   <title-formerly>international conference on Advanced Agent Technology</title-formerly>
+   <merge-of-title>International Conference on Multi-Agent Systems</merge-of-title>
+   <merge-of-title>International Conference on Multiagent Systems</merge-of-title>
+   <merge-of-title>Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+   <merge-of-title>International Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+   <merge-of-title>International Conference on Autonomous Agents</merge-of-title>
+   <merge-of-acronym>AA</merge-of-acronym>
+   <merge-of-acronym>AGENTS</merge-of-acronym>
+   <merge-of-acronym>ATAL</merge-of-acronym>
+   <merge-of-acronym>ICMAS</merge-of-acronym>
+   <pub-type>C</pub-type>
+   <qualis-estrato>A2</qualis-estrato>
+</pub-venue>
+
+<pub-venue>removido
+   <id>4714</id>
+   <idClass>202812</idClass>
+   <acronym>Agents</acronym>
+   <title>International Conference on Autonomous Agents</title>
+   <pub-type>C</pub-type>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+
+--------------------------------------------------------
+<pub-venue>
+   <id>2409</id>
+   <idClass>20454</idClass>
+   <acronym>ICPC</acronym>
+   <title>IEEE International Conference on Program Comprehension</title>
+   <title>International Conference on Program Comprehension</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>A2</qualis-estrato>
+</pub-venue>
+
+<pub-venue>
+   <id>4663</id>
+   <idClass>202753</idClass>
+   <acronym>WPC</acronym>
+   <acronym>IWPC</acronym>
+   <acronym>ICPC</acronym>
+   <title>International Workshop on Program Comprehension</title>
+   <title>International Conference on Program Comprehension</title>
+   <pub-type>W</pub-type>
+</pub-venue>
+
+
+juntado
+
+<pub-venue>
+   <id>4663</id>
+   <idClass>202753</idClass>
+   <acronym>WPC</acronym>
+   <acronym>IWPC</acronym>
+   <acronym>ICPC</acronym>
+   <title>International Workshop on Program Comprehension</title>
+   <title>International Conference on Program Comprehension</title>
+   <title>IEEE International Conference on Program Comprehension</title>
+   <pub-type>C</pub-type>
+   <qualis-estrato>A2</qualis-estrato>
+</pub-venue>
+
+--------------------------------------------------------
+
+
+
+
+
+
+

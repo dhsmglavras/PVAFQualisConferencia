@@ -1,0 +1,325 @@
+<publication-venues>
+   <from>ACM</from>
+   <pub-venue>
+      <id>1126</id>
+      <entity>ACM</entity>
+      <acronym>CSUR</acronym>
+      <pub-venue-title>ACM Computing Surveys</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/surveys/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1127</id>
+      <entity>ACM</entity>
+      <acronym>JACM</acronym>
+      <pub-venue-title>Journal of the ACM</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://jacm.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1128</id>
+      <entity>ACM</entity>
+      <acronym>JDIQ</acronym>
+      <pub-venue-title>Journal of Data and Information Quality</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://jdiq.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1129</id>
+      <entity>ACM</entity>
+      <acronym>JEA</acronym>
+      <pub-venue-title>Journal of Experimental Algorithmics</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://magritte.info.uniroma2.it/jea/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1130</id>
+      <entity>ACM</entity>
+      <acronym>JETC</acronym>
+      <pub-venue-title>ACM Journal on Emerging Technologies in Computing Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/jetc/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1131</id>
+      <entity>ACM</entity>
+      <acronym>JOCCH</acronym>
+      <pub-venue-title>Journal on Computing and Cultural Heritage</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/jocch/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1132</id>
+      <entity>ACM</entity>
+      <acronym>TAAS</acronym>
+      <pub-venue-title>ACM Transactions on Autonomous and Adaptive Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/taas/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1133</id>
+      <entity>ACM</entity>
+      <acronym>TACCESS</acronym>
+      <pub-venue-title>ACM Transactions on Accessible Computing</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://taccess.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1134</id>
+      <entity>ACM</entity>
+      <acronym>TACO</acronym>
+      <pub-venue-title>ACM Transactions on Architecture and Code Optimization</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/taco/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1135</id>
+      <entity>ACM</entity>
+      <acronym>TALG</acronym>
+      <pub-venue-title>ACM Transactions on Algorithms</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/talg/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1136</id>
+      <entity>ACM</entity>
+      <acronym>TALIP</acronym>
+      <pub-venue-title>ACM Transactions on Asian Language Information Processing</pub-venue-title>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>1137</id>
+      <entity>ACM</entity>
+      <acronym>TAP</acronym>
+      <pub-venue-title>ACM Transactions on Applied Perception</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tap/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1138</id>
+      <entity>ACM</entity>
+      <entity>IEEE</entity>
+      <acronym>TCBB</acronym>
+      <pub-venue-title>IEEE/ACM Transactions on Computational Biology and Bioinformatics</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://tcbb.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1139</id>
+      <entity>ACM</entity>
+      <acronym>TECS</acronym>
+      <pub-venue-title>ACM Transactions on Embedded Computing Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tecs/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1140</id>
+      <entity>ACM</entity>
+      <acronym>TiiS</acronym>
+      <pub-venue-title>ACM Transactions on Interactive Intelligent Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://tiis.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1141</id>
+      <entity>ACM</entity>
+      <acronym>TISSEC</acronym>
+      <pub-venue-title>ACM Transactions on Information and System Security</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tissec/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1142</id>
+      <entity>ACM</entity>
+      <acronym>TIST</acronym>
+      <pub-venue-title>ACM Transactions on Intelligent Systems and Technology</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://tist.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1143</id>
+      <entity>ACM</entity>
+      <acronym>TKDD</acronym>
+      <pub-venue-title>ACM Transactions on Knowledge Discovery from Data</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/tkdd/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1144</id>
+      <entity>ACM</entity>
+      <acronym>TOCE</acronym>
+      <pub-venue-title>ACM Transactions on Computing Education</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://toce.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1145</id>
+      <entity>ACM</entity>
+      <acronym>TOCHI</acronym>
+      <pub-venue-title>ACM Transactions on Computer-Human Interaction</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/tochi/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1146</id>
+      <entity>ACM</entity>
+      <acronym>TOCL</acronym>
+      <pub-venue-title>ACM Transactions on Computational Logic</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/tocl/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1147</id>
+      <entity>ACM</entity>
+      <acronym>TOCS</acronym>
+      <pub-venue-title>ACM Transactions on Computer Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tocs</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1148</id>
+      <entity>ACM</entity>
+      <acronym>TOCT</acronym>
+      <pub-venue-title>ACM Transactions on Computation Theory</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://toct.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1149</id>
+      <entity>ACM</entity>
+      <acronym>TODAES</acronym>
+      <pub-venue-title>ACM Transactions on Design Automation of Electronic Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/todaes/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1150</id>
+      <entity>ACM</entity>
+      <acronym>TODS</acronym>
+      <pub-venue-title>ACM Transactions on Database Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tods/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1151</id>
+      <entity>ACM</entity>
+      <acronym>TOG</acronym>
+      <pub-venue-title>ACM Transactions on Graphics</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/tog/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1152</id>
+      <entity>ACM</entity>
+      <acronym>TOIT</acronym>
+      <pub-venue-title>ACM Transactions on Internet Technology</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://toit.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1153</id>
+      <entity>ACM</entity>
+      <acronym>TOMACS</acronym>
+      <pub-venue-title>ACM Transactions on Modeling and Computer Simulation</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tomacs/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1154</id>
+      <entity>ACM</entity>
+      <acronym>TOMCCAP</acronym>
+      <pub-venue-title>ACM Transactions on Multimedia Computing, Communications, and Applications</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/tomccap/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1155</id>
+      <entity>ACM</entity>
+      <acronym>TOMS</acronym>
+      <pub-venue-title>ACM Transactions on Mathematical Software</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/toms/http://calgo.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1156</id>
+      <entity>ACM</entity>
+      <entity>IEEE</entity>
+      <acronym>TON</acronym>
+      <pub-venue-title>IEEE/ACM Transactions on Networking</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.ieee-acm-ton.org/http://www.ieee-acm-ton.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1157</id>
+      <entity>ACM</entity>
+      <acronym>TOPLAS</acronym>
+      <pub-venue-title>ACM Transactions on Programming Languages and Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/toplas/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1158</id>
+      <entity>ACM</entity>
+      <acronym>TOS</acronym>
+      <pub-venue-title>ACM Transactions on Storage</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/pubs/tos/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1159</id>
+      <entity>ACM</entity>
+      <acronym>TOSEM</acronym>
+      <pub-venue-title>ACM Transactions on Software Engineering and Methodology</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tosem/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1160</id>
+      <entity>ACM</entity>
+      <acronym>TOSN</acronym>
+      <pub-venue-title>ACM Transactions on Sensor Networks</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tosn/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1161</id>
+      <entity>ACM</entity>
+      <acronym>TRETS</acronym>
+      <pub-venue-title>ACM Transactions on Reconfigurable Technology and Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://trets.cse.sc.edu/index.html</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1162</id>
+      <entity>ACM</entity>
+      <acronym>TSLP</acronym>
+      <pub-venue-title>ACM Transactions on Speech and Language Processing</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tslp/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1163</id>
+      <entity>ACM</entity>
+      <acronym>TWEB</acronym>
+      <pub-venue-title>ACM Transactions on the Web</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tweb/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1177</id>
+      <entity>ACM</entity>
+      <acronym>TMIS</acronym>
+      <pub-venue-title>ACM Transactions on Management Information Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://tmis.acm.org/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>1178</id>
+      <entity>ACM</entity>
+      <acronym>TOIS</acronym>
+      <pub-venue-title>ACM Transactions on Information Systems</pub-venue-title>
+      <pub-type>J</pub-type>
+      <site>http://www.acm.org/tois/</site>
+   </pub-venue>
+</publication-venues>
+

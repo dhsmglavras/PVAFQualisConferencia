@@ -1,0 +1,5348 @@
+
+
+
+
+Correcter.
+Tested : JCSS
+IdClass: 3831
+Cleared: jcss
+
+Correct: 
+titleSelect:  JCSS
+IdClass: 3831
+Jaccard: 1.0
+Cleared    : jcss
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm cacm comm
+
+Correct: 
+titleSelect:  COMMUNICATIONS OF THE ACM CACM
+IdClass: 3802
+Jaccard: 0.5
+Cleared    : acm cacm communications
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1800
+Cleared: acm algorithms conference discrete siam soda thannual
+
+Correct: 
+titleSelect:  Annual ACM-SIAM Symposium on Discrete Algorithms SODA
+IdClass: 1800
+Jaccard: 0.8571428571428571
+Cleared    : acm algorithms conference discrete siam soda
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai artificial conference intelligence national vol
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.8333333333333334
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: acm computer conference graphics siggraph
+
+Correct: 
+titleSelect:  Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Jaccard: 0.8
+Cleared    : computer conference graphics siggraph
+
+
+
+
+Correcter.
+Tested : Design Automation Conference DAC
+IdClass: 107
+Cleared: automation conference dac design
+
+Correct: 
+titleSelect:  Design Automation Conference DAC
+IdClass: 107
+Jaccard: 1.0
+Cleared    : automation conference dac design
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: celebrating chi computing conference factors human interdependence sigchi systems
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 0.7777777777777778
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: conference data management sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.8
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: siggraph sketch
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.5
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: acm course siggraph
+
+Correct: 
+titleSelect:  ACM SIGGRAPH
+IdClass: 215
+Jaccard: 0.6666666666666666
+Cleared    : acm siggraph
+
+
+
+
+Correcter.
+Tested : ACM TRANSACTIONS ON DATABASE SYSTEMS TODS
+IdClass: 3843
+Cleared: acm database systems tods transactions
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON DATABASE SYSTEMS TODS
+IdClass: 3843
+Jaccard: 1.0
+Cleared    : acm database systems tods transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: conference loth operating principles sosp systems
+
+Correct: 
+titleSelect:  symposium on Operating systems principles SOSP
+IdClass: 80
+Jaccard: 0.8333333333333334
+Cleared    : conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 184
+Cleared: conference icml ieee learning machine
+
+Correct: 
+titleSelect:  Annual International Conference on Machine Learning ICML
+IdClass: 184
+Jaccard: 0.8
+Cleared    : conference icml learning machine
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer internationalsymposium isca
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.6
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: conference icde ieee
+
+Correct: 
+titleSelect:  IEEE International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 0.6
+Cleared    : conference data engineering icde ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: computing conference dust mobicom mobile networking smart
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 0.625
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : ACM SIGGRAPH Proceedings
+IdClass: 215
+Cleared: acm siggraph
+
+Correct: 
+titleSelect:  ACM SIGGRAPH
+IdClass: 215
+Jaccard: 1.0
+Cleared    : acm siggraph
+
+
+
+
+Correcter.
+Tested : ACM Trans. Database Syst. TODS
+IdClass: 3843
+Cleared: acm database syst tods transactions
+
+Correct: 
+titleSelect:  ACM Trans. Database Syst. TODS
+IdClass: 3843
+Jaccard: 1.0
+Cleared    : acm database syst tods transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: siggraph siggraph96
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.5
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial conference ijcai intelligenee joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.6666666666666666
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 124
+Cleared: acm ieee mobicom
+
+Wrong: 
+titleSelect:  IEEE ACM T NETWORK
+IdClass: 3813
+Jaccard: 0.5
+Cleared    : acm ieee network
+
+
+
+
+Correcter.
+Tested : IJCAI
+IdClass: 179
+Cleared: ijcai
+
+Correct: 
+titleSelect:  IJCAI
+IdClass: 179
+Jaccard: 1.0
+Cleared    : ijcai
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: art ciaal conference ijcai intelligence joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.5714285714285714
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: dc ijcai washington
+
+Correct: 
+titleSelect:  IJCAI
+IdClass: 179
+Jaccard: 0.3333333333333333
+Cleared    : ijcai
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 107
+Cleared: automation conference dac design ieee
+
+Correct: 
+titleSelect:  Annual ACM/IEEE Design Automation Conference DAC
+IdClass: 107
+Jaccard: 0.8333333333333334
+Cleared    : acm automation conference dac design ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4030
+Cleared: acm atomic data languages programming systems toplas transactions types
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS TOPLAS
+IdClass: 4030
+Jaccard: 0.6666666666666666
+Cleared    : acm languages programming systems toplas transactions
+
+
+
+
+Correcter.
+Tested : ACM TRANSACTIONS ON GRAPHICS TOG
+IdClass: 4028
+Cleared: acm graphics tog transactions
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON GRAPHICS TOG
+IdClass: 4028
+Jaccard: 1.0
+Cleared    : acm graphics tog transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 115
+Cleared: iptps iptps05
+
+Correct: 
+titleSelect:  IPTPS
+IdClass: 115
+Jaccard: 0.5
+Cleared    : iptps
+
+
+
+
+Correcter.
+Tested : ACM Symposium on Theory of Computing STOC
+IdClass: 1
+Cleared: acm computing conference stoc theory
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 1.0
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm cacm communications oftbe
+
+Correct: 
+titleSelect:  COMMUNICATIONS OF THE ACM CACM
+IdClass: 3802
+Jaccard: 0.75
+Cleared    : acm cacm communications
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: conference data management sigmod theacm
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.6666666666666666
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Cleared: aaai artificial conference intelligence national
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 1.0
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : VLDB
+IdClass: 158
+Cleared: vldb
+
+Correct: 
+titleSelect:  VLDB
+IdClass: 158
+Jaccard: 1.0
+Cleared    : vldb
+
+
+
+
+Correcter.
+Tested : Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Cleared: artificial conference intelligence uai uncertainty
+
+Correct: 
+titleSelect:  Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Jaccard: 1.0
+Cleared    : artificial conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: acm architecture computer conference ieee isca lay
+
+Correct: 
+titleSelect:  ACM International Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.7142857142857143
+Cleared    : acm architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: acm architecture computer conference ieee isca
+
+Correct: 
+titleSelect:  ACM International Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.8333333333333334
+Cleared    : acm architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer conference dataflow isca program requirements resource
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.5
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4030
+Cleared: acm languages programming systems toplas transactionson
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS TOPLAS
+IdClass: 4030
+Jaccard: 0.7142857142857143
+Cleared    : acm languages programming systems toplas transactions
+
+
+
+
+Correcter.
+Tested : International Conference on Computer Aided Verification CAV
+IdClass: 76
+Cleared: aided cav computer conference verification
+
+Correct: 
+titleSelect:  International Conference on Computer Aided Verification CAV
+IdClass: 76
+Jaccard: 1.0
+Cleared    : aided cav computer conference verification
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: languages popl principles programming
+
+Correct: 
+titleSelect:  Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.8
+Cleared    : conference languages popl principles programming
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3813
+Cleared: acm networking ton transactions
+
+Correct: 
+titleSelect:  IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Jaccard: 0.8
+Cleared    : acm ieee networking ton transactions
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 29
+Cleared: acm pldi sigplan
+
+Wrong: 
+titleSelect:  ACM Sigplan Not.
+IdClass: 4026
+Jaccard: 0.5
+Cleared    : acm not sigplan
+
+
+
+
+Correcter.
+Tested : IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Cleared: automation conference icra ieee robotics
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 1.0
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4030
+Cleared: acm toplas
+
+Correct: 
+titleSelect:  TOPLAS
+IdClass: 4030
+Jaccard: 0.5
+Cleared    : toplas
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: changing chi computing conference factors human our sigchi systems world
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 0.7
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 3813
+Cleared: networks ton transactions
+
+Wrong: 
+titleSelect:  ACM Transactions on Sensor Networks
+IdClass: 3849
+Jaccard: 0.4
+Cleared    : acm networks sensor transactions
+
+
+
+
+Correcter.
+Tested : IEEE TRANSACTIONS ON SOFTWARE ENGINEERING TSE
+IdClass: 4053
+Cleared: engineering ieee software transactions tse
+
+Correct: 
+titleSelect:  IEEE TRANSACTIONS ON SOFTWARE ENGINEERING TSE
+IdClass: 4053
+Jaccard: 1.0
+Cleared    : engineering ieee software transactions tse
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: acm conference design implementation language pldi programming sigplam
+
+Correct: 
+titleSelect:  ACM-SIGPLAN Symposium on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.7777777777777778
+Cleared    : acm conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: conference popl
+
+Correct: 
+titleSelect:  POPL
+IdClass: 28
+Jaccard: 0.5
+Cleared    : popl
+
+
+
+
+Correcter.
+Tested : ACM SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Cleared: acm conference design implementation language pldi programming sigplan
+
+Correct: 
+titleSelect:  ACM-SIGPLAN Symposium on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 1.0
+Cleared    : acm conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4053
+Cleared: eng ieee software transactions tse
+
+Correct: 
+titleSelect:  IEEE T SOFTWARE ENG TSE
+IdClass: 4053
+Jaccard: 0.8
+Cleared    : eng ieee software tse
+
+
+
+
+Correcter.
+Tested : TSE
+IdClass: 4053
+Cleared: tse
+
+Correct: 
+titleSelect:  TSE
+IdClass: 4053
+Jaccard: 1.0
+Cleared    : tse
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: artificial conference francisco intelligence san uai uncertainty
+
+Correct: 
+titleSelect:  Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Jaccard: 0.7142857142857143
+Cleared    : artificial conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm stoc
+
+Correct: 
+titleSelect:  STOC
+IdClass: 1
+Jaccard: 0.5
+Cleared    : stoc
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: acm conference languages popl principles programming
+
+Correct: 
+titleSelect:  ACM-SIGACT Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.8571428571428571
+Cleared    : acm conference languages popl principles programming sigact
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: control hierarchical siggraph spacetime
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.25
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : ACM annual conference on Human Factors in Computing Systems CHI
+IdClass: 227
+Cleared: acm chi computing conference factors human systems
+
+Correct: 
+titleSelect:  ACM Conference on Human Factors in Computing Systems CHI
+IdClass: 227
+Jaccard: 1.0
+Cleared    : acm chi computing conference factors human systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 420
+Cleared: cdc conference control decisions ieee
+
+Correct: 
+titleSelect:  IEEE Conference on Decision and Control CDC
+IdClass: 420
+Jaccard: 0.6666666666666666
+Cleared    : cdc conference control decision ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: ai conference ijcai joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.5
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 159
+Cleared: acm conference database pods principles selected sigact sigart sigmod systems
+
+Correct: 
+titleSelect:  ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems PODS
+IdClass: 159
+Jaccard: 0.9
+Cleared    : acm conference database pods principles sigact sigart sigmod systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3813
+Cleared: adaptation ieee networking recovery srm timer ton transactions
+
+Correct: 
+titleSelect:  IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Jaccard: 0.4444444444444444
+Cleared    : acm ieee networking ton transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: acm address conference keynote operating principles sosp systems
+
+Correct: 
+titleSelect:  ACM Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Jaccard: 0.75
+Cleared    : acm conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : TOPLAS
+IdClass: 4030
+Cleared: toplas
+
+Correct: 
+titleSelect:  TOPLAS
+IdClass: 4030
+Jaccard: 1.0
+Cleared    : toplas
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3860
+Cleared: acm ccr communication computer review
+
+Correct: 
+titleSelect:  COMPUTER COMMUNICATION REVIEW ACM SIGCOMM
+IdClass: 3860
+Jaccard: 0.6666666666666666
+Cleared    : acm communication computer review sigcomm
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial confr ijcai intelligence joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.6666666666666666
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : SIAM J COMPUT
+IdClass: 4121
+Cleared: comput journal siam
+
+Correct: 
+titleSelect:  SIAM J. Comput.
+IdClass: 4121
+Jaccard: 1.0
+Cleared    : comput journal siam
+
+
+
+
+Correcter.
+Tested : IEEE International Symposium on Circuits and Systems ISCAS
+IdClass: 99
+Cleared: circuits conference ieee iscas systems
+
+Correct: 
+titleSelect:  IEEE International Symposium on Circuits and Systems ISCAS
+IdClass: 99
+Jaccard: 1.0
+Cleared    : circuits conference ieee iscas systems
+
+
+
+
+Correcter.
+Tested : ICRA
+IdClass: 455
+Cleared: icra
+
+Correct: 
+titleSelect:  ICRA
+IdClass: 455
+Jaccard: 1.0
+Cleared    : icra
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: artificial conference intelligence mateo san twelth uai uncertainty
+
+Correct: 
+titleSelect:  Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Jaccard: 0.625
+Cleared    : artificial conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : Very Large Databases Conference VLDB
+IdClass: 158
+Cleared: conference databases large very vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 1.0
+Cleared    : conference databases large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: conference data engineering icde icde98
+
+Correct: 
+titleSelect:  International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 0.8
+Cleared    : conference data engineering icde
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 15
+Cleared: acm annu comput geom socg sympos
+
+Wrong: 
+titleSelect:  Discret. Comput. Geom.
+IdClass: 4087
+Jaccard: 0.2857142857142857
+Cleared    : comput discret geom
+
+
+
+
+Correcter.
+Tested : IPTPS
+IdClass: 115
+Cleared: iptps
+
+Correct: 
+titleSelect:  IPTPS
+IdClass: 115
+Jaccard: 1.0
+Cleared    : iptps
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: conference data eng icde
+
+Correct: 
+titleSelect:  International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 0.6
+Cleared    : conference data engineering icde
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 2
+Cleared: computer conference focs foundations fourty ieee science
+
+Correct: 
+titleSelect:  IEEE Symposium on Foundations of Computer Science FOCS
+IdClass: 2
+Jaccard: 0.8571428571428571
+Cleared    : computer conference focs foundations ieee science
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai artificial conference intelligence providence thnational
+
+Correct: 
+titleSelect:  AAAI Conference on Artificial Intelligence
+IdClass: 178
+Jaccard: 0.6666666666666666
+Cleared    : aaai artificial conference intelligence
+
+
+
+
+Correcter.
+Tested : Symposium on Discrete Algorithms SODA
+IdClass: 1800
+Cleared: algorithms conference discrete soda
+
+Correct: 
+titleSelect:  Symposium on Discrete Algorithms SODA
+IdClass: 1800
+Jaccard: 1.0
+Cleared    : algorithms conference discrete soda
+
+
+
+
+Correcter.
+Tested : SOSP
+IdClass: 80
+Cleared: sosp
+
+Correct: 
+titleSelect:  SOSP
+IdClass: 80
+Jaccard: 1.0
+Cleared    : sosp
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 208
+Cleared: acl demonstration interactive sessions
+
+Correct: 
+titleSelect:  ACL
+IdClass: 208
+Jaccard: 0.25
+Cleared    : acl
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: ai conference uai uncertainty
+
+Correct: 
+titleSelect:  Conference in Uncertainty in Artifical Intelligence UAI
+IdClass: 181
+Jaccard: 0.5
+Cleared    : artifical conference intelligence uai uncertainty
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 158
+Cleared: conference vldb
+
+Wrong: 
+titleSelect:  International B Conference B
+IdClass: 3639
+Jaccard: 0.5
+Cleared    : conference
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acm sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD Conference SIGMOD
+IdClass: 157
+Jaccard: 0.6666666666666666
+Cleared    : acm conference sigmod
+
+
+
+
+Correcter.
+Tested : Computer Aided Verification CAV
+IdClass: 76
+Cleared: aided cav computer verification
+
+Correct: 
+titleSelect:  Computer Aided Verification CAV
+IdClass: 76
+Jaccard: 1.0
+Cleared    : aided cav computer verification
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer conference isca volume
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.8
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: new orleans siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.3333333333333333
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : SODA
+IdClass: 1800
+Cleared: soda
+
+Correct: 
+titleSelect:  SODA
+IdClass: 1800
+Jaccard: 1.0
+Cleared    : soda
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai american artificial association conference intelligence
+
+Correct: 
+titleSelect:  National Conference of the American Association for Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.8571428571428571
+Cleared    : aaai american artificial association conference intelligence national
+
+
+
+
+Correcter.
+Tested : ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS TOPLAS
+IdClass: 4030
+Cleared: acm languages programming systems toplas transactions
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS TOPLAS
+IdClass: 4030
+Jaccard: 1.0
+Cleared    : acm languages programming systems toplas transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: computing conference mobicom mobile networking rst
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 0.7142857142857143
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 159
+Cleared: invited pods talk
+
+Correct: 
+titleSelect:  PODS
+IdClass: 159
+Jaccard: 0.3333333333333333
+Cleared    : pods
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai american artificial association conference freeman intelligence morgan
+
+Correct: 
+titleSelect:  National Conference of the American Association for Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.6666666666666666
+Cleared    : aaai american artificial association conference intelligence national
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: acapulco ijcai ijcai03 mexico
+
+Correct: 
+titleSelect:  IJCAI
+IdClass: 179
+Jaccard: 0.25
+Cleared    : ijcai
+
+
+
+
+Correcter.
+Tested : CVPR
+IdClass: 198
+Cleared: cvpr
+
+Correct: 
+titleSelect:  CVPR
+IdClass: 198
+Jaccard: 1.0
+Cleared    : cvpr
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1800
+Cleared: acm algorithms conference discrete soda
+
+Correct: 
+titleSelect:  Annual ACM-SIAM Symposium on Discrete Algorithms SODA
+IdClass: 1800
+Jaccard: 0.8333333333333334
+Cleared    : acm algorithms conference discrete siam soda
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 2
+Cleared: conference focs
+
+Wrong: 
+titleSelect:  International B Conference B
+IdClass: 3639
+Jaccard: 0.5
+Cleared    : conference
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 124
+Cleared: acm conference mobicom
+
+Wrong: 
+titleSelect:  ACM Multimedia Conference MULTIMEDIA
+IdClass: 217
+Jaccard: 0.5
+Cleared    : acm conference multimedia
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: design implementation languages pldi programming
+
+Correct: 
+titleSelect:  SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.5
+Cleared    : conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: conference operating presented principles progress sosp systems works
+
+Correct: 
+titleSelect:  symposium on Operating systems principles SOSP
+IdClass: 80
+Jaccard: 0.625
+Cleared    : conference operating principles sosp systems
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 181
+Cleared: ai uai uncertainty
+
+Wrong: 
+titleSelect:  AI
+IdClass: 2811
+Jaccard: 0.3333333333333333
+Cleared    : ai
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: earlier popl published
+
+Correct: 
+titleSelect:  POPL
+IdClass: 28
+Jaccard: 0.3333333333333333
+Cleared    : popl
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: acm computing conference distributed inproceedingsof podc principles
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.8571428571428571
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm computing conference fijth stoc theory
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 0.8333333333333334
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: conference data large very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8333333333333334
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: computing stoc stsymp theory
+
+Correct: 
+titleSelect:  symposium on Theory of Computing STOC
+IdClass: 1
+Jaccard: 0.6
+Cleared    : computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial conference ijcai inproceedingsofthe intelligence joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.8333333333333334
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: automation conference icra ieee lecture notes robotics workshop
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.625
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : SIGGRAPH
+IdClass: 215
+Cleared: siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 1.0
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: conference ijcai panel session
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.2857142857142857
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3831
+Cleared: comput jcss journal sci system
+
+Correct: 
+titleSelect:  J. Comput. Syst. Sci. JCSS
+IdClass: 3831
+Jaccard: 0.6666666666666666
+Cleared    : comput jcss journal sci syst
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases conference data large very vldb volume
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8571428571428571
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm computing conference pp stoc theory
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 0.8333333333333334
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: computing conference mobicom mobile
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 0.6666666666666666
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: acm operating principles sosp system thsymposium
+
+Correct: 
+titleSelect:  ACM symposium on Operating system principles SOSP
+IdClass: 80
+Jaccard: 0.7142857142857143
+Cleared    : acm conference operating principles sosp system
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: cm computing conference stoc theory
+
+Correct: 
+titleSelect:  symposium on Theory of Computing STOC
+IdClass: 1
+Jaccard: 0.8
+Cleared    : computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Cleared: computer conference graphics siggraph
+
+Correct: 
+titleSelect:  Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Jaccard: 1.0
+Cleared    : computer conference graphics siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3813
+Cleared: acm also hpng ieee networking report technical ton tr02 transactions
+
+Correct: 
+titleSelect:  IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Jaccard: 0.5
+Cleared    : acm ieee networking ton transactions
+
+
+
+
+Correcter.
+Tested : Conference on Human Factors in Computing Systems CHI
+IdClass: 227
+Cleared: chi computing conference factors human systems
+
+Correct: 
+titleSelect:  Conference on Human Factors in Computing Systems CHI
+IdClass: 227
+Jaccard: 1.0
+Cleared    : chi computing conference factors human systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: conference data engineering icde invited talk
+
+Correct: 
+titleSelect:  International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 0.6666666666666666
+Cleared    : conference data engineering icde
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: computing conference mobicom mobile networking thannual
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 0.7142857142857143
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: computing conference distributed podc pods principles
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.7142857142857143
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : annual ACM symposium on Computational geometry SoCG
+IdClass: 15
+Cleared: acm computational conference geometry socg
+
+Correct: 
+titleSelect:  ACM Symposium on Computational Geometry SoCG
+IdClass: 15
+Jaccard: 1.0
+Cleared    : acm computational conference geometry socg
+
+
+
+
+Correcter.
+Tested : DAC
+IdClass: 107
+Cleared: dac
+
+Correct: 
+titleSelect:  DAC
+IdClass: 107
+Jaccard: 1.0
+Cleared    : dac
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 420
+Cleared: cdc conference control decsions ieee
+
+Correct: 
+titleSelect:  IEEE Conference on Decision and Control CDC
+IdClass: 420
+Jaccard: 0.6666666666666666
+Cleared    : cdc conference control decision ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm computing conference philadelphia stoc theory twentyeighth
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 0.7142857142857143
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4121
+Cleared: computing jounal siam
+
+Correct: 
+titleSelect:  SIAM JOURNAL ON COMPUTING
+IdClass: 4121
+Jaccard: 0.5
+Cleared    : computing journal siam
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm computing conference stoc theory thiry
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 0.8333333333333334
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: advances information neural nips processing
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.6666666666666666
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: automation behaviors carefully conference emergent evolved icra ieee network robotics
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.5
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : ICML
+IdClass: 184
+Cleared: icml
+
+Correct: 
+titleSelect:  ICML
+IdClass: 184
+Jaccard: 1.0
+Cleared    : icml
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: ijcai invited japan nayoga talk
+
+Correct: 
+titleSelect:  IJCAI
+IdClass: 179
+Jaccard: 0.2
+Cleared    : ijcai
+
+
+
+
+Correcter.
+Tested : Communications of the Association for Computing Machinery CACM
+IdClass: 3802
+Cleared: association cacm communications computing machinery
+
+Correct: 
+titleSelect:  Communications of the Association for Computing Machinery CACM
+IdClass: 3802
+Jaccard: 1.0
+Cleared    : association cacm communications computing machinery
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: arti cial intelligence kaufmann morgan publishers uai uai2003 uncertainty
+
+Correct: 
+titleSelect:  Conference in Uncertainty in Artifical Intelligence UAI
+IdClass: 181
+Jaccard: 0.2727272727272727
+Cleared    : artifical conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: chi computing conference factors human reaching sigchi systems technology through
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 0.7
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: ca francisco icra ieee san
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.25
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: conference sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD Conference SIGMOD
+IdClass: 157
+Jaccard: 0.6666666666666666
+Cleared    : acm conference sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 2
+Cleared: computer conference focs foundations science
+
+Correct: 
+titleSelect:  IEEE Symposium on Foundations of Computer Science FOCS
+IdClass: 2
+Jaccard: 0.8333333333333334
+Cleared    : computer conference focs foundations ieee science
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: acm computer graphics siggraph
+
+Correct: 
+titleSelect:  Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Jaccard: 0.6
+Cleared    : computer conference graphics siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 5476
+Cleared: architecture can computer isca21 issue news special
+
+Correct: 
+titleSelect:  SIGARCH Computer Architecture News
+IdClass: 5476
+Jaccard: 0.375
+Cleared    : architecture computer news sigarch
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: aut conference icra ieee rob
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.42857142857142855
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm appeared computing conference preliminary stoc theory version
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 0.625
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : Conference on Decision and Control CDC
+IdClass: 420
+Cleared: cdc conference control decision
+
+Correct: 
+titleSelect:  Conference on Decision and Control CDC
+IdClass: 420
+Jaccard: 1.0
+Cleared    : cdc conference control decision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: conference operating principles sosp system
+
+Correct: 
+titleSelect:  ACM symposium on Operating system principles SOSP
+IdClass: 80
+Jaccard: 0.8333333333333334
+Cleared    : acm conference operating principles sosp system
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: slides stoc
+
+Correct: 
+titleSelect:  STOC
+IdClass: 1
+Jaccard: 0.5
+Cleared    : stoc
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 2
+Cleared: computer focs foundations ieee juan puerto rico san science syrup
+
+Correct: 
+titleSelect:  IEEE Symposium on Foundations of Computer Science FOCS
+IdClass: 2
+Jaccard: 0.45454545454545453
+Cleared    : computer conference focs foundations ieee science
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: best pldi
+
+Correct: 
+titleSelect:  PLDI
+IdClass: 29
+Jaccard: 0.5
+Cleared    : pldi
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: annualconferenceseries incomputergraphicsproceedings siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.3333333333333333
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : International Conference of the Association of Computational Linguistics ACL
+IdClass: 208
+Cleared: acl association computational conference linguistics
+
+Correct: 
+titleSelect:  International Conference of the Association of Computational Linguistics ACL
+IdClass: 208
+Jaccard: 1.0
+Cleared    : acl association computational conference linguistics
+
+
+
+
+Correcter.
+Tested : ACM Trans. Graph. TOG
+IdClass: 4028
+Cleared: acm graph tog transactions
+
+Correct: 
+titleSelect:  ACM Trans. Graph. TOG
+IdClass: 4028
+Jaccard: 1.0
+Cleared    : acm graph tog transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acm conference data management sigmod sigmod96
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.8333333333333334
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: ieee mobicom
+
+Correct: 
+titleSelect:  MobiCom
+IdClass: 124
+Jaccard: 0.5
+Cleared    : mobicom
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 124
+Cleared: acm conference ieee mobicom
+
+Wrong: 
+titleSelect:  ACM/IEEE Conference on Supercomputing
+IdClass: 58
+Jaccard: 0.6
+Cleared    : acm conference ieee supercomputing
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4053
+Cleared: engineering ieee software transaction tse
+
+Correct: 
+titleSelect:  IEEE TRANSACTIONS ON SOFTWARE ENGINEERING TSE
+IdClass: 4053
+Jaccard: 0.6666666666666666
+Cleared    : engineering ieee software transactions tse
+
+
+
+
+Correcter.
+Tested : ACM SIGMOD Conference
+IdClass: 157
+Cleared: acm conference sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD Conference SIGMOD
+IdClass: 157
+Jaccard: 1.0
+Cleared    : acm conference sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: conference operating principles sosp system thacm
+
+Correct: 
+titleSelect:  ACM symposium on Operating system principles SOSP
+IdClass: 80
+Jaccard: 0.7142857142857143
+Cleared    : acm conference operating principles sosp system
+
+
+
+
+Correcter.
+Tested : CAV
+IdClass: 76
+Cleared: cav
+
+Correct: 
+titleSelect:  CAV
+IdClass: 76
+Jaccard: 1.0
+Cleared    : cav
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4053
+Cleared: engineering ieee software transactionson tse
+
+Correct: 
+titleSelect:  IEEE TRANSACTIONS ON SOFTWARE ENGINEERING TSE
+IdClass: 4053
+Jaccard: 0.6666666666666666
+Cleared    : engineering ieee software transactions tse
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3860
+Cleared: acm ccr communication computer review sigcomm
+
+Correct: 
+titleSelect:  COMPUTER COMMUNICATION REVIEW ACM SIGCOMM
+IdClass: 3860
+Jaccard: 0.8333333333333334
+Cleared    : acm communication computer review sigcomm
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 107
+Cleared: asme automation conference dac design
+
+Correct: 
+titleSelect:  Design Automation Conference DAC
+IdClass: 107
+Jaccard: 0.8
+Cleared    : automation conference dac design
+
+
+
+
+Correcter.
+Tested : annual ACM-SIAM symposium on Discrete algorithm SODA
+IdClass: 1800
+Cleared: acm algorithm conference discrete siam soda
+
+Correct: 
+titleSelect:  annual ACM-SIAM symposium on Discrete algorithm SODA
+IdClass: 1800
+Jaccard: 1.0
+Cleared    : acm algorithm conference discrete siam soda
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 215
+Cleared: graphics group interest siggraph special
+
+Wrong: 
+titleSelect:  Annual Meeting of the Special Interest Group on Discourse and Dialogue
+IdClass: 3511
+Jaccard: 0.375
+Cleared    : dialogue discourse group interest meeting special
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai artificial conference intelligence menlo national park
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.7142857142857143
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: chi computing conference factors human limit sigchi systems
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 0.875
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Correcter.
+Tested : SIGMOD
+IdClass: 157
+Cleared: sigmod
+
+Correct: 
+titleSelect:  SIGMOD
+IdClass: 157
+Jaccard: 1.0
+Cleared    : sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 198
+Cleared: computer conference cvpr ieee pattern recognition society vision
+
+Correct: 
+titleSelect:  IEEE Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 0.875
+Cleared    : computer conference cvpr ieee pattern recognition vision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaa1 aaai address artificial conference intelligence national presidential
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.625
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : STOC
+IdClass: 1
+Cleared: stoc
+
+Correct: 
+titleSelect:  STOC
+IdClass: 1
+Jaccard: 1.0
+Cleared    : stoc
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: acm conference design implementation languages pldi press programming
+
+Correct: 
+titleSelect:  ACM-SIGPLAN Symposium on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.6
+Cleared    : acm conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: conference design implementation language pldi programming
+
+Correct: 
+titleSelect:  SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.8571428571428571
+Cleared    : conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm association cacm communications computing machinery
+
+Correct: 
+titleSelect:  Communications of the Association for Computing Machinery CACM
+IdClass: 3802
+Jaccard: 0.8333333333333334
+Cleared    : association cacm communications computing machinery
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4080
+Cleared: acm computer system tocs transactions
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON COMPUTER SYSTEMS TOCS
+IdClass: 4080
+Jaccard: 0.6666666666666666
+Cleared    : acm computer systems tocs transactions
+
+
+
+
+Correcter.
+Tested : Electronic Notes in Theoretical Computer Science ENTCS
+IdClass: 4305
+Cleared: computer electronic entcs notes science theoretical
+
+Correct: 
+titleSelect:  Electronic Notes in Theoretical Computer Science ENTCS
+IdClass: 4305
+Jaccard: 1.0
+Cleared    : computer electronic entcs notes science theoretical
+
+
+
+
+Correcter.
+Tested : ACM SIGMOD International Conference on Management of Data
+IdClass: 157
+Cleared: acm conference data management sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 1.0
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial conference ijcai intelligenct joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.6666666666666666
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : CACM
+IdClass: 3802
+Cleared: cacm
+
+Correct: 
+titleSelect:  CACM
+IdClass: 3802
+Jaccard: 1.0
+Cleared    : cacm
+
+
+
+
+Correcter.
+Tested : SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Cleared: conference design implementation language pldi programming sigplan
+
+Correct: 
+titleSelect:  SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 1.0
+Cleared    : conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 184
+Cleared: conference icml learning machine twentysecond
+
+Correct: 
+titleSelect:  Annual International Conference on Machine Learning ICML
+IdClass: 184
+Jaccard: 0.8
+Cleared    : conference icml learning machine
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 115
+Cleared: electronic iptps peer systems workshop
+
+Correct: 
+titleSelect:  International Workshop on Peer-To-Peer Systems IPTPS
+IdClass: 115
+Jaccard: 0.8
+Cleared    : iptps peer systems workshop
+
+
+
+
+Correcter.
+Tested : IEEE Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Cleared: computer conference cvpr ieee pattern recognition vision
+
+Correct: 
+titleSelect:  IEEE Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 1.0
+Cleared    : computer conference cvpr ieee pattern recognition vision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 99
+Cleared: iscas japan kobe
+
+Correct: 
+titleSelect:  ISCAS
+IdClass: 99
+Jaccard: 0.3333333333333333
+Cleared    : iscas
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: acm computing conference distr podc princ
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.5
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases conference data large thinternational very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8571428571428571
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : UAI
+IdClass: 181
+Cleared: uai
+
+Correct: 
+titleSelect:  UAI
+IdClass: 181
+Jaccard: 1.0
+Cleared    : uai
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture complexity computer conference design effective isca workshop
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.5
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4053
+Cleared: eng ieee model sea security software transactions tse view
+
+Correct: 
+titleSelect:  IEEE T SOFTWARE ENG TSE
+IdClass: 4053
+Jaccard: 0.4444444444444444
+Cleared    : eng ieee software tse
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: computer graphics siggraph
+
+Correct: 
+titleSelect:  Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Jaccard: 0.75
+Cleared    : computer conference graphics siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: banks conference data demonstration enginerring icde interaction sudarshan system user
+
+Correct: 
+titleSelect:  International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 0.2727272727272727
+Cleared    : conference data engineering icde
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 455
+Cleared: automat conference icra ieee robot
+
+Wrong: 
+titleSelect:  IEEE- International Conference on Robot Communication and Coordination
+IdClass: 525
+Jaccard: 0.42857142857142855
+Cleared    : communication conference coordination ieee robot
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4030
+Cleared: acm language programming systems toplas transactions
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS TOPLAS
+IdClass: 4030
+Jaccard: 0.7142857142857143
+Cleared    : acm languages programming systems toplas transactions
+
+
+
+
+Correcter.
+Tested : International Conference on Machine Learning ICML
+IdClass: 184
+Cleared: conference icml learning machine
+
+Correct: 
+titleSelect:  Annual International Conference on Machine Learning ICML
+IdClass: 184
+Jaccard: 1.0
+Cleared    : conference icml learning machine
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm cacm communications new press york
+
+Correct: 
+titleSelect:  COMMUNICATIONS OF THE ACM CACM
+IdClass: 3802
+Jaccard: 0.5
+Cleared    : acm cacm communications
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm cacm communication
+
+Correct: 
+titleSelect:  COMMUNICATIONS OF THE ACM CACM
+IdClass: 3802
+Jaccard: 0.5
+Cleared    : acm cacm communications
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: conference thvldb vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 0.3333333333333333
+Cleared    : conference databases large very vldb
+
+
+
+
+Correcter.
+Tested : International Workshop on Peer-To-Peer Systems IPTPS
+IdClass: 115
+Cleared: iptps peer systems workshop
+
+Correct: 
+titleSelect:  International Workshop on Peer-To-Peer Systems IPTPS
+IdClass: 115
+Jaccard: 1.0
+Cleared    : iptps peer systems workshop
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer isca syrup
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.6
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: architecture conference information large operating oth principles scale sosp system systems
+
+Correct: 
+titleSelect:  symposium on Operating systems principles SOSP
+IdClass: 80
+Jaccard: 0.45454545454545453
+Cleared    : conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: acm sosp
+
+Correct: 
+titleSelect:  SOSP
+IdClass: 80
+Jaccard: 0.5
+Cleared    : sosp
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 208
+Cleared: acl computational conference linguistics meeting
+
+Correct: 
+titleSelect:  Meeting of the Association for Computational Linguistics ACL
+IdClass: 208
+Jaccard: 0.6666666666666666
+Cleared    : acl association computational linguistics meeting
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 2
+Cleared: focs ndieee
+
+Correct: 
+titleSelect:  FOCS
+IdClass: 2
+Jaccard: 0.5
+Cleared    : focs
+
+
+
+
+Correcter.
+Tested : MobiCom
+IdClass: 124
+Cleared: mobicom
+
+Correct: 
+titleSelect:  MobiCom
+IdClass: 124
+Jaccard: 1.0
+Cleared    : mobicom
+
+
+
+
+Correcter.
+Tested : ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Cleared: acm computing conference distributed podc principles sigact sigops
+
+Correct: 
+titleSelect:  annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing PODC
+IdClass: 43
+Jaccard: 1.0
+Cleared    : acm computing conference distributed podc principles sigact sigops
+
+
+
+
+Correcter.
+Tested : International Conference on Computer Graphics and Interactive Techniques SIGGRAPH
+IdClass: 215
+Cleared: computer conference graphics interactive siggraph techniques
+
+Correct: 
+titleSelect:  International Conference on Computer Graphics and Interactive Techniques SIGGRAPH
+IdClass: 215
+Jaccard: 1.0
+Cleared    : computer conference graphics interactive siggraph techniques
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases conference data internation large very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8571428571428571
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Cleared: artificial conference ijcai intelligence joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 1.0
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture cache coherence computer conference directory evaluation isca schemes
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.4444444444444444
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : symposium on Theory of Computing STOC
+IdClass: 1
+Cleared: computing conference stoc theory
+
+Correct: 
+titleSelect:  symposium on Theory of Computing STOC
+IdClass: 1
+Jaccard: 1.0
+Cleared    : computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: artificial conference intelligence kaufmann morgan uai uncertainty
+
+Correct: 
+titleSelect:  Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Jaccard: 0.7142857142857143
+Cleared    : artificial conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 184
+Cleared: icml internationalconference learning machine
+
+Correct: 
+titleSelect:  Annual International Conference on Machine Learning ICML
+IdClass: 184
+Jaccard: 0.6
+Cleared    : conference icml learning machine
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: advances information neural nips
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.5
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: autom conference icra ieee rob
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.42857142857142855
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: acm addison co computer conference graphics interactive press publishing siggraph techniques wesley
+
+Correct: 
+titleSelect:  ACM International Conference on Computer Graphics and Interactive Techniques SIGGRAPH
+IdClass: 215
+Jaccard: 0.5833333333333334
+Cleared    : acm computer conference graphics interactive siggraph techniques
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 198
+Cleared: articulated cvpr ieee motion nonrigid worskhop
+
+Wrong: 
+titleSelect:  IEEE Computer Society Workshop on Motion of Non-Rigid and Articulated Objects
+IdClass: 2542
+Jaccard: 0.25
+Cleared    : articulated computer ieee motion non objects rigid society workshop
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: icde ieee
+
+Correct: 
+titleSelect:  ICDE
+IdClass: 163
+Jaccard: 0.5
+Cleared    : icde
+
+
+
+
+Correcter.
+Tested : ACM-SIGOPS Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Cleared: acm conference operating principles sigops sosp systems
+
+Correct: 
+titleSelect:  ACM-SIGOPS Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Jaccard: 1.0
+Cleared    : acm conference operating principles sigops sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4053
+Cleared: engineering ieee se software transactions tse
+
+Correct: 
+titleSelect:  IEEE TRANSACTIONS ON SOFTWARE ENGINEERING TSE
+IdClass: 4053
+Jaccard: 0.8333333333333334
+Cleared    : engineering ieee software transactions tse
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai artificial conference intelligence national part
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.8333333333333334
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 124
+Cleared: acm mobicom
+
+Wrong: 
+titleSelect:  ACM
+IdClass: 5005
+Jaccard: 0.5
+Cleared    : acm
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 208
+Cleared: acl association companion computational demo linguistics meeting sessions volume
+
+Correct: 
+titleSelect:  Meeting of the Association for Computational Linguistics ACL
+IdClass: 208
+Jaccard: 0.5555555555555556
+Cleared    : acl association computational linguistics meeting
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: automation conference icra ieee robots
+
+Correct: 
+titleSelect:  IEEE International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.6666666666666666
+Cleared    : automation conference icra ieee robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: conference languages popl principles programming record
+
+Correct: 
+titleSelect:  Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.8333333333333334
+Cleared    : conference languages popl principles programming
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: computing conference distributed podc principles
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.8333333333333334
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Cleared: chi computing conference factors human sigchi systems
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 1.0
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai ai conference national
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.5
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : Annual ACM-SIAM Symposium on Discrete Algorithms SODA
+IdClass: 1800
+Cleared: acm algorithms conference discrete siam soda
+
+Correct: 
+titleSelect:  Annual ACM-SIAM Symposium on Discrete Algorithms SODA
+IdClass: 1800
+Jaccard: 1.0
+Cleared    : acm algorithms conference discrete siam soda
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: chi computing conference empowering factors human people sigchi systems
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 0.7777777777777778
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer conference isca nnualinternational oceedings pr
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.5714285714285714
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3860
+Cleared: ccr communication computer review
+
+Correct: 
+titleSelect:  COMPUTER COMMUNICATION REVIEW
+IdClass: 3860
+Jaccard: 0.75
+Cleared    : communication computer review
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 107
+Cleared: automation conference dac design volume
+
+Correct: 
+titleSelect:  Design Automation Conference DAC
+IdClass: 107
+Jaccard: 0.8
+Cleared    : automation conference dac design
+
+
+
+
+Correcter.
+Tested : TOCS
+IdClass: 4080
+Cleared: tocs
+
+Correct: 
+titleSelect:  TOCS
+IdClass: 4080
+Jaccard: 1.0
+Cleared    : tocs
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: course notes siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.3333333333333333
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : Annual ACM/IEEE Design Automation Conference DAC
+IdClass: 107
+Cleared: acm automation conference dac design ieee
+
+Correct: 
+titleSelect:  Annual ACM/IEEE Design Automation Conference DAC
+IdClass: 107
+Jaccard: 1.0
+Cleared    : acm automation conference dac design ieee
+
+
+
+
+Correcter.
+Tested : National Conference of the American Association for Artificial Intelligence AAAI
+IdClass: 178
+Cleared: aaai american artificial association conference intelligence national
+
+Correct: 
+titleSelect:  National Conference of the American Association for Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 1.0
+Cleared    : aaai american artificial association conference intelligence national
+
+
+
+
+Correcter.
+Tested : JOURNAL OF COMPUTER AND SYSTEM SCIENCES JCSS
+IdClass: 3831
+Cleared: computer jcss journal sciences system
+
+Correct: 
+titleSelect:  JOURNAL OF COMPUTER AND SYSTEM SCIENCES JCSS
+IdClass: 3831
+Jaccard: 1.0
+Cleared    : computer jcss journal sciences system
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: chi computing factors human systems
+
+Correct: 
+titleSelect:  Conference on Human Factors in Computing Systems CHI
+IdClass: 227
+Jaccard: 0.8333333333333334
+Cleared    : chi computing conference factors human systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial conference ijcai intelligence joint mateo san
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.7142857142857143
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acm conference data herausgeber management michael sigmod stonebreaker
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.625
+Cleared    : acm conference data management sigmod
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 124
+Cleared: communications conference ieee mobicom mobile
+
+Wrong: 
+titleSelect:  IEEE International Conference on Communications
+IdClass: 435
+Jaccard: 0.6
+Cleared    : communications conference ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: conference isca
+
+Correct: 
+titleSelect:  ISCA
+IdClass: 89
+Jaccard: 0.5
+Cleared    : isca
+
+
+
+
+Correcter.
+Tested : IEEE Annual Symposium on Foundations of Computer Science FOCS
+IdClass: 2
+Cleared: computer conference focs foundations ieee science
+
+Correct: 
+titleSelect:  IEEE Symposium on Foundations of Computer Science FOCS
+IdClass: 2
+Jaccard: 1.0
+Cleared    : computer conference focs foundations ieee science
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai about artificial conference function intelligence national notes reasoning working
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.5
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acm conference data management philadelphia press sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.7142857142857143
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: conference rence vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 0.3333333333333333
+Cleared    : conference databases large very vldb
+
+
+
+
+Correcter.
+Tested : International Conference on Robotics and Automation ICRA
+IdClass: 455
+Cleared: automation conference icra robotics
+
+Correct: 
+titleSelect:  International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 1.0
+Cleared    : automation conference icra robotics
+
+
+
+
+Correcter.
+Tested : ACM symposium on Operating system principles SOSP
+IdClass: 80
+Cleared: acm conference operating principles sosp system
+
+Correct: 
+titleSelect:  ACM symposium on Operating system principles SOSP
+IdClass: 80
+Jaccard: 1.0
+Cleared    : acm conference operating principles sosp system
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: conference eighteeth operating principles sosp systems
+
+Correct: 
+titleSelect:  symposium on Operating systems principles SOSP
+IdClass: 80
+Jaccard: 0.8333333333333334
+Cleared    : conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 107
+Cleared: autom conference dac des
+
+Correct: 
+titleSelect:  Design Automation Conference DAC
+IdClass: 107
+Jaccard: 0.3333333333333333
+Cleared    : automation conference dac design
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 178
+Cleared: aaai ai conference
+
+Wrong: 
+titleSelect:  Scandinavian Conference on AI
+IdClass: 3489
+Jaccard: 0.5
+Cleared    : ai conference scandinavian
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: conference large very vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 0.8
+Cleared    : conference databases large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 76
+Cleared: aided brunswick cav computer conference new verification
+
+Correct: 
+titleSelect:  International Conference on Computer Aided Verification CAV
+IdClass: 76
+Jaccard: 0.7142857142857143
+Cleared    : aided cav computer conference verification
+
+
+
+
+Correcter.
+Tested : TODS
+IdClass: 3843
+Cleared: tods
+
+Correct: 
+titleSelect:  TODS
+IdClass: 3843
+Jaccard: 1.0
+Cleared    : tods
+
+
+
+
+Correcter.
+Tested : International Conference on Very Large Data Bases VLDB
+IdClass: 158
+Cleared: bases conference data large very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 1.0
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : NIPS
+IdClass: 927
+Cleared: nips
+
+Correct: 
+titleSelect:  NIPS
+IdClass: 927
+Jaccard: 1.0
+Cleared    : nips
+
+
+
+
+Correcter.
+Tested : The International Journal of Robotics Research IJRR
+IdClass: 4938
+Cleared: ijrr journal research robotics
+
+Correct: 
+titleSelect:  The International Journal of Robotics Research IJRR
+IdClass: 4938
+Jaccard: 1.0
+Cleared    : ijrr journal research robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases conference data kyoto large very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8571428571428571
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : ACM/IEEE International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Cleared: acm computing conference ieee mobicom mobile networking
+
+Correct: 
+titleSelect:  annual ACM/IEEE international conference on Mobile computing and networking MobiCom
+IdClass: 124
+Jaccard: 1.0
+Cleared    : acm computing conference ieee mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: cohen computer control graphics hierarchical siggraph spacetime
+
+Correct: 
+titleSelect:  Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Jaccard: 0.375
+Cleared    : computer conference graphics siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 159
+Cleared: acm pods
+
+Correct: 
+titleSelect:  PODS
+IdClass: 159
+Jaccard: 0.5
+Cleared    : pods
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 181
+Cleared: conference uai
+
+Wrong: 
+titleSelect:  International B Conference B
+IdClass: 3639
+Jaccard: 0.5
+Cleared    : conference
+
+
+
+
+Correcter.
+Tested : PLDI
+IdClass: 29
+Cleared: pldi
+
+Correct: 
+titleSelect:  PLDI
+IdClass: 29
+Jaccard: 1.0
+Cleared    : pldi
+
+
+
+
+Correcter.
+Tested : ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Cleared: acm computing conference mobicom mobile networking
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 1.0
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : IEEE-ACM Trans. Netw. TON
+IdClass: 3813
+Cleared: acm ieee netw ton transactions
+
+Correct: 
+titleSelect:  IEEE-ACM Trans. Netw. TON
+IdClass: 3813
+Jaccard: 1.0
+Cleared    : acm ieee netw ton transactions
+
+
+
+
+Correcter.
+Tested : ACM TRANSACTIONS ON COMPUTER SYSTEMS TOCS
+IdClass: 4080
+Cleared: acm computer systems tocs transactions
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON COMPUTER SYSTEMS TOCS
+IdClass: 4080
+Jaccard: 1.0
+Cleared    : acm computer systems tocs transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: orlando proceedingsofsiggraph siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.3333333333333333
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: advances information neural nips processing systems
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.8333333333333334
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : Conference on Neural Information Processing Systems NIPS
+IdClass: 927
+Cleared: conference information neural nips processing systems
+
+Correct: 
+titleSelect:  Conference on Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 1.0
+Cleared    : conference information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: nips notes tutorial
+
+Correct: 
+titleSelect:  NIPS
+IdClass: 927
+Jaccard: 0.3333333333333333
+Cleared    : nips
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 80
+Cleared: architecture information large lucassen scale sosp systems
+
+Wrong: 
+titleSelect:  ACM workshop on Large-Scale distributed systems for information retrieval
+IdClass: 1514
+Jaccard: 0.36363636363636365
+Cleared    : acm distributed information large retrieval scale systems workshop
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3843
+Cleared: acm tods vat
+
+Correct: 
+titleSelect:  ACM T DATABASE SYST TODS
+IdClass: 3843
+Jaccard: 0.4
+Cleared    : acm database syst tods
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: acm computing distributed podc principles sympos
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.7142857142857143
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: ijcai joint
+
+Correct: 
+titleSelect:  IJCAI
+IdClass: 179
+Jaccard: 0.5
+Cleared    : ijcai
+
+
+
+
+Correcter.
+Tested : International Symposium on Computer Architecture ISCA
+IdClass: 89
+Cleared: architecture computer conference isca
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 1.0
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acm conference data management sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 1.0
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai applications artificial conference innovative intelligence national
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.7142857142857143
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 4030
+Cleared: computing data kk parallel structures toplas
+
+Wrong: 
+titleSelect:  PARALLEL COMPUTING
+IdClass: 4116
+Jaccard: 0.3333333333333333
+Cleared    : computing parallel
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: acm computer graphics siggraph visual
+
+Correct: 
+titleSelect:  Annual Conference on Computer Graphics SIGGRAPH
+IdClass: 215
+Jaccard: 0.5
+Cleared    : computer conference graphics siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial conference ijcai intell joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.6666666666666666
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: acm conference design implementation language pldi programming
+
+Correct: 
+titleSelect:  ACM-SIGPLAN Symposium on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.875
+Cleared    : acm conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: computing conference mobicom mobile networking
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 0.8333333333333334
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : ACM Symposium on Principles of Database Systems PODS
+IdClass: 159
+Cleared: acm conference database pods principles systems
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Database Systems PODS
+IdClass: 159
+Jaccard: 1.0
+Cleared    : acm conference database pods principles systems
+
+
+
+
+Correcter.
+Tested : symposium on Operating systems principles SOSP
+IdClass: 80
+Cleared: conference operating principles sosp systems
+
+Correct: 
+titleSelect:  symposium on Operating systems principles SOSP
+IdClass: 80
+Jaccard: 1.0
+Cleared    : conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : FOCS
+IdClass: 2
+Cleared: focs
+
+Correct: 
+titleSelect:  FOCS
+IdClass: 2
+Jaccard: 1.0
+Cleared    : focs
+
+
+
+
+Correcter.
+Tested : IEEE International Conference on Data Engineering ICDE
+IdClass: 163
+Cleared: conference data engineering icde ieee
+
+Correct: 
+titleSelect:  IEEE International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 1.0
+Cleared    : conference data engineering icde ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3813
+Cleared: ieee networking ton transactions
+
+Correct: 
+titleSelect:  IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Jaccard: 0.8
+Cleared    : acm ieee networking ton transactions
+
+
+
+
+Correcter.
+Tested : PODC
+IdClass: 43
+Cleared: podc
+
+Correct: 
+titleSelect:  PODC
+IdClass: 43
+Jaccard: 1.0
+Cleared    : podc
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: databases large thconference very vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 0.6666666666666666
+Cleared    : conference databases large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 208
+Cleared: acl association computational lexicalized linguistics meeting models parsing statistical
+
+Correct: 
+titleSelect:  Meeting of the Association for Computational Linguistics ACL
+IdClass: 208
+Jaccard: 0.5555555555555556
+Cleared    : acl association computational linguistics meeting
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: advances informationprocessing neural nips systems
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.42857142857142855
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 227
+Cleared: chi common computing conference factors ground human sigchi systems
+
+Correct: 
+titleSelect:  SIGCHI conference on Human factors in computing systems CHI
+IdClass: 227
+Jaccard: 0.7777777777777778
+Cleared    : chi computing conference factors human sigchi systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: acm computing conference siam stoc theory
+
+Correct: 
+titleSelect:  annual ACM symposium on Theory of computing STOC
+IdClass: 1
+Jaccard: 0.8333333333333334
+Cleared    : acm computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Cleared: conference languages popl principles programming
+
+Correct: 
+titleSelect:  Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 1.0
+Cleared    : conference languages popl principles programming
+
+
+
+
+Correcter.
+Tested : ACM Trans. Comput. Syst. TOCS
+IdClass: 4080
+Cleared: acm comput syst tocs transactions
+
+Correct: 
+titleSelect:  ACM Trans. Comput. Syst. TOCS
+IdClass: 4080
+Jaccard: 1.0
+Cleared    : acm comput syst tocs transactions
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 5505
+Cleared: ieee jssc
+
+Wrong: 
+titleSelect:  Proceedings of the IEEE
+IdClass: 4779
+Jaccard: 0.5
+Cleared    : ieee
+
+
+
+
+Correcter.
+Tested : IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Cleared: acm ieee networking ton transactions
+
+Correct: 
+titleSelect:  IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Jaccard: 1.0
+Cleared    : acm ieee networking ton transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: acm conference operating principles review sosp system
+
+Correct: 
+titleSelect:  ACM symposium on Operating system principles SOSP
+IdClass: 80
+Jaccard: 0.8571428571428571
+Cleared    : acm conference operating principles sosp system
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 208
+Cleared: acl association computational linguistics meeting ndannual
+
+Correct: 
+titleSelect:  Meeting of the Association for Computational Linguistics ACL
+IdClass: 208
+Jaccard: 0.8333333333333334
+Cleared    : acl association computational linguistics meeting
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: artificial intelligence uai uncertainty
+
+Correct: 
+titleSelect:  Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Jaccard: 0.8
+Cleared    : artificial conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 2
+Cleared: computer conference focs foundations ieee science volume
+
+Correct: 
+titleSelect:  IEEE Symposium on Foundations of Computer Science FOCS
+IdClass: 2
+Jaccard: 0.8571428571428571
+Cleared    : computer conference focs foundations ieee science
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: siggraph tutorial
+
+Correct: 
+titleSelect:  SIGGRAPH
+IdClass: 215
+Jaccard: 0.5
+Cleared    : siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 198
+Cleared: comput conference cvpr ieee pattern recognit soc vision
+
+Correct: 
+titleSelect:  IEEE Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 0.5
+Cleared    : computer conference cvpr ieee pattern recognition vision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm cacm communications v31
+
+Correct: 
+titleSelect:  COMMUNICATIONS OF THE ACM CACM
+IdClass: 3802
+Jaccard: 0.75
+Cleared    : acm cacm communications
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3802
+Cleared: acm cacm communications operations systems university waterloo
+
+Correct: 
+titleSelect:  COMMUNICATIONS OF THE ACM CACM
+IdClass: 3802
+Jaccard: 0.42857142857142855
+Cleared    : acm cacm communications
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 159
+Cleared: acm conference database pods principles sigact sigmod systems
+
+Correct: 
+titleSelect:  ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems PODS
+IdClass: 159
+Jaccard: 0.8888888888888888
+Cleared    : acm conference database pods principles sigact sigart sigmod systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 163
+Cleared: computer conference data engineering icde ieee society tokyo
+
+Correct: 
+titleSelect:  IEEE International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 0.625
+Cleared    : conference data engineering icde ieee
+
+
+
+
+Correcter.
+Tested : Symposium on Principles of Database Systems PODS
+IdClass: 159
+Cleared: conference database pods principles systems
+
+Correct: 
+titleSelect:  Symposium on Principles of Database Systems PODS
+IdClass: 159
+Jaccard: 1.0
+Cleared    : conference database pods principles systems
+
+
+
+
+Correcter.
+Tested : IEEE Conference on Decision and Control CDC
+IdClass: 420
+Cleared: cdc conference control decision ieee
+
+Correct: 
+titleSelect:  IEEE Conference on Decision and Control CDC
+IdClass: 420
+Jaccard: 1.0
+Cleared    : cdc conference control decision ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 5476
+Cleared: architecture can computer news
+
+Correct: 
+titleSelect:  SIGARCH Computer Architecture News
+IdClass: 5476
+Jaccard: 0.6
+Cleared    : architecture computer news sigarch
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 455
+Cleared: andautomat conference icra ieeeint robot
+
+Correct: 
+titleSelect:  International Conference on Robotics and Automation ICRA
+IdClass: 455
+Jaccard: 0.2857142857142857
+Cleared    : automation conference icra robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4030
+Cleared: acm behavioral notion subtyping toplas
+
+Correct: 
+titleSelect:  ACM T PROGR LANG SYS TOPLAS
+IdClass: 4030
+Jaccard: 0.25
+Cleared    : acm lang progr sys toplas
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: conference popl popl98 record
+
+Correct: 
+titleSelect:  Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.2857142857142857
+Cleared    : conference languages popl principles programming
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: acm chateau conference lake louise operating principles sosp systems
+
+Correct: 
+titleSelect:  ACM Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Jaccard: 0.6666666666666666
+Cleared    : acm conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: agent artificial commerce conference electronic ijcai intelligence joint mediated workshop
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.5
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: acm conference languages popl principles programming tutorial
+
+Correct: 
+titleSelect:  ACM-SIGACT Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.75
+Cleared    : acm conference languages popl principles programming sigact
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 76
+Cleared: aided cav computer conference thintl verification
+
+Correct: 
+titleSelect:  International Conference on Computer Aided Verification CAV
+IdClass: 76
+Jaccard: 0.8333333333333334
+Cleared    : aided cav computer conference verification
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial conference ijcai incomplete information intelligence joint planning uncertainty under workshop
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.45454545454545453
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 179
+Cleared: artificial cambridge conference ijcai intelligence joint
+
+Correct: 
+titleSelect:  International Joint Conference on Artificial Intelligence IJCAI
+IdClass: 179
+Jaccard: 0.8333333333333334
+Cleared    : artificial conference ijcai intelligence joint
+
+
+
+
+Correcter.
+Tested : Neural Information Processing Systems NIPS
+IdClass: 927
+Cleared: information neural nips processing systems
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 1.0
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 5505
+Cleared: circuits ieee journal jssc solid state
+
+Correct: 
+titleSelect:  IEEE Journal of Solid-State Circuits
+IdClass: 5505
+Jaccard: 0.8333333333333334
+Cleared    : circuits ieee journal solid state
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai ai american artificial association conference intelligence national
+
+Correct: 
+titleSelect:  National Conference of the American Association for Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.875
+Cleared    : aaai american artificial association conference intelligence national
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 2
+Cleared: conference focs ieee
+
+Wrong: 
+titleSelect:  IEEE International Conference on eScience
+IdClass: 2222
+Jaccard: 0.5
+Cleared    : conference escience ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: acm architecture computer ieee isca sympmium tb
+
+Correct: 
+titleSelect:  ACM International Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.5
+Cleared    : acm architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 3813
+Cleared: acm netwoking ton transactions
+
+Correct: 
+titleSelect:  IEEE/ACM Transactions on Networking TON
+IdClass: 3813
+Jaccard: 0.5
+Cleared    : acm ieee networking ton transactions
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer conference isca manuscript
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.8
+Cleared    : architecture computer conference isca
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 215
+Cleared: 3d acquisition model siggraph time
+
+Wrong: 
+titleSelect:  ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
+IdClass: 216
+Jaccard: 0.2
+Cleared    : 3d acm conference games graphics interactive siggraph
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 181
+Cleared: artificial conference intelligence uai uai02 uncertainty
+
+Correct: 
+titleSelect:  Conference on Uncertainty in Artificial Intelligence UAI
+IdClass: 181
+Jaccard: 0.8333333333333334
+Cleared    : artificial conference intelligence uai uncertainty
+
+
+
+
+Correcter.
+Tested : ISCA
+IdClass: 89
+Cleared: isca
+
+Correct: 
+titleSelect:  ISCA
+IdClass: 89
+Jaccard: 1.0
+Cleared    : isca
+
+
+
+
+Correcter.
+Tested : Commun. ACM CACM
+IdClass: 3802
+Cleared: acm cacm commun
+
+Correct: 
+titleSelect:  Commun. ACM CACM
+IdClass: 3802
+Jaccard: 1.0
+Cleared    : acm cacm commun
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: computing conference stoc thacm theory
+
+Correct: 
+titleSelect:  symposium on Theory of Computing STOC
+IdClass: 1
+Jaccard: 0.8
+Cleared    : computing conference stoc theory
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4938
+Cleared: ijrr research robotics
+
+Correct: 
+titleSelect:  The International Journal of Robotics Research IJRR
+IdClass: 4938
+Jaccard: 0.75
+Cleared    : ijrr journal research robotics
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: acm computing conference distributed podc principles prodeedings
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.8571428571428571
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Cleared: acm computing conference distributed podc principles
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 1.0
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases city conference data large mexico very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.75
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : ACM Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Cleared: acm conference operating principles sosp systems
+
+Correct: 
+titleSelect:  ACM Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Jaccard: 1.0
+Cleared    : acm conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 159
+Cleared: acm conference data database management pods principles seattle sigactsigmod sigart systems
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Database Systems PODS
+IdClass: 159
+Jaccard: 0.5454545454545454
+Cleared    : acm conference database pods principles systems
+
+
+
+
+Correcter.
+Tested : annual symposium on Computational geometry SoCG
+IdClass: 15
+Cleared: computational conference geometry socg
+
+Correct: 
+titleSelect:  Symposium on Computational Geometry SoCG
+IdClass: 15
+Jaccard: 1.0
+Cleared    : computational conference geometry socg
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acm conference data exhibits management program sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.7142857142857143
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : Annual Meeting of the Association for Computational Linguistics ACL
+IdClass: 208
+Cleared: acl association computational linguistics meeting
+
+Correct: 
+titleSelect:  Meeting of the Association for Computational Linguistics ACL
+IdClass: 208
+Jaccard: 1.0
+Cleared    : acl association computational linguistics meeting
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: conference design implementation languages pldi programming
+
+Correct: 
+titleSelect:  SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.625
+Cleared    : conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases conference data eigth large very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8571428571428571
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 115
+Cleared: iptps peer systems the1st workshop
+
+Correct: 
+titleSelect:  International Workshop on Peer-To-Peer Systems IPTPS
+IdClass: 115
+Jaccard: 0.8
+Cleared    : iptps peer systems workshop
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: acm conference design implementations languages pldi programming sigplan
+
+Correct: 
+titleSelect:  ACM-SIGPLAN Symposium on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.6
+Cleared    : acm conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: acm conference languages popl principles programming record
+
+Correct: 
+titleSelect:  ACM-SIGACT Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.75
+Cleared    : acm conference languages popl principles programming sigact
+
+
+
+
+Correcter.
+Tested : Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Cleared: computer conference cvpr pattern recognition vision
+
+Correct: 
+titleSelect:  Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 1.0
+Cleared    : computer conference cvpr pattern recognition vision
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 4053
+Cleared: ieeetse se tse
+
+Wrong: 
+titleSelect:  SE
+IdClass: 2625
+Jaccard: 0.3333333333333333
+Cleared    : se
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 5505
+Cleared: circuit ieee journal jssc solid state
+
+Correct: 
+titleSelect:  IEEE Journal of Solid-State Circuits
+IdClass: 5505
+Jaccard: 0.5714285714285714
+Cleared    : circuits ieee journal solid state
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases conference data keynote large speech very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.75
+Cleared    : bases conference data large very vldb
+
+
+
+
+Correcter.
+Tested : ACM International Symposium on Computer Architecture ISCA
+IdClass: 89
+Cleared: acm architecture computer conference isca
+
+Correct: 
+titleSelect:  ACM International Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 1.0
+Cleared    : acm architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: conference very vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 0.6
+Cleared    : conference databases large very vldb
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 198
+Cleared: computer cvpr energy methods minimization pattern recognition vision
+
+Correct: 
+titleSelect:  Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 0.5555555555555556
+Cleared    : computer conference cvpr pattern recognition vision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 2
+Cleared: focs ieee
+
+Correct: 
+titleSelect:  FOCS
+IdClass: 2
+Jaccard: 0.5
+Cleared    : focs
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 80
+Cleared: acm conference operanting principles sosp systems
+
+Correct: 
+titleSelect:  ACM Symposium on Operating Systems Principles SOSP
+IdClass: 80
+Jaccard: 0.7142857142857143
+Cleared    : acm conference operating principles sosp systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 124
+Cleared: computing conference mobi mobicom mobile networking
+
+Correct: 
+titleSelect:  ACM International Conference on Mobile Computing and Networking MobiCom
+IdClass: 124
+Jaccard: 0.7142857142857143
+Cleared    : acm computing conference mobicom mobile networking
+
+
+
+
+Correcter.
+Tested : annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages POPL
+IdClass: 28
+Cleared: acm conference languages popl principles programming sigact sigplan
+
+Correct: 
+titleSelect:  annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages POPL
+IdClass: 28
+Jaccard: 1.0
+Cleared    : acm conference languages popl principles programming sigact sigplan
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 208
+Cleared: acl association computational conference conjunction corpora empirical held joint language large linguistics meeting methods natural processing sigdat very volume
+
+Wrong: 
+titleSelect:  Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning
+IdClass: 322
+Jaccard: 0.35
+Cleared    : computational conference empirical language learning methods natural processing
+
+
+
+
+Correcter.
+Tested : IJRR
+IdClass: 4938
+Cleared: ijrr
+
+Correct: 
+titleSelect:  IJRR
+IdClass: 4938
+Jaccard: 1.0
+Cleared    : ijrr
+
+
+
+
+Correcter.
+Tested : ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems PODS
+IdClass: 159
+Cleared: acm conference database pods principles sigact sigart sigmod systems
+
+Correct: 
+titleSelect:  ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems PODS
+IdClass: 159
+Jaccard: 1.0
+Cleared    : acm conference database pods principles sigact sigart sigmod systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4121
+Cleared: comp journal siam
+
+Correct: 
+titleSelect:  SIAM J. Comput.
+IdClass: 4121
+Jaccard: 0.5
+Cleared    : comput journal siam
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: advances neural nips processing systems
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.6666666666666666
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 4028
+Cleared: acm graphics tog transaction
+
+Correct: 
+titleSelect:  ACM TRANSACTIONS ON GRAPHICS TOG
+IdClass: 4028
+Jaccard: 0.6
+Cleared    : acm graphics tog transactions
+
+
+
+
+Correcter.
+Tested : ACL
+IdClass: 208
+Cleared: acl
+
+Correct: 
+titleSelect:  ACL
+IdClass: 208
+Jaccard: 1.0
+Cleared    : acl
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 198
+Cleared: computer cvpr pattern recognition vision
+
+Correct: 
+titleSelect:  Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 0.8333333333333334
+Cleared    : computer conference cvpr pattern recognition vision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 420
+Cleared: cdc conference control decis ieee
+
+Correct: 
+titleSelect:  IEEE Conference on Decision and Control CDC
+IdClass: 420
+Jaccard: 0.6666666666666666
+Cleared    : cdc conference control decision ieee
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 29
+Cleared: conference design implementationpp language pldi programming
+
+Correct: 
+titleSelect:  SIGPLAN Conference on Programming Language Design and Implementation PLDI
+IdClass: 29
+Jaccard: 0.625
+Cleared    : conference design implementation language pldi programming sigplan
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: conferenceon databases large very vldb
+
+Correct: 
+titleSelect:  International Conference on Very Large Databases VLDB
+IdClass: 158
+Jaccard: 0.6666666666666666
+Cleared    : conference databases large very vldb
+
+
+
+
+Wronger.
+Tested : null
+IdClass: 178
+Cleared: aaai ai conference nat
+
+Wrong: 
+titleSelect:  Scandinavian Conference on AI
+IdClass: 3489
+Jaccard: 0.4
+Cleared    : ai conference scandinavian
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai artif conference intell national
+
+Correct: 
+titleSelect:  National Conference on Artificial Intelligence AAAI
+IdClass: 178
+Jaccard: 0.42857142857142855
+Cleared    : aaai artificial conference intelligence national
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: advances conference information neural nips processing systems
+
+Correct: 
+titleSelect:  Conference on Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.8571428571428571
+Cleared    : conference information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 1
+Cleared: stoc thstoc
+
+Correct: 
+titleSelect:  STOC
+IdClass: 1
+Jaccard: 0.5
+Cleared    : stoc
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: acm computing conference distributed podc principles sigactsigops
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.8571428571428571
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : POPL
+IdClass: 28
+Cleared: popl
+
+Correct: 
+titleSelect:  POPL
+IdClass: 28
+Jaccard: 1.0
+Cleared    : popl
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 157
+Cleared: acmsigmod conference data management sigmod
+
+Correct: 
+titleSelect:  ACM SIGMOD International Conference on Management of Data Conference
+IdClass: 157
+Jaccard: 0.6666666666666666
+Cleared    : acm conference data management sigmod
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 43
+Cleared: acmieee computation conference distributed podc principles
+
+Correct: 
+titleSelect:  ACM Symposium on Principles of Distributed Computing PODC
+IdClass: 43
+Jaccard: 0.5
+Cleared    : acm computing conference distributed podc principles
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 89
+Cleared: architecture computer conference hs isca
+
+Correct: 
+titleSelect:  Annual Symposium on Computer Architecture ISCA
+IdClass: 89
+Jaccard: 0.8
+Cleared    : architecture computer conference isca
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 178
+Cleared: aaai artificial conference intelligence nat
+
+Correct: 
+titleSelect:  AAAI Conference on Artificial Intelligence
+IdClass: 178
+Jaccard: 0.8
+Cleared    : aaai artificial conference intelligence
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 215
+Cleared: conference course notes siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH Conference
+IdClass: 215
+Jaccard: 0.5
+Cleared    : conference siggraph
+
+
+
+
+Correcter.
+Tested : PODS
+IdClass: 159
+Cleared: pods
+
+Correct: 
+titleSelect:  PODS
+IdClass: 159
+Jaccard: 1.0
+Cleared    : pods
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 208
+Cleared: acl prvccedings
+
+Correct: 
+titleSelect:  ACL
+IdClass: 208
+Jaccard: 0.5
+Cleared    : acl
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 28
+Cleared: conference popl popl94 record
+
+Correct: 
+titleSelect:  Symposium on Principles of Programming Languages POPL
+IdClass: 28
+Jaccard: 0.2857142857142857
+Cleared    : conference languages popl principles programming
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 927
+Cleared: adv information neural nips processing systems
+
+Correct: 
+titleSelect:  Neural Information Processing Systems NIPS
+IdClass: 927
+Jaccard: 0.8333333333333334
+Cleared    : information neural nips processing systems
+
+
+
+
+Correcter.
+Tested : International Conference on Data Engineering ICDE
+IdClass: 163
+Cleared: conference data engineering icde
+
+Correct: 
+titleSelect:  International Conference on Data Engineering ICDE
+IdClass: 163
+Jaccard: 1.0
+Cleared    : conference data engineering icde
+
+
+
+
+Correcter.
+Tested : SIGGRAPH Conference SIGGRAPH
+IdClass: 215
+Cleared: conference siggraph
+
+Correct: 
+titleSelect:  SIGGRAPH Conference
+IdClass: 215
+Jaccard: 1.0
+Cleared    : conference siggraph
+
+
+
+
+Correcter.
+Tested : ICDE
+IdClass: 163
+Cleared: icde
+
+Correct: 
+titleSelect:  ICDE
+IdClass: 163
+Jaccard: 1.0
+Cleared    : icde
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 198
+Cleared: computer conference cvpr ieee pattern recognition society vision volume
+
+Correct: 
+titleSelect:  IEEE Conference on Computer Vision and Pattern Recognition CVPR
+IdClass: 198
+Jaccard: 0.7777777777777778
+Cleared    : computer conference cvpr ieee pattern recognition vision
+
+
+
+
+Correcter.
+Tested : null
+IdClass: 158
+Cleared: bases data large very vldb
+
+Correct: 
+titleSelect:  Very Large Data Bases Conference VLDB
+IdClass: 158
+Jaccard: 0.8333333333333334
+Cleared    : bases conference data large very vldb

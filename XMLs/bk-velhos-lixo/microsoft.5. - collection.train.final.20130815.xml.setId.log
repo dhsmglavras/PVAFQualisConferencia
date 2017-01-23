@@ -1,0 +1,57 @@
+Thu Oct 03 15:40:05 BRT 2013
+minSim: 1.0
+maxSim: 0.5
+minSimIfAcronEqual: 0.4
+toAsk: true
+
+<setId>
+    <pub-venue>
+            <id>1467</id>
+            <idClass>203221</idClass>
+            <acronym>WEC</acronym>
+            <title>Enformatika Conferences</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3186</id>
+            <idClass>203221</idClass>
+            <acronym>IEC</acronym>
+            <title>International Enformatika Conference</title>
+            <title-formerly>World Enformatika Conference</title-formerly>
+            <acronym-formerly>WEC</acronym-formerly>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2349</id>
+            <idClass>203442</idClass>
+            <acronym>PAP</acronym>
+            <title>International Conference and Exhibition on Practical Applications of Prolog</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3403</id>
+            <idClass>203442</idClass>
+            <acronym>PAP</acronym>
+            <title>Practical Application of Prolog Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>4176</id>
+            <idClass>101359</idClass>
+            <acronym>4OR</acronym>
+            <title>A Quarterly Journal of Operations Research</title>
+            <pub-type>J</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>4984</id>
+            <idClass>101359</idClass>
+            <acronym>4OR</acronym>
+            <title>Quarterly Journal of the Belgian, French and Italian Operations Research Societies</title>
+            <pub-type>J</pub-type>
+            <site>http://www.springerlink.com/content/1614-2411/</site>
+    </pub-venue>
+</setId>

@@ -1,0 +1,69 @@
+Tue Aug 13 17:05:53 BRT 2013
+Total fusions: 2
+minSim: 1.0
+maxSim: 1.0
+minSimIfAcronEqual: 1.0
+toAsk: false
+
+<fusion>
+   <pub-venue>
+      <id>3155</id>
+      <idClass>203180</idClass>
+      <acronym>ICMAS</acronym>
+      <title>International Conference on Multiagent Systems</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>8</id>
+      <idClass>202812</idClass>
+      <entity>ACM</entity>
+      <entity>IFAAMAS</entity>
+      <acronym>Agents</acronym>
+      <acronym>AAMAS</acronym>
+      <title>International Conference on Autonomous Agents</title>
+      <title>International Conference on Autonomous Agents and Multiagent Systems</title>
+      <title>International Joint Conference on Autonomous Agents and Multiagents Systems</title>
+      <title>International Joint Conference on Autonomous Agents and Multiagent Systems</title>
+      <title-formerly>international conference on Advanced Agent Technology</title-formerly>
+      <merge-of-title>Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+      <merge-of-title>International Conference on Multiagent Systems</merge-of-title>
+      <merge-of-title>International Workshop on Agent Theories, Architectures, and Languages</merge-of-title>
+      <merge-of-acronym>ATAL</merge-of-acronym>
+      <merge-of-acronym>ICMAS</merge-of-acronym>
+      <merge-of-acronym>AA</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+<usion>
+<fusion>
+   <pub-venue>
+      <id>2707</id>
+      <idClass>202718</idClass>
+      <entity>IEEE</entity>
+      <acronym>VV</acronym>
+      <acronym>VolVis</acronym>
+      <title>IEEE Symposium on Volume Visualization and Graphics</title>
+      <title>IEEE/SIGGRAPH Symposium on Volume Visualization and Graphics</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <idClass>202011</idClass>
+      <entity>IEEE</entity>
+      <acronym>VolVis</acronym>
+      <acronym>EuroVis</acronym>
+      <acronym>VisSym</acronym>
+      <title>IEEE Symposium on Volume Visualization and Graphics</title>
+      <title>Eurographics/IEEE-VGTC Symposium on Visualization</title>
+      <title>Joint Eurographics - IEEE TCVG Symposium on Visualization</title>
+      <title-formerly>IEEE symposium on visualization and graphics</title-formerly>
+      <title-formerly>Symposium on Volume Visualization</title-formerly>
+      <title-formerly>IEEE symposium on visualization</title-formerly>
+      <title-formerly>symposium on visualization</title-formerly>
+      <title-formerly>workshop on visualization</title-formerly>
+      <title-formerly>Chapel Hill workshop on visualization</title-formerly>
+      <acronym-formerly>VVS</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+<usion>

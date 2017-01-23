@@ -1,0 +1,846 @@
+<publication-venues>
+   <pub-venue>
+      <id>0</id>
+      <idClass>10134</idClass>
+      <acronym>CACM</acronym>
+      <title>Communications of the ACM</title>
+      <title-abrev>systems university acm communications operations waterloo</title-abrev>
+      <title-abrev>cacm</title-abrev>
+      <title-abrev>acm communications oftbe</title-abrev>
+      <title-abrev>machinery acm communications association computing</title-abrev>
+      <title-abrev>machinery association communications computing</title-abrev>
+      <title-abrev>comm acm</title-abrev>
+      <title-abrev>press new acm communications york</title-abrev>
+      <title-abrev>acm communication</title-abrev>
+      <title-abrev>acm communications</title-abrev>
+      <title-abrev>acm commun</title-abrev>
+      <title-abrev>acm communications v31</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>202833</idClass>
+      <title>Agent-Mediated Electronic Commerce Workshop at the International Joint Conference on Artificial Intelligence</title>
+      <title-abrev>joint workshop mediated artificial conference agent commerce electronic intelligence</title-abrev>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <idClass>202774</idClass>
+      <acronym>IJCAI</acronym>
+      <title>International Joint Conference on Artificial Intelligence</title>
+      <title-abrev>joint ijcai</title-abrev>
+      <title-abrev>joint ijcai art ciaal conference intelligence</title-abrev>
+      <title-abrev>joint san artificial conference mateo intelligence</title-abrev>
+      <title-abrev>information joint workshop under incomplete ijcai planning conference artificial uncertainty intelligence</title-abrev>
+      <title-abrev>japan ijcai nayoga invited talk</title-abrev>
+      <title-abrev>joint intell artificial conference</title-abrev>
+      <title-abrev>joint intelligenct artificial conference</title-abrev>
+      <title-abrev>panel ijcai session conference</title-abrev>
+      <title-abrev>joint ai conference</title-abrev>
+      <title-abrev>joint intelligenee artificial conference</title-abrev>
+      <title-abrev>joint artificial conference intelligence</title-abrev>
+      <title-abrev>joint ijcai inproceedingsofthe artificial conference intelligence</title-abrev>
+      <title-abrev>ijcai</title-abrev>
+      <title-abrev>acapulco ijcai03 mexico</title-abrev>
+      <title-abrev>joint artificial conference cambridge intelligence</title-abrev>
+      <title-abrev>joint ijcai confr artificial intelligence</title-abrev>
+      <title-abrev>dc washington ijcai</title-abrev>
+      <title-abrev>joint ijcai artificial conference intelligence</title-abrev>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>3</id>
+      <idClass>20178</idClass>
+      <acronym>AAAI</acronym>
+      <title>National Conference on Artificial Intelligence</title>
+      <title-abrev>aaa1 address national presidential artificial conference intelligence</title-abrev>
+      <title-abrev>association american artificial conference intelligence aaai</title-abrev>
+      <title-abrev>park national menlo artificial conference intelligence</title-abrev>
+      <title-abrev>national artificial conference intelligence</title-abrev>
+      <title-abrev>vol national artificial conference intelligence</title-abrev>
+      <title-abrev>artificial conference providence intelligence thnational</title-abrev>
+      <title-abrev>association american conference artificial aaai intelligence</title-abrev>
+      <title-abrev>association american national artificial conference intelligence</title-abrev>
+      <title-abrev>reasoning national about artificial conference notes working intelligence function</title-abrev>
+      <title-abrev>national artificial conference intelligence aaai</title-abrev>
+      <title-abrev>ai conference</title-abrev>
+      <title-abrev>national intell conference artif</title-abrev>
+      <title-abrev>national applications artificial conference innovative intelligence</title-abrev>
+      <title-abrev>association american morgan artificial conference freeman aaai intelligence</title-abrev>
+      <title-abrev>national part artificial conference intelligence</title-abrev>
+      <title-abrev>national artificial conference aaai intelligence</title-abrev>
+      <title-abrev>ai association american national artificial conference intelligence</title-abrev>
+      <title-abrev>ai nat conference</title-abrev>
+      <title-abrev>ai national conference</title-abrev>
+      <title-abrev>nat artificial conference intelligence</title-abrev>
+      <title-abrev>association american artificial conference intelligence</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4</id>
+      <idClass>201</idClass>
+      <acronym>STOC</acronym>
+      <title>Annual ACM Symposium on Theory of Computing</title>
+      <title-abrev>acm theory computing pp conference</title-abrev>
+      <title-abrev>acm stoc</title-abrev>
+      <title-abrev>acm thiry theory computing conference</title-abrev>
+      <title-abrev>theory computing conference</title-abrev>
+      <title-abrev>acm stoc theory computing conference</title-abrev>
+      <title-abrev>acm twentyeighth theory philadelphia computing conference</title-abrev>
+      <title-abrev>cm theory computing conference</title-abrev>
+      <title-abrev>acm theory computing conference preliminary appeared version</title-abrev>
+      <title-abrev>acm theory computing conference fijth</title-abrev>
+      <title-abrev>acm siam theory computing conference</title-abrev>
+      <title-abrev>acm theory computing conference</title-abrev>
+      <title-abrev>stoc</title-abrev>
+      <title-abrev>theory computing conference thacm</title-abrev>
+      <title-abrev>theory computing stsymp</title-abrev>
+      <title-abrev>slides stoc</title-abrev>
+      <title-abrev>thstoc</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5</id>
+      <idClass>20930</idClass>
+      <acronym>NIPS</acronym>
+      <title>Advances in Neural Information Processing Systems</title>
+      <title-abrev>information system processing neural advances conference</title-abrev>
+      <title-abrev>information neural advances</title-abrev>
+      <title-abrev>information system processing neural adv</title-abrev>
+      <title-abrev>information system processing neural advances</title-abrev>
+      <title-abrev>information system processing neural advances nips</title-abrev>
+      <title-abrev>tutorial notes nips</title-abrev>
+      <title-abrev>informationprocessing system neural advances</title-abrev>
+      <title-abrev>information system processing neural conference nips</title-abrev>
+      <title-abrev>information system processing neural nips</title-abrev>
+      <title-abrev>nips</title-abrev>
+      <title-abrev>information processing neural advances</title-abrev>
+      <title-abrev>systems information processing neural</title-abrev>
+      <title-abrev>system processing neural advances</title-abrev>
+      <title-abrev>information system processing neural conference</title-abrev>
+      <title-abrev>information system processing neural</title-abrev>
+      <title-abrev>information system processing neural advances conference nips</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>6</id>
+      <idClass>20157</idClass>
+      <acronym>SIGMOD</acronym>
+      <title>ACM SIGMOD International Conference on Management of Data</title>
+      <title-abrev>sigmod data conference management</title-abrev>
+      <title-abrev>exhibits sigmod acm program data conference management</title-abrev>
+      <title-abrev>sigmod</title-abrev>
+      <title-abrev>sigmod conference</title-abrev>
+      <title-abrev>sigmod data conference management theacm</title-abrev>
+      <title-abrev>sigmod acm data conference management proc</title-abrev>
+      <title-abrev>sigmod acm data conference management</title-abrev>
+      <title-abrev>sigmod acm</title-abrev>
+      <title-abrev>acmsigmod data conference management</title-abrev>
+      <title-abrev>sigmod96 sigmod acm data conference management</title-abrev>
+      <title-abrev>stonebreaker sigmod acm michael herausgeber data conference management</title-abrev>
+      <title-abrev>press sigmod acm data philadelphia conference management</title-abrev>
+      <title-abrev>sigmod acm conference</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>7</id>
+      <idClass>20158</idClass>
+      <acronym>VLDB</acronym>
+      <title>International Conference on Very Large Data Bases</title>
+      <title-abrev>data conference large very</title-abrev>
+      <title-abrev>conference very</title-abrev>
+      <title-abrev>volume bases data conference large very</title-abrev>
+      <title-abrev>vldb</title-abrev>
+      <title-abrev>kyoto bases data conference large very</title-abrev>
+      <title-abrev>conferenceon databases large very</title-abrev>
+      <title-abrev>vldb conference</title-abrev>
+      <title-abrev>thvldb conference</title-abrev>
+      <title-abrev>vldb databases conference large very</title-abrev>
+      <title-abrev>eigth bases data conference large very</title-abrev>
+      <title-abrev>vldb rence conference</title-abrev>
+      <title-abrev>conference large very</title-abrev>
+      <title-abrev>bases data conference large very</title-abrev>
+      <title-abrev>databases conference large very</title-abrev>
+      <title-abrev>thinternational bases data conference large very</title-abrev>
+      <title-abrev>vldb track research</title-abrev>
+      <title-abrev>vldb bases data conference large very</title-abrev>
+      <title-abrev>bases data internation conference large very</title-abrev>
+      <title-abrev>vldb thconference databases large very</title-abrev>
+      <title-abrev>speech bases data conference large very keynote</title-abrev>
+      <title-abrev>vldb conference very</title-abrev>
+      <title-abrev>vldb bases data large very</title-abrev>
+      <title-abrev>mexico bases data conference large city very</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>8</id>
+      <idClass>20215</idClass>
+      <acronym>SIGGRAPH</acronym>
+      <title>International Conference on Computer Graphics and Interactive Techniques</title>
+      <title-abrev>orleans new siggraph</title-abrev>
+      <title-abrev>annualconferenceseries incomputergraphicsproceedings siggraph</title-abrev>
+      <title-abrev>computer siggraph graphics</title-abrev>
+      <title-abrev>computer interactive techniques graphics conference</title-abrev>
+      <title-abrev>acquisition model time 3d siggraph</title-abrev>
+      <title-abrev>siggraph</title-abrev>
+      <title-abrev>sketch siggraph</title-abrev>
+      <title-abrev>computer graphics conference</title-abrev>
+      <title-abrev>acm siggraph</title-abrev>
+      <title-abrev>orlando proceedingsofsiggraph</title-abrev>
+      <title-abrev>computer hierarchical control spacetime cohen siggraph graphics</title-abrev>
+      <title-abrev>siggraph96</title-abrev>
+      <title-abrev>course siggraph notes</title-abrev>
+      <title-abrev>sketch fl orlando siggraph technical</title-abrev>
+      <title-abrev>computer press acm wesley techniques co interactive graphics conference addison publishing</title-abrev>
+      <title-abrev>computer visual acm graphics siggraph</title-abrev>
+      <title-abrev>computer acm siggraph graphics conference</title-abrev>
+      <title-abrev>computer acm siggraph graphics</title-abrev>
+      <title-abrev>course acm siggraph</title-abrev>
+      <title-abrev>course siggraph notes conference</title-abrev>
+      <title-abrev>interest siggraph graphics special group</title-abrev>
+      <title-abrev>computer acm graphics siggraph</title-abrev>
+      <title-abrev>applications siggraph sketches</title-abrev>
+      <title-abrev>tutorial siggraph</title-abrev>
+      <title-abrev>siggraph conference</title-abrev>
+      <title-abrev>hierarchical control spacetime siggraph</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>9</id>
+      <idClass>2010</idClass>
+      <acronym>SODA</acronym>
+      <title>Annual ACM SIAM Symposium on Discrete Algorithms</title>
+      <title-abrev>discrete algorithms conference</title-abrev>
+      <title-abrev>discrete acm algorithms conference</title-abrev>
+      <title-abrev>discrete acm siam algorithms thannual conference</title-abrev>
+      <title-abrev>discrete acm siam algorithms soda conference</title-abrev>
+      <title-abrev>discrete acm siam algorithms conference</title-abrev>
+      <title-abrev>soda</title-abrev>
+      <title-abrev>discrete acm siam conference algorithm</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>10</id>
+      <idClass>1012</idClass>
+      <title>Artificial Intelligence</title>
+      <title-abrev>artificial intelligence</title-abrev>
+      <title-abrev>aij artificial intelligence</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>11</id>
+      <idClass>20227</idClass>
+      <acronym>CHI</acronym>
+      <title>Conference on Human Factors in Computing Systems</title>
+      <title-abrev>systems factors computing sigchi conference people empowering human</title-abrev>
+      <title-abrev>limit systems factors chi computing sigchi conference human</title-abrev>
+      <title-abrev>system factors acm chi computing conference human</title-abrev>
+      <title-abrev>systems factors changing computing sigchi conference our world human</title-abrev>
+      <title-abrev>systems factors common ground computing sigchi conference human</title-abrev>
+      <title-abrev>system factors chi computing conference human</title-abrev>
+      <title-abrev>system factors computing conference human</title-abrev>
+      <title-abrev>systems technology factors reaching through computing sigchi conference human</title-abrev>
+      <title-abrev>system factors acm computing conference human</title-abrev>
+      <title-abrev>system factors computing sigchi conference human</title-abrev>
+      <title-abrev>systems factors celebrating interdependence computing sigchi conference human</title-abrev>
+      <title-abrev>system factors computing human</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>12</id>
+      <idClass>20107</idClass>
+      <acronym>DAC</acronym>
+      <title>Design Automation Conference</title>
+      <title-abrev>dac</title-abrev>
+      <title-abrev>dac automation conference design</title-abrev>
+      <title-abrev>asme automation conference design</title-abrev>
+      <title-abrev>automation conference design</title-abrev>
+      <title-abrev>des autom conference</title-abrev>
+      <title-abrev>ieee automation conference design</title-abrev>
+      <title-abrev>ieee acm automation conference design</title-abrev>
+      <title-abrev>automation volume conference design</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>13</id>
+      <idClass>2028</idClass>
+      <acronym>POPL</acronym>
+      <title>ACM SIGPLAN SIGACT Symposium on Principles of Programming Languages</title>
+      <title-abrev>popl conference</title-abrev>
+      <title-abrev>languages programming acm principles conference</title-abrev>
+      <title-abrev>record popl94 conference</title-abrev>
+      <title-abrev>languages programming principles conference</title-abrev>
+      <title-abrev>languages record programming acm principles conference</title-abrev>
+      <title-abrev>languages record programming principles conference</title-abrev>
+      <title-abrev>languages programming acm tutorial principles conference</title-abrev>
+      <title-abrev>popl languages record programming acm principles conference</title-abrev>
+      <title-abrev>popl</title-abrev>
+      <title-abrev>languages programming acm sigplan principles conference sigact</title-abrev>
+      <title-abrev>record popl98 conference</title-abrev>
+      <title-abrev>languages programming principles</title-abrev>
+      <title-abrev>popl earlier published</title-abrev>
+      <title-abrev>popl languages programming principles</title-abrev>
+      <title-abrev>popl languages programming acm sigplan principles conference sigact</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>14</id>
+      <idClass>20181</idClass>
+      <acronym>UAI</acronym>
+      <title>Conference on Uncertainty in Artificial Intelligence</title>
+      <title-abrev>uai artificial uncertainty intelligence</title-abrev>
+      <title-abrev>ai conference uncertainty</title-abrev>
+      <title-abrev>artificial uncertainty intelligence</title-abrev>
+      <title-abrev>uai</title-abrev>
+      <title-abrev>uai conference</title-abrev>
+      <title-abrev>uai conference artificial uncertainty intelligence</title-abrev>
+      <title-abrev>uai morgan artificial conference kaufmann uncertainty intelligence</title-abrev>
+      <title-abrev>ai uai conference uncertainty</title-abrev>
+      <title-abrev>publishers arti uai2003 morgan kaufmann cial uncertainty intelligence</title-abrev>
+      <title-abrev>san uai francisco artificial conference uncertainty intelligence</title-abrev>
+      <title-abrev>ai uncertainty</title-abrev>
+      <title-abrev>uai02 artificial conference uncertainty intelligence</title-abrev>
+      <title-abrev>artificial conference uncertainty intelligence</title-abrev>
+      <title-abrev>uai artificial conference uncertainty intelligence</title-abrev>
+      <title-abrev>twelth san conference artificial uncertainty mateo intelligence</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>15</id>
+      <idClass>101270</idClass>
+      <acronym>IJRR</acronym>
+      <title>International Journal of Robotics Research</title>
+      <title-abrev>robotics research</title-abrev>
+      <title-abrev>ijrr</title-abrev>
+      <title-abrev>journal robotics research</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>16</id>
+      <idClass>2080</idClass>
+      <acronym>SOSP</acronym>
+      <title>ACM Symposium on Operating Systems Principles</title>
+      <title-abrev>system acm operating principles conference review</title-abrev>
+      <title-abrev>systems scale information principles architecture system oth operating conference large</title-abrev>
+      <title-abrev>acm sosp</title-abrev>
+      <title-abrev>sosp</title-abrev>
+      <title-abrev>system acm operating address principles conference keynote</title-abrev>
+      <title-abrev>system acm operating sosp louise lake principles chateau conference</title-abrev>
+      <title-abrev>loth system operating principles conference</title-abrev>
+      <title-abrev>system operating principles conference</title-abrev>
+      <title-abrev>system operating principles conference thacm</title-abrev>
+      <title-abrev>system acm operating principles conference</title-abrev>
+      <title-abrev>system operating sosp principles conference</title-abrev>
+      <title-abrev>system acm operating principles thsymposium</title-abrev>
+      <title-abrev>progress principles works system operating conference presented</title-abrev>
+      <title-abrev>system acm operating sosp principles conference</title-abrev>
+      <title-abrev>system acm operating sigops principles conference</title-abrev>
+      <title-abrev>system eighteeth operating principles conference</title-abrev>
+      <title-abrev>system acm operanting principles conference</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>17</id>
+      <idClass>10150</idClass>
+      <title>IEEE Transactions on Computers</title>
+      <title-abrev>ieee transaction compurers</title-abrev>
+      <title-abrev>computers ieee tran</title-abrev>
+      <title-abrev>ieee transaction comput</title-abrev>
+      <title-abrev>computers ieee transaction performance implementation</title-abrev>
+      <title-abrev>ieee transaction computing</title-abrev>
+      <title-abrev>computers transaction</title-abrev>
+      <title-abrev>computers ieee transaction</title-abrev>
+      <title-abrev>computer ieee transaction</title-abrev>
+      <title-abrev>computer computers ieee webb transaction performance implementation architecture warp</title-abrev>
+      <title-abrev>transaction 1eee comput</title-abrev>
+      <title-abrev>computers ieee transaction memory</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>18</id>
+      <idClass>20184</idClass>
+      <acronym>ICML</acronym>
+      <title>Annual International Conference on Machine Learning</title>
+      <title-abrev>icml</title-abrev>
+      <title-abrev>learning conference machine</title-abrev>
+      <title-abrev>learning machine conference twentysecond</title-abrev>
+      <title-abrev>learning machine conference</title-abrev>
+      <title-abrev>ieee icml learning machine conference</title-abrev>
+      <title-abrev>internationalconference learning machine</title-abrev>
+      <title-abrev>icml learning machine conference</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>19</id>
+      <idClass>10453</idClass>
+      <acronym>SIAM</acronym>
+      <title>SIAM Journal on Computing</title>
+      <title-abrev>journal siam computing</title-abrev>
+      <title-abrev>siam computing jounal</title-abrev>
+      <title-abrev>journal siam comput</title-abrev>
+      <title-abrev>journal comp siam</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <idClass>10175</idClass>
+      <acronym>TODS</acronym>
+      <title>ACM Transactions on Database Systems</title>
+      <title-abrev>acm vat tods</title-abrev>
+      <title-abrev>system acm transaction tods database</title-abrev>
+      <title-abrev>tods</title-abrev>
+      <title-abrev>acm transaction syst database</title-abrev>
+      <title-abrev>system acm transaction database</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>21</id>
+      <idClass>2089</idClass>
+      <acronym>ISCA</acronym>
+      <title>Annual International Symposium on Computer Architecture</title>
+      <title-abrev>computer ieee acm lay architecture conference</title-abrev>
+      <title-abrev>computer isca volume architecture conference</title-abrev>
+      <title-abrev>computer manuscript architecture conference</title-abrev>
+      <title-abrev>isca conference</title-abrev>
+      <title-abrev>computer dataflow program resource architecture conference requirements</title-abrev>
+      <title-abrev>computer hs architecture conference</title-abrev>
+      <title-abrev>computer architecture conference</title-abrev>
+      <title-abrev>computer syrup architecture</title-abrev>
+      <title-abrev>computer architecture internationalsymposium</title-abrev>
+      <title-abrev>isca</title-abrev>
+      <title-abrev>computer ieee acm tb sympmium architecture</title-abrev>
+      <title-abrev>computer ieee acm architecture conference</title-abrev>
+      <title-abrev>computer acm architecture conference</title-abrev>
+      <title-abrev>computer schemes cache architecture coherence evaluation directory conference</title-abrev>
+      <title-abrev>computer isca architecture conference</title-abrev>
+      <title-abrev>computer workshop complexity architecture conference design effective</title-abrev>
+      <title-abrev>computer nnualinternational architecture conference oceedings pr</title-abrev>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>22</id>
+      <idClass>2099</idClass>
+      <acronym>ISCAS</acronym>
+      <title>IEEE International Symposium on Circuits and Systems</title>
+      <title-abrev>japan iscas kobe</title-abrev>
+      <title-abrev>systems ieee iscas conference circuits</title-abrev>
+      <title-abrev>system ieee conference circuits</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>23</id>
+      <idClass>10214</idClass>
+      <acronym>IPL</acronym>
+      <title>Information Processing Letters</title>
+      <title-abrev>information processing letters</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>24</id>
+      <idClass>2043</idClass>
+      <acronym>PODC</acronym>
+      <title>Annual ACM SIGACT SIGOPS Symposium on Principles of Distributed Computing</title>
+      <title-abrev>podc</title-abrev>
+      <title-abrev>pods distributed computing principles conference</title-abrev>
+      <title-abrev>acm distributed computing principles inproceedingsof conference</title-abrev>
+      <title-abrev>acm distributed computing principles conference</title-abrev>
+      <title-abrev>distributed computing principles conference</title-abrev>
+      <title-abrev>podc acm computing distr princ conference</title-abrev>
+      <title-abrev>distributed acmieee computation principles conference</title-abrev>
+      <title-abrev>acm distributed sympos computing principles</title-abrev>
+      <title-abrev>podc acm distributed computing principles conference</title-abrev>
+      <title-abrev>acm distributed sigops computing principles conference sigact</title-abrev>
+      <title-abrev>acm prodeedings distributed computing principles conference</title-abrev>
+      <title-abrev>podc sigactsigops acm distributed computing principles conference</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>25</id>
+      <idClass>10274</idClass>
+      <title>ACM SIGMOD Record</title>
+      <title-abrev>sigmod records</title-abrev>
+      <title-abrev>rec sigmod</title-abrev>
+      <title-abrev>record sigmod acm</title-abrev>
+      <title-abrev>record sigmod</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>26</id>
+      <idClass>10192</idClass>
+      <acronym>CCR</acronym>
+      <title>Computer Communication Review</title>
+      <title-abrev>computer acm communication review</title-abrev>
+      <title-abrev>computer communication review</title-abrev>
+      <title-abrev>computer acm communication review sigcomm</title-abrev>
+      <title-abrev>computer acm communication ccr review sigcomm</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>27</id>
+      <idClass>2029</idClass>
+      <acronym>PLDI</acronym>
+      <title>ACM SIGPLAN Conference on Programming Language Design and Implementation</title>
+      <title-abrev>languages programming acm sigplan implementations conference design</title-abrev>
+      <title-abrev>programming implementation language conference design</title-abrev>
+      <title-abrev>programming acm implementation sigplan language conference design</title-abrev>
+      <title-abrev>languages press programming acm implementation conference design</title-abrev>
+      <title-abrev>pldi best</title-abrev>
+      <title-abrev>programming implementation sigplan pldi language conference design</title-abrev>
+      <title-abrev>programming acm sigplam implementation language conference design</title-abrev>
+      <title-abrev>programming acm implementation pldi language conference design</title-abrev>
+      <title-abrev>pldi</title-abrev>
+      <title-abrev>implementationpp programming language conference design</title-abrev>
+      <title-abrev>acm sigplan pldi</title-abrev>
+      <title-abrev>programming acm implementation sigplan pldi language conference design</title-abrev>
+      <title-abrev>languages programming implementation conference design</title-abrev>
+      <title-abrev>languages programming implementation design</title-abrev>
+      <title-abrev>programming acm implementation language conference design</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>28</id>
+      <idClass>20124</idClass>
+      <acronym>MobiCom</acronym>
+      <title>Annual ACM International Conference on Mobile Computing and Networking</title>
+      <title-abrev>networking ieee acm computing conference mobile</title-abrev>
+      <title-abrev>networking dust mobicom computing conference smart mobile</title-abrev>
+      <title-abrev>ieee acm mobicom</title-abrev>
+      <title-abrev>ieee mobicom</title-abrev>
+      <title-abrev>acm mobicom conference</title-abrev>
+      <title-abrev>mobicom</title-abrev>
+      <title-abrev>networking mobicom computing conference mobile</title-abrev>
+      <title-abrev>networking computing thannual conference mobile</title-abrev>
+      <title-abrev>networking mobicom rst computing conference mobile</title-abrev>
+      <title-abrev>networking mobi computing conference mobile</title-abrev>
+      <title-abrev>ieee acm mobicom conference</title-abrev>
+      <title-abrev>networking ieee acm mobicom computing conference mobile</title-abrev>
+      <title-abrev>networking acm mobicom computing conference mobile</title-abrev>
+      <title-abrev>networking computing conference mobile</title-abrev>
+      <title-abrev>networking acm computing conference mobile</title-abrev>
+      <title-abrev>networking acm mobicom computing ieee conference mobile</title-abrev>
+      <title-abrev>mobicom computing conference mobile</title-abrev>
+      <title-abrev>ieee communications mobicom conference mobile</title-abrev>
+      <title-abrev>acm mobicom</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>29</id>
+      <idClass>107</idClass>
+      <title>AI Magazine</title>
+      <title-abrev>magazine ai</title-abrev>
+      <title-abrev>magazine ai readings</title-abrev>
+      <pub-type>M</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>30</id>
+      <idClass>20420</idClass>
+      <acronym>CDC</acronym>
+      <title>IEEE Conference on Decision and Control</title>
+      <title-abrev>control ieee conference decsions</title-abrev>
+      <title-abrev>control ieee conference decision</title-abrev>
+      <title-abrev>control ieee decis conference</title-abrev>
+      <title-abrev>control cdc conference decision</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>31</id>
+      <idClass>10362</idClass>
+      <acronym>TOPLAS</acronym>
+      <title>ACM Transactions on Programming Languages and Systems</title>
+      <title-abrev>languages system programming acm transactionson</title-abrev>
+      <title-abrev>acm toplas</title-abrev>
+      <title-abrev>languages system programming acm transaction</title-abrev>
+      <title-abrev>languages system programming acm transaction toplas</title-abrev>
+      <title-abrev>parallel toplas data computing kk structures</title-abrev>
+      <title-abrev>toplas</title-abrev>
+      <title-abrev>subtyping acm notion toplas behavioral</title-abrev>
+      <title-abrev>languages system programming acm transaction data types atomic</title-abrev>
+      <title-abrev>system programming acm transaction language</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>32</id>
+      <idClass>101259</idClass>
+      <title>The American Mathematical Monthly</title>
+      <title-abrev>math monthly amer</title-abrev>
+      <title-abrev>american mathematical monthly</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>33</id>
+      <idClass>10412</idClass>
+      <acronym>TOCS</acronym>
+      <title>ACM Transactions on Computer Systems</title>
+      <title-abrev>computer system acm transaction tocs</title-abrev>
+      <title-abrev>acm transaction syst comput</title-abrev>
+      <title-abrev>tocs</title-abrev>
+      <title-abrev>computer system acm transaction</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>34</id>
+      <idClass>20208</idClass>
+      <acronym>ACL</acronym>
+      <title>Annual Meeting of the Association for Computational Linguistics</title>
+      <title-abrev>computational association meeting ndannual linguistics</title-abrev>
+      <title-abrev>demo sessions computational association companion meeting volume linguistics</title-abrev>
+      <title-abrev>sessions interactive acl demonstration</title-abrev>
+      <title-abrev>acl</title-abrev>
+      <title-abrev>computational acl meeting conference linguistics</title-abrev>
+      <title-abrev>acl prvccedings</title-abrev>
+      <title-abrev>computational association conference linguistics</title-abrev>
+      <title-abrev>computational acl association meeting linguistics</title-abrev>
+      <title-abrev>lexicalized computational association statistical models meeting parsing linguistics</title-abrev>
+      <title-abrev>computational association meeting linguistics</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>35</id>
+      <idClass>20163</idClass>
+      <acronym>ICDE</acronym>
+      <title>International Conference on Data Engineering</title>
+      <title-abrev>ieee icde</title-abrev>
+      <title-abrev>data conference engineering invited talk</title-abrev>
+      <title-abrev>data icde98 conference engineering</title-abrev>
+      <title-abrev>data icde eng conference</title-abrev>
+      <title-abrev>data eng conference</title-abrev>
+      <title-abrev>data conference engineering</title-abrev>
+      <title-abrev>ieee data conference engineering</title-abrev>
+      <title-abrev>ieee icde conference</title-abrev>
+      <title-abrev>data interaction demonstration system sudarshan enginerring conference user banks</title-abrev>
+      <title-abrev>icde</title-abrev>
+      <title-abrev>ieee data icde conference engineering</title-abrev>
+      <title-abrev>computer ieee society tokyo data icde conference engineering</title-abrev>
+      <title-abrev>data icde conference engineering</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>36</id>
+      <idClass>10147</idClass>
+      <title>IEEE Micro</title>
+      <title-abrev>ieee micro</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>37</id>
+      <idClass>10163</idClass>
+      <acronym>JCSS</acronym>
+      <title>Journal of Computer and System Sciences</title>
+      <title-abrev>journal system comput sci</title-abrev>
+      <title-abrev>jcss</title-abrev>
+      <title-abrev>computer journal system sciences</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>38</id>
+      <idClass>101808</idClass>
+      <acronym>CAN</acronym>
+      <title>ACM SIGARCH Computer Architecture News</title>
+      <title-abrev>computer news architecture</title-abrev>
+      <title-abrev>computer news isca21 issue special architecture</title-abrev>
+      <title-abrev>computer acm news sigarch architecture</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>39</id>
+      <idClass>101837</idClass>
+      <acronym>JSSC</acronym>
+      <title>IEEE Journal of Solid State Circuits</title>
+      <title-abrev>journal solid ieee state circuit</title-abrev>
+      <title-abrev>ieee jssc</title-abrev>
+      <title-abrev>journal solid ieee state circuits</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>40</id>
+      <idClass>101074</idClass>
+      <title>Operating Systems Review</title>
+      <title-abrev>system operating review</title-abrev>
+      <title-abrev>system acm operating review</title-abrev>
+      <title-abrev>system acm operating sigops review</title-abrev>
+      <title-abrev>new system acm operating sigops york us headquarter review</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>41</id>
+      <idClass>20198</idClass>
+      <acronym>CVPR</acronym>
+      <title>IEEE Computer Society International Conference on Computer Vision and Pattern Recognition</title>
+      <title-abrev>computer ieee pattern vision society recognition volume conference</title-abrev>
+      <title-abrev>computer ieee pattern society vision recognition conference</title-abrev>
+      <title-abrev>ieee pattern vision recognit comput conference soc</title-abrev>
+      <title-abrev>computer methods minimization pattern vision recognition energy</title-abrev>
+      <title-abrev>computer pattern vision recognition</title-abrev>
+      <title-abrev>cvpr</title-abrev>
+      <title-abrev>computer ieee pattern vision society recognition conference</title-abrev>
+      <title-abrev>nonrigid worskhop ieee articulated cvpr motion</title-abrev>
+      <title-abrev>computer pattern vision recognition cvpr</title-abrev>
+      <title-abrev>computer ieee pattern vision recognition cvpr conference</title-abrev>
+      <title-abrev>computer ieee pattern vision recognition conference</title-abrev>
+      <title-abrev>computer pattern vision recognition cvpr conference</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>42</id>
+      <idClass>20455</idClass>
+      <acronym>ICRA</acronym>
+      <title>IEEE International Conference on Robotics and Automation</title>
+      <title-abrev>ieee robot conference automat</title-abrev>
+      <title-abrev>andautomat ieeeint robot icra conference</title-abrev>
+      <title-abrev>ieee automation robotics icra conference</title-abrev>
+      <title-abrev>ieee ca san francisco icra</title-abrev>
+      <title-abrev>rob ieee autom conference</title-abrev>
+      <title-abrev>robots ieee automation conference</title-abrev>
+      <title-abrev>automation robotics conference</title-abrev>
+      <title-abrev>ieee workshop lecture automation robotics conference notes</title-abrev>
+      <title-abrev>carefully automation emergent network ieee behaviors robotics conference evolved</title-abrev>
+      <title-abrev>ieee automation robotics conference</title-abrev>
+      <title-abrev>icra</title-abrev>
+      <title-abrev>rob ieee conference aut</title-abrev>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>43</id>
+      <idClass>10385</idClass>
+      <acronym>TSE</acronym>
+      <title>IEEE Transactions on Software Engineering</title>
+      <title-abrev>ieeetse se</title-abrev>
+      <title-abrev>software ieee transaction eng</title-abrev>
+      <title-abrev>tse</title-abrev>
+      <title-abrev>ieee software transaction engineering</title-abrev>
+      <title-abrev>software ieee transaction se engineering</title-abrev>
+      <title-abrev>software ieee model transaction sea eng security view</title-abrev>
+      <title-abrev>software ieee transactionson engineering</title-abrev>
+      <title-abrev>software ieee transaction engineering</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>44</id>
+      <idClass>202</idClass>
+      <acronym>FOCS</acronym>
+      <title>Annual IEEE Symposium on Foundations of Computer Science</title>
+      <title-abrev>computer foundations ieee focs volume conference science</title-abrev>
+      <title-abrev>computer foundations ieee san syrup puerto rico juan science</title-abrev>
+      <title-abrev>computer foundations ieee fourty conference science</title-abrev>
+      <title-abrev>computer foundations focs conference science</title-abrev>
+      <title-abrev>computer ieee foundations focs conference science</title-abrev>
+      <title-abrev>ieee focs conference</title-abrev>
+      <title-abrev>computer foundations conference science</title-abrev>
+      <title-abrev>ieee focs</title-abrev>
+      <title-abrev>focs</title-abrev>
+      <title-abrev>focs conference</title-abrev>
+      <title-abrev>ndieee focs</title-abrev>
+      <title-abrev>computer foundations ieee conference science</title-abrev>
+      <title-abrev>computer foundations ieee focs conference science</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>45</id>
+      <idClass>20159</idClass>
+      <acronym>PODS</acronym>
+      <title>ACM SIGACT SIGMOD SIGART Symposium on Principles of Database Systems</title>
+      <title-abrev>system sigart sigmod acm principles conference database sigact</title-abrev>
+      <title-abrev>sigart acm data principles database system seattle pods sigactsigmod conference management</title-abrev>
+      <title-abrev>acm pods</title-abrev>
+      <title-abrev>pods invited talk</title-abrev>
+      <title-abrev>pods</title-abrev>
+      <title-abrev>system principles conference database</title-abrev>
+      <title-abrev>system sigart sigmod acm pods principles conference database sigact</title-abrev>
+      <title-abrev>system acm principles conference database</title-abrev>
+      <title-abrev>sigart acm principles database sigact system selected sigmod conference</title-abrev>
+      <title-abrev>system sigmod acm principles conference database sigact</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>46</id>
+      <idClass>2015</idClass>
+      <acronym>SoCG</acronym>
+      <title>Annual ACM Symposium on Computational Geometry</title>
+      <title-abrev>computational acm conference geometry</title-abrev>
+      <title-abrev>computational conference geometry</title-abrev>
+      <title-abrev>acm sympos geom comput annu</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>47</id>
+      <idClass>2020</idClass>
+      <acronym>CCCG</acronym>
+      <title>Canadian Conference on Computational Geometry</title>
+      <title-abrev>computational canadian conference geometry</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>48</id>
+      <idClass>10637</idClass>
+      <acronym>ENTCS</acronym>
+      <title>Electronic Notes in Theoretical Computer Science</title>
+      <title-abrev>computer notes theoretical electronic science</title-abrev>
+      <title-abrev>computer notes entcs theoretical electronic science</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>49</id>
+      <idClass>10455</idClass>
+      <title>Theoretical Computer Science</title>
+      <title-abrev>computer shimon essays even theoretical memory science</title-abrev>
+      <title-abrev>computer steve memoriam issue special seiden algorithms theoretical online science</title-abrev>
+      <title-abrev>computer theoretical science</title-abrev>
+      <title-abrev>theor comput sci</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>50</id>
+      <idClass>10145</idClass>
+      <acronym>TON</acronym>
+      <title>IEEE ACM Transactions on Networking</title>
+      <title-abrev>networks transaction</title-abrev>
+      <title-abrev>networking ieee acm transaction ton</title-abrev>
+      <title-abrev>networking acm transaction</title-abrev>
+      <title-abrev>acm netwoking transaction</title-abrev>
+      <title-abrev>networking srm ieee transaction timer recovery adaptation</title-abrev>
+      <title-abrev>networking ieee transaction</title-abrev>
+      <title-abrev>networking ieee acm transaction</title-abrev>
+      <title-abrev>ieee acm transaction netw</title-abrev>
+      <title-abrev>networking ieee acm transaction hpng report technical also tr02</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>51</id>
+      <idClass>10360</idClass>
+      <acronym>TOG</acronym>
+      <title>ACM Transactions on Graphics</title>
+      <title-abrev>acm transaction graphics</title-abrev>
+      <title-abrev>acm transaction tog graphics</title-abrev>
+      <title-abrev>graph acm transaction</title-abrev>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>52</id>
+      <idClass>2076</idClass>
+      <acronym>CAV</acronym>
+      <title>International Conference on Computer Aided Verification</title>
+      <title-abrev>computer verification cav conference aided</title-abrev>
+      <title-abrev>computer brunswick new verification conference aided</title-abrev>
+      <title-abrev>computer verification aided</title-abrev>
+      <title-abrev>computer thintl verification conference aided</title-abrev>
+      <title-abrev>computer verification cav aided</title-abrev>
+      <title-abrev>cav</title-abrev>
+      <title-abrev>computer verification conference cav aided</title-abrev>
+      <title-abrev>computer verification conference aided</title-abrev>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>53</id>
+      <idClass>20115</idClass>
+      <acronym>IPTPS</acronym>
+      <title>International Workshop on Peer To Peer Systems</title>
+      <title-abrev>peer system workshop</title-abrev>
+      <title-abrev>iptps05</title-abrev>
+      <title-abrev>peer system workshop the1st iptps</title-abrev>
+      <title-abrev>peer system workshop electronic iptps</title-abrev>
+      <title-abrev>peer system workshop iptps</title-abrev>
+      <title-abrev>iptps</title-abrev>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</publication-venues>

@@ -1,0 +1,697 @@
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>3</id>
+      <acronym>FOCS</acronym>
+      <pub-venue-title>IEEE Symposium on Foundations of Computer Science</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>373</id>
+      <acronym>FOCS</acronym>
+      <pub-venue-title>IEEE Symposium on Foundations of Computer Science</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>559</id>
+      <acronym>FCS</acronym>
+      <pub-venue-title>International Conference on Foundations of Computer Science</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>7</id>
+      <acronym>MFCS</acronym>
+      <pub-venue-title>International Symposium on Mathematical Foundations of Computer Science</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>559</id>
+      <acronym>FCS</acronym>
+      <pub-venue-title>International Conference on Foundations of Computer Science</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>761</id>
+      <acronym>MFCS</acronym>
+      <pub-venue-title>International Symposium on Mathematical Foundations of Computer Science</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>51</id>
+      <acronym>IPDPS</acronym>
+      <pub-venue-title>IEEE International Parallel and Distributed Processing Symposium</pub-venue-title>
+      <merge-of-title>International Parallel Processing Symposium</merge-of-title>
+      <merge-of-title>Symposium on Parallel and Distributed Processing</merge-of-title>
+      <merge-of-acronym>IPPS</merge-of-acronym>
+      <merge-of-acronym>SPDP</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>320</id>
+      <acronym>IPDPS</acronym>
+      <pub-venue-title>IEEE International Parallel and Distributed Processing Symposium</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>642</id>
+      <acronym>ICPP</acronym>
+      <pub-venue-title>International Conference on Parallel Processing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>723</id>
+      <acronym>IPPS</acronym>
+      <pub-venue-title>International Parallel Processing Symposium</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>52</id>
+      <acronym>ICPP</acronym>
+      <pub-venue-title>International Conference on Parallel Processing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>642</id>
+      <acronym>ICPP</acronym>
+      <pub-venue-title>International Conference on Parallel Processing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>723</id>
+      <acronym>IPPS</acronym>
+      <pub-venue-title>International Parallel Processing Symposium</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>63</id>
+      <acronym>Grid</acronym>
+      <pub-venue-title>IEEE/ACM International Conference on Grid Computing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>396</id>
+      <acronym>GRID</acronym>
+      <pub-venue-title>IEEE/ACM International Conference on Grid Computing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>398</id>
+      <acronym>CCGrid</acronym>
+      <pub-venue-title>IEEE/ACM International Symposium on Cluster Computing and the Grid</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>65</id>
+      <acronym>HiPC</acronym>
+      <pub-venue-title>International Conference on High Performance Computing</pub-venue-title>
+      <pub-venue-title>IEEE International Conference on High Performance Computing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>575</id>
+      <acronym>CHPC</acronym>
+      <pub-venue-title>International Conference on High Performance Computing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>576</id>
+      <acronym>HiPC</acronym>
+      <pub-venue-title>IEEE International Conference on High Performance Computing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>67</id>
+      <acronym>FSE</acronym>
+      <pub-venue-title>ACM SIGSOFT Symposium on the Foundations of Software Engineering</pub-venue-title>
+      <pub-venue-title>ACM SIGSOFT Conference on the Foundations of Software Engineering</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>40</id>
+      <acronym>FSE</acronym>
+      <pub-venue-title>ACM SIGSOFT Conference on the Foundations of Software Engineering</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>204</id>
+      <acronym>ESEC/FSE</acronym>
+      <pub-venue-title>European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>69</id>
+      <acronym>ICSM</acronym>
+      <pub-venue-title>International Conference on Software Maintenance</pub-venue-title>
+      <pub-venue-title>IEEE International Conference on Software Maintenance</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>137</id>
+      <acronym>CSM</acronym>
+      <pub-venue-title>Conference on Software Maintenance</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>306</id>
+      <acronym>ICSM</acronym>
+      <pub-venue-title>IEEE International Conference on Software Maintenance</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>71</id>
+      <acronym>RE</acronym>
+      <pub-venue-title>IEEE International Requirements Engineering Conference</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>322</id>
+      <acronym>RE</acronym>
+      <pub-venue-title>IEEE International Requirements Engineering Conference</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>348</id>
+      <acronym>ISRE</acronym>
+      <pub-venue-title>IEEE International Symposium on Requirements Engineering</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>78</id>
+      <acronym>FM</acronym>
+      <pub-venue-title>International Symposium on Formal Methods</pub-venue-title>
+      <pub-venue-title>Formal Methods Conference</pub-venue-title>
+      <title-formerly>Formal Methods Europe</title-formerly>
+      <acronym-formerly>FME</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>218</id>
+      <acronym>FM</acronym>
+      <pub-venue-title>Formal Methods Conference</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>731</id>
+      <acronym>FME</acronym>
+      <pub-venue-title>International Symposium of Formal Methods Europe</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>92</id>
+      <acronym>HPCA</acronym>
+      <pub-venue-title>International Symposium on High-Performance Computer Architecture</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>754</id>
+      <acronym>HPCA</acronym>
+      <pub-venue-title>International Symposium on High-Performance Computer Architecture</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>1002</id>
+      <acronym>SBAC-PAD</acronym>
+      <pub-venue-title>International Symposium on Computer Architecture and High Performance</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>102</id>
+      <acronym>ISCAS</acronym>
+      <pub-venue-title>IEEE International Symposium on Circuits and Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>285</id>
+      <acronym>ICECS</acronym>
+      <pub-venue-title>IEEE International Conference on Electronics Circuits and Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>318</id>
+      <acronym>MWSCAS</acronym>
+      <pub-venue-title>IEEE International Midwest Symposium on Circuits and Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>331</id>
+      <acronym>ISCAS</acronym>
+      <pub-venue-title>IEEE International Symposium on Circuits and Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>189</id>
+      <acronym>ICAPS</acronym>
+      <pub-venue-title>International Conference on Automated Planning and Scheduling</pub-venue-title>
+      <merge-of-title>Artificial Intelligence Planning Systems</merge-of-title>
+      <merge-of-title>European Conference on Planning</merge-of-title>
+      <merge-of-acronym>AIPS</merge-of-acronym>
+      <merge-of-acronym>ECP</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>126</id>
+      <acronym>AIPS</acronym>
+      <pub-venue-title>Conference on Artificial Intelligence Planning Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>490</id>
+      <acronym>ICAPS</acronym>
+      <pub-venue-title>International Conference on Automated Planning and Scheduling</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>191</id>   ...verificar...????
+      <acronym>NIPS</acronym>
+      <acronym>ICONIP</acronym>
+      <pub-venue-title>Conference on Neural Information Processing Systems</pub-venue-title>
+      <pub-venue-title>International Conference on Neural Information Processing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>629</id>
+      <acronym>ICONIP</acronym>
+      <pub-venue-title>International Conference on Neural Information Processing</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>885</id>
+      <acronym>NIPS</acronym>
+      <pub-venue-title>Neural Information Processing Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>192</id>
+      <acronym>COLT</acronym>
+      <acronym>EuroCOLT</acronym>
+      <pub-venue-title>Conference on Learning Theory</pub-venue-title>
+      <pub-venue-title>European Conference on Computational Learning Theory</pub-venue-title>
+      <title-formerly>Conference on Computational Learning Theory</title-formerly>
+      <merge-of-title>European Conference on Computational Learning Theory</merge-of-title>
+      <merge-of-acronym>EuroCOLT</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>88</id>
+      <acronym>COLT</acronym>
+      <pub-venue-title>Annual Conference on Computational Learning Theory</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>172</id>
+      <acronym>EuroCOLT</acronym>
+      <pub-venue-title>European Conference on Computational Learning Theory</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>193</id>
+      <acronym>ECML PKDD</acronym>
+      <acronym>ECML</acronym>
+      <pub-venue-title>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</pub-venue-title>
+      <pub-venue-title>European Conference on Machine Learning</pub-venue-title>
+      <title-formerly>European Working Session on Learning</title-formerly>
+      <title-formerly>European Symposium on Principles of Data Mining and Knowledge Discovery from Databases</title-formerly>
+      <acronym-formerly>EWSL</acronym-formerly>
+      <acronym-formerly>PKDD</acronym-formerly>
+      <merge-of-title>European Conference on Machine Learning</merge-of-title>
+      <merge-of-title>European Conference on Principles and Practice of Knowledge Discovery in Databases</merge-of-title>
+      <merge-of-acronym>ECML</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>181</id>
+      <acronym>ECML</acronym>
+      <pub-venue-title>European Conference on Machine Learning</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>186</id>
+      <acronym>PKDD</acronym>
+      <pub-venue-title>European Conference on Principles and Practice of Knowledge Discovery in Databases</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>194</id>
+      <acronym>ICANN</acronym>
+      <pub-venue-title>International Conference on Artificial Neural Networks</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>209</id>
+      <acronym>ESANN</acronym>
+      <pub-venue-title>European Symposium on Artificial Neural Networks</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>485</id>
+      <acronym>ICANN</acronym>
+      <pub-venue-title>International Conference on Artificial Neural Networks</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>196</id>
+      <acronym>ECAI</acronym>
+      <pub-venue-title>European Conference on Artificial Intelligence</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>167</id>
+      <acronym>ECAI</acronym>
+      <pub-venue-title>European Conference on Artificial Intelligence</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>168</id>
+      <acronym>ECAIM</acronym>
+      <pub-venue-title>European Conference on Artificial Intelligence in Medicine</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>180</id>
+      <acronym>JELIA</acronym>
+      <pub-venue-title>European Conference on Logics in Artificial Intelligence</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>225</id>
+      <acronym>ICMCS</acronym>
+      <acronym>ICME</acronym>
+      <pub-venue-title>ICMCS International Conference on Multimedia Computing and Systems</pub-venue-title>
+      <pub-venue-title>IEEE International Conference on Multimedia and Expo</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>295</id>
+      <acronym>ICME</acronym>
+      <pub-venue-title>IEEE International Conference on Multimedia and Expo</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>296</id>
+      <acronym>ICMCS</acronym>
+      <pub-venue-title>IEEE International Conference on Multimedia Computing and Systems</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>234</id>
+      <acronym>CSCW</acronym>
+      <pub-venue-title>Conference on Computer Supported Cooperative Work</pub-venue-title>
+      <pub-venue-title>ACM Conference on Computer Supported Cooperative Work</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>4</id>
+      <acronym>CSCW</acronym>
+      <pub-venue-title>ACM Conference on Computer Supported Cooperative Work</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>173</id>
+      <acronym>ECSCW</acronym>
+      <pub-venue-title>European Conference on Computer Supported Cooperative Work</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>515</id>
+      <acronym>CSCWD</acronym>
+      <pub-venue-title>International Conference on Computer Supported Cooperative Work in Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>238</id>
+      <acronym>INTERACT</acronym>
+      <pub-venue-title>IFIP Conference on Human-Computer Interaction</pub-venue-title>
+      <pub-venue-title>IFIP TC13 International Conference on Human-Computer Interaction</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>425</id>
+      <acronym>INTERACT</acronym>
+      <pub-venue-title>IFIP TC13 International Conference on Human-Computer Interaction</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>578</id>
+      <acronym>HCI</acronym>
+      <pub-venue-title>International Conference on Human-Computer Interaction</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>255</id>
+      <acronym>ICCD</acronym>
+      <pub-venue-title>International Conference on Computer Design</pub-venue-title>
+      <pub-venue-title>IEEE International Conference on Computer Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>510</id>
+      <acronym>CDES</acronym>
+      <pub-venue-title>International Conference on Computer Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>511</id>
+      <acronym>ICCD</acronym>
+      <pub-venue-title>IEEE International Conference on Computer Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+<semelhantes>
+   <origem>Wikipedia</origem>
+   <pub-venue>
+      <id>256</id>
+      <acronym>ICCAD</acronym>
+      <pub-venue-title>International Conference on Computer-Aided Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <SELECIONADO>
+   <pub-venue>
+      <id>518</id>
+      <acronym>ICCAD</acronym>
+      <pub-venue-title>International Conference on Computer-Aided Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>519</id>
+      <acronym>CADUI</acronym>
+      <pub-venue-title>International Conference on Computer-Aided Design of User</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <origem>qualis</origem>
+   <pub-venue>
+      <id>730</id>
+      <acronym>CAGD</acronym>
+      <pub-venue-title>International Symposium of Computer Aided Geometric Design</pub-venue-title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</semelhantes>
+Total duplicados: 23

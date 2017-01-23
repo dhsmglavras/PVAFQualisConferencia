@@ -1,0 +1,22 @@
+<publication-venues>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201</idClass>
+      <acronym>CSA</acronym>
+      <title>Communication Systems and Applications</title>
+      <string-reference>CSA Communication Systems and Applications</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>206</idClass>
+      <string-reference>Security in Networks and Distributed Systems</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+     <pub-venue>
+      <id>2</id>
+      <idClass>108</idClass>
+      <string-reference>Information Visualization</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+</publication-venues>

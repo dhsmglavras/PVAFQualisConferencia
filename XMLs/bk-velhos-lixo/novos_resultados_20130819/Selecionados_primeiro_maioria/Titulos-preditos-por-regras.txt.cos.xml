@@ -1,0 +1,510 @@
+Tested: conference thvldb vldb
+1) conference vldb --> 158 (158)
+Correct 158 == (158)
+
+   <pub-venue>
+      <id>157</id>
+      <idClass>158</idClass>
+      <entity>ACM</entity>
+      <acronym>VLDB</acronym>
+      <title>International Conference on Very Large Data Bases</title>
+      <title>Very Large Data Bases Conference</title>
+      <title>International Conference on Very Large Databases</title>
+      <title>Very Large Databases Conference</title>
+      <title-formerly>international conference on Systems for Large Data Bases</title-formerly>
+      <title-formerly>international conference on Systems for Large Databases</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: architecture information large lucassen scale sosp systems
+1) information large --> 1514 (80)
+2) information scale --> 1514 (80)
+Wrong 1514 != (80)
+
+Wrong
+   <pub-venue>
+      <id>1507</id>
+      <idClass>1514</idClass>
+      <entity>ACM</entity>
+      <acronym>LSDS-IR</acronym>
+      <title>workshop on Large-scale and distributed informational retrieval</title>
+      <title-formerly>ACM workshop on Large-Scale distributed systems for information retrieval</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>79</id>
+      <idClass>80</idClass>
+      <entity>ACM</entity>
+      <acronym>SOSP</acronym>
+      <title>ACM Symposium on Operating Systems Principles</title>
+      <title>ACM-SIGOPS Symposium on Operating Systems Principles</title>
+      <title>ACM symposium on Operating system principles</title>
+      <title>symposium on Operating systems principles</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+
+
+Tested: aaai ai conference
+1) aaai --> 178 (178)
+Correct 178 == (178)
+
+   <pub-venue>
+      <id>177</id>
+      <idClass>178</idClass>
+      <acronym>AAAI</acronym>
+      <title>National Conference of the American Association for Artificial Intelligence</title>
+      <title>AAAI Conference on Artificial Intelligence</title>
+      <title>National Conference on Artificial Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: conference vldb
+1) conference vldb --> 158 (158)
+Correct 158 == (158)
+
+   <pub-venue>
+      <id>157</id>
+      <idClass>158</idClass>
+      <entity>ACM</entity>
+      <acronym>VLDB</acronym>
+      <title>International Conference on Very Large Data Bases</title>
+      <title>Very Large Data Bases Conference</title>
+      <title>International Conference on Very Large Databases</title>
+      <title>Very Large Databases Conference</title>
+      <title-formerly>international conference on Systems for Large Data Bases</title-formerly>
+      <title-formerly>international conference on Systems for Large Databases</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: aaai ai conference nat
+1) aaai --> 178 (178)
+Correct 178 == (178)
+
+   <pub-venue>
+      <id>177</id>
+      <idClass>178</idClass>
+      <acronym>AAAI</acronym>
+      <title>National Conference of the American Association for Artificial Intelligence</title>
+      <title>AAAI Conference on Artificial Intelligence</title>
+      <title>National Conference on Artificial Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: aaai artif conference intell national
+1) aaai --> 178 (178)
+Correct 178 == (178)
+
+   <pub-venue>
+      <id>177</id>
+      <idClass>178</idClass>
+      <acronym>AAAI</acronym>
+      <title>National Conference of the American Association for Artificial Intelligence</title>
+      <title>AAAI Conference on Artificial Intelligence</title>
+      <title>National Conference on Artificial Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: computing data kk parallel structures toplas
+1) toplas --> 4030 (4030)
+Correct 4030 == (4030)
+
+   <pub-venue>
+      <id>4011</id>
+      <idClass>4030</idClass>
+      <entity>ACM</entity>
+      <acronym>TOPLAS</acronym>
+      <title>ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS</title>
+      <title-abrev>ACM Trans. Program. Lang. Syst.</title-abrev>
+      <title-abrev>ACM T PROGR LANG SYS</title-abrev>
+      <publisher>ASSOC COMPUTING MACHINERY</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <impact-factor-2010>1.167</impact-factor-2010>
+      <impact-factor-5-years>1.665</impact-factor-5-years>
+      <qualis-estrato>A2</qualis-estrato>
+      <site>http://www.acm.org/toplas/</site>
+      <site>http://toplas.acm.org/</site>
+      <site>http://toplas.acm.org</site>
+   </pub-venue>
+
+
+Tested: acm pldi sigplan
+1) pldi --> 29 (29)
+Correct 29 == (29)
+
+   <pub-venue>
+      <id>28</id>
+      <idClass>29</idClass>
+      <entity>ACM</entity>
+      <acronym>PLDI</acronym>
+      <title>ACM SIGPLAN Conference on Programming Language Design and Implementation</title>
+      <title>ACM-SIGPLAN Symposium on Programming Language Design and Implementation</title>
+      <title>SIGPLAN Conference on Programming Language Design and Implementation</title>
+      <title-formerly>SIGPLAN Symposium on Compiler Optimization</title-formerly>
+      <title-formerly>SIGPLAN Symposium on Compiler Construction</title-formerly>
+      <title-formerly>Symposium on Interpreters and interpretive techniques</title-formerly>
+      <title-formerly>symposium on Compiler construction</title-formerly>
+      <title-formerly>ACM symposium on Programming language issues in software systems</title-formerly>
+      <title-formerly>ACM symposium on Ada programming language</title-formerly>
+      <title-formerly>ACM symposium on The ADA programming language</title-formerly>
+      <title-formerly>meeting on Programming languages and information retrieval</title-formerly>
+      <acronym-formerly>SIGPLAN</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+
+
+Tested: ca francisco icra ieee san
+1) ca ieee --> 315 (455)
+2) icra --> 455 (455)
+Correct 455 == (455)
+
+Wrong
+   <pub-venue>
+      <id>453</id>
+      <idClass>455</idClass>
+      <acronym>ICRA</acronym>
+      <title>IEEE International Conference on Robotics and Automation</title>
+      <title>International Conference on Robotics and Automation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>314</id>
+      <idClass>315</idClass>
+      <acronym>CASA</acronym>
+      <title>Computer Animation and Social Agents</title>
+      <title>International Conference on Computer Animation and Social Agents</title>
+      <title-formerly>IEEE Computer Animation Conference</title-formerly>
+      <acronym-formerly>CA</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+
+
+Tested: ieeetse se tse
+1) tse --> 4053 (4053)
+Correct 4053 == (4053)
+
+   <pub-venue>
+      <id>4034</id>
+      <idClass>4053</idClass>
+      <entity>IEEE</entity>
+      <acronym>TSE</acronym>
+      <title>IEEE TRANSACTIONS ON SOFTWARE ENGINEERING</title>
+      <title-abrev>IEEE Trans. Softw. Eng.</title-abrev>
+      <title-abrev>IEEE T SOFTWARE ENG</title-abrev>
+      <publisher>IEEE COMPUTER SOC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+      <subject>ENGINEERING, ELECTRICAL AND ELECTRONIC</subject>
+      <impact-factor-2010>2.265</impact-factor-2010>
+      <impact-factor-5-years>3.500</impact-factor-5-years>
+      <qualis-estrato>A1</qualis-estrato>
+      <site>http://www.computer.org/tse</site>
+   </pub-venue>
+
+
+Tested: acm ieee mobicom
+1) mobicom --> 124 (124)
+Correct 124 == (124)
+
+   <pub-venue>
+      <id>123</id>
+      <idClass>124</idClass>
+      <entity>ACM</entity>
+      <entity>IEEE</entity>
+      <acronym>MobiCom</acronym>
+      <title>ACM International Conference on Mobile Computing and Networking</title>
+      <title>annual ACM/IEEE international conference on Mobile computing and networking</title>
+      <title>ACM/IEEE International Conference on Mobile Computing and Networking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+
+
+Tested: networks ton transactions
+1) ton --> 3813 (3813)
+Correct 3813 == (3813)
+
+   <pub-venue>
+      <id>3794</id>
+      <idClass>3813</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>TON</acronym>
+      <title>IEEE/ACM Transactions on Networking</title>
+      <title-abrev>IEEE-ACM Trans. Netw.</title-abrev>
+      <title-abrev>IEEE ACM T NETWORK</title-abrev>
+      <publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, HARDWARE AND ARCHITECTURE</subject>
+      <subject>COMPUTER SCIENCE, THEORY AND METHODS</subject>
+      <subject>ENGINEERING, ELECTRICAL AND ELECTRONIC</subject>
+      <subject>TELECOMMUNICATIONS</subject>
+      <impact-factor-2010>2.292</impact-factor-2010>
+      <impact-factor-5-years>3.208</impact-factor-5-years>
+      <qualis-estrato>A1</qualis-estrato>
+      <site>http://www.ieee-acm-ton.org/http://www.ieee-acm-ton.org/</site>
+      <site>http://www.acm.org/ton/</site>
+   </pub-venue>
+
+
+Tested: conference uai
+1) uai --> 181 (181)
+Correct 181 == (181)
+
+   <pub-venue>
+      <id>180</id>
+      <idClass>181</idClass>
+      <acronym>UAI</acronym>
+      <title>Conference on Uncertainty in Artificial Intelligence</title>
+      <title>Conference in Uncertainty in Artifical Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: communications conference ieee mobicom mobile
+1) communications ieee mobile --> 489 (124)
+2) mobicom --> 124 (124)
+Wrong 489 != (124)
+
+Wrong
+   <pub-venue>
+      <id>487</id>
+      <idClass>489</idClass>
+      <acronym>PIMRC</acronym>
+      <title>IEEE International Symposium on Personal and Indoor Mobile Radio Conference</title>
+      <title>IEEE International Symposium on Personal, Indoor and Mobile Radio Communications</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>123</id>
+      <idClass>124</idClass>
+      <entity>ACM</entity>
+      <entity>IEEE</entity>
+      <acronym>MobiCom</acronym>
+      <title>ACM International Conference on Mobile Computing and Networking</title>
+      <title>annual ACM/IEEE international conference on Mobile computing and networking</title>
+      <title>ACM/IEEE International Conference on Mobile Computing and Networking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+
+
+Tested: conference focs
+1) focs --> 2 (2)
+Correct 2 == (2)
+
+   <pub-venue>
+      <id>2</id>
+      <idClass>2</idClass>
+      <entity>IEEE</entity>
+      <acronym>FOCS</acronym>
+      <title>IEEE Symposium on Foundations of Computer Science</title>
+      <title>IEEE Annual Symposium on Foundations of Computer Science</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+
+
+Tested: conference rence vldb
+1) conference vldb --> 158 (158)
+Correct 158 == (158)
+
+   <pub-venue>
+      <id>157</id>
+      <idClass>158</idClass>
+      <entity>ACM</entity>
+      <acronym>VLDB</acronym>
+      <title>International Conference on Very Large Data Bases</title>
+      <title>Very Large Data Bases Conference</title>
+      <title>International Conference on Very Large Databases</title>
+      <title>Very Large Databases Conference</title>
+      <title-formerly>international conference on Systems for Large Data Bases</title-formerly>
+      <title-formerly>international conference on Systems for Large Databases</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: acl association computational conference conjunction corpora empirical held joint language large linguistics meeting methods natural processing sigdat very volume
+1) computational joint language --> 909 (208)
+2) acl conference --> 208 (208)
+3) meeting processing --> 3250 (208)
+4) acl computational --> 208 (208)
+5) acl linguistics --> 208 (208)
+6) computational joint natural --> 909 (208)
+7) conjunction --> 1162 (208)
+8) computational empirical --> 322 (208)
+9) acl association --> 208 (208)
+10) joint methods --> 909 (208)
+11) empirical natural --> 322 (208)
+12) empirical methods --> 322 (208)
+13) computational joint processing --> 909 (208)
+14) language linguistics --> 5265 (208)
+15) acl meeting --> 208 (208)
+16) empirical language --> 322 (208)
+17) empirical processing --> 322 (208)
+Wrong 322 != (208)
+
+Wrong
+   <pub-venue>
+      <id>5244</id>
+      <idClass>5265</idClass>
+      <title>Language and Linguistics Compass</title>
+      <pub-type>J</pub-type>
+      <site>http://linguistics-compass.com/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>207</id>
+      <idClass>208</idClass>
+      <acronym>ACL</acronym>
+      <title>Annual Meeting of the Association for Computational Linguistics</title>
+      <title>International Conference of the Association of Computational Linguistics</title>
+      <title>Meeting of the Association for Computational Linguistics</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>1157</id>
+      <idClass>1162</idClass>
+      <entity>ACM</entity>
+      <acronym>CAI</acronym>
+      <title>international workshop in conjunction with AVI on Context in advanced interfaces</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>905</id>
+      <idClass>909</idClass>
+      <acronym>NeMLaP</acronym>
+      <title>Joint Conference on New Methods in Language Processing and Computational Natural Language Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B5</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>321</id>
+      <idClass>322</idClass>
+      <acronym>EMNLP</acronym>
+      <title>Conference on Empirical Methods in Natural Language Processing</title>
+      <title>Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>3231</id>
+      <idClass>3250</idClass>
+      <acronym>IPSJ</acronym>
+      <title>Meeting of the Information Processing Society of Japan</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+
+
+Tested: automat conference icra ieee robot
+1) icra --> 455 (455)
+Correct 455 == (455)
+
+   <pub-venue>
+      <id>453</id>
+      <idClass>455</idClass>
+      <acronym>ICRA</acronym>
+      <title>IEEE International Conference on Robotics and Automation</title>
+      <title>International Conference on Robotics and Automation</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+
+
+Tested: acm annu comput geom socg sympos
+1) socg --> 15 (15)
+2) annu --> 3854 (15)
+Correct 15 == (15)
+
+Wrong
+   <pub-venue>
+      <id>3835</id>
+      <idClass>3854</idClass>
+      <entity>WILEY-BLACKWELL</entity>
+      <acronym>ARIST</acronym>
+      <title>ANNUAL REVIEW OF INFORMATION SCIENCE AND TECHNOLOGY</title>
+      <title-abrev>Annu. Rev. Inform. Sci. Technol.</title-abrev>
+      <title-abrev>ANNU REV INFORM SCI</title-abrev>
+      <publisher>WILEY-BLACKWELL</publisher>
+      <pub-type>J</pub-type>
+      <language>ENGLISH</language>
+      <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+      <impact-factor-2010>2.000</impact-factor-2010>
+      <impact-factor-5-years>2.354</impact-factor-5-years>
+      <qualis-estrato>B1</qualis-estrato>
+      <site>http://www.asis.org/Publications/ARIST/</site>
+   </pub-venue>
+   <pub-venue>
+      <id>14</id>
+      <idClass>15</idClass>
+      <entity>ACM</entity>
+      <acronym>SoCG</acronym>
+      <acronym>SCG</acronym>
+      <title>ACM Symposium on Computational Geometry</title>
+      <title>Languages and Applications Annual ACM Symposium on Computational Geometry</title>
+      <title>symposuim on Computational Geometry</title>
+      <title>annual ACM symposium on Computational geometry</title>
+      <title>annual symposium on Computational geometry</title>
+      <title>Symposium on Computational Geometry</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+
+
+Tested: acm mobicom
+1) mobicom --> 124 (124)
+Correct 124 == (124)
+
+   <pub-venue>
+      <id>123</id>
+      <idClass>124</idClass>
+      <entity>ACM</entity>
+      <entity>IEEE</entity>
+      <acronym>MobiCom</acronym>
+      <title>ACM International Conference on Mobile Computing and Networking</title>
+      <title>annual ACM/IEEE international conference on Mobile computing and networking</title>
+      <title>ACM/IEEE International Conference on Mobile Computing and Networking</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+
+
+Tested: ai uai uncertainty
+1) uai --> 181 (181)
+Correct 181 == (181)
+
+   <pub-venue>
+      <id>180</id>
+      <idClass>181</idClass>
+      <acronym>UAI</acronym>
+      <title>Conference on Uncertainty in Artificial Intelligence</title>
+      <title>Conference in Uncertainty in Artifical Intelligence</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+
+
+Predicted by rules has size: 21
+Rules correcter: 18
+Rules wronger : 3
+Titles total : 21

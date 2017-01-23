@@ -1,0 +1,967 @@
+Título avaliado: conference popl
+1) popl --> 2028 (2028)
+Correto 2028 == (2028)
+
+    <pub-venue>
+        <id>72</id>
+        <idClass>2028</idClass>
+        <entity>ACM</entity>
+        <acronym>POPL</acronym>
+        <title>Symposium on Principles of Programming Languages</title>
+        <title>ACM-SIGACT Symposium on Principles of Programming Languages</title>
+        <title>annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: based deja image new panel really rendering siggraph vu
+1) rendering siggraph --> 201623 (20215)
+Errado 201623 != (20215)
+
+Errado
+    <pub-venue>
+        <id>253</id>
+        <idClass>20215</idClass>
+        <entity>ACM</entity>
+        <acronym>SIGGRAPH</acronym>
+        <title>International Conference on Computer Graphics and Interactive Techniques</title>
+        <title>ACM International Conference on Computer Graphics and Interactive Techniques</title>
+        <title>ACM SIGGRAPH</title>
+        <title>ACM SIGGRAPH Conference</title>
+        <title>Annual Conference on Computer Graphics</title>
+        <title>SIGGRAPH Conference</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1634</id>
+        <idClass>201623</idClass>
+        <entity>ACM</entity>
+        <acronym>NPAR</acronym>
+        <title>ACM SIGGRAPH/Eurographics Symposium on Non-Photorealistic Animation and Rendering</title>
+        <title>International Symposium on Non-Photorealistic Animation and Rendering</title>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: autom conference des
+1) autom des --> 10142 (20107)
+Errado 10142 != (20107)
+
+Errado
+    <pub-venue>
+        <id>3772</id>
+        <idClass>10142</idClass>
+        <entity>SPRINGER</entity>
+        <title>DESIGN AUTOMATION FOR EMBEDDED SYSTEMS</title>
+        <title-Abrev>Des. Autom. Embed. Syst.</title-Abrev>
+        <title-Abrev>DES AUTOM EMBED SYST</title-Abrev>
+        <publisher>SPRINGER</publisher>
+        <pub-type>journal</pub-type>
+        <language>ENGLISH</language>
+        <subject>COMPUTER SCIENCE, HARDWARE AND ARCHITECTURE</subject>
+        <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+        <impact-factor-2010>0.167</impact-factor-2010>
+        <impact-factor-5years>0.340</impact-factor-5years>
+        <qualis-estrato>B2</qualis-estrato>
+        <site>http://www.springerlink.com/content/0929-5585</site>
+    </pub-venue>
+    <pub-venue>
+        <id>150</id>
+        <idClass>20107</idClass>
+        <entity>IEEE</entity>
+        <entity>ACM</entity>
+        <acronym>DAC</acronym>
+        <title>Annual ACM/IEEE Design Automation Conference</title>
+        <title>Design Automation Conference</title>
+        <title-Formerly>Design Automation Workshop</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: conferenceon databases large very
+1) databases very --> 201653 (20158)
+Errado 201653 != (20158)
+
+Errado
+    <pub-venue>
+        <id>200</id>
+        <idClass>20158</idClass>
+        <entity>ACM</entity>
+        <acronym>VLDB</acronym>
+        <title>International Conference on Very Large Data Bases</title>
+        <title>Very Large Data Bases Conference</title>
+        <title-Formerly>international conference on Systems for Large Data Bases</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1664</id>
+        <idClass>201653</idClass>
+        <entity>ACM</entity>
+        <acronym>PAVLAD</acronym>
+        <title>ACM international workshop on Privacy and anonymity for very large databases</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+
+
+Título avaliado: ieee mobicom
+1) mobicom --> 20124 (20124)
+Correto 20124 == (20124)
+
+    <pub-venue>
+        <id>167</id>
+        <idClass>20124</idClass>
+        <entity>IEEE</entity>
+        <entity>ACM</entity>
+        <acronym>MobiCom</acronym>
+        <title>ACM/IEEE International Conference on Mobile Computing and Networking</title>
+        <title>annual ACM/IEEE international conference on Mobile computing and networking</title>
+        <title>ACM International Conference on Mobile Computing and Networking</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: acm algorithm conference discrete siam
+1) conference discrete siam --> 201804 (2010)
+2) algorithm siam --> 201804 (2010)
+3) acm discrete --> 201804 (2010)
+4) acm algorithm --> 201804 (2010)
+5) algorithm discrete --> 201804 (2010)
+Errado 201804 != (2010)
+
+Errado
+    <pub-venue>
+        <id>54</id>
+        <idClass>2010</idClass>
+        <acronym>SODA</acronym>
+        <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+        <title>Symposium on Discrete Algorithms</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1812</id>
+        <idClass>201804</idClass>
+        <entity>ACM</entity>
+        <acronym>SODA</acronym>
+        <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+        <title-Formerly>annual ACM-SIAM symposium on Discrete algorithm</title-Formerly>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: acm annu comput geom sympos
+1) annu --> 10186 (2015)
+Errado 10186 != (2015)
+
+Errado
+    <pub-venue>
+        <id>3815</id>
+        <idClass>10186</idClass>
+        <entity>WILEY-BLACKWELL</entity>
+        <acronym>ARIST</acronym>
+        <title>ANNUAL REVIEW OF INFORMATION SCIENCE AND TECHNOLOGY</title>
+        <title-Abrev>ANNU REV INFORM SCI</title-Abrev>
+        <title-Abrev>Annu. Rev. Inform. Sci. Technol.</title-Abrev>
+        <publisher>WILEY-BLACKWELL</publisher>
+        <pub-type>journal</pub-type>
+        <language>ENGLISH</language>
+        <subject>COMPUTER SCIENCE, INFORMATION SYSTEMS</subject>
+        <impact-factor-2010>2.000</impact-factor-2010>
+        <impact-factor-5years>2.354</impact-factor-5years>
+        <qualis-estrato>B1</qualis-estrato>
+        <site>http://www.asis.org/Publications/ARIST/</site>
+    </pub-venue>
+    <pub-venue>
+        <id>59</id>
+        <idClass>2015</idClass>
+        <entity>ACM</entity>
+        <acronym>SCG</acronym>
+        <acronym>SoCG</acronym>
+        <title>Languages and Applications Annual ACM Symposium on Computational Geometry</title>
+        <title>annual ACM symposium on Computational geometry</title>
+        <title>annual symposium on Computational geometry</title>
+        <title>ACM Symposium on Computational Geometry</title>
+        <title>symposuim on Computational Geometry</title>
+        <title>Symposium on Computational Geometry</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B4</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: conference control decisions ieee
+1) decisions --> 20926 (20420)
+Errado 20926 != (20420)
+
+Errado
+    <pub-venue>
+        <id>949</id>
+        <idClass>20926</idClass>
+        <acronym>MDAI</acronym>
+        <title>Modeling Decisions for Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>451</id>
+        <idClass>20420</idClass>
+        <acronym>CDC</acronym>
+        <title>IEEE Conference on Decision and Control</title>
+        <title>Conference on Decision and Control</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: banks conference data demonstration enginerring interaction sudarshan system user
+1) interaction user --> 10126 (20163)
+2) data interaction --> 202806 (20163)
+3) data user --> 202704 (20163)
+Errado 10126 != (20163)
+
+Errado
+    <pub-venue>
+        <id>205</id>
+        <idClass>20163</idClass>
+        <acronym>ICDE</acronym>
+        <title>IEEE International Conference on Data Engineering</title>
+        <title>International Conference on Data Engineering</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>2785</id>
+        <idClass>202806</idClass>
+        <title>International Workshop on Agents and Data Mining Interaction</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+    <pub-venue>
+        <id>3756</id>
+        <idClass>10126</idClass>
+        <entity>SPRINGER</entity>
+        <title>USER MODELING AND USER-ADAPTED INTERACTION</title>
+        <title-Abrev>User Model. User-Adapt. Interact.</title-Abrev>
+        <title-Abrev>USER MODEL USER-ADAP</title-Abrev>
+        <publisher>SPRINGER</publisher>
+        <pub-type>journal</pub-type>
+        <language>ENGLISH</language>
+        <subject>COMPUTER SCIENCE, CYBERNETICS</subject>
+        <impact-factor-2010>3.074</impact-factor-2010>
+        <impact-factor-5years>2.580</impact-factor-5years>
+        <qualis-estrato>B1</qualis-estrato>
+        <site>http://www.springerlink.com/content/1573-1391/</site>
+    </pub-venue>
+    <pub-venue>
+        <id>2690</id>
+        <idClass>202704</idClass>
+        <acronym>UIDIS</acronym>
+        <title>International Workshop on User Interfaces to Data Intensive Systems</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+
+
+Título avaliado: articulated cvpr ieee motion nonrigid worskhop
+1) articulated --> 202546 (20198)
+2) cvpr --> 20198 (20198)
+Correto 20198 == (20198)
+
+Errado
+    <pub-venue>
+        <id>236</id>
+        <idClass>20198</idClass>
+        <entity>IEEE</entity>
+        <acronym>CVPR</acronym>
+        <title>Conference on Computer Vision and Pattern Recognition</title>
+        <title>IEEE Conference on Computer Vision and Pattern Recognition</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>2539</id>
+        <idClass>202546</idClass>
+        <entity>IEEE</entity>
+        <acronym>NAM</acronym>
+        <title>IEEE Computer Society Workshop on Motion of Non-Rigid and Articulated Objects</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+
+
+Título avaliado: acm algorithms conference discrete siam
+1) conference discrete siam --> 201804 (2010)
+2) algorithms siam --> 201804 (2010)
+3) acm discrete --> 201804 (2010)
+Errado 201804 != (2010)
+
+Errado
+    <pub-venue>
+        <id>54</id>
+        <idClass>2010</idClass>
+        <acronym>SODA</acronym>
+        <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+        <title>Symposium on Discrete Algorithms</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1812</id>
+        <idClass>201804</idClass>
+        <entity>ACM</entity>
+        <acronym>SODA</acronym>
+        <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+        <title-Formerly>annual ACM-SIAM symposium on Discrete algorithm</title-Formerly>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: research track vldb
+1) track --> 202970 (20158)
+Errado 202970 != (20158)
+
+Errado
+    <pub-venue>
+        <id>200</id>
+        <idClass>20158</idClass>
+        <entity>ACM</entity>
+        <acronym>VLDB</acronym>
+        <title>International Conference on Very Large Data Bases</title>
+        <title>Very Large Data Bases Conference</title>
+        <title-Formerly>international conference on Systems for Large Data Bases</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>2944</id>
+        <idClass>202970</idClass>
+        <acronym>CT-RSA</acronym>
+        <title>The Cryptographer's Track at RSA Conference</title>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: conference uai
+1) uai --> 20181 (20181)
+Correto 20181 == (20181)
+
+    <pub-venue>
+        <id>221</id>
+        <idClass>20181</idClass>
+        <acronym>UAI</acronym>
+        <title>Conference in Uncertainty in Artifical Intelligence</title>
+        <title>Conference on Uncertainty in Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: icde ieee
+1) icde ieee --> 20163 (20163)
+Correto 20163 == (20163)
+
+    <pub-venue>
+        <id>205</id>
+        <idClass>20163</idClass>
+        <acronym>ICDE</acronym>
+        <title>IEEE International Conference on Data Engineering</title>
+        <title>International Conference on Data Engineering</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: focs ieee
+1) focs --> 202 (202)
+Correto 202 == (202)
+
+    <pub-venue>
+        <id>46</id>
+        <idClass>202</idClass>
+        <entity>IEEE</entity>
+        <acronym>FOCS</acronym>
+        <title>IEEE Symposium on Foundations of Computer Science</title>
+        <title>IEEE Annual Symposium on Foundations of Computer Science</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: dc ijcai washington
+1) dc --> 201240 (202774)
+2) washington --> 201911 (202774)
+3) ijcai --> 202774 (202774)
+Correto 202774 == (202774)
+
+Errado
+    <pub-venue>
+        <id>34</id>
+        <idClass>202774</idClass>
+        <acronym>IJCAI</acronym>
+        <acronym>JCAI</acronym>
+        <title>International Joint Conference on Artificial Intelligence</title>
+        <title>IITA International Joint Conference on Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1916</id>
+        <idClass>201911</idClass>
+        <entity>ACM</entity>
+        <acronym>WADAS</acronym>
+        <title>annual Washington Ada symposium and summer ACM SIGAda meeting on Ada</title>
+        <title-Formerly>annual Washington Ada symposium on Ada acquisition management</title-Formerly>
+        <title-Formerly>Washington Ada symposium on Ada</title-Formerly>
+        <title-Formerly>Joint Ada national conference on Ada technology and Washington Ada Symposium</title-Formerly>
+        <title-Formerly>annual Washington Ada symposium and summer SIGAda meeting on Ada</title-Formerly>
+        <title-Formerly>annual Washington Ada symposium on Ada</title-Formerly>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+    <pub-venue>
+        <id>1260</id>
+        <idClass>201240</idClass>
+        <entity>ACM</entity>
+        <acronym>DC-CaVES</acronym>
+        <title>Workshop on Data Center - Converged and Virtual Ethernet Switching</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+
+
+Título avaliado: acm algorithms conference discrete siam thannual
+1) conference discrete siam --> 201804 (2010)
+2) algorithms siam --> 201804 (2010)
+3) acm discrete --> 201804 (2010)
+Errado 201804 != (2010)
+
+Errado
+    <pub-venue>
+        <id>54</id>
+        <idClass>2010</idClass>
+        <acronym>SODA</acronym>
+        <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+        <title>Symposium on Discrete Algorithms</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1812</id>
+        <idClass>201804</idClass>
+        <entity>ACM</entity>
+        <acronym>SODA</acronym>
+        <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+        <title-Formerly>annual ACM-SIAM symposium on Discrete algorithm</title-Formerly>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: ijrr
+1) ijrr --> 101590 (101270)
+Errado 101590 != (101270)
+
+Errado
+    <pub-venue>
+        <id>5213</id>
+        <idClass>101590</idClass>
+        <acronym>IJRR</acronym>
+        <title>International Journal of Robotic Research</title>
+        <pub-type>journal</pub-type>
+        <site>http://www.ijrr.org/</site>
+    </pub-venue>
+    <pub-venue>
+        <id>4895</id>
+        <idClass>101270</idClass>
+        <title>The International Journal of Robotics Research</title>
+        <pub-type>journal</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: nips notes tutorial
+1) nips --> 20930 (20930)
+Correto 20930 == (20930)
+
+    <pub-venue>
+        <id>953</id>
+        <idClass>20930</idClass>
+        <acronym>NIPS</acronym>
+        <title>Neural Information Processing Systems</title>
+        <title>Conference on Neural Information Processing Systems</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: association computational conference conjunction corpora empirical held joint language large linguistics meeting methods natural processing sigdat very volume
+1) computational joint language --> 20912 (20208)
+2) meeting processing --> 203257 (20208)
+3) empirical natural --> 20322 (20208)
+4) empirical methods --> 20322 (20208)
+5) computational joint natural --> 20912 (20208)
+6) computational joint processing --> 20912 (20208)
+7) language linguistics --> 101597 (20208)
+8) conjunction --> 201166 (20208)
+9) empirical processing --> 20322 (20208)
+10) empirical language --> 20322 (20208)
+11) computational empirical --> 20322 (20208)
+12) joint methods --> 20912 (20208)
+13) conference volume --> 202718 (20208)
+Errado 20322 != (20208)
+
+Errado
+    <pub-venue>
+        <id>356</id>
+        <idClass>20322</idClass>
+        <acronym>EMNLP</acronym>
+        <title>Conference on Empirical Methods in Natural Language Processing</title>
+        <title>Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1186</id>
+        <idClass>201166</idClass>
+        <entity>ACM</entity>
+        <acronym>CAI</acronym>
+        <title>international workshop in conjunction with AVI on Context in advanced interfaces</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+    <pub-venue>
+        <id>3221</id>
+        <idClass>203257</idClass>
+        <acronym>IPSJ</acronym>
+        <title>Meeting of the Information Processing Society of Japan</title>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+    <pub-venue>
+        <id>246</id>
+        <idClass>20208</idClass>
+        <acronym>ACL</acronym>
+        <title>Annual Meeting of the Association for Computational Linguistics</title>
+        <title>International Conference of the Association of Computational Linguistics</title>
+        <title>Meeting of the Association for Computational Linguistics</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>935</id>
+        <idClass>20912</idClass>
+        <acronym>NeMLaP</acronym>
+        <title>Joint Conference on New Methods in Language Processing and Computational Natural Language Learning</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B5</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>5220</id>
+        <idClass>101597</idClass>
+        <title>Language and Linguistics Compass</title>
+        <pub-type>journal</pub-type>
+        <site>http://linguistics-compass.com/</site>
+    </pub-venue>
+    <pub-venue>
+        <id>12</id>
+        <idClass>202718</idClass>
+        <entity>IEEE</entity>
+        <acronym>VisSym</acronym>
+        <acronym>VolVis</acronym>
+        <acronym>VV</acronym>
+        <acronym>EuroVis</acronym>
+        <title>Joint Eurographics - IEEE TCVG Symposium on Visualization</title>
+        <title>IEEE Symposium on Volume Visualization and Graphics</title>
+        <title>IEEE/SIGGRAPH Symposium on Volume Visualization and Graphics</title>
+        <title>Eurographics/IEEE-VGTC Symposium on Visualization</title>
+        <title-Formerly>workshop on visualization</title-Formerly>
+        <title-Formerly>Symposium on Volume Visualization</title-Formerly>
+        <title-Formerly>IEEE symposium on visualization</title-Formerly>
+        <title-Formerly>IEEE symposium on visualization and graphics</title-Formerly>
+        <title-Formerly>symposium on visualization</title-Formerly>
+        <title-Formerly>Chapel Hill workshop on visualization</title-Formerly>
+        <acronym-Formerly>VVS</acronym-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: ijcai invited japan nayoga talk
+1) ijcai --> 202774 (202774)
+Correto 202774 == (202774)
+
+    <pub-venue>
+        <id>34</id>
+        <idClass>202774</idClass>
+        <acronym>IJCAI</acronym>
+        <acronym>JCAI</acronym>
+        <title>International Joint Conference on Artificial Intelligence</title>
+        <title>IITA International Joint Conference on Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: architecture information large lucassen scale sosp systems
+1) information large --> 201518 (2080)
+2) information scale --> 201518 (2080)
+Errado 201518 != (2080)
+
+Errado
+    <pub-venue>
+        <id>123</id>
+        <idClass>2080</idClass>
+        <entity>ACM</entity>
+        <acronym>SOSP</acronym>
+        <title>ACM-SIGOPS Symposium on Operating Systems Principles</title>
+        <title>symposium on Operating systems principles</title>
+        <title>ACM Symposium on Operating Systems Principles</title>
+        <title>ACM symposium on Operating system principles</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1531</id>
+        <idClass>201518</idClass>
+        <entity>ACM</entity>
+        <acronym>LSDS-IR</acronym>
+        <title>workshop on Large-scale and distributed informational retrieval</title>
+        <title-Formerly>ACM workshop on Large-Scale distributed systems for information retrieval</title-Formerly>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+
+
+Título avaliado: acm algorithms conference discrete siam soda
+1) conference discrete siam --> 201804 (2010)
+2) algorithms siam --> 201804 (2010)
+3) acm discrete --> 201804 (2010)
+4) siam soda --> 201804 (2010)
+5) acm soda --> 201804 (2010)
+Errado 201804 != (2010)
+
+Errado
+    <pub-venue>
+        <id>54</id>
+        <idClass>2010</idClass>
+        <acronym>SODA</acronym>
+        <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+        <title>Symposium on Discrete Algorithms</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1812</id>
+        <idClass>201804</idClass>
+        <entity>ACM</entity>
+        <acronym>SODA</acronym>
+        <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+        <title-Formerly>annual ACM-SIAM symposium on Discrete algorithm</title-Formerly>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: applications artificial conference innovative intelligence national
+1) artificial national --> 20178 (20178)
+2) intelligence national --> 20178 (20178)
+Correto 20178 == (20178)
+
+    <pub-venue>
+        <id>219</id>
+        <idClass>20178</idClass>
+        <acronym>AAAI</acronym>
+        <title>National Conference of the American Association for Artificial Intelligence</title>
+        <title>AAAI Conference on Artificial Intelligence</title>
+        <title>National Conference on Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: conference vldb
+1) conference vldb --> 20158 (20158)
+Correto 20158 == (20158)
+
+    <pub-venue>
+        <id>200</id>
+        <idClass>20158</idClass>
+        <entity>ACM</entity>
+        <acronym>VLDB</acronym>
+        <title>International Conference on Very Large Data Bases</title>
+        <title>Very Large Data Bases Conference</title>
+        <title-Formerly>international conference on Systems for Large Data Bases</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: ai conference joint
+1) ai joint --> 202861 (202774)
+Errado 202861 != (202774)
+
+Errado
+    <pub-venue>
+        <id>34</id>
+        <idClass>202774</idClass>
+        <acronym>IJCAI</acronym>
+        <acronym>JCAI</acronym>
+        <title>International Joint Conference on Artificial Intelligence</title>
+        <title>IITA International Joint Conference on Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>2838</id>
+        <idClass>202861</idClass>
+        <acronym>AUS-AI</acronym>
+        <title>Australian Joint Conference on Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: artificial intelligence uncertainty
+1) artificial uncertainty --> 20181 (20181)
+2) intelligence uncertainty --> 20181 (20181)
+Correto 20181 == (20181)
+
+    <pub-venue>
+        <id>221</id>
+        <idClass>20181</idClass>
+        <acronym>UAI</acronym>
+        <title>Conference in Uncertainty in Artifical Intelligence</title>
+        <title>Conference on Uncertainty in Artificial Intelligence</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: 3d acquisition model siggraph time
+1) 3d siggraph --> 20216 (20215)
+Errado 20216 != (20215)
+
+Errado
+    <pub-venue>
+        <id>254</id>
+        <idClass>20216</idClass>
+        <entity>ACM</entity>
+        <acronym>SI3D</acronym>
+        <acronym>I3D</acronym>
+        <title>ACM Symposium on Interactive 3D Graphics and Games</title>
+        <title>ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games</title>
+        <title>Symposium on Interactive 3D Graphics</title>
+        <title>I3DG</title>
+        <title-Formerly>workshop on Interactive 3D graphics</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B4</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>253</id>
+        <idClass>20215</idClass>
+        <entity>ACM</entity>
+        <acronym>SIGGRAPH</acronym>
+        <title>International Conference on Computer Graphics and Interactive Techniques</title>
+        <title>ACM International Conference on Computer Graphics and Interactive Techniques</title>
+        <title>ACM SIGGRAPH</title>
+        <title>ACM SIGGRAPH Conference</title>
+        <title>Annual Conference on Computer Graphics</title>
+        <title>SIGGRAPH Conference</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: computing data kk parallel structures toplas
+1) toplas --> 10362 (10362)
+Correto 10362 == (10362)
+
+    <pub-venue>
+        <id>3990</id>
+        <idClass>10362</idClass>
+        <entity>ACM</entity>
+        <acronym>TOPLAS</acronym>
+        <title>ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS</title>
+        <title-Abrev>ACM T PROGR LANG SYS</title-Abrev>
+        <title-Abrev>ACM Trans. Program. Lang. Syst.</title-Abrev>
+        <publisher>ASSOC COMPUTING MACHINERY</publisher>
+        <pub-type>journal</pub-type>
+        <language>ENGLISH</language>
+        <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+        <impact-factor-2010>1.167</impact-factor-2010>
+        <impact-factor-5years>1.665</impact-factor-5years>
+        <qualis-estrato>A2</qualis-estrato>
+        <site>http://toplas.acm.org</site>
+        <site>http://www.acm.org/toplas/</site>
+        <site>http://toplas.acm.org/</site>
+    </pub-venue>
+
+
+Título avaliado: acm pldi sigplan
+1) pldi --> 2029 (2029)
+Correto 2029 == (2029)
+
+    <pub-venue>
+        <id>73</id>
+        <idClass>2029</idClass>
+        <entity>ACM</entity>
+        <acronym>PLDI</acronym>
+        <title>SIGPLAN Conference on Programming Language Design and Implementation</title>
+        <title>ACM SIGPLAN Conference on Programming Language Design and Implementation</title>
+        <title>ACM-SIGPLAN Symposium on Programming Language Design and Implementation</title>
+        <title-Formerly>SIGPLAN Symposium on Compiler Construction</title-Formerly>
+        <title-Formerly>meeting on Programming languages and information retrieval</title-Formerly>
+        <title-Formerly>SIGPLAN Symposium on Compiler Optimization</title-Formerly>
+        <title-Formerly>ACM symposium on The ADA programming language</title-Formerly>
+        <title-Formerly>symposium on Compiler construction</title-Formerly>
+        <title-Formerly>Symposium on Interpreters and interpretive techniques</title-Formerly>
+        <title-Formerly>ACM symposium on Ada programming language</title-Formerly>
+        <title-Formerly>ACM symposium on Programming language issues in software systems</title-Formerly>
+        <acronym-Formerly>SIGPLAN</acronym-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: iscas japan kobe
+1) iscas --> 2099 (2099)
+Correto 2099 == (2099)
+
+    <pub-venue>
+        <id>142</id>
+        <idClass>2099</idClass>
+        <acronym>ISCAS</acronym>
+        <title>IEEE International Symposium on Circuits and Systems</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: conference databases large very
+1) databases very --> 201653 (20158)
+2) conference databases large --> 20172 (20158)
+Errado 201653 != (20158)
+
+Errado
+    <pub-venue>
+        <id>200</id>
+        <idClass>20158</idClass>
+        <entity>ACM</entity>
+        <acronym>VLDB</acronym>
+        <title>International Conference on Very Large Data Bases</title>
+        <title>Very Large Data Bases Conference</title>
+        <title-Formerly>international conference on Systems for Large Data Bases</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1664</id>
+        <idClass>201653</idClass>
+        <entity>ACM</entity>
+        <acronym>PAVLAD</acronym>
+        <title>ACM international workshop on Privacy and anonymity for very large databases</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+    <pub-venue>
+        <id>213</id>
+        <idClass>20172</idClass>
+        <acronym>SSTD</acronym>
+        <title>International Symposium on Spatial and Temporal Databases</title>
+        <title>Symposium on Spatial and Temporal Databases</title>
+        <title>International Symposium on Advances in Spatial and Temporal Databases</title>
+        <title-Formerly>International Symposium on Advances in Spatial Databases</title-Formerly>
+        <title-Formerly>Symposium on Large Spatial Databases</title-Formerly>
+        <title-Formerly>Symposium on Design and Implementation of Large Spatial Databases</title-Formerly>
+        <acronym-Formerly>SSD</acronym-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: acm algorithms conference discrete
+1) acm discrete --> 201804 (2010)
+Errado 201804 != (2010)
+
+Errado
+    <pub-venue>
+        <id>54</id>
+        <idClass>2010</idClass>
+        <acronym>SODA</acronym>
+        <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+        <title>Symposium on Discrete Algorithms</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+    <pub-venue>
+        <id>1812</id>
+        <idClass>201804</idClass>
+        <entity>ACM</entity>
+        <acronym>SODA</acronym>
+        <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+        <title-Formerly>annual ACM-SIAM symposium on Discrete algorithm</title-Formerly>
+        <pub-type>conference</pub-type>
+    </pub-venue>
+
+
+Título avaliado: conference focs
+1) focs --> 202 (202)
+Correto 202 == (202)
+
+    <pub-venue>
+        <id>46</id>
+        <idClass>202</idClass>
+        <entity>IEEE</entity>
+        <acronym>FOCS</acronym>
+        <title>IEEE Symposium on Foundations of Computer Science</title>
+        <title>IEEE Annual Symposium on Foundations of Computer Science</title>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: conference rence vldb
+1) conference vldb --> 20158 (20158)
+Correto 20158 == (20158)
+
+    <pub-venue>
+        <id>200</id>
+        <idClass>20158</idClass>
+        <entity>ACM</entity>
+        <acronym>VLDB</acronym>
+        <title>International Conference on Very Large Data Bases</title>
+        <title>Very Large Data Bases Conference</title>
+        <title-Formerly>international conference on Systems for Large Data Bases</title-Formerly>
+        <pub-type>conference</pub-type>
+        <qualis-estrato>A1</qualis-estrato>
+    </pub-venue>
+
+
+Título avaliado: engineering ieee software transaction
+1) transaction --> 203114 (10385)
+Errado 203114 != (10385)
+
+Errado
+    <pub-venue>
+        <id>3083</id>
+        <idClass>203114</idClass>
+        <acronym>HPTS</acronym>
+        <title>High Performance Transaction Systems Workshop</title>
+        <pub-type>workshop</pub-type>
+    </pub-venue>
+    <pub-venue>
+        <id>4012</id>
+        <idClass>10385</idClass>
+        <entity>IEEE</entity>
+        <acronym>TSE</acronym>
+        <title>IEEE TRANSACTIONS ON SOFTWARE ENGINEERING</title>
+        <title-Abrev>IEEE T SOFTWARE ENG</title-Abrev>
+        <title-Abrev>IEEE Trans. Softw. Eng.</title-Abrev>
+        <publisher>IEEE COMPUTER SOC</publisher>
+        <pub-type>journal</pub-type>
+        <language>ENGLISH</language>
+        <subject>COMPUTER SCIENCE, SOFTWARE ENGINEERING</subject>
+        <subject>ENGINEERING, ELECTRICAL AND ELECTRONIC</subject>
+        <impact-factor-2010>2.265</impact-factor-2010>
+        <impact-factor-5years>3.500</impact-factor-5years>
+        <qualis-estrato>A1</qualis-estrato>
+        <site>http://www.computer.org/tse</site>
+    </pub-venue>
+
+
+Total de títulos preditos por regras: 36
+Total de títulos corretos preditos por regras: 17
+Total de títulos errados preditos por regras : 19
+Total de títulos : 36

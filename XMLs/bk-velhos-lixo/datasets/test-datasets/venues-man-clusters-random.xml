@@ -1,0 +1,3490 @@
+<!--Manually generated clusters-->
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>German</acronym>
+		<title>Annual Conference on Artificial Intelligence</title>
+	</info>
+	<entity>
+		<cluster>russell1996taa</cluster>
+		<journal>Proceedings of the 20th Annual German Conference on Artificial Intelligence: Advances in Artificial Intelligence</journal>
+	</entity>
+	<entity>
+		<cluster>kaelbling95pom</cluster>
+		<journal>KI-95: Advances in Artificial Intelligence. 19th German Annual Conference on Artificial Intelligence</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>DRC</acronym>
+		<title>Device Research Conference</title>
+	</info>
+	<entity>
+		<cluster>huang2004pcu</cluster>
+		<journal>device research conference</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>CONCUR</acronym>
+		<title>International Conference on Concurrency Theory</title>
+	</info>
+	<entity>
+		<cluster>terauchi2006ccc</cluster>
+		<journal>proceedings of the 17th international conference on concurrency theory (concur 2006)</journal>
+	</entity>
+	<entity>
+		<cluster>pratt2002esd</cluster>
+		<journal>Proceedings of the 13th International Conference on Concurrency Theory</journal>
+	</entity>
+	<entity>
+		<cluster>jategaonkar630tep</cluster>
+		<journal>Proceedings of International Conference on Concurrency Theory</journal>
+	</entity>
+	<entity>
+		<cluster>dill1994hms</cluster>
+		<journal>Proceedings of the Concurrency Theory</journal>
+	</entity>
+	<entity>
+		<cluster>mateus2003ccp</cluster>
+		<journal>CONCUR</journal>
+	</entity>
+	<entity>
+		<cluster>pratt92dta</cluster>
+		<journal>Proc. of CONCUR</journal>
+	</entity>
+	<entity>
+		<cluster>bradley2005tai</cluster>
+		<journal>concurrency theory, 16th international conference</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>CSC</acronym>
+		<title>ACM Annual Computer Science Conference</title>
+	</info>
+	<entity>
+		<cluster>citrin1993pal</cluster>
+		<journal>Proceedings of the 1993 ACM conference on Computer science</journal>
+	</entity>
+	<entity>
+		<cluster>cheriton1985rpv</cluster>
+		<journal>Proc. of the 1985 ACM Computer Science Conference</journal>
+	</entity>
+	<entity>
+		<cluster>kung1983vcs</cluster>
+		<journal>Proceedings of the 1983 computer science conference</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>CVPR</acronym>
+		<title>IEEE Computer Society International Conference on Computer Vision and Pattern Recognition</title>
+	</info>
+	<entity>
+		<cluster>lin2001tsv</cluster>
+		<journal>IEEE International Conference on Computer Vision and Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>elidan2006los</cluster>
+		<journal>Proceedings of the 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition-Volume 2</journal>
+	</entity>
+	<entity>
+		<cluster>grauman2006ulc</cluster>
+		<journal>Proceedings of the 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition-Volume 1</journal>
+	</entity>
+	<entity>
+		<cluster>anguelov2005dlm</cluster>
+		<journal>Conference on Computer Vision and Pattern Recognition (CVPR)</journal>
+	</entity>
+	<entity>
+		<cluster>dror2001srw</cluster>
+		<journal>Proceedings of CVPR</journal>
+	</entity>
+	<entity>
+		<cluster>rahimi2005lam</cluster>
+		<journal>Computer Vision and Pattern Recognition (CVPR)</journal>
+	</entity>
+	<entity>
+		<cluster>stauffer1998uat</cluster>
+		<journal>proceedings of the ieee conference on computer vision and pattern recognition (cvpr'98)</journal>
+	</entity>
+	<entity>
+		<cluster>izo2004spe</cluster>
+		<journal>IEEE Worskhop on Articulated and Nonrigid Motion at CVPR, June</journal>
+	</entity>
+	<entity>
+		<cluster>torralba2004sfe</cluster>
+		<journal>Proc. CVPR</journal>
+	</entity>
+	<entity>
+		<cluster>torralba:svf</cluster>
+		<journal>The IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)</journal>
+	</entity>
+	<entity>
+		<cluster>arora2007uso</cluster>
+		<journal>Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>leung1997ptw</cluster>
+		<journal>Proceedings of the 1997 Conference on Computer Vision and Pattern Recognition (CVPR'97)</journal>
+	</entity>
+	<entity>
+		<cluster>dellaert2000smw</cluster>
+		<journal>PROC IEEE COMPUT SOC CONF COMPUT VISION PATTERN RECOGNIT</journal>
+	</entity>
+	<entity>
+		<cluster>delage2006dbn</cluster>
+		<journal>Computer Vision and Pattern Recognition, 2006 IEEE Computer Society Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>fischer2001pbp</cluster>
+		<journal>Energy Minimization Methods in Computer Vision and Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>dellaert1999uca</cluster>
+		<journal>Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>sudderth2003nbp</cluster>
+		<journal>Proc. IEEE Conf. on Computer Vision and Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>shakhnarovich2001ifa</cluster>
+		<journal>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>stauffer:std</cluster>
+		<journal>Proc. Computer Vision and Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>beymer1997rtc</cluster>
+		<journal>Computer Vision and Pattern Recognition</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>FPCA</acronym>
+		<title>Conference on Functional Programming Languages and Computer Architecture</title>
+	</info>
+	<entity>
+		<cluster>barth1991mse</cluster>
+		<journal>Proceedings of the 5th ACM conference on Functional programming languages and computer architecture table of contents</journal>
+	</entity>
+	<entity>
+		<cluster>aiken1995dta</cluster>
+		<journal>Proceedings of the seventh international conference on Functional programming languages and computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>barth1991sep</cluster>
+		<journal>proceedings on functional programming and computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>morrisett:mar</cluster>
+		<journal>ACM Conference on Functional Programming and Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>aiken1991irt</cluster>
+		<journal>Proceedings of the 1991 Conference on Functional Programming Languages and Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>sokolowski1984aho</cluster>
+		<journal>Functional Programming Languages and Computer Architecture (LNCS 274)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICASSP</acronym>
+		<title>IEEE International Conference on Acoustics, Speech and Signal Processing</title>
+	</info>
+	<entity>
+		<cluster>eisert1999mhv</cluster>
+		<journal>ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing- Proceedings</journal>
+	</entity>
+	<entity>
+		<cluster>hartung1996sos</cluster>
+		<journal>IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS SPEECH AND SIGNAL PROCESSING</journal>
+	</entity>
+	<entity>
+		<cluster>boufounos5qns</cluster>
+		<journal>Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'05</journal>
+	</entity>
+	<entity>
+		<cluster>marbach1997ndp</cluster>
+		<journal>Proceedings of the 1997 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'97)-Volume 1-Volume 1</journal>
+	</entity>
+	<entity>
+		<cluster>arnould1985psa</cluster>
+		<journal>Proc. IEEE Int. Conf. Acoustics Speech and Signal Processing</journal>
+	</entity>
+	<entity>
+		<cluster>liu2003msi</cluster>
+		<journal>Acoustics, Speech, and Signal Processing, 2003. Proceedings.(ICASSP'03). 2003 IEEE International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>zhao2006imn</cluster>
+		<journal>Acoustics, Speech and Signal Processing, 2006. ICASSP 2006 Proceedings. 2006 IEEE International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>hsieh99lpd</cluster>
+		<journal>ICASSP-99, accepted for publication</journal>
+	</entity>
+	<entity>
+		<cluster>baggeroer1995crb</cluster>
+		<journal>Acoustics, Speech, and Signal Processing, 1995. ICASSP-95., 1995 International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>malioutov2007gva</cluster>
+		<journal>Acoustics, Speech and Signal Processing, 2007. ICASSP 2007. IEEE International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>lee1997pap</cluster>
+		<journal>ICASSP IEEE INT CONF ACOUST SPEECH SIGNAL PROCESS PROC</journal>
+	</entity>
+	<entity>
+		<cluster>yoo:seb</cluster>
+		<journal>Proc. IEEE-ICASSP</journal>
+	</entity>
+	<entity>
+		<cluster>zue1990vsu</cluster>
+		<journal>Proc. ICASSP</journal>
+	</entity>
+	<entity>
+		<cluster>zue1991isl</cluster>
+		<journal>IEEE ICASSP</journal>
+	</entity>
+	<entity>
+		<cluster>glass1988mla</cluster>
+		<journal>international conference acoustics, speech, and signal processing icassp-88</journal>
+	</entity>
+	<entity>
+		<cluster>annaratone1986muw</cluster>
+		<journal>proceedings 1986 ieee international conference on acoustics. soeech and sienal processing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICPP</acronym>
+		<title>International Conference on Parallel Processing</title>
+	</info>
+	<entity>
+		<cluster>whaley2005hpd</cluster>
+		<journal>Proceedings of the 34th International Conference on Parallel Processing (ICPPÂ'05)</journal>
+	</entity>
+	<entity>
+		<cluster>rivoire2006vlt</cluster>
+		<journal>Proceedings of the 2006 International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>torrellas1990sdp</cluster>
+		<journal>Proceedings of the 1990 International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>mitra1988mba</cluster>
+		<journal>Proceedings 1988 International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>spertus1991eid</cluster>
+		<journal>proceedings of the 1991 international conference on parallel processing</journal>
+	</entity>
+	<entity>
+		<cluster>gopinath:psb</cluster>
+		<journal>Proceedings of the 23rd International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>hoey1980lse</cluster>
+		<journal>1980 International Conference on Parallel Processing. IEEE Computer Society</journal>
+	</entity>
+	<entity>
+		<cluster>dennis1979aic</cluster>
+		<journal>Proceedings of the 1979 International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>dennis:ksw</cluster>
+		<journal>International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>tamir1984erm</cluster>
+		<journal>13th International Conference on Parallel Processing</journal>
+	</entity>
+	<entity>
+		<cluster>colbrook1991acs</cluster>
+		<journal>proceedings of the 20th international conference on parallel processing</journal>
+	</entity>
+	<entity>
+		<cluster>varvarigos1992pmb</cluster>
+		<journal>ICPP (3)</journal>
+	</entity>
+	<entity>
+		<cluster>bentley1979tms</cluster>
+		<journal>Proc IEEE Int Conf on Parallel Processmng</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>LFP</acronym>
+		<title>ACM Conference on Lisp and Functional Programming</title>
+	</info>
+	<entity>
+		<cluster>lieberman1980sti</cluster>
+		<journal>Proceedings of the 1980 ACM conference on LISP and functional programming</journal>
+	</entity>
+	<entity>
+		<cluster>mitchell1986tia</cluster>
+		<journal>Proceedings of the 1986 ACM conference on LISP and functional programming</journal>
+	</entity>
+	<entity>
+		<cluster>jategaonkar:mep</cluster>
+		<journal>Proceedings of the ACM Conference on Lisp and Functional Programming</journal>
+	</entity>
+	<entity>
+		<cluster>howard1990oaa</cluster>
+		<journal>Proceedings of the 1990 ACM conference on LISP and functional programming</journal>
+	</entity>
+	<entity>
+		<cluster>gharachorloo1988sae</cluster>
+		<journal>Proceedings of the 1988 ACM conference on LISP and functional programming</journal>
+	</entity>
+	<entity>
+		<cluster>hewitt1980daa</cluster>
+		<journal>Conference Record of the 1980 LISP Conference</journal>
+	</entity>
+	<entity>
+		<cluster>brooks1984ccl</cluster>
+		<journal>ACM LFP</journal>
+	</entity>
+	<entity>
+		<cluster>brooks1984tds</cluster>
+		<journal>Proceedings of the 1984 ACM Symposium on LISP and functional programming</journal>
+	</entity>
+	<entity>
+		<cluster>brooks1982scl</cluster>
+		<journal>Proceedings of the 1982 ACM symposium on LISP and functional programming</journal>
+	</entity>
+	<entity>
+		<cluster>brooks1982ass</cluster>
+		<journal>Conference Record of the 1982 ACM Symposium on LISP and Functional Programming</journal>
+	</entity>
+	<entity>
+		<cluster>traub1992gap</cluster>
+		<journal>proceedings 92 acm conference lisp funct program.</journal>
+	</entity>
+	<entity>
+		<cluster>brooks1986bpj</cluster>
+		<journal>proceedings of the 1986 acm conjeren ce on lisp and fun c. t: onal progrummtng</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>OOPSLA</acronym>
+		<title>Annual ACM Conference on Object Oriented Programming, Systems, Languages, and Applications</title>
+	</info>
+	<entity>
+		<cluster>stephen1999ffj</cluster>
+		<journal>ACM Conference on Object-Oriented Programming: Systems, Languages and Applications</journal>
+	</entity>
+	<entity>
+		<cluster>boyapati2002tsp</cluster>
+		<journal>Proc. 17th Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications</journal>
+	</entity>
+	<entity>
+		<cluster>goldsmith2005rqo</cluster>
+		<journal>Proceedings of the 20th annual ACM SIGPLAN conference on Object oriented programming systems languages and applications</journal>
+	</entity>
+	<entity>
+		<cluster>bobrow1991oaa</cluster>
+		<journal>Conference on Object Oriented Programming Systems Languages and Applications</journal>
+	</entity>
+	<entity>
+		<cluster>agesen1997atp</cluster>
+		<journal>Proceedings of the 12th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications</journal>
+	</entity>
+	<entity>
+		<cluster>freund1999ffj</cluster>
+		<journal>Proceedings of the 14th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications</journal>
+	</entity>
+	<entity>
+		<cluster>agesen1997apt</cluster>
+		<journal>Conference on Object-Oriented Programming, Systems, Languages and Applications</journal>
+	</entity>
+	<entity>
+		<cluster>liskov1993sat</cluster>
+		<journal>Proceedings of the eighth annual conference on Object-oriented programming systems, languages, and applications</journal>
+	</entity>
+	<entity>
+		<cluster>khurshid2002aal</cluster>
+		<journal>Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications</journal>
+	</entity>
+	<entity>
+		<cluster>donovan2004cjp</cluster>
+		<journal>Proceedings of the 19th annual ACM SIGPLAN Conference on Object-oriented programming, systems, languages, and applications</journal>
+	</entity>
+	<entity>
+		<cluster>arvind2000ijm</cluster>
+		<journal>Object Oriented Programming Systems, Languages and Applications</journal>
+	</entity>
+	<entity>
+		<cluster>boyapati2003lmu</cluster>
+		<journal>Proceedings of the 18th annual ACM SIGPLAN conference on Object-oriented programing, systems, languages, and applications</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>PDIS</acronym>
+		<title>International Conference on Parallel and Distributed Information Systems</title>
+	</info>
+	<entity>
+		<cluster>zhuge1996w</cluster>
+		<journal>the strobe algorithms for multi-source warehouse consistency. in proceedings of the international conference on parallel and distributed information systems</journal>
+	</entity>
+	<entity>
+		<cluster>quass1996mvs</cluster>
+		<journal>Proc. of the 1996 Intl. Conf. on Parallel and Distributed Information Systems</journal>
+	</entity>
+	<entity>
+		<cluster>patterson1993mpa</cluster>
+		<journal>Proceedings of the second international conference on Parallel and distributed information systems table of contents</journal>
+	</entity>
+	<entity>
+		<cluster>amsaleg:aat</cluster>
+		<journal>Proccedings of the 4th International Conference on Parallel and Distributed Information Systems</journal>
+	</entity>
+	<entity>
+		<cluster>amsaleg1996sqp</cluster>
+		<journal>ininternational conference on parallel and distribution information systems pdis</journal>
+	</entity>
+	<entity>
+		<cluster>quass1996mm</cluster>
+		<journal>inproceedingsof the conference on parallel and distributed information systems</journal>
+	</entity>
+	<entity>
+		<cluster>zhuge1996sam</cluster>
+		<journal>Proceedings of the Conference on Parallel and Distributed Information Systems</journal>
+	</entity>
+	<entity>
+		<cluster>garciamolina1991dau</cluster>
+		<journal>PDIS</journal>
+	</entity>
+	<entity>
+		<cluster>zhuge1996wsa</cluster>
+		<journal>Proceedings of the fourth international conference on on Parallel and distributed information systems</journal>
+	</entity>
+	<entity>
+		<cluster>maheshwari:ftd</cluster>
+		<journal>Proceedings of the Parallel and Distributed Information Systems</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICS</acronym>
+		<title>ACM IEEE Conference on Supercomputing</title>
+	</info>
+	<entity>
+		<cluster>fatahalian2006msp</cluster>
+		<journal>Proceedings of the 2006 ACM/IEEE conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>goldberg1991pds</cluster>
+		<journal>Proceedings of the 1991 ACM/IEEE conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>horn2005csh</cluster>
+		<journal>Proceedings of the 2005 ACM/IEEE conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>lumetta1995tmp</cluster>
+		<journal>Proceedings of the 1995 ACM/IEEE conference on Supercomputing (CDROM)</journal>
+	</entity>
+	<entity>
+		<cluster>rinard1995cop</cluster>
+		<journal>Proceedings of the 1995 ACM/IEEE conference on Supercomputing (CDROM)-Volume 00</journal>
+	</entity>
+	<entity>
+		<cluster>lumetta1997mpa</cluster>
+		<journal>Proceedings of the 1997 ACM/IEEE conference on Supercomputing (CDROM)</journal>
+	</entity>
+	<entity>
+		<cluster>li1998msg</cluster>
+		<journal>Proceedings of the 1998 ACM/IEEE conference on Supercomputing (CDROM)</journal>
+	</entity>
+	<entity>
+		<cluster>rinard:esb</cluster>
+		<journal>Proceedings of International Conference on Supercomputing (ICS)</journal>
+	</entity>
+	<entity>
+		<cluster>suh2003apa</cluster>
+		<journal>Proceedings of the 17th Annual ACM International Conference on Supercomputing (ICS'03). San Francisco: ACM Press</journal>
+	</entity>
+	<entity>
+		<cluster>chafi2005tta</cluster>
+		<journal>Proceedings of the 19th annual international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>balfour2006dtt</cluster>
+		<journal>Proceedings of the 20th annual international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>suh2003aat</cluster>
+		<journal>Proceedings of the 17th annual international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>lv2002sar</cluster>
+		<journal>Proceedings of the 16th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>lim1999apa</cluster>
+		<journal>Proceedings of the 13th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>tseng1995uct</cluster>
+		<journal>Proceedings of the 9th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>kubiatowicz1993ama</cluster>
+		<journal>Proceedings of the 7th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>bilmes1997omm</cluster>
+		<journal>Proceedings of the 11th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>suh2001acm</cluster>
+		<journal>Proceedings of the 15th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>kung1992naa</cluster>
+		<journal>Proceedings of the 1991 Conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>kung1988wew</cluster>
+		<journal>Proceedings of the 2nd international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>gee1994ecv</cluster>
+		<journal>Proceedings of the 8th international conference on Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>dally2003mss</cluster>
+		<journal>Proceedings of the Proceedings of the ACM/IEEE SC2003 Conference-Volume 00</journal>
+	</entity>
+	<entity>
+		<cluster>humphreys2000drs</cluster>
+		<journal>Proceedings of Supercomputing 2000</journal>
+	</entity>
+	<entity>
+		<cluster>kublatowicz1993ama</cluster>
+		<journal>proceedings of the international supercomputing cmrference</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1988abf</cluster>
+		<journal>Supercomputing'88</journal>
+	</entity>
+	<entity>
+		<cluster>culler93isc</cluster>
+		<journal>Proc. of Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>culler1993eta</cluster>
+		<journal>Proceedings of SuperComputing</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1988m</cluster>
+		<journal>Assessing the Benefits of Fine-grained Parallelism in Dataflow Programs, In Proceedings of Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>arapacidusseau93pps</cluster>
+		<journal>Proceedings of Supercomputing'93</journal>
+	</entity>
+	<entity>
+		<cluster>hsieh96dcm</cluster>
+		<journal>Supercomputing'96</journal>
+	</entity>
+	<entity>
+		<cluster>borkar1988iis</cluster>
+		<journal>Supercomputing'88.[Vol. 1]. Proceedings.</journal>
+	</entity>
+	<entity>
+		<cluster>kung1991ssp</cluster>
+		<journal>F. Christianson, EC Cooper, O. Menzilcioglu, D. Ombres, and B. ZiU. Network-based multicomputers: An emerging parallel architecture. In Proceedings Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>kung1988iis</cluster>
+		<journal>IEEE Supercomputing</journal>
+	</entity>
+	<entity>
+		<cluster>wong1999ara</cluster>
+		<journal>Proceedings of Supercomputing'99</journal>
+	</entity>
+	<entity>
+		<cluster>kubiatowiczandanantagarwal1993aom</cluster>
+		<journal>Proceedingsof the International SupercomputingConference (ISC) 1993</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>SOSP</acronym>
+		<title>ACM Symposium on Operating Systems Principles</title>
+	</info>
+	<entity>
+		<cluster>fox16sns</cluster>
+		<journal>Proceedings of the 16th ACM Symposium on Operating Systems Principles (SOSP-16)</journal>
+	</entity>
+	<entity>
+		<cluster>seshadri2005pvi</cluster>
+		<journal>Proceedings of ACM Symposium on Operating Systems Principles (SOSP)</journal>
+	</entity>
+	<entity>
+		<cluster>andersen2001ari</cluster>
+		<journal>18th ACM Symposium on Operating Systems Principles (SOSP)</journal>
+	</entity>
+	<entity>
+		<cluster>dabek2001owa</cluster>
+		<journal>proceedings of the 18th acm symposium on operating systems principles (sosp'01). chateau lake louise</journal>
+	</entity>
+	<entity>
+		<cluster>adjie1999dai</cluster>
+		<journal>proceedings 17th acm sosp</journal>
+	</entity>
+	<entity>
+		<cluster>dabek1wac</cluster>
+		<journal>Proc. ACM SOSP</journal>
+	</entity>
+	<entity>
+		<cluster>kaashoek:cmr</cluster>
+		<journal>ACM SOSP</journal>
+	</entity>
+	<entity>
+		<cluster>gifford1985bjm</cluster>
+		<journal>Lucassen: An Architecture for Large Scale Information Systems. SOSP</journal>
+	</entity>
+	<entity>
+		<cluster>fox1997cbs</cluster>
+		<journal>Proceedings of the sixteenth ACM symposium on Operating systems principles</journal>
+	</entity>
+	<entity>
+		<cluster>fox1997scb</cluster>
+		<journal>Proceedings of the 16th ACM Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>finlayson1987les</cluster>
+		<journal>Proc. of 11th ACM Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1977kap</cluster>
+		<journal>Proceedings of the Sixth ACM Symposium on Operating Systems Principles(November 1977)</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1973kas</cluster>
+		<journal>Proc. 4th ACM Symp. on Operating Systems Principles (October 1973)</journal>
+	</entity>
+	<entity>
+		<cluster>liskov:sud</cluster>
+		<journal>Keynote address at the 18th ACM Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>anthony1995rtm</cluster>
+		<journal>Proceedings of the 15th ACM Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>ionstoica2001wac</cluster>
+		<journal>Proc. of the ACM Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>andersen2001rmo</cluster>
+		<journal>proceedings of the 18th acm symposium on operating systems principles</journal>
+	</entity>
+	<entity>
+		<cluster>jannotti1999cmr</cluster>
+		<journal>proceedings of the 17th acm symposium on operating systems principles</journal>
+	</entity>
+	<entity>
+		<cluster>anderson1997fup</cluster>
+		<journal>acm symposium on operating systems principles (sigops)</journal>
+	</entity>
+	<entity>
+		<cluster>liskov:rhf</cluster>
+		<journal>Proceedings of the 13th Symposium on Operating Systems Principles (SOSP)</journal>
+	</entity>
+	<entity>
+		<cluster>alanfdelespinasse1995rtm</cluster>
+		<journal>proceedings of the fifteenth symposium on operating systems principles (sosp)</journal>
+	</entity>
+	<entity>
+		<cluster>gifford1981csi</cluster>
+		<journal>SOSP</journal>
+	</entity>
+	<entity>
+		<cluster>dabrek2001wac</cluster>
+		<journal>Proceedings of the ACM Symposium on Operating System Principles (SOSP)</journal>
+	</entity>
+	<entity>
+		<cluster>morris99mfk</cluster>
+		<journal>Proceedings of the 17th ACM Symposium on Operating System s Principles (SOSP'99)</journal>
+	</entity>
+	<entity>
+		<cluster>gray:lcf</cluster>
+		<journal>Proceedings of the 12th Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>engler2001bib</cluster>
+		<journal>Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>old:ros</cluster>
+		<journal>Proceedings of the lOth Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>mazilres:skm</cluster>
+		<journal>Proceedings of the 17th Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>joseph1997rmt</cluster>
+		<journal>Presented as a Works-In-Progress poster at the Sixteenth Symposium on Operating Systems Principles</journal>
+	</entity>
+	<entity>
+		<cluster>welsh2001saw</cluster>
+		<journal>eighteeth symposium on operating systems principles</journal>
+	</entity>
+	<entity>
+		<cluster>anderson1995rws</cluster>
+		<journal>15th symposium on operating systems principles</journal>
+	</entity>
+	<entity>
+		<cluster>finlayson1987lfe</cluster>
+		<journal>acm 11 thsymposium on operating system principles</journal>
+	</entity>
+	<entity>
+		<cluster>cheriton27ult</cluster>
+		<journal>Operating System Review, 14th ACM Symposium on Operating System Principles</journal>
+	</entity>
+	<entity>
+		<cluster>lam1997die</cluster>
+		<journal>proceedings of the sixteenth acm symposium on operating system principles</journal>
+	</entity>
+	<entity>
+		<cluster>arvind:kap</cluster>
+		<journal>Proceedings of the Sixth Symposium on Operating System Principles</journal>
+	</entity>
+	<entity>
+		<cluster>rodrigo2003rsb</cluster>
+		<journal>Proceedings of the 18th ACM Symposium on Operating System Principles</journal>
+	</entity>
+	<entity>
+		<cluster>gifford:b</cluster>
+		<journal>An architecture for large scale information systems. In l Oth Symposium on Operating System Principles</journal>
+	</entity>
+	<entity>
+		<cluster>gifford:bal</cluster>
+		<journal>10th Symposium on Operating System Principles</journal>
+	</entity>
+	<entity>
+		<cluster>anderson14esb</cluster>
+		<journal>Proc. 14 thACM Symposium on Operating system principles</journal>
+	</entity>
+	<entity>
+		<cluster>rosenblum1995vvs</cluster>
+		<journal>Proc. of 20th ACM Symp. on Operanting Systems Principles</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>SWWS</acronym>
+		<title>Semantic Web Working Symposium</title>
+	</info>
+	<entity>
+		<cluster>jin2001omd</cluster>
+		<journal>Semantic Web Working Symposium (SWWS)</journal>
+	</entity>
+	<entity>
+		<cluster>mitra2001sfi</cluster>
+		<journal>Semantic Web Working Symposium</journal>
+	</entity>
+	<entity>
+		<cluster>tuttle2001swp</cluster>
+		<journal>First Semantic Web Working Symposium. Stanford</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Advanced Robotics</title>
+	</info>
+	<entity>
+		<cluster>bowling2003dlc</cluster>
+		<journal>Advanced Robotics</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Analog Integrated Circuits and Signal Processing</title>
+	</info>
+	<entity>
+		<cluster>alam2003lsc</cluster>
+		<journal>Analog Integrated Circuits and Signal Processing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Circuits, Systems, and Signal Processing</title>
+	</info>
+	<entity>
+		<cluster>nikoukhah1989ebv</cluster>
+		<journal>Circuits, Systems, and Signal Processing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Computer Graphics Forum</title>
+	</info>
+	<entity>
+		<cluster>barequet1996bhr</cluster>
+		<journal>Computer Graphics Forum</journal>
+	</entity>
+	<entity>
+		<cluster>orti96rds</cluster>
+		<journal>Computer Graphics Forum (Proc. of Eurographics' 96)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Computer Networks</title>
+	</info>
+	<entity>
+		<cluster>fox1996rla</cluster>
+		<journal>WWW5 / Computer Networks</journal>
+	</entity>
+	<entity>
+		<cluster>huang2000rwb</cluster>
+		<journal>Computer Networks</journal>
+	</entity>
+	<entity>
+		<cluster>cho1998ect</cluster>
+		<journal>WWW7 / Computer Networks</journal>
+	</entity>
+	<entity>
+		<cluster>harrison2004cls</cluster>
+		<journal>Computer Networks Journal</journal>
+	</entity>
+	<entity>
+		<cluster>henzinger1999miq</cluster>
+		<journal>COMPUT. NETWORKS</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>IEEE Control Systems Magazine</title>
+	</info>
+	<entity>
+		<cluster>zhao1998csa</cluster>
+		<journal>IEEE Control Systems Magazine</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>International Journal of Parallel Programming</title>
+	</info>
+	<entity>
+		<cluster>vandevoorde1988wac</cluster>
+		<journal>International Journal of Parallel Programming</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Logic and Computation</title>
+	</info>
+	<entity>
+		<cluster>brafman1997foc</cluster>
+		<journal>Journal of Logic and Computation</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>Phantom Users Group Workshop</title>
+	</info>
+	<entity>
+		<cluster>salisbury1996ohr</cluster>
+		<journal>Proceedings of The First PHANToM User's Group Workshop</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>PADL</acronym>
+		<title>International Symposium on Practical Aspects of Declarative Languages</title>
+	</info>
+	<entity>
+		<cluster>li2003dcf</cluster>
+		<journal>Proceedings of the Fifth International Symposium on Practical Aspects of Declarative Languages (PADL 2003)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>LOPLAS</acronym>
+		<title>ACM Letters on Programming Languages and Systems</title>
+	</info>
+	<entity>
+		<cluster>day1993rrm</cluster>
+		<journal>ACM Letters on Programming Languages and Systems (LOPLAS)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Operating Systems Review</title>
+	</info>
+	<entity>
+		<cluster>barbara1991ruf</cluster>
+		<journal>ACM Operating Systems Review</journal>
+	</entity>
+	<entity>
+		<cluster>kimbrel1996tdc</cluster>
+		<journal>ACM SIGOPS Operating Systems Review</journal>
+	</entity>
+	<entity>
+		<cluster>fox1997acb</cluster>
+		<journal>Operating Systems Review (SIGOPS), US, ACM Headquarter, New York</journal>
+	</entity>
+	<entity>
+		<cluster>cheriton1985ptp</cluster>
+		<journal>Operating Systems Review</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>TOPLAS</acronym>
+		<title>ACM Transactions on Programming Languages and Systems</title>
+	</info>
+	<entity>
+		<cluster>mitchell1993oto</cluster>
+		<journal>ACM Transactionson Programming Languages and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>ramsey1997mff</cluster>
+		<journal>ACM Transactions on Programming Language and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>foster2006fit</cluster>
+		<journal>ACM Transactions on Programming Languages and Systems (TOPLAS)</journal>
+	</entity>
+	<entity>
+		<cluster>weihl1985ir</cluster>
+		<journal>Atomic Data Types, ACM Transactions on Programming Languages and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1989sds</cluster>
+		<journal>TOPLAS</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1989rap</cluster>
+		<journal>KK, I-Structures-Data Structures For Parallel Computing", TOPLAS</journal>
+	</entity>
+	<entity>
+		<cluster>pingali1986edd</cluster>
+		<journal>ACM, TOPLAS</journal>
+	</entity>
+	<entity>
+		<cluster>liskov1994w</cluster>
+		<journal>A Behavioral Notion of Subtyping. ACM TOPLAS</journal>
+	</entity>
+	<entity>
+		<cluster>aiken1995sst</cluster>
+		<journal>ACM Transactions on Programming Languages and Systems</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>VLSI</acronym>
+		<title>IEEE Transactions on Very Large Scale Integration Systems</title>
+	</info>
+	<entity>
+		<cluster>srivastava1996pss</cluster>
+		<journal>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</journal>
+	</entity>
+	<entity>
+		<cluster>sampieri1994ctv</cluster>
+		<journal>IEEE Transactions on Very Large Scale Integration(VLSI) Systems</journal>
+	</entity>
+	<entity>
+		<cluster>tsui1995pem</cluster>
+		<journal>Very Large Scale Integration (VLSI) Systems, IEEE Transactions on</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>USENIX Unix Security Workshop</title>
+	</info>
+	<entity>
+		<cluster>klein1990fcs</cluster>
+		<journal>proceedings of the usenix unix security workshop</journal>
+	</entity>
+	<entity>
+		<cluster>klein1990sai</cluster>
+		<journal>UNIX Security Workshop II</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>WADS</acronym>
+		<title>International Workshop on Algorithms and Data Structures</title>
+	</info>
+	<entity>
+		<cluster>guibas1997vbp</cluster>
+		<journal>Proceedings of the 5th International Workshop on Algorithms and Data Structures</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal1997mem</cluster>
+		<journal>5th Workshop on Algorithms & Data Structures</journal>
+	</entity>
+	<entity>
+		<cluster>charikar1997ctl</cluster>
+		<journal>Workshop on Algorithms and Data Structures</journal>
+	</entity>
+	<entity>
+		<cluster>hartline2005nop</cluster>
+		<journal>9th Workshop on Algorithms and Data Structures</journal>
+	</entity>
+	<entity>
+		<cluster>kaller1995rfc</cluster>
+		<journal>Proceedings of the 4th International Workshop on Algorithms and Data Structures</journal>
+	</entity>
+	<entity>
+		<cluster>leiserson1999daa</cluster>
+		<journal>Proceedings of the 6th International Workshop on Algorithms and Data Structures</journal>
+	</entity>
+	<entity>
+		<cluster>baran3608sa</cluster>
+		<journal>Proceedings of WADS</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>International Workshop on Applied Parallel Computing, Industrial Computation and Optimization</title>
+	</info>
+	<entity>
+		<cluster>cleary1996ped</cluster>
+		<journal>Proceedings of the Third International Workshop on Applied Parallel Computing, Industrial Computation and Optimization</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>TIP</acronym>
+		<title>IEEE Transactions on Image Processing</title>
+	</info>
+	<entity>
+		<cluster>girod1994isi</cluster>
+		<journal>IEEE Transactions on Image Processing</journal>
+	</entity>
+	<entity>
+		<cluster>lee1998opo</cluster>
+		<journal>TEEE Transactions on Image Processing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICCT</acronym>
+		<title>International Conference on Communication Technology</title>
+	</info>
+	<entity>
+		<cluster>liu2006gmp</cluster>
+		<journal>Communication Technology, 2006. ICCT'06. International Conference on</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>European Workshop on Process in Distributed Operating Systems and Distributed Systems Management</title>
+	</info>
+	<entity>
+		<cluster>saltzer1989sup</cluster>
+		<journal>Proceedings of the European Workshop on Process in Distributed Operating Systems and Distributed Systems Management</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Web Semantics</title>
+	</info>
+	<entity>
+		<cluster>fikes2004oql</cluster>
+		<journal>Journal of Web Semantics</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>CVRMed</acronym>
+		<title>International Conference on Computer Vision, Virtual Reality and Robotics in Medicine</title>
+	</info>
+	<entity>
+		<cluster>grimson1995eav</cluster>
+		<journal>Proceedings of the First International Conference on Computer Vision, Virtual Reality and Robotics in Medicine</journal>
+	</entity>
+	<entity>
+		<cluster>tombropoulos1995tpi</cluster>
+		<journal>CVRMed</journal>
+	</entity>
+	<entity>
+		<cluster>gibson1997sak</cluster>
+		<journal>Proceedings of the First Joint Conference CVRMed-MRCAS</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>The VLDB Journal</title>
+	</info>
+	<entity>
+		<cluster>whang1994dmd</cluster>
+		<journal>The VLDB Journal The International Journal on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>yang2001chp</cluster>
+		<journal>The VLDB Journal</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>The USA Japan Computer Conference</title>
+	</info>
+	<entity>
+		<cluster>wiederhold1978msi</cluster>
+		<journal>third usa-japan computer conference proceedings</journal>
+	</entity>
+	<entity>
+		<cluster>hyafil1975bsu</cluster>
+		<journal>proceedings 2nd usa-japan computer conference </journal>
+	</entity>
+	<entity>
+		<cluster>guibas1975hte</cluster>
+		<journal>proceedings of the 2-ndus-japan computer conference</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>MLICS</acronym>
+		<title>USENIX Symposium on Mobile and Location Independent Computing</title>
+	</info>
+	<entity>
+		<cluster>keeton1993pco</cluster>
+		<journal>Proceedings of the USENIX Mobile and Location-Independent Computing Symposium</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Computer Communications</title>
+	</info>
+	<entity>
+		<cluster>wang21sco</cluster>
+		<journal>Computer Communications Journal</journal>
+	</entity>
+	<entity>
+		<cluster>cao2001iwc</cluster>
+		<journal>Computer Communications</journal>
+	</entity>
+	<entity>
+		<cluster>investigator4rs</cluster>
+		<journal>Computer/Communications</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>FM</acronym>
+		<title>World Congress on Formal Methods</title>
+	</info>
+	<entity>
+		<cluster>lincoln1ppt</cluster>
+		<journal>Formal Methods World Congress</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ISMIS</acronym>
+		<title>ACM SIGART International Symposium on Methodologies for Intelligent Systems</title>
+	</info>
+	<entity>
+		<cluster>doyle1991lrd</cluster>
+		<journal>Proceedings of the 6th International Symposium on Methodologies for Intelligent Systems</journal>
+	</entity>
+	<entity>
+		<cluster>doyle6lrd</cluster>
+		<journal>Methodologies for Intelligent Systems</journal>
+	</entity>
+	<entity>
+		<cluster>maluf2000lct</cluster>
+		<journal>Proceedings of the 12th International Symposium on Foundations of Intelligent Systems</journal>
+	</entity>
+	<entity>
+		<cluster>schmidt1999srl</cluster>
+		<journal>Proceedings of the 11th International Symposium on Foundations of Intelligent Systems</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>Annual Allerton Conference on Communication, Control and Computing</title>
+	</info>
+	<entity>
+		<cluster>mckeown1997moq</cluster>
+		<journal>Proc. 35th Annual Allerton Conf. on Communications, Control and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>iyer2002msm</cluster>
+		<journal>Proc. of the 40thth Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>isabelle1996rme</cluster>
+		<journal>proceedings of the allerton conference on communications, control, and signal processing</journal>
+	</entity>
+	<entity>
+		<cluster>zheng:odm</cluster>
+		<journal>proceedings allerton conference communications</journal>
+	</entity>
+	<entity>
+		<cluster>ray2005faw</cluster>
+		<journal>43 rdallerton conference on comunication, control and computing</journal>
+	</entity>
+	<entity>
+		<cluster>mitzenmacher2001bhl</cluster>
+		<journal>Allerton Comm. Control Comput</journal>
+	</entity>
+	<entity>
+		<cluster>keslassy2001asa</cluster>
+		<journal>Proceedings of the 39th Annual Allerton Conference on Communication, Control and Computer</journal>
+	</entity>
+	<entity>
+		<cluster>luby2002vcs</cluster>
+		<journal>Proc. 40th Annu. Allerton Conf. Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>sharma2002psc</cluster>
+		<journal>Proceedings of the 40th Annual Allerton Conference on Communication, Control and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>pan2001pdm</cluster>
+		<journal>Proc. of 38th Annual Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>nair2001rrl</cluster>
+		<journal>Proceedings of the 39th Annual Allerton Conference on Communication, Control and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>giaccone2003ecw</cluster>
+		<journal>PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND COMPUTING</journal>
+	</entity>
+	<entity>
+		<cluster>ho2003rnc</cluster>
+		<journal>Proceedings of 41st Annual Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>katti2005ibo</cluster>
+		<journal>Proc. 43rd Annual Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>balakrishnan1997tih</cluster>
+		<journal>Proceedings of the 35th Annual Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>medard2000acp</cluster>
+		<journal>38th annual allerton conference on communication, control, and computing</journal>
+	</entity>
+	<entity>
+		<cluster>dana2003swb</cluster>
+		<journal>Proc. 41st Annual Allerton Conf. on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>jaggi:lnc</cluster>
+		<journal>42st Annual Allerton Conference on Communication Control and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>prabhakar1999csm</cluster>
+		<journal>proceedings of the allerton conference on communication, control, and computing</journal>
+	</entity>
+	<entity>
+		<cluster>cogill2004adp</cluster>
+		<journal>Proceedings of the Forty-Second Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>bertsekas1997dtr</cluster>
+		<journal>Proceedings of the 35th Allerton Conference on Communication, Control, and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>mitzenmacher1999ass</cluster>
+		<journal>Proceedings of the 1999 Allerton Conference on Communication, Control and Computing</journal>
+	</entity>
+	<entity>
+		<cluster>wainwright2003vig</cluster>
+		<journal>Proc. Allerton Conference on Communication, Control and Computing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ISSAC</acronym>
+		<title>Symposium on Symbolic and Algebraic Computation</title>
+	</info>
+	<entity>
+		<cluster>corless1997ssl</cluster>
+		<journal>Proceedings of the 1997 international symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>berman1994ocr</cluster>
+		<journal>Proceedings of the international symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>einwohner1995sti</cluster>
+		<journal>Proceedings of the 1995 international symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>fateman1996sms</cluster>
+		<journal>Proceedings of the 1996 international symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>fateman1991crl</cluster>
+		<journal>Proceedings of the 1991 international symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>fateman1990aat</cluster>
+		<journal>proceedings international symposium on symbolic and algebraic computation(acm/addison-wesley)</journal>
+	</entity>
+	<entity>
+		<cluster>fateman2003ccr</cluster>
+		<journal>Proceedings of the 2003 international symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>genesereth1979crs</cluster>
+		<journal>Proceedings of the International Symposiumon on Symbolic and Algebraic Computation</journal>
+	</entity>
+	<entity>
+		<cluster>moses1981acm</cluster>
+		<journal>Proceedings of the fourth ACM symposium on Symbolic and algebraic computation</journal>
+	</entity>
+	<entity>
+		<cluster>manocha1992mra</cluster>
+		<journal>International Conference on Symbolic and Algebraic Computation</journal>
+	</entity>
+	<entity>
+		<cluster>fateman1994adc</cluster>
+		<journal>Submitted to ISSAC</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>WRLA</acronym>
+		<title>International Workshop Rewriting Logic and its Applications</title>
+	</info>
+	<entity>
+		<cluster>thati2002esa</cluster>
+		<journal>proceedings 4th. international workshop on rewriting logic and its applications. entcs</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>SBCC</acronym>
+		<title>Symposium on Integrated Circuits and Systems Design</title>
+	</info>
+	<entity>
+		<cluster>tseng:eer</cluster>
+		<journal>Proc. of the 13th Symposium on Integrated Circuits and Systems Design</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ISCA</acronym>
+		<title>Annual International Symposium on Computer Architecture</title>
+	</info>
+	<entity>
+		<cluster>anant1995ama</cluster>
+		<journal>proceedings of the 22nd ieee/acm annual international symposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>nikhil1989c</cluster>
+		<journal>The 16th ACM Annual International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>scott2006bhr</cluster>
+		<journal>Proceedings of the 33rd International Symposium on Computer Architecture (ISCA'06)-Volume 00</journal>
+	</entity>
+	<entity>
+		<cluster>suh2005dai</cluster>
+		<journal>Proceedings of the 32nd Annual International Symposium on Computer Architecture (ISCA'05)-Volume 00</journal>
+	</entity>
+	<entity>
+		<cluster>chang1996ppu</cluster>
+		<journal>Proceedings of the 23rd annual international symposium on Computer architecture (ISCA'96)</journal>
+	</entity>
+	<entity>
+		<cluster>mitra1997dcu</cluster>
+		<journal>Proceedings of the 24th Annual International Symposium on Computer Architecture (ISCA'97)</journal>
+	</entity>
+	<entity>
+		<cluster>sorin2003mds</cluster>
+		<journal>International Symposium on Computer Architecture (ISCA)</journal>
+	</entity>
+	<entity>
+		<cluster>mcdonald2006asp</cluster>
+		<journal>Proceedings of the 33rd International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>wilson1997dhb</cluster>
+		<journal>Proceedings of the 24th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>nayfeh1996emm</cluster>
+		<journal>Pr oceedings of 23rd A nnualInternational Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>lam1992lcf</cluster>
+		<journal>Proceedings of the 19th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>rixner2000mas</cluster>
+		<journal>Proceedings of the 27th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>keckler1998efg</cluster>
+		<journal>Proceedings of the 25th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>rixner2000uma</cluster>
+		<journal>International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>dally1998jm</cluster>
+		<journal>ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal1995ama</cluster>
+		<journal>Proceedings of the 22nd annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal:apa</cluster>
+		<journal>Proceedings 17th Annual International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal1988eds</cluster>
+		<journal>proceedings of the 15th international symposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal1988ajh</cluster>
+		<journal>an evaluation of directory schemes for cache coherence. in proceedings of the 15th annual international symposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal1990apa</cluster>
+		<journal>hs proceedings of the 17th annual international symposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1983cmn</cluster>
+		<journal>Proceedings of the 10th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1988c</cluster>
+		<journal>Resource Requirements of Dataflow Program, In Proceedings of the 15th Annual International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>taylor:jmf</cluster>
+		<journal>Proceedings of the 31st annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>robert1983cmn</cluster>
+		<journal>10th International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>krashinsky:sce</cluster>
+		<journal>Workshop Complexity-Effective Design, 27th Int. Symp. Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>kung1986mrb</cluster>
+		<journal>Proceedings of the 13th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>borkar:isa</cluster>
+		<journal>Conference Proceedings of the 17th Annual International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>borkar1990textordfemininesa</cluster>
+		<journal>Proc. 17th Ann. Int'l Symp. Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>annaratone1985mms</cluster>
+		<journal>proceedings of the 13 international symposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>horowitz1996imo</cluster>
+		<journal>Proceedings of the 23rd annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>smith1985cea</cluster>
+		<journal>Proceedings of the 12th annual international symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>chang2005emf</cluster>
+		<journal>Manuscript submitted to International Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>minh2007eht</cluster>
+		<journal>Proceedings of the 34th annual international conference on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>cheriton:sc</cluster>
+		<journal>Proceedings of the 13th Annual Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>agarwal1986ntc</cluster>
+		<journal>proceedings of the 13th internationalsymposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1981mpd</cluster>
+		<journal>Proceedings of the 8th annual symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>dennis1980bbd</cluster>
+		<journal>Proceedings of the 7th annual symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>borkar1990aws</cluster>
+		<journal>Proceedings of 17th Intl'Symposium on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>young1995cas</cluster>
+		<journal>symposium on computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>smith1978eba</cluster>
+		<journal>Proceedings of the 5th annual symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>patterson1979dcv</cluster>
+		<journal>Proceedings of the 6th annual symposium on Computer architecture</journal>
+	</entity>
+	<entity>
+		<cluster>ditzel80rhl</cluster>
+		<journal>Proc. 7th Annual Symposium on Computer Architecture, IEEE and ACM (lay 80)</journal>
+	</entity>
+	<entity>
+		<cluster>dally1998rjm</cluster>
+		<journal>International Conference on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>cao1993tpr</cluster>
+		<journal>isca conference</journal>
+	</entity>
+	<entity>
+		<cluster>girod2005cor</cluster>
+		<journal>ISCAS-2005, Kobe, Japan, May</journal>
+	</entity>
+	<entity>
+		<cluster>konduri1999ees</cluster>
+		<journal>Circuits and Systems, 1999. ISCAS'99. Proceedings of the 1999 IEEE International Symposium on</journal>
+	</entity>
+	<entity>
+		<cluster>shen1999crf</cluster>
+		<journal>Proc. ISCA</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1981dfl</cluster>
+		<journal>ISCA</journal>
+	</entity>
+	<entity>
+		<cluster>fisher1983mld</cluster>
+		<journal>Proc. 10th Syrup. on Computer Architecture</journal>
+	</entity>
+	<entity>
+		<cluster>fisher10sil</cluster>
+		<journal>proceedings of the 10 tb annual ieee/acm sympmium on computer architecture</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Systems Integration</title>
+	</info>
+	<entity>
+		<cluster>quass1997qsh</cluster>
+		<journal>Journal of Systems Integration</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>AMIA</acronym>
+		<title>American Medical Informatics Association Fall Symposium</title>
+	</info>
+	<entity>
+		<cluster>hahn1999rda</cluster>
+		<journal>proceedings, american medical informatics association fall symposium</journal>
+	</entity>
+	<entity>
+		<cluster>oconnor2000rti</cluster>
+		<journal>Proc AMIA Symp</journal>
+	</entity>
+	<entity>
+		<cluster>musen1998mai</cluster>
+		<journal>1998 amia annual symposium</journal>
+	</entity>
+	<entity>
+		<cluster>noy2003pos</cluster>
+		<journal>AMIA Annu Symp Proc</journal>
+	</entity>
+	<entity>
+		<cluster>wang1998sea</cluster>
+		<journal>Proc AMIA Annu Fall Symp</journal>
+	</entity>
+	<entity>
+		<cluster>nguyen1997tdm</cluster>
+		<journal>Proceedings of the 1997 AMIA Annual Fall Symposium (formerly the Symposium on Computer Applications in Medical Care)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>APEC</acronym>
+		<title>Applied Power Electronics Conference and Exposition</title>
+	</info>
+	<entity>
+		<cluster>xu2007pes</cluster>
+		<journal>applied power electronics conference</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>SIGMETRICS</acronym>
+		<title>ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems</title>
+	</info>
+	<entity>
+		<cluster>fan1999wpb</cluster>
+		<journal>Proceedings of the 1999 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>kimbrel1996ipp</cluster>
+		<journal>Proceedings of the 1996 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>zhang2003iil</cluster>
+		<journal>Proceedings of the 2003 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>bhargava2001uam</cluster>
+		<journal>Proceedings of the 2001 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>ofelt2000epp</cluster>
+		<journal>Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>balakrishnan1997asw</cluster>
+		<journal>Proceedings of the 1997 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>shih2002etc</cluster>
+		<journal>Proceedings of the 2002 ACM SIGMETRICS international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>kimbrel1996fak</cluster>
+		<journal>proceedings of the acm international conference on measurement and modeling of computer systems (sigmetrics'96)</journal>
+	</entity>
+	<entity>
+		<cluster>wang1998mao</cluster>
+		<journal>proceedings of acm international conference on measurement and modeling of computer systems (sigmetrics 98)</journal>
+	</entity>
+	<entity>
+		<cluster>arpaci1995ipa</cluster>
+		<journal>Proc. of ACM SIGMETRICS/Performance Joint International Conference on Measurement and Modeling of Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>rosenblum:efa</cluster>
+		<journal>Proceedings of ACM SIGMETRICS Conference on Measurement and Modeling of Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>chapin1995upc</cluster>
+		<journal>1995 ACM Sigmetrics Conference on Measurement and Modeling of Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>nussbaum1990mcs</cluster>
+		<journal>Proceedings of the 1990 ACM SIGMETRICS conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>morris1993ass</cluster>
+		<journal>Proceedings of the 1993 ACM SIGMETRICS conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>drapeau1994twc</cluster>
+		<journal>1994 ACM SIGMETRICS Conference on Measurement and Modeling of Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>katz1991pda</cluster>
+		<journal>Proceedingsof the 1991 ACM SIGMETRICS Conference on Measurement and Modeling of Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>shenker1987scb</cluster>
+		<journal>Proceedings of the 1987 ACM SIGMETRICS conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>chapin1995msp</cluster>
+		<journal>Proceedings of the 1995 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>barve98mao</cluster>
+		<journal>O throughput of multiple disks on a bus. In Joint International Conference on Measurement and Modeling of Computer Systems (Sigmetrics' 98/Performance'98)</journal>
+	</entity>
+	<entity>
+		<cluster>barve1998mao</cluster>
+		<journal>Proceedings of the 1998 ACM SIGMETRICS joint international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>modiano2006mtw</cluster>
+		<journal>Proceedings of the joint international conference on Measurement and modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>gribble98ssf</cluster>
+		<journal>SIGMETRICS 98/PERFORMANCE'98, Joint International Conference on Measurement and Modeling of Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>balakrishnan1997aas</cluster>
+		<journal>proceedings of can sigmetrics conference on measurement & modeling of computer systems</journal>
+	</entity>
+	<entity>
+		<cluster>fan1999pal</cluster>
+		<journal>ACM Sigmetrics</journal>
+	</entity>
+	<entity>
+		<cluster>feamster2003mei</cluster>
+		<journal>Proc. ACM SIGMETRICS</journal>
+	</entity>
+	<entity>
+		<cluster>dahlin1994qas</cluster>
+		<journal>Proc. SIGMETRICS</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>International Workshop on SCI based High Performance Low Cost Computing</title>
+	</info>
+	<entity>
+		<cluster>stern1995vsc</cluster>
+		<journal>2nd International Workshop on SCI-based High-Performance Low-Cost Computing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>PINS</acronym>
+		<title>ACM SIGCOMM Workshop on Practice and Theory of Incentives in Networked Systems</title>
+	</info>
+	<entity>
+		<cluster>shneidman2004fia</cluster>
+		<journal>Proceedings of the ACM SIGCOMM workshop on Practice and theory of incentives in networked systems</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Chinese Information Processing</title>
+	</info>
+	<entity>
+		<cluster>qinghu2003ndm</cluster>
+		<journal>Journal of Chinese Information Processing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>AAAI Spring Symposium on New Directions in Question Answering</title>
+	</info>
+	<entity>
+		<cluster>katz2003aqm</cluster>
+		<journal>Proceedings of 2003 AAAI Spring Symposium on New Directions in Question Answering</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>COLT</acronym>
+		<title>Annual ACM Conference on Computational Learning Theory</title>
+	</info>
+	<entity>
+		<cluster>ergun1995lbw</cluster>
+		<journal>Proceedings of the Eighth Annual ACM Conference on Computational Learning Theory</journal>
+	</entity>
+	<entity>
+		<cluster>baum1995ga</cluster>
+		<journal>Proceedings of the eighth annual conference on Computational learning theory</journal>
+	</entity>
+	<entity>
+		<cluster>papadimitriou2002li</cluster>
+		<journal>Proceedings of the 15th Annual Conference on Computational Learning Theory</journal>
+	</entity>
+	<entity>
+		<cluster>bartlett2002lra</cluster>
+		<journal>Proc. Annual Conf. Computational Learning Theory</journal>
+	</entity>
+	<entity>
+		<cluster>bartlett3120plc</cluster>
+		<journal>Proceedings of the 17th Annual Conference on Computational Learning Theory (COLT2004</journal>
+	</entity>
+	<entity>
+		<cluster>tewari2005cmc</cluster>
+		<journal>Proc. 18th International Conference on Computational Learning Theory</journal>
+	</entity>
+	<entity>
+		<cluster>collins2003mlm</cluster>
+		<journal>Tutorial presented at COLT</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>IPCO</acronym>
+		<title>Annual Conference on Integer Programming and Combinatorial Optimization</title>
+	</info>
+	<entity>
+		<cluster>magnanti2004sco</cluster>
+		<journal>The Tenth Annual Conference in Integer Programming and Combinatorial Optimization</journal>
+	</entity>
+	<entity>
+		<cluster>tseng1996erm</cluster>
+		<journal>Proceedings of the 5th International IPCO Conference on Integer Programming and Combinatorial Optimization</journal>
+	</entity>
+	<entity>
+		<cluster>hosten1995gig</cluster>
+		<journal>proceedings ipco iv (copenhagen)</journal>
+	</entity>
+	<entity>
+		<cluster>feigenbaum2004iai</cluster>
+		<journal>tutorial at 2004 conference on integer programming and combinatorial optimization</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>International Journal of Game Theory</title>
+	</info>
+	<entity>
+		<cluster>koller1996fms</cluster>
+		<journal>International Journal of Game Theory</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Artificial Intelligence Review</title>
+	</info>
+	<entity>
+		<cluster>langley1997lap</cluster>
+		<journal>Artificial Intelligence Review</journal>
+	</entity>
+	<entity>
+		<cluster>feldman1996rvy</cluster>
+		<journal>AI Review</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>IWSNHC3DI</acronym>
+		<title>International Workshop on Synthetic Natural Hybrid Coding and Three Dimensional Imaging</title>
+	</info>
+	<entity>
+		<cluster>magnor1999abb</cluster>
+		<journal>Proc. 3rd International Workshop on Synthetic and Natural Hybrid Coding and Three-Dimensional Imaging</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>International Journal of Imaging Systems and Technology</title>
+	</info>
+	<entity>
+		<cluster>epstein1994ipv</cluster>
+		<journal>INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>AI Magazine</title>
+	</info>
+	<entity>
+		<cluster>karlgren2002ass</cluster>
+		<journal>AI Magazine</journal>
+	</entity>
+	<entity>
+		<cluster>nii1989sst</cluster>
+		<journal>Readings from the AI magazine table of contents</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>SSST</acronym>
+		<title>Southeastern Symposium on System Theory</title>
+	</info>
+	<entity>
+		<cluster>chelberg2001ous</cluster>
+		<journal>The 33rd Southeastern Symposium on System Theory</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>IPTPS</acronym>
+		<title>International Workshop on Peer To Peer Systems</title>
+	</info>
+	<entity>
+		<cluster>maymounkov2002kpp</cluster>
+		<journal>Proceedings of the 1st International Workshop on Peer-to-Peer Systems (IPTPS'02)</journal>
+	</entity>
+	<entity>
+		<cluster>freedman2003sha</cluster>
+		<journal>Proc. of IPTPS</journal>
+	</entity>
+	<entity>
+		<cluster>zhang2005bdt</cluster>
+		<journal>Proceedings of the 4th International Workshop on Peer-To-Peer Systems (IPTPS'05)</journal>
+	</entity>
+	<entity>
+		<cluster>liskov2005rrh</cluster>
+		<journal>proceedings of iptps05</journal>
+	</entity>
+	<entity>
+		<cluster>kaashoek2003ksd</cluster>
+		<journal>Proceedings of the 2nd International Workshop on Peer-to-Peer Systems (IPTPS'03)</journal>
+	</entity>
+	<entity>
+		<cluster>karger2003ksd</cluster>
+		<journal>proceedings 2nd iptps</journal>
+	</entity>
+	<entity>
+		<cluster>li2004drt</cluster>
+		<journal>Proc. of the 3rd IPTPS</journal>
+	</entity>
+	<entity>
+		<cluster>sit:scp</cluster>
+		<journal>Proc. 1st International Workshop on Peer-to-Peer Systems (IPTPS)</journal>
+	</entity>
+	<entity>
+		<cluster>stribling2007dtg</cluster>
+		<journal>International Workshop on Peer-to-Peer Systems (IPTPS 2007)</journal>
+	</entity>
+	<entity>
+		<cluster>loo2004chp</cluster>
+		<journal>Proceedings of the 3rd IPTPS</journal>
+	</entity>
+	<entity>
+		<cluster>surana2003lbs</cluster>
+		<journal>i> proceedings second international workshop peer-to-peer systems (iptps)</journal>
+	</entity>
+	<entity>
+		<cluster>scott2002cqd</cluster>
+		<journal>Electronic Proceedings for the 1st International Workshop on Peer-to-Peer Systems (IPTPS'02)</journal>
+	</entity>
+	<entity>
+		<cluster>chun:ins</cluster>
+		<journal>Proceedings of 4th International Workshop on Peer-to-Peer Systems (IPTPS)</journal>
+	</entity>
+	<entity>
+		<cluster>harren2002is?</cluster>
+		<journal>proceedings of the1st international workshop on peer-to-peer systems (iptps'02)</journal>
+	</entity>
+	<entity>
+		<cluster>zheng2006dst</cluster>
+		<journal>Proc. of IPTPS'06</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>ANALCO</acronym>
+		<title>Workshop on Analytic Algorithms and Combinatorics</title>
+	</info>
+	<entity>
+		<cluster>boyd2005mtr</cluster>
+		<journal>SIAM ANALCO</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICICS</acronym>
+		<title>International Conference on Information and Communications Security</title>
+	</info>
+	<entity>
+		<cluster>kelsey:rkc</cluster>
+		<journal>Information and Communications Security, First International Conference Proceedings</journal>
+	</entity>
+	<entity>
+		<cluster>kelsey1997rkc</cluster>
+		<journal>proceedings of the 1997 international conference on information and communications security</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICEP</acronym>
+		<title>International Conference on Electronics Packaging</title>
+	</info>
+	<entity>
+		<cluster>parthasarathi1995ltp</cluster>
+		<journal>INTERNATIONAL ELECTRONICS PACKAGING CONFERENCE</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>IEEE Spectrum Magazine</title>
+	</info>
+	<entity>
+		<cluster>barrett2004jvt</cluster>
+		<journal>IEEE Spectrum</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>International Journal of Information Security</title>
+	</info>
+	<entity>
+		<cluster>li2006uss</cluster>
+		<journal>International Journal of Information Security</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Computers and Biomedical Research</title>
+	</info>
+	<entity>
+		<cluster>musen1992dks</cluster>
+		<journal>Computers and Biomedical Research</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>USITS</acronym>
+		<title>USENIX Symposium on Internet Technologies and Systems</title>
+	</info>
+	<entity>
+		<cluster>cao1997pca</cluster>
+		<journal>USENIX Symposium on Internet Technologies and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>cao:caw</cluster>
+		<journal>Usenix Symposium on Internet Technologies and Systems (USITS)</journal>
+	</entity>
+	<entity>
+		<cluster>salz2003tte</cluster>
+		<journal>Proc. of the Fourth USENIX Symposium on Internet Technologies and Systems (USITS)</journal>
+	</entity>
+	<entity>
+		<cluster>gribble1999mea</cluster>
+		<journal>Second USENIX Symposium on Internet Technologies and Systems (USITS 99)</journal>
+	</entity>
+	<entity>
+		<cluster>chen1999ccs</cluster>
+		<journal>Proceedings of the 2nd USENIX Symposium on Internet Technologies and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>cao:sic</cluster>
+		<journal>1st USENIX Symp. on Internet Tech. and Sys.(USITS)</journal>
+	</entity>
+	<entity>
+		<cluster>cao1997cap</cluster>
+		<journal>Proceedings of the 1997 USENIX Symposium on Internet Technology and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>welsh2003aoc</cluster>
+		<journal>Proceedings of the 4th USENIX Conference on Internet Technologies and Systems</journal>
+	</entity>
+	<entity>
+		<cluster>oppenheimer3isf</cluster>
+		<journal>Proceedings of 4th Usenix Symposium on Internet Technolo gies and Systems (USITS'03)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>PACT</acronym>
+		<title>International Conference on Parallel Architectures and Compilation Techniques</title>
+	</info>
+	<entity>
+		<cluster>dennis1998gpc</cluster>
+		<journal>Proceedings of the 1998 International Conference on Parallel Architectures and Compiling Techniques</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1999fas</cluster>
+		<journal>proceedings pact99-int. conference on parallel architectures and compilation techniques</journal>
+	</entity>
+	<entity>
+		<cluster>manovit2006tit</cluster>
+		<journal>Proceedings of the 15th international conference on Parallel architectures and compilation techniques</journal>
+	</entity>
+	<entity>
+		<cluster>amarasinghe:ala</cluster>
+		<journal>Tutorial at the 12th Annual International Conference on Parallel Architectures and Compilation Techniques</journal>
+	</entity>
+	<entity>
+		<cluster>smith2000doo</cluster>
+		<journal>keynote speech. 2000 international conference on parallel architectures and compilation techniques (pact'00) philadelphia</journal>
+	</entity>
+	<entity>
+		<cluster>patterson2002scg</cluster>
+		<journal>Proceedings of the 2002 International Conference on Parallel Architectures and Compilation Techniques</journal>
+	</entity>
+	<entity>
+		<cluster>shaw96pts</cluster>
+		<journal>Proceedings of PACT</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Number Theory</title>
+	</info>
+	<entity>
+		<cluster>rabin1980pat</cluster>
+		<journal>J. Number Theory</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICC</acronym>
+		<title>IEEE International Conference on Communications</title>
+	</info>
+	<entity>
+		<cluster>chan1999csd</cluster>
+		<journal>IEEE International Conference on Communications</journal>
+	</entity>
+	<entity>
+		<cluster>girod1984rns</cluster>
+		<journal>ICC (2)</journal>
+	</entity>
+	<entity>
+		<cluster>brazio84trt</cluster>
+		<journal>Proc. ICC'84</journal>
+	</entity>
+	<entity>
+		<cluster>medepalli2006occ</cluster>
+		<journal>Communications, 2006. ICC'06. IEEE International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>medard:ctv</cluster>
+		<journal>Proc. ICC</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>EURASIP Journal on Applied Signal Processing</title>
+	</info>
+	<entity>
+		<cluster>rebollomonedero2006hrq</cluster>
+		<journal>EURASIP-Journal on Applied Signal Processing (Special Issue on Distributed Source Coding)</journal>
+	</entity>
+	<entity>
+		<cluster>liu2003cnp</cluster>
+		<journal>EURASIP Journal on Applied Signal Processing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>OSA</acronym>
+		<title>Journal of the Optical Society of America A</title>
+	</info>
+	<entity>
+		<cluster>deng2000fac</cluster>
+		<journal>Journal of the Optical Society of America A</journal>
+	</entity>
+	<entity>
+		<cluster>wengrovitz1987rcv</cluster>
+		<journal>Journal of the Optical Society of America A: Optics, Image Science, and Vision</journal>
+	</entity>
+	<entity>
+		<cluster>jamberdino1982pop</cluster>
+		<journal>J. Opt. Soc. Am</journal>
+	</entity>
+	<entity>
+		<cluster>kung1983smp</cluster>
+		<journal>Discrete Hartley transform, J. Opt SOC Amez</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ACL</acronym>
+		<title>Annual Meeting of the Association for Computational Linguistics</title>
+	</info>
+	<entity>
+		<cluster>klein2003aup</cluster>
+		<journal>Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>manning1993aal</cluster>
+		<journal>Proceedings of the 31st Annual Meeting of the Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>toutanova2000eks</cluster>
+		<journal>Proceedings of the 2000 Joint SIGDAT conference on Empirical methods in natural language processing and very large corpora: held in conjunction with the 38th Annual Meeting of the Association for Computational Linguistics-Volume 13</journal>
+	</entity>
+	<entity>
+		<cluster>klein2001ptg</cluster>
+		<journal>Proceedings of the 39th Annual Meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>levy2004ddc</cluster>
+		<journal>Proceedings of the 42nd Annual Meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>chambers:ctr</cluster>
+		<journal>Proceedings of the 45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions</journal>
+	</entity>
+	<entity>
+		<cluster>roy2000sdm</cluster>
+		<journal>Proceedings of the 38th Annual Meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins1996nsp</cluster>
+		<journal>Proceedings of the 34th Annual Meeting of the Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins2001nra</cluster>
+		<journal>Proceedings of the 40th Annual Meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins1997tg</cluster>
+		<journal>lexicalized models for statistical parsing," in proceedings of the 35th annual meeting of the association for computational linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins2005dsl</cluster>
+		<journal>Proceedings of the 43rd Annual Meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins:tgt</cluster>
+		<journal>Proceedings of th (35th Annual Meeting of the Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins:lra</cluster>
+		<journal>Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins2002nra</cluster>
+		<journal>Proceedings 40th Annual Meeting of the Association of Computational Linguistics (ACL'2002)</journal>
+	</entity>
+	<entity>
+		<cluster>eisenstein:cmf</cluster>
+		<journal>Proceedings of the 45th Annual Meeting of the Association of Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>niyogi1994mll</cluster>
+		<journal>Proceedings of the 32nd annual meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>zue1995sli</cluster>
+		<journal>the 33rd annual meeting of the association of computational linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>shieber1985ure</cluster>
+		<journal>Proceedings of the 23rd annual meeting on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>hearst32mse</cluster>
+		<journal>Proceedings of the 32 ndAnnual Meeting of the Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>weir1988ccg</cluster>
+		<journal>Proceedings of the 26th conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins1997tgl</cluster>
+		<journal>Proceedings of the 35th conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>collins1999spc</cluster>
+		<journal>Proceedings of the 37th conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>fong1985nap</cluster>
+		<journal>Proceedings of the 23rd conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>berwick1983sca</cluster>
+		<journal>Proceedings of the 21st conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>berwick1984bcp</cluster>
+		<journal>Proceedings of the 22nd conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>grosz1982tnl</cluster>
+		<journal>Proceedings of the 20th conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>wilensky1980pkb</cluster>
+		<journal>Proceedings of the 18th conference on Association for Computational Linguistics</journal>
+	</entity>
+	<entity>
+		<cluster>snow2006sti</cluster>
+		<journal>Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the ACL</journal>
+	</entity>
+	<entity>
+		<cluster>collins2004ipp</cluster>
+		<journal>Proc. ACL</journal>
+	</entity>
+	<entity>
+		<cluster>barzilay99meh</cluster>
+		<journal>Prvccedings of ACL'99</journal>
+	</entity>
+	<entity>
+		<cluster>berwick1985nap</cluster>
+		<journal>ACL</journal>
+	</entity>
+	<entity>
+		<cluster>shieber85_ur</cluster>
+		<journal>Proceedings of ACL-85</journal>
+	</entity>
+	<entity>
+		<cluster>nakov2005sal</cluster>
+		<journal>Proceedings of the ACL 2005 on Interactive poster and demonstration sessions</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>JCST</acronym>
+		<title>Journal of Computer Science and Technology</title>
+	</info>
+	<entity>
+		<cluster>li2006dcs</cluster>
+		<journal>Journal of Computer Science and Technology</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>WVLSI</acronym>
+		<title>IEEE Computer Society Workshop on VLSI</title>
+	</info>
+	<entity>
+		<cluster>seongmoo2001lsf</cluster>
+		<journal>Proceedings of the IEEE Computer Society Workshop on VLSI</journal>
+	</entity>
+	<entity>
+		<cluster>rex2000dvs</cluster>
+		<journal>proceedings of ieee computer society annual workshop on vlsi</journal>
+	</entity>
+	<entity>
+		<cluster>heo:lsf</cluster>
+		<journal>IEEE Workshop on VLSI</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>WABI</acronym>
+		<title>Workshop on Algorithms in Bioinformatics</title>
+	</info>
+	<entity>
+		<cluster>lotan2003eec</cluster>
+		<journal>Workshop on Algorithms for Bioinformatics (WABI)</journal>
+	</entity>
+	<entity>
+		<cluster>grate2002srf</cluster>
+		<journal>Workshop on Algorithms in Bioinformatics (WABI 2002)</journal>
+	</entity>
+	<entity>
+		<cluster>narayanan2004gls</cluster>
+		<journal>Proc. of the 4 thWorkshop on Algorithms in Bioinformatics (WABI)</journal>
+	</entity>
+	<entity>
+		<cluster>moran2005usd</cluster>
+		<journal>Proc. Fifth Int'l Workshop Algorithms in Bioinformatics (WABI)</journal>
+	</entity>
+	<entity>
+		<cluster>sundararajan2004caa</cluster>
+		<journal>Fourth Workshop on Algorithms in Bioinformatics</journal>
+	</entity>
+	<entity>
+		<cluster>barash2001shg</cluster>
+		<journal>Algorithms in Bioinformatics: Proc. First International Workshop</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>JCDCG</acronym>
+		<title>Japan Conference on Discrete and Computational Geometry</title>
+	</info>
+	<entity>
+		<cluster>demaine1763fac</cluster>
+		<journal>Revised Papers from the Japan Conference on Discrete and Computational Geometry</journal>
+	</entity>
+	<entity>
+		<cluster>demaine2000fau</cluster>
+		<journal>Paper, and Polyhedra, Revised Papers from the Japanese Conference on Discrete and Computational Geometry</journal>
+	</entity>
+	<entity>
+		<cluster>demaine2004gvu</cluster>
+		<journal>proceedings japan conference discrete comp. geom.</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>Spring Symposium on Artificial Intelligence in Medicine</title>
+	</info>
+	<entity>
+		<cluster>shahar:kbt</cluster>
+		<journal>Spring Symposium on Artificial Intelligence in Medicine</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>ACM SIGOIS Bulletin</title>
+	</info>
+	<entity>
+		<cluster>latombe1992mps</cluster>
+		<journal>ACM SIGOIS Bulletin</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Chinese Journal of Computers</title>
+	</info>
+	<entity>
+		<cluster>junfeng2005wsc</cluster>
+		<journal>Chinese Journal of Computers</journal>
+	</entity>
+	<entity>
+		<cluster>liu2006icr</cluster>
+		<journal>Jisuanji Xuebao(Chinese Journal of Computers)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>IASTED International Conference on Computer Graphics and Imaging</title>
+	</info>
+	<entity>
+		<cluster>chelberg2000vvd</cluster>
+		<journal>IASTED International Conference on Computer Graphics and Imaging</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>Workshop on Graph Reduction</title>
+	</info>
+	<entity>
+		<cluster>arvind:rak</cluster>
+		<journal>Proc. Workshop on Graph Reduction</journal>
+	</entity>
+	<entity>
+		<cluster>arvind:rsa</cluster>
+		<journal>Proceedings of the Workshop on Graph Reduction</journal>
+	</entity>
+	<entity>
+		<cluster>arvind:rap</cluster>
+		<journal>Proceedings of the Graph Reduction Workshop</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1987rap</cluster>
+		<journal>graph reduction: proceedings of a workshop, jh fasel and rm keller</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>RWS</acronym>
+		<title>IEEE Radio and Wireless Symposium</title>
+	</info>
+	<entity>
+		<cluster>huang2006aaa</cluster>
+		<journal>radio and wireless symposium</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICPR</acronym>
+		<title>International Conference on Pattern Recognition</title>
+	</info>
+	<entity>
+		<cluster>steinbach2000oru</cluster>
+		<journal>Proc. of Intl. Conf. on Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>sha2006mbf</cluster>
+		<journal>Proceedings of the 18th International Conference on Pattern Recognition (ICPR'06)-Volume 04</journal>
+	</entity>
+	<entity>
+		<cluster>chiu2006mip</cluster>
+		<journal>Proceedings of the 18th International Conference on Pattern Recognition (ICPR'06)-Volume 02</journal>
+	</entity>
+	<entity>
+		<cluster>morency2002stu</cluster>
+		<journal>Proceedings of International Conference on Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>darrell:mmq</cluster>
+		<journal>13th IEEE Intl. Conference on Pattern Recognition</journal>
+	</entity>
+	<entity>
+		<cluster>darrell96agi</cluster>
+		<journal>Proceedings of ICPR</journal>
+	</entity>
+	<entity>
+		<cluster>cox96rrt</cluster>
+		<journal>Proc. ICPR'96</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Queueing Systems</title>
+	</info>
+	<entity>
+		<cluster>bertsimas1999lda</cluster>
+		<journal>Queueing Systems</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>J.UCS</acronym>
+		<title>Journal of Universal Computer Science</title>
+	</info>
+	<entity>
+		<cluster>baar1999idt</cluster>
+		<journal>Journal of Universal Computer Science</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>LCR</acronym>
+		<title>Workshop on Languages, Compilers, and Run Time Systems for Scalable Computers</title>
+	</info>
+	<entity>
+		<cluster>welsh:ars</cluster>
+		<journal>LCR2000: Fifth Workshop on Languages, Compilers, and Run-time Systems for Scalable Computers</journal>
+	</entity>
+	<entity>
+		<cluster>welsh2000ar</cluster>
+		<journal>Scalable Cluster I/O in Java, Selected Papers from the 5th International Workshop on Languages, Compilers, and Run-Time Systems for Scalable Computers</journal>
+	</entity>
+	<entity>
+		<cluster>goldstein1995epc</cluster>
+		<journal>Third Workshop on Languages, Compilers, and Run-Time Systems for Scalable Computers</journal>
+	</entity>
+	<entity>
+		<cluster>wen1995rsp</cluster>
+		<journal>workshop on languages, compilers, and runtime systems for scalable computers</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>ACM SIGOA Conference on Office Information Systems</title>
+	</info>
+	<entity>
+		<cluster>fikes1982vod</cluster>
+		<journal>Proceedings of the SIGOA conference on Office information systems table of contents</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Beijing Institute of Technology</title>
+	</info>
+	<entity>
+		<cluster>hu2007dar</cluster>
+		<journal>Journal of Beijing Institute of Technology</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>IJFCS</acronym>
+		<title>International Journal of Foundations of Computer Science</title>
+	</info>
+	<entity>
+		<cluster>arvind1995hai</cluster>
+		<journal>International Journal of Foundations of Computer Science</journal>
+	</entity>
+	<entity>
+		<cluster>ullman:ava</cluster>
+		<journal>Foundations of Computer Science (Principles of Computer Science Series)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Computational and Applied Mathematics</title>
+	</info>
+	<entity>
+		<cluster>fischer1992guo</cluster>
+		<journal>Journal of Computational and Applied Mathematics</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>TECS</acronym>
+		<title>ACM Transactions on Embedded Computing Systems</title>
+	</info>
+	<entity>
+		<cluster>krishnaswamy2005dcb</cluster>
+		<journal>ACM Transactions on Embedded Computing Systems (TECS)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>IEEE Visualization Conference</title>
+	</info>
+	<entity>
+		<cluster>roman2004idm</cluster>
+		<journal>Proceedings of the conference on Visualization'04</journal>
+	</entity>
+	<entity>
+		<cluster>humphreys1999dgs</cluster>
+		<journal>Proceedings of the conference on Visualization'99: celebrating ten years</journal>
+	</entity>
+	<entity>
+		<cluster>kaba1992itr</cluster>
+		<journal>Proceedings of the 3rd conference on Visualization'92</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>AIAA Computers in Aerospace Conference</title>
+	</info>
+	<entity>
+		<cluster>groleau1993mmr</cluster>
+		<journal>aiaa computing in aerospace conference</journal>
+	</entity>
+	<entity>
+		<cluster>kung1985goc</cluster>
+		<journal>Proceedings of 1985 AIAA Computers in Aerospace V Conference, American Institute of Aeronautics and Astronautics</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ICRA</acronym>
+		<title>IEEE International Conference on Robotics and Automation</title>
+	</info>
+	<entity>
+		<cluster>fox1993evc</cluster>
+		<journal>Proceedings IEEE International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>li:lmp</cluster>
+		<journal>Proc. IEEE Int. Conf. on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>salisburyjr1987wtt</cluster>
+		<journal>Int. Conference of Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>khatib:oia</cluster>
+		<journal>International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>park2006ccc</cluster>
+		<journal>Proc. 2006 IEEE International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>turro2001emh</cluster>
+		<journal>Proceedings of the 2001 IEEE, International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>baker2004cam</cluster>
+		<journal>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</journal>
+	</entity>
+	<entity>
+		<cluster>kotay1998srr</cluster>
+		<journal>Proceedings of the 1998 International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>werfel2006dcm</cluster>
+		<journal>proceedings of 2006 ieee international conference on robotics and automation</journal>
+	</entity>
+	<entity>
+		<cluster>dunbabin2006dmo</cluster>
+		<journal>Proc. 2006 IEEE Intl. Conf. on Robotics and Automation (ICRA)</journal>
+	</entity>
+	<entity>
+		<cluster>smart2002erl</cluster>
+		<journal>Proceedings- IEEE International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>brooks1989rw</cluster>
+		<journal>Emergent Behaviors from a Carefully Evolved Network Proceedings of the 1989 IEEE international Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>odonnell1989dfa</cluster>
+		<journal>Proc. of the IEEE International Conference on Robotics & Automation (ICRA)</journal>
+	</entity>
+	<entity>
+		<cluster>tournassoud1987rra</cluster>
+		<journal>1987 ieee international conference on robotics and automation</journal>
+	</entity>
+	<entity>
+		<cluster>canny1993rpi</cluster>
+		<journal>proceedings of the international conference on robotics and automation. ieee</journal>
+	</entity>
+	<entity>
+		<cluster>bicchi1996mrm</cluster>
+		<journal>Lecture Notes, Workshop in 1996 IEEE International Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>thrun:sst</cluster>
+		<journal>Proc. IEEE Int. Conf. Robot. Automat</journal>
+	</entity>
+	<entity>
+		<cluster>brock1999hsn</cluster>
+		<journal>PROC IEEE INT CONF ROB AUTOM</journal>
+	</entity>
+	<entity>
+		<cluster>kavraki1994rpc</cluster>
+		<journal>Proceedings of IEEE Conference on Robotics and Automation</journal>
+	</entity>
+	<entity>
+		<cluster>nagatani1998tel</cluster>
+		<journal>proceedings of ieee international conference on robots and automation</journal>
+	</entity>
+	<entity>
+		<cluster>wilson1992qsm</cluster>
+		<journal>Proc. IEEE Int. Conf. on Rob. and Aut</journal>
+	</entity>
+	<entity>
+		<cluster>guthart2000itt</cluster>
+		<journal>IEEE ICRA, San Francisco, CA, April</journal>
+	</entity>
+	<entity>
+		<cluster>petrovskaya2006bea</cluster>
+		<journal>Robotics and Automation, 2006. ICRA 2006. Proceedings 2006 IEEE International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>brock1998emp</cluster>
+		<journal>Proc. ICRA</journal>
+	</entity>
+	<entity>
+		<cluster>park2004mcc</cluster>
+		<journal>Robotics and Automation, 2004. Proceedings. ICRA'04. 2004 IEEE International Conference on</journal>
+	</entity>
+	<entity>
+		<cluster>loos1999par</cluster>
+		<journal>ICRA</journal>
+	</entity>
+	<entity>
+		<cluster>biihringer1995smu</cluster>
+		<journal>Proc. of the IEEEInt. Conf on Robot. andAutomat.(ICRA)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>HPN</acronym>
+		<title>IFIP Conference on High Performance Networking</title>
+	</info>
+	<entity>
+		<cluster>steenkiste3ssj</cluster>
+		<journal>proceedings of the 4th ifip conference on high performance networks</journal>
+	</entity>
+	<entity>
+		<cluster>steenkiste1992hia</cluster>
+		<journal>Proceedings of the IFIP TC6/WG6. 4 Fourth International Conference on High Performance Networking IV</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>PLDI</acronym>
+		<title>ACM SIGPLAN Conference on Programming Language Design and Implementation</title>
+	</info>
+	<entity>
+		<cluster>aiken1998poc</cluster>
+		<journal>ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)</journal>
+	</entity>
+	<entity>
+		<cluster>liblit3dps</cluster>
+		<journal>Proceedings of PLDI'03</journal>
+	</entity>
+	<entity>
+		<cluster>engler1996vpv</cluster>
+		<journal>sigplan conference on programming language design and implementation (pldi'96)</journal>
+	</entity>
+	<entity>
+		<cluster>maydan91eae</cluster>
+		<journal>ACM Sigplan PLDI</journal>
+	</entity>
+	<entity>
+		<cluster>lam1991dlo</cluster>
+		<journal>Best of PLDI</journal>
+	</entity>
+	<entity>
+		<cluster>lam1999oss</cluster>
+		<journal>proceedings of the acm conference on programming language design and implementation (pldi)</journal>
+	</entity>
+	<entity>
+		<cluster>smith2002gcr</cluster>
+		<journal>Submitted to PLDI</journal>
+	</entity>
+	<entity>
+		<cluster>foster1999tqt</cluster>
+		<journal>Symposium on Programming Languages Design and Implementation. ACM Press</journal>
+	</entity>
+	<entity>
+		<cluster>maydan1991eme</cluster>
+		<journal>Proceedings of the 1991 Symposium on Programming Languages Design and Implementation</journal>
+	</entity>
+	<entity>
+		<cluster>liblit2005ssb</cluster>
+		<journal>Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>dillig2007sed</cluster>
+		<journal>Proceedings of the 2007 ACM SIGPLAN conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>carlstrom2006atp</cluster>
+		<journal>Proceedings of the 2006 ACM SIGPLAN conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>necula2000ccj</cluster>
+		<journal>proceedings of the 2000 acm sigplan. conference on programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>anderson1993gpa</cluster>
+		<journal>proceedings of programming languages design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>bohem1991mpg</cluster>
+		<journal>proceedings of the 1991 acm sigplan conference on programming languages design and implementations</journal>
+	</entity>
+	<entity>
+		<cluster>fahndrich1998poc</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>foster1999ttq</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>aiken1995bsm</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1995 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>liblit2003biv</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>gay2001lsr</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>kodumal2004scc</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 2004 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>engler1996vre</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>poletto1997tsf</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1997 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>maydan1991eae</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>tjiang1992stb</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>anderson1993gop</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>wolf91dlo</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 91 Conference on Programming Language Design and Implementation</journal>
+	</entity>
+	<entity>
+		<cluster>manoukian1997tsf</cluster>
+		<journal>the 1997 acm sigplam conference on programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>grossman2002rbm</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>ramsey2000sil</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation</journal>
+	</entity>
+	<entity>
+		<cluster>lee:ccj</cluster>
+		<journal>Proc. Conf. Programming Language Design and Implementationpp</journal>
+	</entity>
+	<entity>
+		<cluster>lee1998dai</cluster>
+		<journal>ACM Conference on Programming Language Design and Implementation</journal>
+	</entity>
+	<entity>
+		<cluster>necula1998jda</cluster>
+		<journal>Proc. Conf. on Programming Language Design and Implementation</journal>
+	</entity>
+	<entity>
+		<cluster>wagner1994ase</cluster>
+		<journal>Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>ISIT</acronym>
+		<title>IEEE International Symposium on Information Theory</title>
+	</info>
+	<entity>
+		<cluster>wiegand1998ecl</cluster>
+		<journal>proceedings of the international symposium on information theory</journal>
+	</entity>
+	<entity>
+		<cluster>zhang2005tmr</cluster>
+		<journal>Information Theory, 2005. ISIT 2005. Proceedings. International Symposium on</journal>
+	</entity>
+	<entity>
+		<cluster>ho2003bco</cluster>
+		<journal>IEEE International Symposium on Information Theory (ISIT)</journal>
+	</entity>
+	<entity>
+		<cluster>ho2003ncn</cluster>
+		<journal>Proceedings of the IEEE International Symposium on Information Theory</journal>
+	</entity>
+	<entity>
+		<cluster>moskaoyama2006idv</cluster>
+		<journal>Information Theory, 2006 IEEE International Symposium on</journal>
+	</entity>
+	<entity>
+		<cluster>laneman2004scd</cluster>
+		<journal>Information Theory, 2004. ISIT 2004. Proceedings. International Symposium on</journal>
+	</entity>
+	<entity>
+		<cluster>martinian2001adc</cluster>
+		<journal>Information Theory, 2001. Proceedings. 2001 IEEE International Symposium on</journal>
+	</entity>
+	<entity>
+		<cluster>chen2000qim</cluster>
+		<journal>ISIT: Proceedings IEEE International Symposium on Information Theory, sponsored by The Information Theory Society of The Institute of Electrical and Electronic Engineers</journal>
+	</entity>
+	<entity>
+		<cluster>zheng:daf</cluster>
+		<journal>Proc. IEEE Int. Symp. Information Theory (ISIT)</journal>
+	</entity>
+	<entity>
+		<cluster>tse2003dmt</cluster>
+		<journal>Information Theory, 2003. Proceedings. IEEE International Symposium on</journal>
+	</entity>
+	<entity>
+		<cluster>goyal1998mdt</cluster>
+		<journal>Proc. IEEE Int. Symp. Information Theory</journal>
+	</entity>
+	<entity>
+		<cluster>shah:umr</cluster>
+		<journal>Proc. Int. Symp. Information Theory</journal>
+	</entity>
+	<entity>
+		<cluster>lu2006phn</cluster>
+		<journal>Proc. of ISIT</journal>
+	</entity>
+	<entity>
+		<cluster>goyal:hrt</cluster>
+		<journal>Proc. IEEE Int. Symp. Inform. Theory</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Formal Methods in System Design</title>
+	</info>
+	<entity>
+		<cluster>norrisip:vsr</cluster>
+		<journal>Formal Methods in System Design. v14</journal>
+	</entity>
+	<entity>
+		<cluster>norrisip1996bvt</cluster>
+		<journal>Formal Methods in System Design</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<acronym>PADS</acronym>
+		<title>Workshop on Parallel and Distributed Simulation</title>
+	</info>
+	<entity>
+		<cluster>henkel1993rps</cluster>
+		<journal>proceedings 7 workshop parallel distrib simul.</journal>
+	</entity>
+	<entity>
+		<cluster>arvind1992hpd</cluster>
+		<journal>Proceedings of the Sixth Workshop on Parallel and Distributed Simulation</journal>
+	</entity>
+	<entity>
+		<cluster>karp2004dnd</cluster>
+		<journal>Workshop on Parallel and Distributed Simulation (PADS)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<title>International Conferences on Info-tech and Info-net</title>
+	</info>
+	<entity>
+		<cluster>shizhong2001afa</cluster>
+		<journal>Proceedings ofBeijing International Conferences on Info-tech and Info-net</journal>
+	</entity>
+	<entity>
+		<cluster>wenjiang2001afa</cluster>
+		<journal>Info-tech and Info-net, 2001. Proceedings. ICII 2001-Beijing. 2001 International Conferences on</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<title>Journal of Southwest Jiaotong University</title>
+	</info>
+	<entity>
+		<cluster>zhao2007idp</cluster>
+		<journal>Journal of Southwest Jiaotong University</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>J</pubType>
+		<acronym>JHSN</acronym>
+		<title>Journal of High Speed Networks</title>
+	</info>
+	<entity>
+		<cluster>noronhajr1995rms</cluster>
+		<journal>Journal of High Speed Networks</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>W</pubType>
+		<title>International Workshop on Scientific Computing</title>
+	</info>
+	<entity>
+		<cluster>golub1997trl</cluster>
+		<journal>workshop on scientific computing, eds. gh golub, sh lui, f. luk and r. plemmons</journal>
+	</entity>
+	<entity>
+		<cluster>gander1997crh</cluster>
+		<journal>Conference Proceeding of the Workshop on Scientific Computing</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>FGCS</acronym>
+		<title>International Symposium on Fifth Generation Computer Systems</title>
+	</info>
+	<entity>
+		<cluster>wiederhold1994ima</cluster>
+		<journal>proceedings of the international symposium on fifth generation computer systems (fgcsob94)</journal>
+	</entity>
+	<entity>
+		<cluster>wiederhold:ima</cluster>
+		<journal>Symposium on 5th Generation Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>dally1993upc</cluster>
+		<journal>Selected papers of international conference on Fifth generation computer systems 92 table of contents</journal>
+	</entity>
+	<entity>
+		<cluster>shoham1984dra</cluster>
+		<journal>Proc. of the Int. Conference of Fifth Generation Computer Systems</journal>
+	</entity>
+	<entity>
+		<cluster>isozaki:mrt</cluster>
+		<journal>Proceedings of the International Conference on Fifth Generation Computer Systems (FGCS)</journal>
+	</entity>
+</class>
+<class>
+	<info>
+		<pubType>C</pubType>
+		<acronym>VLDB</acronym>
+		<title>International Conference on Very Large Data Bases</title>
+	</info>
+	<entity>
+		<cluster>fox2002tro</cluster>
+		<journal>proceedings 28th international conference on very large data bases (vldb 2002)</journal>
+	</entity>
+	<entity>
+		<cluster>florescu:upi</cluster>
+		<journal>Proc. of the Int. Conf. on Very Large Data Bases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>gyongyi2004cws</cluster>
+		<journal>Proceedings of the 30th International Conference on Very Large Data Bases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>yan1995dri</cluster>
+		<journal>Proceedings of the 21st International Conference on Very Large Data Bases (VLDB'95)</journal>
+	</entity>
+	<entity>
+		<cluster>aggarwal2004epp</cluster>
+		<journal>Proceedings of the International Conference on Very Large Data Bases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>hulgeri2002pqo</cluster>
+		<journal>Proc. of 28th Intl. Conf. on Very Large Data Bases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>carney2msn</cluster>
+		<journal>proceedings of the 28th International Conference on Very Large Data Bases (VLDB'02)</journal>
+	</entity>
+	<entity>
+		<cluster>zdonik:msn</cluster>
+		<journal>Proceedings of the 28th International Conference on Very Large Data Bases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>hellerstein2003qip</cluster>
+		<journal>29th International Conference on Very Large Data Bases (VLDB'03)</journal>
+	</entity>
+	<entity>
+		<cluster>cho2000ewa</cluster>
+		<journal>Proceedings of the Twenty-sixth International Conference on Very Large Databases</journal>
+	</entity>
+	<entity>
+		<cluster>shivakumar1998fap</cluster>
+		<journal>Proceedings of the Twenty-fourth International Conference on Very Large Databases</journal>
+	</entity>
+	<entity>
+		<cluster>cho:ewa</cluster>
+		<journal>26th Intl. Conf. on Very Large Databases</journal>
+	</entity>
+	<entity>
+		<cluster>naughton1989art</cluster>
+		<journal>proceedings of the fifteenth international conference on very large databases (vldb)</journal>
+	</entity>
+	<entity>
+		<cluster>ceri2000pat</cluster>
+		<journal>Proc. 26th Int. Conf. on Very Large Databases</journal>
+	</entity>
+	<entity>
+		<cluster>arasu2004rsc</cluster>
+		<journal>Proceedings of the 30th International Conference on Very Large Databases (VLDB 2004)</journal>
+	</entity>
+	<entity>
+		<cluster>ceri1991pri</cluster>
+		<journal>proceedings of the international conference on very large databases</journal>
+	</entity>
+	<entity>
+		<cluster>banks1995hcl</cluster>
+		<journal>Proc. 21st Int'l Conference on Very Large Databases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>kung1978cdp</cluster>
+		<journal>proceedings 4th international conference on very large databases</journal>
+	</entity>
+	<entity>
+		<cluster>huebsch2003qip</cluster>
+		<journal>Proceedings of 19th International Conference on Very Large Databases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>heubsch2003qip</cluster>
+		<journal>Proceedings of the 29th International Conference on Very Large DataBases (Sept. 2003)</journal>
+	</entity>
+	<entity>
+		<cluster>qian1986kbi</cluster>
+		<journal>Proceedings of the 12th Int. Conf. on Very Large Data Bases Kyoto</journal>
+	</entity>
+	<entity>
+		<cluster>cha1991kdm</cluster>
+		<journal>17th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>whang1982pdn</cluster>
+		<journal>Proceedings of the Eigth International Conference on Very Large Data Bases table of contents</journal>
+	</entity>
+	<entity>
+		<cluster>spooner1986fsc</cluster>
+		<journal>Proceedings of the Twelfth International Conference on Very Large Data Bases table of contents</journal>
+	</entity>
+	<entity>
+		<cluster>deen2000vv</cluster>
+		<journal>Proceedings of the 26th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>seligman1995mah</cluster>
+		<journal>Proceedings of the 21th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>raghavan2001chw</cluster>
+		<journal>Proceedings of the 27th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>papakonstantinou1996ofm</cluster>
+		<journal>Proceedings of the 22th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>fang1998ciq</cluster>
+		<journal>Proceedings of the 24rd International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>gravano1997mrh</cluster>
+		<journal>Proceedings of the 23rd International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>garciamolina1998edw</cluster>
+		<journal>Proc. of the 1998 Intl. Conf. on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>labio2000pii</cluster>
+		<journal>Proc. 2000 Intl. Conf. Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>gyongyi2005lsa</cluster>
+		<journal>Proceedings of the 31st international conference on Very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>gyongyi2006lsd</cluster>
+		<journal>Proceedings of the 32nd international conference on Very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>garciamolina2004cws</cluster>
+		<journal>proceedings of the thirtieth international conference on very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>garciamolina2001chp</cluster>
+		<journal>27 thInternational Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>mchugh1999qox</cluster>
+		<journal>Proceedings of the 25th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>ceri1990dpr</cluster>
+		<journal>Proceedings of the 16th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>olston:opp</cluster>
+		<journal>Proceedings of the Twenty-Sixth International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>agrawal2006tsd</cluster>
+		<journal>Proceedings of the 32nd international conference on Very large data bases-Volume 32</journal>
+	</entity>
+	<entity>
+		<cluster>hasan1994oae</cluster>
+		<journal>Proceedings of the 20th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker1993tpd</cluster>
+		<journal>Proceedings of the 19th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker1982tsd</cluster>
+		<journal>proceedings of the 8th international conference on very large data bases (mexico city</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker1987pdm</cluster>
+		<journal>Thirteenth International Conference on Very Large Data Bases: 1987 13th VLDB</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker:dp</cluster>
+		<journal>Proceedings of the 13th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>joseph1995gst</cluster>
+		<journal>Proc 21st Int'l Conf on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>loo2004epf</cluster>
+		<journal>Proc. of the 30th International Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>chandrasekaran2002sqo</cluster>
+		<journal>Proc. 28th Intl. Conf. on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>franklin1992gmm</cluster>
+		<journal>Proceedings of the 18th International Conference on Very Large Data Bases table of contents</journal>
+	</entity>
+	<entity>
+		<cluster>diao2004tis</cluster>
+		<journal>Proc. of the Intl. Conf. on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>cooper2004hua</cluster>
+		<journal>proceedings the 30th international conference on very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>shenker2003dcr</cluster>
+		<journal>keynote speech, 29th international conference on very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>tygar:ava</cluster>
+		<journal>proceedings of the 24th annual international conference on very large data</journal>
+	</entity>
+	<entity>
+		<cluster>ganesan2004obr</cluster>
+		<journal>Proc. VLDB</journal>
+	</entity>
+	<entity>
+		<cluster>chang1997emu</cluster>
+		<journal>Proceedings of the 23rd VLDB Conference</journal>
+	</entity>
+	<entity>
+		<cluster>raghavan3cqo</cluster>
+		<journal>Very Large Data Bases (VLDB'03)</journal>
+	</entity>
+	<entity>
+		<cluster>aggarwal2004vpe</cluster>
+		<journal>Proceedings of VLDB 2004</journal>
+	</entity>
+	<entity>
+		<cluster>yan1995ddi</cluster>
+		<journal>proceedings of very large databases (vldb'95) conference</journal>
+	</entity>
+	<entity>
+		<cluster>chang2000aqt</cluster>
+		<journal>Proc. of the 26th VLDB Conference</journal>
+	</entity>
+	<entity>
+		<cluster>cho1998cdc</cluster>
+		<journal>Submitted to VLDB'99</journal>
+	</entity>
+	<entity>
+		<cluster>goldman1998sup</cluster>
+		<journal>proceedings of the 24 thvldb conference</journal>
+	</entity>
+	<entity>
+		<cluster>cho2000efc</cluster>
+		<journal>Submitted to VLDB 2000, Research track</journal>
+	</entity>
+	<entity>
+		<cluster>abiteboul2003sdc</cluster>
+		<journal>Proceedings of VLDB</journal>
+	</entity>
+	<entity>
+		<cluster>hasan1995cac</cluster>
+		<journal>Proceedings of the Conference on Very Large Data Bases (VLDB)</journal>
+	</entity>
+	<entity>
+		<cluster>arasu2004lrs</cluster>
+		<journal>VLDB Conference</journal>
+	</entity>
+	<entity>
+		<cluster>desai2004bps</cluster>
+		<journal>Proceedings of 30th VLDB Conference</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker1993drc</cluster>
+		<journal>Proc. of the 19th VLDB Conference</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker1987pss</cluster>
+		<journal>proceedings 1987 vldb conference</journal>
+	</entity>
+	<entity>
+		<cluster>tygar1998ava</cluster>
+		<journal>proceedings of the 24 thconference on very large databases (vldb'98)</journal>
+	</entity>
+	<entity>
+		<cluster>tygar98ava</cluster>
+		<journal>VLDB'98, Proceedings of 24rd International Conference on Very</journal>
+	</entity>
+	<entity>
+		<cluster>nick2003lbt</cluster>
+		<journal>proceedings of the 29th vldb conference</journal>
+	</entity>
+	<entity>
+		<cluster>chandrasekaran2004rsp</cluster>
+		<journal>30th VLDB, Sept</journal>
+	</entity>
+	<entity>
+		<cluster>dar1996mtd</cluster>
+		<journal>VLDB 1996</journal>
+	</entity>
+	<entity>
+		<cluster>franklin1992gbm</cluster>
+		<journal>proceeding of the 18th vldb conference rence</journal>
+	</entity>
+	<entity>
+		<cluster>abbot1988srt</cluster>
+		<journal>14th conference on very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>yannispapakonstantinou1994awo</cluster>
+		<journal>Proc. 20th Int'l. Conf. on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>golman21deq</cluster>
+		<journal>Proceedings of the Twenty-Third Internation Conference on Very Large Data Bases</journal>
+	</entity>
+	<entity>
+		<cluster>hellerstein:apg</cluster>
+		<journal>conference very large data bases</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker:odm</cluster>
+		<journal>Proceedings of the Third International Conference on Very Large</journal>
+	</entity>
+	<entity>
+		<cluster>wiederhold:kmu</cluster>
+		<journal>Proceedings of the Fifteenth International Conference on Very</journal>
+	</entity>
+	<entity>
+		<cluster>stonebraker1987dt</cluster>
+		<journal>international conferenceon very large databases</journal>
+	</entity>
+</class>
+

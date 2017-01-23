@@ -1,0 +1,1486 @@
+<publication-venues>
+   <pub-venue>
+      <id>0</id>
+      <idClass>10134</idClass>
+      <acronym>CACM</acronym>
+      <title>Communications of the ACM</title>
+      <string-reference>Communications of the ACM, v31 Feb</string-reference>
+      <string-reference>Association for Computing Machinery, Communications of the ACM</string-reference>
+      <string-reference>Communications of the ACM, New York: ACM Press</string-reference>
+      <string-reference>CACM</string-reference>
+      <string-reference>Commun. ACM</string-reference>
+      <string-reference>Operations Systems, Communications of the ACM, University of Waterloo</string-reference>
+      <string-reference>Communications for the Association of Computing Machinery</string-reference>
+      <string-reference>Comm. ACM</string-reference>
+      <string-reference>Communication of the ACM</string-reference>
+      <string-reference>Communications oftbe ACM</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>1</id>
+      <idClass>20179</idClass>
+      <acronym>IJCAI</acronym>
+      <title>International Joint Conference on Artificial Intelligence</title>
+      <string-reference>IJCAI-97, Proceedings of the Fifteenth International Joint</string-reference>
+      <string-reference>Proceedings of the 5th International Joint Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the 15th International Joint Conference on Artificial Intelligence (IJCAI-97)</string-reference>
+      <string-reference>of a panel session at the 1985 ijcai conference</string-reference>
+      <string-reference>15th international joint conference on art ciaal intelligence (ijcai-97)</string-reference>
+      <string-reference>International Joint Conference on Artificial Intelligence (IJCAI)</string-reference>
+      <string-reference>Proc. Fourteenth International Joint Conference on Artificial Intelligence (IJCAI'95)</string-reference>
+      <string-reference>Proceedings of the [First] International Joint Conference on Artificial Intelligence (IJCAI)</string-reference>
+      <string-reference>Eighteenth International Joint Conference on AI</string-reference>
+      <string-reference>Proceedings of the 8th International Joint Conference on Artificial Intelligence (IJCAI-83)</string-reference>
+      <string-reference>Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence (IJCAI-95)</string-reference>
+      <string-reference>Invited Talk, IJCAI-97, Nayoga, Japan</string-reference>
+      <string-reference>proceedings fifth international joint conference on artificial intelligenee</string-reference>
+      <string-reference>Intl. Joint Conf. on Artificial Intelligence</string-reference>
+      <string-reference>Proc. Thirteenth International Joint Conference on Artificial Intelligence (IJCAI'93)</string-reference>
+      <string-reference>proceedings of ijcai-03, 18th international joint conference on artificial intelligence</string-reference>
+      <string-reference>Proc. 13th Int. Joint Conf. Artificial Intell</string-reference>
+      <string-reference>InProceedingsofthe Sixteenth International Joint Conference on Artificial Intelligence (IJCAI)</string-reference>
+      <string-reference>Proceedings of the Sixteenth International Joint Conference on Artificial Intelligenct</string-reference>
+      <string-reference>Proceedings of IJCAI</string-reference>
+      <string-reference>Proc. of the 9th IJCAI</string-reference>
+      <string-reference>Proc. of the International Joint Conference on Artificial Intelligence (IJCAI)</string-reference>
+      <string-reference>Proceedings of the Sixteenth International Joint Conference on Artificial Intelligence (IJCAI-99)</string-reference>
+      <string-reference>Proceedings of IJCAI-89</string-reference>
+      <string-reference>Proceedings of the 19th International Joint Conference on Artificial Intelligence (IJCAI)</string-reference>
+      <string-reference>proceedings of 7th international joint confr. on artificial intelligence (ijcai)</string-reference>
+      <string-reference>International Joint Conference on Artificial Intelligence (IJCAI-03)</string-reference>
+      <string-reference>Proceedings of IJCAI'95</string-reference>
+      <string-reference>proceedings of ijcai 2005</string-reference>
+      <string-reference>Proceedings of the Twentieth International Joint Conference on Artificial Intelligence (IJCAI-07)</string-reference>
+      <string-reference>Proc IJCAI</string-reference>
+      <string-reference>Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'01)</string-reference>
+      <string-reference>IJCAI, Washington DC</string-reference>
+      <string-reference>Proceedings of the 16th International Joint Conference on Artificial Intelligence (IJCAI-99)</string-reference>
+      <string-reference>proceedings of 5th international joint conference on artificial intelligence (cambridge</string-reference>
+      <string-reference>IJCAI03, Acapulco, Mexico, August</string-reference>
+      <string-reference>proceedings of the thirteenth international joint conference on artificial intelligence (s. 13941399). san mateo</string-reference>
+      <string-reference>Proceedings 19th international joint conference on artificial intelligence (IJCAI'05)</string-reference>
+      <string-reference>Proceedings 10th International Joint Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proc. of the 2nd IJCAI</string-reference>
+      <string-reference>Proceedings of the 17th International Joint Conference on Artificial Intelligence (IJCAI-01)</string-reference>
+      <string-reference>proceedings of 8th ijcai</string-reference>
+      <string-reference>proceedings of ijcai-93, the thirteenth international joint conference on artificial intelligence</string-reference>
+      <string-reference>Proceedings of the Seventeenth International Joint Conference on Artificial Intelligence (IJCAI-2003)</string-reference>
+      <string-reference>Proceedings of 13th International Joint Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the Sixteenth International Joint Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proc. Fourteenth International Joint Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proc. 17th International Joint Conference on Artificial Intelligence (IJCAI-01)</string-reference>
+      <string-reference>Proceedings of the Seventeenth International Joint Conference on Artificial Intelligence (IJCAI-01)</string-reference>
+      <string-reference>Proc. of IJCAI'83</string-reference>
+      <string-reference>proceedings of the 19th ijcai</string-reference>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>2</id>
+      <idClass>20178</idClass>
+      <acronym>AAAI</acronym>
+      <title>National Conference on Artificial Intelligence</title>
+      <string-reference>Proceedings of the 21st National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>Proceedings of the twelfth national conference on Artificial intelligence (vol. 1) table of contents</string-reference>
+      <string-reference>Proceedings of AAAI-87, 6th Conference of the American Association for Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on Innovative Applications of Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the AAAI National Conference on Artificial Intelligence</string-reference>
+      <string-reference>proceedings of the twenty-first national conference on artificial intelligence (aaai 2006)</string-reference>
+      <string-reference>Proc. of Fourteenth American Association for Artificial Intelligence Conference (AAAI-97)</string-reference>
+      <string-reference>Proceedings of the 14th National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>Proceedings of the 13th National Conference on AI. American Association for Artificial Intelligence</string-reference>
+      <string-reference>Proc. of the 14th National Conf. on AI</string-reference>
+      <string-reference>Proc. National Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>Proc. of the 9th National Conf. on Artif. Intell</string-reference>
+      <string-reference>proceedings of the thirteenth national conference on artificial intelligence and the eighth innovative applications of artificial intelligence conference</string-reference>
+      <string-reference>Proc. of the National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>Proceedings, Fifteenth National Conference on Artificial Intelligence (AAAI'96)</string-reference>
+      <string-reference>Eighteenth National Conference on Artificial Intelligence (AAAI-2002)</string-reference>
+      <string-reference>AAAI-90 Proceedings. Eighth National Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the Twenty-First National Conference on Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the Seventeenth National Conference on Artificial Intelligence</string-reference>
+      <string-reference>proceedings of the 13th national conference on artificial intelligence</string-reference>
+      <string-reference>18th national conference on artificial intelligence</string-reference>
+      <string-reference>Proc. Conf. American Association for Artificial Intelligence</string-reference>
+      <string-reference>14 thNational Conference on Artificial Intelligence in Providence</string-reference>
+      <string-reference>20th National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>Proc. Sixth Nat. Conf. on Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the Conference of the American Association for Artificial Intelligence (AAAI-82). Morgan Freeman</string-reference>
+      <string-reference>Proceedings of the fifteenth national/tenth conference on Artificial intelligence/Innovative applications of artificial intelligence table of contents</string-reference>
+      <string-reference>Proceedings of the 17th National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>the 1996 13 th national conference on artificial intelligence</string-reference>
+      <string-reference>Proceedings of the Twenty-first National Conference on Artificial Intelligence (AAAI)</string-reference>
+      <string-reference>proceedings of the fifteenth national conference on artificial intelligence. menlo park</string-reference>
+      <string-reference>Proc. of the AAAI Fifteenth National Conference on Artificial Intelligence</string-reference>
+      <string-reference>proceedings of the 11th national conference on artificial intelligence aaai</string-reference>
+      <string-reference>Proceedings of the Nineteenth National Conference on Artificial Intelligence (AAAI-04)</string-reference>
+      <string-reference>Proceedings of the Thirteenth National Conference on Artificial Intelligence (AAAI-96)</string-reference>
+      <string-reference>Proceedings of the twelfth national conference on Artificial intelligence (vol. 2) table of contents</string-reference>
+      <string-reference>Working Notes, Reasoning about Function, 11th National Conference on Artificial Intelligence</string-reference>
+      <string-reference>proceedings of the first national annual conference on artificial intelligence american association for artificial intelligence</string-reference>
+      <string-reference>Proceedings of the Twentieth National Conference on Artificial Intelligence (AAAI-05)</string-reference>
+      <string-reference>Proceedings of the Seventeenth National Conference on Artificial Intelligence (AAAI-00)</string-reference>
+      <string-reference>The 1996 13 th National Conference on Artificial Intelligence. Part 2(of 2)</string-reference>
+      <string-reference>presidential address at the national conference on artificial intelligence (aaa1-84)</string-reference>
+      <string-reference>proceedings 14th nat. conference ai</string-reference>
+      <string-reference>proceedings 15th national conference on artificial intelligence (aaai'98)</string-reference>
+      <string-reference>Proc. 17th National Conference on AI</string-reference>
+      <string-reference>Proceedings of the 17th National Conference on Artificial Intelligence</string-reference>
+      <string-reference>National Conference on Artificial Intelligence (AAAI'05)</string-reference>
+      <string-reference>International Conference on AI</string-reference>
+      <string-reference>Proceedings of 15th National Conference on Artificial Intelligence (AAAI-98)</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>3</id>
+      <idClass>201</idClass>
+      <acronym>STOC</acronym>
+      <title>Annual ACM Symposium on Theory of Computing</title>
+      <string-reference>Proceedings of the 34th Annual ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>proceedings of the twentyeighth annual acm symposium on the theory of computing (philadelphia</string-reference>
+      <string-reference>proceedings of the twenty-fijth annual acm symposium on the theory of computing</string-reference>
+      <string-reference>Proceedings of the thirty-third annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>STOC slides</string-reference>
+      <string-reference>13th ACM STOC</string-reference>
+      <string-reference>Proceedings of the 29 thACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proc. 24th ACM Symp. on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the thirty-eighth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the twenty-eighth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>32nd STOC</string-reference>
+      <string-reference>19th ACM Symposium on the Theory of Computing</string-reference>
+      <string-reference>proceedings of the 20 thstoc</string-reference>
+      <string-reference>Proc. 5th Annual ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the thirty-fifth ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the thirty-ninth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proc. 11th ACM STOC</string-reference>
+      <string-reference>Proceedings of the 35th Annual ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the 24th ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the fifteenth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of STOC</string-reference>
+      <string-reference>Proceedings of the thiry-fourth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the 20th ACM Annual Symposium on the Theory of Computing</string-reference>
+      <string-reference>Proc. of 22nd STOC</string-reference>
+      <string-reference>Proceedings of the twenty-sixth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the 36th ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the twenty-fifth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the thirty-first annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>proceedings of the 25th acm symposium on theory of computing</string-reference>
+      <string-reference>Proceedings of the 13th Annual ACM-SIAM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the 5th ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proc. 27-thACM Symp. on Theory of Computing</string-reference>
+      <string-reference>ACM Symposium on the Theory of Computing</string-reference>
+      <string-reference>Proceedings of the 37th ACM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the Thirty-Second Annual A CM Symposium on Theory of Computing</string-reference>
+      <string-reference>Proc. 36th ACM Symp. on Theory of Computing</string-reference>
+      <string-reference>A preliminary version of this paper appeared in Proceedings of the ACM Symposium On Theory of Computing</string-reference>
+      <string-reference>to appear) proceedings of the thirty-second annual acm symposium on theory of computing</string-reference>
+      <string-reference>proceedings 20 thacm symposium theory of computing</string-reference>
+      <string-reference>Proceedings of the thirty-seventh annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>proceedings of the 28th annual acm symposium on theory of computing</string-reference>
+      <string-reference>Proceedings of the twenty-third annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the 14th Annual ACM Symposium on the Theory of Computing</string-reference>
+      <string-reference>proceedings of the 13th annual acm symposium on theory of computing</string-reference>
+      <string-reference>Proceedings of the twenty-seventh annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the 15th Annual ACM symposium on Theory of Computing (STOC'83)</string-reference>
+      <string-reference>in Proc. 31 stSymp. on Theory of Computing</string-reference>
+      <string-reference>Proceedings of the twenty-ninth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the thirtieth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>17th ACM symposium on theory of computing</string-reference>
+      <string-reference>Proceedings of the thirty-second annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Conference Proceedings of the Annual ACM Symposium on Theory of Computing. pp. 389-398. 2002</string-reference>
+      <string-reference>Proc. STOC</string-reference>
+      <string-reference>Proceedings of the thirty-fifth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>Proceedings of the thirty-sixth annual ACM symposium on Theory of computing</string-reference>
+      <string-reference>proceedings 13th symposium on the theory of computing</string-reference>
+      <string-reference>proceedings of the 22nd annual symposium on the theory of computing</string-reference>
+      <string-reference>30th ACM Symposium on Theory of Computing (STOC'98)</string-reference>
+      <string-reference>proceedings of the 20th stoc</string-reference>
+      <string-reference>Proceedings of the twenty-fourth annual ACM symposium on Theory of computing</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4</id>
+      <idClass>20930</idClass>
+      <acronym>NIPS</acronym>
+      <title>Advances in Neural Information Processing Systems</title>
+      <string-reference>Proc. NIPS</string-reference>
+      <string-reference>i> Neural Information Processing Systems,</string-reference>
+      <string-reference>Proceedings of the 1997 conference on Advances in neural information processing systems 10 table of contents</string-reference>
+      <string-reference>Advances in Neural Processing Information Systems</string-reference>
+      <string-reference>Advances in Neural Information Processing Systems (NIPS)</string-reference>
+      <string-reference>Proc. of Advances in Neural Information Processing Systems</string-reference>
+      <string-reference>Advances in Neural Information Processing Systems 5,[NIPS Conference] table of contents</string-reference>
+      <string-reference>Submitted to Advances in Neural Information Proceedings</string-reference>
+      <string-reference>Advances in Neural Information Processing Systems 16 (NIPS 2003)</string-reference>
+      <string-reference>Advances in Neural Information Processing Systems (NIPS 13)</string-reference>
+      <string-reference>Proceedings of NIPS</string-reference>
+      <string-reference>Advances in Neural Information Processing Systems-8</string-reference>
+      <string-reference>Proc. 18th Annual Conf. on Neural Information Processing Systems (NIPS'04)</string-reference>
+      <string-reference>Proceedings of Neural Information Processing Systems (NIPS)</string-reference>
+      <string-reference>proceedings of the neural information processing systems conference</string-reference>
+      <string-reference>NIPS 2001 Tutorial Notes</string-reference>
+      <string-reference>Proceedings of the 1990 conference on Advances in neural information processing systems 3 table of contents</string-reference>
+      <string-reference>Advances in Neural Processing Systems</string-reference>
+      <string-reference>Proceedings of Neural Information Processing Systems (NIPS-03)</string-reference>
+      <string-reference>Neural Information Processing Systems</string-reference>
+      <string-reference>Advances in Neural InformationProcessing Systems</string-reference>
+      <string-reference>proceedings of conference on neural information processing systems (nips)</string-reference>
+      <string-reference>Advances in neural information processing systems 1 table of contents</string-reference>
+      <string-reference>Advances in neural information processing systems 2 table of contents</string-reference>
+      <string-reference>Proc. Advances in Neural Information Processing</string-reference>
+      <string-reference>Proc. 17th Annual Conf. on Neural Information Processing Systems (NIPS'03)</string-reference>
+      <string-reference>Adv. Neural Information Processing Systems</string-reference>
+      <string-reference>To appear in Advances in Neural Information Processing Systems</string-reference>
+      <string-reference>Proceedings of NIPS 2001</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5</id>
+      <idClass>20157</idClass>
+      <acronym>SIGMOD</acronym>
+      <title>ACM SIGMOD International Conference on Management of Data</title>
+      <string-reference>Proceedings of the 2006 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proc. of the 2003 ACM SIGMOD Intl. Conf. on Management of Data</string-reference>
+      <string-reference>Proceedings of the 1995 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proc. of ACM SIGMOD Conf. on Management of Data</string-reference>
+      <string-reference>Proceedings of the 2003 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1979 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1980 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>STONEBREAKER, MICHAEL (Herausgeber): Proceedings of the 1992 ACM SIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>Proceedings of the 1982 ACM SIGMOD International Conference on</string-reference>
+      <string-reference>Exhibits Program of the Proceedings of the ACM SIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>Proceedings of the 1990 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 2000 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>conference on management of data (sigmod 95)</string-reference>
+      <string-reference>Proceedings of the 1980 ACM SIGMOD International Conference on</string-reference>
+      <string-reference>proceedings of acm sigmod conference on management of data</string-reference>
+      <string-reference>Proceedings of the 1991 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proc. of Proceedings of the ACM SIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>Proc, ACM-SIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>Proceedings of the 1997 ACM-SIGMOD International Conference on the Management of Data</string-reference>
+      <string-reference>Proceedings of the 1993 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 2002 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1977 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1998 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1994 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1989 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proc of ACM SIGMOD Int'l Conf on Management of Data. Philadelphia: ACM Press</string-reference>
+      <string-reference>Proceedings of ACM SIGMOD 1993 International Conference on Management of Data</string-reference>
+      <string-reference>Proc. of ACM SIGMOD</string-reference>
+      <string-reference>Proceedings of the 1975 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>SIGMOD Conference</string-reference>
+      <string-reference>Proceedings of the ACM SIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>SIGMOD'97</string-reference>
+      <string-reference>Proceedings of the 2005 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1992 ACM SIGMOD International Conference on</string-reference>
+      <string-reference>Proceedings of the 1988 ACM Conference on Management of Data (SIGMOD)</string-reference>
+      <string-reference>Proceedings of the 2001 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1997 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 2003 ACM SIGMOD international conference on on Management of data</string-reference>
+      <string-reference>Proceedings of the 1981 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1990 ACM SIGMOD International Conference on</string-reference>
+      <string-reference>SIGMOD. June</string-reference>
+      <string-reference>Proceedings of the ACM SIGMOD International Conference on Management of Data (SIGMOD96)</string-reference>
+      <string-reference>Proceedings of the 1996 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proc. 2003 SIGMOD Conference</string-reference>
+      <string-reference>Proceedings of theACM SIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>Proceedings of the 1999 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1992 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proc. ACMSIGMOD International Conference on Management of Data</string-reference>
+      <string-reference>proceedings of the acm conference on management of data sigmod</string-reference>
+      <string-reference>Proc. SIGMOD Int. Conf. Data Management</string-reference>
+      <string-reference>Proceedings of the 1978 ACM SIGMOD international conference on management of data</string-reference>
+      <string-reference>Proceedings of the 1987 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 2004 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1985 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 2007 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>Proceedings of the 1984 ACM SIGMOD international conference on Management of data</string-reference>
+      <string-reference>SIGMOD 2003</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>6</id>
+      <idClass>20158</idClass>
+      <acronym>VLDB</acronym>
+      <title>International Conference on Very Large Data Bases</title>
+      <string-reference>proceedings 28th international conference on very large data bases (vldb 2002)</string-reference>
+      <string-reference>proceedings 1987 vldb conference</string-reference>
+      <string-reference>proceedings of the fifteenth international conference on very large databases (vldb)</string-reference>
+      <string-reference>Proc. 21st Int'l Conference on Very Large Databases (VLDB)</string-reference>
+      <string-reference>VLDB'98, Proceedings of 24rd International Conference on Very</string-reference>
+      <string-reference>Proceedings of 19th International Conference on Very Large Databases (VLDB)</string-reference>
+      <string-reference>proceedings of the 24th annual international conference on very large data</string-reference>
+      <string-reference>proceedings of the 8th international conference on very large data bases (mexico city</string-reference>
+      <string-reference>Submitted to VLDB 2000, Research track</string-reference>
+      <string-reference>Very Large Data Bases (VLDB'03)</string-reference>
+      <string-reference>Proceedings of the Eigth International Conference on Very Large Data Bases table of contents</string-reference>
+      <string-reference>proceedings of the thirtieth international conference on very large data bases</string-reference>
+      <string-reference>30th VLDB, Sept</string-reference>
+      <string-reference>26th Intl. Conf. on Very Large Databases</string-reference>
+      <string-reference>Proceedings of the 32nd international conference on Very large data bases</string-reference>
+      <string-reference>conference very large data bases</string-reference>
+      <string-reference>Proc. of the 19th VLDB Conference</string-reference>
+      <string-reference>Proceedings of VLDB</string-reference>
+      <string-reference>27 thInternational Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 32nd international conference on Very large data bases-Volume 32</string-reference>
+      <string-reference>proceedings of the international conference on very large databases</string-reference>
+      <string-reference>Proceedings of 30th VLDB Conference</string-reference>
+      <string-reference>Proc. VLDB</string-reference>
+      <string-reference>Proceedings of the Twenty-fourth International Conference on Very Large Databases</string-reference>
+      <string-reference>Proceedings of the 26th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 30th International Conference on Very Large Databases (VLDB 2004)</string-reference>
+      <string-reference>proceedings of the 24 thvldb conference</string-reference>
+      <string-reference>Proceedings of the 28th International Conference on Very Large Data Bases (VLDB)</string-reference>
+      <string-reference>Proceedings of the International Conference on Very Large Data Bases (VLDB)</string-reference>
+      <string-reference>Proceedings of the 22th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 19th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proc. 2000 Intl. Conf. Very Large Data Bases</string-reference>
+      <string-reference>17th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proc. of the Int. Conf. on Very Large Data Bases (VLDB)</string-reference>
+      <string-reference>Proceedings of the Conference on Very Large Data Bases (VLDB)</string-reference>
+      <string-reference>Proceedings of the Twenty-Third Internation Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 29th International Conference on Very Large DataBases (Sept. 2003)</string-reference>
+      <string-reference>Proceedings of the 21st International Conference on Very Large Data Bases (VLDB'95)</string-reference>
+      <string-reference>Proceedings of the 16th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>international conferenceon very large databases</string-reference>
+      <string-reference>Proceedings of the Twelfth International Conference on Very Large Data Bases table of contents</string-reference>
+      <string-reference>Proceedings of the 12th Int. Conf. on Very Large Data Bases Kyoto</string-reference>
+      <string-reference>Proceedings of the 30th International Conference on Very Large Data Bases (VLDB)</string-reference>
+      <string-reference>Proc. 28th Intl. Conf. on Very Large Data Bases</string-reference>
+      <string-reference>proceeding of the 18th vldb conference rence</string-reference>
+      <string-reference>29th International Conference on Very Large Data Bases (VLDB'03)</string-reference>
+      <string-reference>Proc 21st Int'l Conf on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the Third International Conference on Very Large</string-reference>
+      <string-reference>proceedings the 30th international conference on very large data bases</string-reference>
+      <string-reference>Proceedings of the 18th International Conference on Very Large Data Bases table of contents</string-reference>
+      <string-reference>Proceedings of VLDB 2004</string-reference>
+      <string-reference>keynote speech, 29th international conference on very large data bases</string-reference>
+      <string-reference>Proc. 20th Int'l. Conf. on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 20th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 13th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proc. of the 1998 Intl. Conf. on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 23rd VLDB Conference</string-reference>
+      <string-reference>proceedings of the 28th International Conference on Very Large Data Bases (VLDB'02)</string-reference>
+      <string-reference>Proc. of the 26th VLDB Conference</string-reference>
+      <string-reference>Proceedings of the 31st international conference on Very large data bases</string-reference>
+      <string-reference>Proc. of the Intl. Conf. on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 27th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proc. 26th Int. Conf. on Very Large Databases</string-reference>
+      <string-reference>Proc. of 28th Intl. Conf. on Very Large Data Bases (VLDB)</string-reference>
+      <string-reference>Proceedings of the 24rd International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the Fifteenth International Conference on Very</string-reference>
+      <string-reference>Proceedings of the Twenty-Sixth International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Thirteenth International Conference on Very Large Data Bases: 1987 13th VLDB</string-reference>
+      <string-reference>proceedings of the 29th vldb conference</string-reference>
+      <string-reference>Proceedings of the 21th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>proceedings of the 24 thconference on very large databases (vldb'98)</string-reference>
+      <string-reference>Proceedings of the 25th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>14th conference on very large data bases</string-reference>
+      <string-reference>proceedings of very large databases (vldb'95) conference</string-reference>
+      <string-reference>Proceedings of the Twenty-sixth International Conference on Very Large Databases</string-reference>
+      <string-reference>VLDB 1996</string-reference>
+      <string-reference>Proc. of the 30th International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Proceedings of the 23rd International Conference on Very Large Data Bases</string-reference>
+      <string-reference>Submitted to VLDB'99</string-reference>
+      <string-reference>VLDB Conference</string-reference>
+      <string-reference>proceedings 4th international conference on very large databases</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>7</id>
+      <idClass>20215</idClass>
+      <acronym>SIGGRAPH</acronym>
+      <title>International Conference on Computer Graphics and Interactive Techniques</title>
+      <string-reference>proceedings of the 23th annual conference on computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceeding of SIGGRAPH 94</string-reference>
+      <string-reference>Computer Graphics (SIGGRAPH 97 Proceedings)</string-reference>
+      <string-reference>SIGGRAPH</string-reference>
+      <string-reference>Computer Graphics (Proc. Siggraph'93), 27: 239-246, July</string-reference>
+      <string-reference>Proc of Special Interest Group on Graphics (SIGGRAPH)</string-reference>
+      <string-reference>Proceedings of the 15th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 19th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>ACM Computer Graphics, SIGGRAPH'94 Proceedings, Annual Conference Series</string-reference>
+      <string-reference>Proceedings of SIGGRAPH Conference</string-reference>
+      <string-reference>Proceedings of ACM SIGGRAPH 2005</string-reference>
+      <string-reference>Siggraph'00 Sketch</string-reference>
+      <string-reference>Hierarchical Spacetime Control Siggraph Proceedings</string-reference>
+      <string-reference>Proceedings of the 27th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 26th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>InComputerGraphicsProceedings, AnnualConferenceSeries: SIGGRAPH a</string-reference>
+      <string-reference>Computer Graphics Proceedings, Annual Conference Series</string-reference>
+      <string-reference>ACM SIGGRAPH</string-reference>
+      <string-reference>acm siggraph proceedings)</string-reference>
+      <string-reference>Proceedings of the 21st annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proc. SIGGRAPH</string-reference>
+      <string-reference>Proc. SIGGRAPH96</string-reference>
+      <string-reference>Proceedings of the 10th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 28th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>ACM SIGGRAPH'90</string-reference>
+      <string-reference>ACM SIGGRAPH Computer Graphics</string-reference>
+      <string-reference>siggraph 85 conference proceedings</string-reference>
+      <string-reference>Proceedings of the 29th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Computer Graphics (Proceedings of SIGGRAPH 88)</string-reference>
+      <string-reference>proceedingsofsiggraph'94 (orlando</string-reference>
+      <string-reference>Siggraph technical sketch: SIGGRAPH'98 (Orlando, FL)</string-reference>
+      <string-reference>of: Computer Graphics (ACM SIGGRAPH'91 Proceedings</string-reference>
+      <string-reference>Proceedings of the 20th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>SIGGRAPH 2003: Sketches 'AND' Applications</string-reference>
+      <string-reference>Proceedings of the 13th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 22nd annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Cohen. Hierarchical spacetime control. In Computer Graphics (SIGGRAPH'94 proceedings)</string-reference>
+      <string-reference>SIGGRAPH'97</string-reference>
+      <string-reference>Computer Graphics SIGGRAPH</string-reference>
+      <string-reference>Siggraph 2000 Proceedings</string-reference>
+      <string-reference>Proceedings of the 25th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 11th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>acm siggraph, computer graphics visual proceedings</string-reference>
+      <string-reference>Proceedings of the 7th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Time 3D Model Acquisition, SIGGRAPH</string-reference>
+      <string-reference>Proceedings of Computer Graphics SIGGRAPH'84</string-reference>
+      <string-reference>Computer Graphics (Proc. SIGGRAPH 1994)</string-reference>
+      <string-reference>tutorial for Siggraph</string-reference>
+      <string-reference>Proceedings of the 4th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 18th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>SIGGRAPH'91 Proceedings</string-reference>
+      <string-reference>ACM Computer Graphics (SIGGRAPH'93 Proceedings</string-reference>
+      <string-reference>Proceedings of the 5th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Proceedings of the 23rd annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>SIGGRAPH 2001</string-reference>
+      <string-reference>Proceedings of the 24th annual conference on Computer graphics and interactive techniques</string-reference>
+      <string-reference>Computer Graphics (SIGGRAPH'93 Proceedings)</string-reference>
+      <string-reference>proceedings of siggraph'96 (new orleans</string-reference>
+      <string-reference>of: Proceedings of the 24th annual conference on Computer graphics and interactive techniques. ACM Press/Addison-Wesley Publishing Co</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>8</id>
+      <idClass>2010</idClass>
+      <acronym>SODA</acronym>
+      <title>Annual ACM SIAM Symposium on Discrete Algorithms</title>
+      <string-reference>Proc. ACM Symp. on Discrete Algorithms</string-reference>
+      <string-reference>Proc. 15th ACM/SIAM Symposium on Discrete Algorithms (SODA)</string-reference>
+      <string-reference>Proc. 5th Symp. on Discrete Algorithms</string-reference>
+      <string-reference>Proc. 13th ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proceedings of the 15th Annual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proc. of the ACM-SIAM Symposium on Discrete Algorithms (SODA)</string-reference>
+      <string-reference>Proc. 13th Ann. ACM-SIAM Symposium on Discrete Algorithms (SODA'2002)</string-reference>
+      <string-reference>Proceedings of the 8 thAnnual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proceedings of the 15th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)</string-reference>
+      <string-reference>ACM-SIAM Symp. Discrete Algorithms (SODA)</string-reference>
+      <string-reference>Proceedings of the 5 thAnnual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proc. 11th Annual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proceedings of the 11th ACM-SIAM Symposium on Discrete Algorithms (SODA)</string-reference>
+      <string-reference>Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete algorithm</string-reference>
+      <string-reference>Proc. 15th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2004)</string-reference>
+      <string-reference>Proc. 14th Annual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proceedings of the 11th Annual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proceedings of the 8th Annual Symposium on Discrete Algorithms</string-reference>
+      <string-reference>proceedings of the 18th acm-siam symposium on discrete algorithms (soda)</string-reference>
+      <string-reference>Proceedings of the 13th ACM-SIAM Symposium on Discrete Algorithms (SODA)</string-reference>
+      <string-reference>SODA</string-reference>
+      <string-reference>Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms</string-reference>
+      <string-reference>Proceedings of the 13th Annual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proceedings of the 3rd Annual ACM-SIAM Symposium on Discrete Algorithms</string-reference>
+      <string-reference>Proc 2004 annual ACM-SIAM symposium on discrete algorithms</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>9</id>
+      <idClass>1012</idClass>
+      <acronym>AIJ</acronym>
+      <title>Artificial Intelligence</title>
+      <string-reference>AIJ Artificial Intelligence</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>10</id>
+      <idClass>20227</idClass>
+      <acronym>CHI</acronym>
+      <title>Conference on Human Factors in Computing Systems</title>
+      <string-reference>acm conference on human factors in computing systems</string-reference>
+      <string-reference>Proceedings on Human Factors in Computing Systems</string-reference>
+      <string-reference>Proceedings of the SIGCHI conference on Human factors in computing systems: common ground</string-reference>
+      <string-reference>proceedings of the sigchi conference on human factors in computing systems: changing our world</string-reference>
+      <string-reference>proceedings of the acm conference on human factors in computing systems (chi 2004)</string-reference>
+      <string-reference>Proceedings of the 2004 Conference on Human Factors in Computing Systems (CHI'04)</string-reference>
+      <string-reference>Proceedings of the SIGCHI conference on Human factors in computing systems: the CHI is the limit</string-reference>
+      <string-reference>Proceedings of the CHI 2000 conference on Human factors in computing systems</string-reference>
+      <string-reference>Proceedings of the SIGCHI conference on Human factors in computing systems: celebrating interdependence</string-reference>
+      <string-reference>Proceedings of the SIGCHI conference on Human Factors in computing systems</string-reference>
+      <string-reference>Proceedings of the SIGCHI conference on Human factors in computing systems: Reaching through technology</string-reference>
+      <string-reference>Proceedings of the International Conference on Human Factors in Computing Systems (CHI'98)</string-reference>
+      <string-reference>Proceedings of the SIGCHI conference on Human factors in computing systems: Empowering people</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>11</id>
+      <idClass>20107</idClass>
+      <acronym>DAC</acronym>
+      <title>Design Automation Conference</title>
+      <string-reference>Proceedings of 39th Design Automation Conference (DAC)</string-reference>
+      <string-reference>Proceedings of the 31st annual conference on Design automation conference</string-reference>
+      <string-reference>Proceedings of the 33rd annual conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 40th conference on Design automation</string-reference>
+      <string-reference>Submitted to the 1996 Design Automation Conference</string-reference>
+      <string-reference>Proceedings of the 38th Design Automation Conference (DAC 2001)</string-reference>
+      <string-reference>Proceedings of the 32nd ACM/IEEE conference on Design automation conference</string-reference>
+      <string-reference>32nd Design Automation Conference Proceedings</string-reference>
+      <string-reference>33rd Design Automation Conference</string-reference>
+      <string-reference>Proc. DAC</string-reference>
+      <string-reference>Proceedings of Design Automation Conference</string-reference>
+      <string-reference>Proc. 34th DAC'97</string-reference>
+      <string-reference>IEEE Design Automation Conference Proceedings</string-reference>
+      <string-reference>Proceedings of the 38th conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 32nd ACM/IEEE conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 31st annual conference on Design automation</string-reference>
+      <string-reference>PROC DES AUTOM CONF</string-reference>
+      <string-reference>Proceedings of the 43rd annual conference on Design automation</string-reference>
+      <string-reference>40th Design Automation Conference (DAC'03)</string-reference>
+      <string-reference>proceedings of the 35th acm/ieee design automation conference</string-reference>
+      <string-reference>Proceedings of the 36th ACM/IEEE conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 39th conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 38th Design Automation Conference (DAC)</string-reference>
+      <string-reference>Proceedings of the 30th international conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 35th annual conference on Design automation-Volume 00</string-reference>
+      <string-reference>Proceedings of the 37th conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 25th ACM/IEEE conference on Design automation</string-reference>
+      <string-reference>Proceedings of the twentieth design automation conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 18th conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 33rd annual conference on Design automation conference</string-reference>
+      <string-reference>Proceedings of the 28th conference on ACM/IEEE design automation conference</string-reference>
+      <string-reference>Proc. of the 35th Design Automation Conference (DAC'98)</string-reference>
+      <string-reference>asme design automation conference</string-reference>
+      <string-reference>Proceedings of the 42nd annual conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 35th annual conference on Design automation conference</string-reference>
+      <string-reference>Proc. 34th Design Automation Conf.(DAC'97</string-reference>
+      <string-reference>Proceedings of the 22nd ACM/IEEE conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 38th Design Automation Conference (DAC'01)</string-reference>
+      <string-reference>Proceedings of the 39th Design Automation Conference</string-reference>
+      <string-reference>Proceedings of the 23rd ACM/IEEE conference on Design automation</string-reference>
+      <string-reference>Proceedings of the 36th ACM/IEEE conference on Design automation conference</string-reference>
+      <string-reference>Proceedings of the 41st annual conference on Design automation-Volume 00</string-reference>
+      <string-reference>Proceedings of the 36th Design Automation Conference (DAC'99)</string-reference>
+      <string-reference>Proc. Design Automation Conf</string-reference>
+      <string-reference>Proc. 35th Design Automation Conf</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>12</id>
+      <idClass>2028</idClass>
+      <acronym>POPL</acronym>
+      <title>ACM SIGPLAN SIGACT Symposium on Principles of Programming Languages</title>
+      <string-reference>Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 26th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>ACM Symp. Principles of Programming Languages</string-reference>
+      <string-reference>Proceedings of the 29th Annual ACM Symposium on Principles of Programming Languages</string-reference>
+      <string-reference>Symposium on Principles of Programming Languages</string-reference>
+      <string-reference>Published earlier in POPL</string-reference>
+      <string-reference>Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 30th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proc. 6th POPL</string-reference>
+      <string-reference>Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 32nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 28th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proc. Symp. on Principles of Programming Languages</string-reference>
+      <string-reference>proceedings 8th annual acm symposium on principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Conference Record of the 29th Symposium on Principles of Programming Languages</string-reference>
+      <string-reference>tutorial of the acm symposium on principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 2nd ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>96: 23rd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages</string-reference>
+      <string-reference>Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 18th Annual ACM Symposium on the Principles of Programming Languages</string-reference>
+      <string-reference>Twenty-Third ACM Symposium on Principles of Programming Languages</string-reference>
+      <string-reference>Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Proc. ACM Conf. on Principles of Programming Languages</string-reference>
+      <string-reference>Proceedings of the 2007 POPL Conference</string-reference>
+      <string-reference>Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 3rd ACM SIGACT-SIGPLAN symposium on Principles on programming languages</string-reference>
+      <string-reference>POPL</string-reference>
+      <string-reference>Principles of Programming Languages (POPL)</string-reference>
+      <string-reference>Proceedings of the 28th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL-01)</string-reference>
+      <string-reference>Conference Record of the First ACM Symp. Principles of Programming Languages (POPL'73)</string-reference>
+      <string-reference>Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</string-reference>
+      <string-reference>proceedings principles of programming languages (popl'90)</string-reference>
+      <string-reference>Annual Symposium on Principles of Programming Languages</string-reference>
+      <string-reference>Proc. Principles of Programming Languages</string-reference>
+      <string-reference>Conference Record of [POPL94]</string-reference>
+      <string-reference>Conference Record of [POPL98]</string-reference>
+      <string-reference>Proceedings of the 7th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</string-reference>
+      <string-reference>Conference Record of the Thirteenth Annual ACM Symposium on Principles of Programming Languages</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>13</id>
+      <idClass>20181</idClass>
+      <acronym>UAI</acronym>
+      <title>Conference on Uncertainty in Artificial Intelligence</title>
+      <string-reference>proceedings of the 19th annual conference on uncertainty in artificial intelligence (uai)</string-reference>
+      <string-reference>Proceedings of the 17th Conference in Uncertainty in Artificial Intelligence table of contents</string-reference>
+      <string-reference>Proceedings of the 14th Annual Conference on Uncertainty in AI (UAI-99)</string-reference>
+      <string-reference>Proc. 13th Conference on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Proc. UAI</string-reference>
+      <string-reference>Proceedings of the Eighteenth Annual Conference on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Eighteenth Conference on Uncertainty in Artificial Intelligence (UAI02)</string-reference>
+      <string-reference>Proceedings of the 17th Annual Conference on Uncertainty in AI (UAI)</string-reference>
+      <string-reference>Proceedings of the Thirteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-97)</string-reference>
+      <string-reference>Proc. of the 19th Conference on Uncertainty in AI (UAI-2003)</string-reference>
+      <string-reference>uncertainty and artificial intelligence: proceedings of the twelth conference. san mateo</string-reference>
+      <string-reference>Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence (UAI-97)</string-reference>
+      <string-reference>proceedings conference on uncertainty in ai (uai)</string-reference>
+      <string-reference>Uncertainty in Artificial Intelligence: Proceedings of the Seventeenth Conference (UAI-2001)</string-reference>
+      <string-reference>UAI</string-reference>
+      <string-reference>Proc. Sixteenth Conference on Uncertainty in Artificial Intelligence (UAI'00)</string-reference>
+      <string-reference>proceedings of the twenty-second conference on uncertainty in ai (uai)</string-reference>
+      <string-reference>Proceedings of the 18th International Conference on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Proc. Uncertainty in Artificial Intelligence--UAI'03</string-reference>
+      <string-reference>Proceedings of the Twenty-first Conference on Uncertainty in AI (UAI)</string-reference>
+      <string-reference>Proceedings of the 17th Conference in Uncertainty in Artificial Intelligence (UAI'01). Morgan Kaufmann</string-reference>
+      <string-reference>Proc. Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the seventh conference (1991) on Uncertainty in artificial intelligence table of contents</string-reference>
+      <string-reference>Proceedings of the 18th Annual Conference on Uncertainty in AI (UAI)</string-reference>
+      <string-reference>Proc. of the Conf. on Uncertainty in Artificial Intelligence (UAI)</string-reference>
+      <string-reference>Proceedings of the Fifteenth International Conference on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>21st Conf. on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of the 18th Annual Conference on Uncertainty in Artificial Intelligence (UAI-02)</string-reference>
+      <string-reference>Proceedings of the Twenty-second Annual Conference on Uncertainty in Artificial Intelligence (UAI'06)</string-reference>
+      <string-reference>Proceedings of 21th Conference on Uncertainty in Artificial Intelligence (UAI-2005)</string-reference>
+      <string-reference>Proceedings of the Sixteenth Conference on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Proc. Fourteenth Conference on Uncertainty in Artificial Intelligence (UAI'98)</string-reference>
+      <string-reference>Proc. Twelfth Conference on Uncertainty in Artificial Intelligence (UAI'96)</string-reference>
+      <string-reference>Proceedings of the 19th Annual Conference on Uncertainty in Artificial Intelligence (UAI-03)</string-reference>
+      <string-reference>UAI'99</string-reference>
+      <string-reference>Proc. Tenth Conference on Uncertainty in AI</string-reference>
+      <string-reference>Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>Proceedings of UAI'01, 17th Conference on Uncertainty in Artificial Intelligence</string-reference>
+      <string-reference>UAI: Proceedings of the 18th Conference</string-reference>
+      <string-reference>Uncertainty in Arti cial Intelligence (UAI2003). Morgan Kaufmann Publishers</string-reference>
+      <string-reference>Proceedings of the Fifteenth Annual Conference on Uncertainty in Artificial Intelligence (UAI-99)</string-reference>
+      <string-reference>proceedings of the eighteenth conference on uncertainty in artificial intelligence (uai 2002). san francisco</string-reference>
+      <string-reference>Proceedings of the 20th conference on Uncertainty in artificial intelligence</string-reference>
+      <string-reference>Proc. of the Int. Conf. on Uncertainty in AI</string-reference>
+      <string-reference>Proceedings of Uncertainty in AI</string-reference>
+      <string-reference>In Uncertainty in Artificial Intelligence (UAI), Proceedings of the Twenty-Second Conference</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>14</id>
+      <idClass>101270</idClass>
+      <acronym>IJRR</acronym>
+      <title>International Journal of Robotics Research</title>
+      <string-reference>Journal of Robotics Research</string-reference>
+      <string-reference>Robotics research</string-reference>
+      <string-reference>The International Journal of Robotics Research</string-reference>
+      <string-reference>IJRR</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>15</id>
+      <idClass>2080</idClass>
+      <acronym>SOSP</acronym>
+      <title>ACM Symposium on Operating Systems Principles</title>
+      <string-reference>proceedings of the fifteenth symposium on operating systems principles (sosp)</string-reference>
+      <string-reference>Proc. 4th ACM Symp. on Operating Systems Principles (October 1973)</string-reference>
+      <string-reference>Proceedings of the lOth Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Proceedings of the 13th Symposium on Operating Systems Principles (SOSP)</string-reference>
+      <string-reference>An architecture for large scale information systems. In l Oth Symposium on Operating System Principles</string-reference>
+      <string-reference>Proceedings of the Sixth Symposium on Operating System Principles</string-reference>
+      <string-reference>18th ACM Symposium on Operating Systems Principles (SOSP)</string-reference>
+      <string-reference>Keynote address at the 18th ACM Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Proceedings of ACM Symposium on Operating Systems Principles (SOSP)</string-reference>
+      <string-reference>Proceedings of the Sixth ACM Symposium on Operating Systems Principles(November 1977)</string-reference>
+      <string-reference>eighteeth symposium on operating systems principles</string-reference>
+      <string-reference>acm 11 thsymposium on operating system principles</string-reference>
+      <string-reference>10th Symposium on Operating System Principles</string-reference>
+      <string-reference>Proceedings of the 16th ACM Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Proceedings of the 12th Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Proc. of 20th ACM Symp. on Operanting Systems Principles</string-reference>
+      <string-reference>proceedings 17th acm sosp</string-reference>
+      <string-reference>Proceedings of the 17th ACM Symposium on Operating System s Principles (SOSP'99)</string-reference>
+      <string-reference>Proceedings of the 17th Symposium on Operating Systems Principles</string-reference>
+      <string-reference>proceedings of the 18th acm symposium on operating systems principles</string-reference>
+      <string-reference>Proceedings of the 18th ACM Symposium on Operating System Principles</string-reference>
+      <string-reference>Presented as a Works-In-Progress poster at the Sixteenth Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Operating System Review, 14th ACM Symposium on Operating System Principles</string-reference>
+      <string-reference>ACM SOSP</string-reference>
+      <string-reference>proceedings of the 17th acm symposium on operating systems principles</string-reference>
+      <string-reference>Proc. of the ACM Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Symposium on Operating Systems Principles</string-reference>
+      <string-reference>proceedings of the sixteenth acm symposium on operating system principles</string-reference>
+      <string-reference>acm symposium on operating systems principles (sigops)</string-reference>
+      <string-reference>Proc. of 11th ACM Symposium on Operating Systems Principles</string-reference>
+      <string-reference>Proceedings of the ACM Symposium on Operating System Principles (SOSP)</string-reference>
+      <string-reference>Proceedings of the 16th ACM Symposium on Operating Systems Principles (SOSP-16)</string-reference>
+      <string-reference>Proceedings of the sixteenth ACM symposium on Operating systems principles</string-reference>
+      <string-reference>SOSP</string-reference>
+      <string-reference>Proc. 14 thACM Symposium on Operating system principles</string-reference>
+      <string-reference>Proc. ACM SOSP</string-reference>
+      <string-reference>Proceedings of the 15th ACM Symposium on Operating Systems Principles</string-reference>
+      <string-reference>15th symposium on operating systems principles</string-reference>
+      <string-reference>proceedings of the 18th acm symposium on operating systems principles (sosp'01). chateau lake louise</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>16</id>
+      <idClass>10150</idClass>
+      <title>IEEE Transactions on Computers</title>
+      <string-reference>Transactions on Computers</string-reference>
+      <string-reference>IEEE Transactions on Compurers</string-reference>
+      <string-reference>IEEE Trans on Computer</string-reference>
+      <string-reference>IEEE Transactions on Computing</string-reference>
+      <string-reference>Memory. IEEE Transactions on Computers</string-reference>
+      <string-reference>IEEE Transaction on Computers</string-reference>
+      <string-reference>1eee transactions comput.</string-reference>
+      <string-reference>implementation, and performance." ieee transaction on computers</string-reference>
+      <string-reference>IEEE Tran. on Computers</string-reference>
+      <string-reference>IEEE Trans. Comput</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>17</id>
+      <idClass>20184</idClass>
+      <acronym>ICML</acronym>
+      <title>Annual International Conference on Machine Learning</title>
+      <string-reference>Proc. 13th Int'l Conf. Machine Learning</string-reference>
+      <string-reference>Proceedings of ICML-97, 14th International Conference on Machine Learning</string-reference>
+      <string-reference>Proc. InternationalConference on Machine Learning</string-reference>
+      <string-reference>Proc. ICML-2005</string-reference>
+      <string-reference>Proceedings of the 23rd international conference on Machine learning</string-reference>
+      <string-reference>Proc. 14th Inter. Conf. Machine Learning</string-reference>
+      <string-reference>Proc. 19th Int. Conf. Machine Learning</string-reference>
+      <string-reference>Proceedings of ICML-2000</string-reference>
+      <string-reference>Machine Learning: Proceedings of the Twelfth International Conference</string-reference>
+      <string-reference>Proceedings of the 22nd international conference on Machine learning</string-reference>
+      <string-reference>IEEE International Conference on Machine Learning (ICML)</string-reference>
+      <string-reference>Proceedings of ICML-96, 13th International Conference on Machine Learning</string-reference>
+      <string-reference>Proc. of the International Conference on Machine Learning (ICML)</string-reference>
+      <string-reference>Proceedings of the Fifteenth International Conference on Machine Learning</string-reference>
+      <string-reference>Proceedings of the seventh international conference (1990) on Machine learning table of contents</string-reference>
+      <string-reference>Proceedings of the 24th international conference on Machine learning</string-reference>
+      <string-reference>Proceedings of the Twentysecond International Conference on Machine Learning</string-reference>
+      <string-reference>Proc. of the International Conference on Machine Learning</string-reference>
+      <string-reference>Proc. 17th International Conf. on Machine Learning</string-reference>
+      <string-reference>Proceedings of the twenty-first international conference on Machine learning</string-reference>
+      <string-reference>Proc. ICML</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>18</id>
+      <idClass>10453</idClass>
+      <acronym>SIAM</acronym>
+      <title>SIAM Journal on Computing</title>
+      <string-reference>SIAM J. Comput.</string-reference>
+      <string-reference>SIAM. J. on Comp</string-reference>
+      <string-reference>SIAM Jounal of Computing</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>19</id>
+      <idClass>10175</idClass>
+      <acronym>TODS</acronym>
+      <title>ACM Transactions on Database Systems</title>
+      <string-reference>ACM Transactions on Database Systems (TODS)</string-reference>
+      <string-reference>ACM TODS, Vat</string-reference>
+      <string-reference>TODS (2)</string-reference>
+      <string-reference>ACM Transactions on Database Systems 6 (2)</string-reference>
+      <string-reference>ACM Trans. Database Syst.</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>20</id>
+      <idClass>2089</idClass>
+      <acronym>ISCA</acronym>
+      <title>Annual International Symposium on Computer Architecture</title>
+      <string-reference>Proceedings of the 22nd annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 23rd annual international symposium on Computer architecture (ISCA'96)</string-reference>
+      <string-reference>Proceedings of the 24th annual international symposium on Computer architecture</string-reference>
+      <string-reference>The 16th ACM Annual International Symposium on Computer Architecture</string-reference>
+      <string-reference>International Conference on Computer Architecture</string-reference>
+      <string-reference>isca conference</string-reference>
+      <string-reference>Proceedings of the 13th annual international symposium on Computer architecture</string-reference>
+      <string-reference>Conference Proceedings of the 17th Annual International Symposium on Computer Architecture</string-reference>
+      <string-reference>proceedings of the 13th internationalsymposium on computer architecture</string-reference>
+      <string-reference>Proceedings of 23rd A nnualInternational Symposium on Computer Architecture</string-reference>
+      <string-reference>International Symposium on Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 24th Annual International Symposium on Computer Architecture (ISCA'97)</string-reference>
+      <string-reference>Proceedings of the 23rd annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proc. 17th Ann. Int'l Symp. Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 5th annual symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 33rd International Symposium on Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 25th annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of 17th Intl'Symposium on Computer Architecture</string-reference>
+      <string-reference>Proc. ISCA</string-reference>
+      <string-reference>Manuscript submitted to International Symposium on Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 10th annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 31st annual international symposium on Computer architecture</string-reference>
+      <string-reference>an evaluation of directory schemes for cache coherence. in proceedings of the 15th annual international symposium on computer architecture</string-reference>
+      <string-reference>proceedings of the 10 tb annual ieee/acm sympmium on computer architecture</string-reference>
+      <string-reference>Proceedings of the 34th annual international conference on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 19th annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 27th annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 6th annual symposium on Computer architecture</string-reference>
+      <string-reference>Proc. 10th Syrup. on Computer Architecture</string-reference>
+      <string-reference>International Symposium on Computer Architecture (ISCA)</string-reference>
+      <string-reference>Proceedings 17th Annual International Symposium on Computer Architecture</string-reference>
+      <string-reference>ISCA</string-reference>
+      <string-reference>Proceedings of the 12th annual international symposium on Computer architecture</string-reference>
+      <string-reference>Proceedings of the 32nd Annual International Symposium on Computer Architecture (ISCA'05)-Volume 00</string-reference>
+      <string-reference>Proceedings of the 8th annual symposium on Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 7th annual symposium on Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 33rd International Symposium on Computer Architecture (ISCA'06)-Volume 00</string-reference>
+      <string-reference>Workshop Complexity-Effective Design, 27th Int. Symp. Computer Architecture</string-reference>
+      <string-reference>symposium on computer architecture</string-reference>
+      <string-reference>Proc. 7th Annual Symposium on Computer Architecture, IEEE and ACM (lay 80)</string-reference>
+      <string-reference>Resource Requirements of Dataflow Program, In Proceedings of the 15th Annual International Symposium on Computer Architecture</string-reference>
+      <string-reference>Proceedings of the 13th Annual Symposium on Computer Architecture</string-reference>
+      <string-reference>10th International Symposium on Computer Architecture</string-reference>
+      <string-reference>proceedings of the 13 international symposium on computer architecture</string-reference>
+      <string-reference>hs proceedings of the 17th annual international symposium on computer architecture</string-reference>
+      <string-reference>proceedings of the 15th international symposium on computer architecture</string-reference>
+      <string-reference>proceedings of the 22nd ieee/acm annual international symposium on computer architecture</string-reference>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>21</id>
+      <idClass>2099</idClass>
+      <acronym>ISCAS</acronym>
+      <title>IEEE International Symposium on Circuits and Systems</title>
+      <string-reference>Circuits and Systems, 1999. ISCAS'99. Proceedings of the 1999 IEEE International Symposium on</string-reference>
+      <string-reference>ISCAS-2005, Kobe, Japan, May</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>22</id>
+      <idClass>10214</idClass>
+      <acronym>IPL</acronym>
+      <title>Information Processing Letters</title>
+      <string-reference>IPL Information Processing Letters</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>23</id>
+      <idClass>2043</idClass>
+      <acronym>PODC</acronym>
+      <title>Annual ACM SIGACT SIGOPS Symposium on Principles of Distributed Computing</title>
+      <string-reference>Prodeedings of 22nd ACM Symposium on Principles of Distributed computing</string-reference>
+      <string-reference>Proceedings of the twenty-first annual symposium on Principles of distributed computing</string-reference>
+      <string-reference>proceedings 24th acm symposium on principles of distributed computing (podc 2005)</string-reference>
+      <string-reference>16th ACM Symp. on Princ. of Distr. Computing (PODC)</string-reference>
+      <string-reference>Proc. of 22th Annual ACM Symp. on Principles of Distributed Computing (PODC'03)</string-reference>
+      <string-reference>23th ACM SIGACTSIGOPS Symposium on Principles of Distributed Computing (PODC)</string-reference>
+      <string-reference>ACMIEEE Conference on Principles of Distributed Computation</string-reference>
+      <string-reference>proceedings of the 15th annual acm symposium on principles of distributed computing'</string-reference>
+      <string-reference>Proceedings of the twenty-fifth annual ACM symposium on Principles of distributed computing</string-reference>
+      <string-reference>Proceedings of the third PODC</string-reference>
+      <string-reference>InProceedingsof the Fifteenth ACM Symposium on Principles of Distributed Computing</string-reference>
+      <string-reference>ACM Conference on Principles of Distributed Computing (PODC)</string-reference>
+      <string-reference>Proceedings of the 15th Annual ACM Symposium on Principles of Distributed Computing (PODC'96)</string-reference>
+      <string-reference>Proceedings of the Seventh Annual Symposium on Principles of Distributed Computing (PODS'98)</string-reference>
+      <string-reference>Proceedings of the 15th ACM Symposium on Principles of Distributed Computing</string-reference>
+      <string-reference>Symposium on Principles of Distributed Computing</string-reference>
+      <string-reference>Proceedings of the twenty-second annual symposium on Principles of distributed computing</string-reference>
+      <string-reference>Proceedings of the twentieth annual ACM symposium on Principles of distributed computing</string-reference>
+      <string-reference>Proceedings of the twenty-third annual ACM symposium on Principles of distributed computing</string-reference>
+      <string-reference>Proceedings of the twenty-fourth annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing</string-reference>
+      <string-reference>Proc. Third Annual ACM Sympos. on Principles of Distributed Computing</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>24</id>
+      <idClass>10274</idClass>
+      <title>ACM SIGMOD Record</title>
+      <string-reference>SIGMOD REC</string-reference>
+      <string-reference>SIGMOD Records V</string-reference>
+      <string-reference>SIGMOD Record</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>25</id>
+      <idClass>10192</idClass>
+      <acronym>CCR</acronym>
+      <title>Computer Communication Review</title>
+      <string-reference>Computer-Communication-Review</string-reference>
+      <string-reference>ACM SIGCOMM Computer Communication Review</string-reference>
+      <string-reference>ACM Computer Communication Review</string-reference>
+      <string-reference>ACM SIGCOMM Computer Communication Review (CCR)</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>26</id>
+      <idClass>2029</idClass>
+      <acronym>PLDI</acronym>
+      <title>ACM SIGPLAN Conference on Programming Language Design and Implementation</title>
+      <string-reference>Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation</string-reference>
+      <string-reference>sigplan conference on programming language design and implementation (pldi'96)</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1992 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proc. Conf. on Programming Language Design and Implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 2002 Conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 91 Conference on Programming Language Design and Implementation</string-reference>
+      <string-reference>ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 2000 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation</string-reference>
+      <string-reference>ACM Sigplan PLDI</string-reference>
+      <string-reference>ACM Conference on Programming Language Design and Implementation</string-reference>
+      <string-reference>Submitted to PLDI</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1999 conference on Programming language design and implementation</string-reference>
+      <string-reference>the 1997 acm sigplam conference on programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the 2007 ACM SIGPLAN conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 2003 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the 1991 Symposium on Programming Languages Design and Implementation</string-reference>
+      <string-reference>proceedings of the 1991 acm sigplan conference on programming languages design and implementations</string-reference>
+      <string-reference>proceedings of the 2000 acm sigplan. conference on programming language design and implementation</string-reference>
+      <string-reference>proceedings of the acm conference on programming language design and implementation (pldi)</string-reference>
+      <string-reference>Best of PLDI</string-reference>
+      <string-reference>proceedings of programming languages design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1995 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proc. Conf. Programming Language Design and Implementationpp</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1997 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 2001 conference on Programming language design and implementation</string-reference>
+      <string-reference>Symposium on Programming Languages Design and Implementation. ACM Press</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 2004 conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of PLDI'03</string-reference>
+      <string-reference>Proceedings of the 2006 ACM SIGPLAN conference on Programming language design and implementation</string-reference>
+      <string-reference>Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>27</id>
+      <idClass>20124</idClass>
+      <acronym>MobiCom</acronym>
+      <title>Annual ACM International Conference on Mobile Computing and Networking</title>
+      <string-reference>Proc. of the 7th Annual International Conference on Mobile Computing and Networking (Mobicom 2001)</string-reference>
+      <string-reference>IEEE MobiCom</string-reference>
+      <string-reference>Proceedings of the 11th annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>Proceedings of ACM MobiCom</string-reference>
+      <string-reference>Proceedings of Third ACM/IEEE Mobicom Conference</string-reference>
+      <string-reference>Proceedings of the 2nd annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>Proceedings of the 5th annual ACM/IEEE international conference on Mobile computing and networking</string-reference>
+      <string-reference>Conference on Mobile Computing and Networking (Mobi-Com)</string-reference>
+      <string-reference>ACM/IEEE MobiCom 97</string-reference>
+      <string-reference>smart dust. in proceedings of international conference on mobile computing and networking (mobicom 99)</string-reference>
+      <string-reference>proceedings of the fifth annual acm/ieee international conference on mobile computing and networking (mobicom'99)</string-reference>
+      <string-reference>Proceedings of 2nd ACM international conference on mobile computing and networking</string-reference>
+      <string-reference>proceedings of the sixth annual acm/ieee international conference on mobile computing and networking</string-reference>
+      <string-reference>Proc. of the 7th Ann. Conf. on Mobile Computing and Networking (MOBICOM)</string-reference>
+      <string-reference>7 thAnnual International Conference on Mobile Computing and Networking</string-reference>
+      <string-reference>IEEE Mobile Communications Conference (MOBICOM)</string-reference>
+      <string-reference>Proceedings of ACM/IEEE Mobicom</string-reference>
+      <string-reference>ACM/IEEE Mobicom 2001</string-reference>
+      <string-reference>Proceedings of the 6th annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>Of Mobicom</string-reference>
+      <string-reference>Proceedings of the 1st annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>the proceedings of the 6th annual acm/ieee international conference on mobile computing and networking (mobicom'00)</string-reference>
+      <string-reference>6th ACM MOBICOM Conf</string-reference>
+      <string-reference>International Conference on Mobile Computing and Networking</string-reference>
+      <string-reference>Proc. Sixth Ann. ACM/IEEE Int'l Conf. Mobile Computing and Networking (MobiCom)</string-reference>
+      <string-reference>6th acm international conference on mobile computing and networking (acm mobicom)</string-reference>
+      <string-reference>Proceedings of the rst annual international conference on Mobile computing and networking (MOBICOM 95)</string-reference>
+      <string-reference>Proceedings of the 7th annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>Proc. Conf. Mobile Computing MOBICOM</string-reference>
+      <string-reference>Proceedings of the MobiCom'00</string-reference>
+      <string-reference>Proceedings of the 3rd annual ACM/IEEE international conference on Mobile computing and networking</string-reference>
+      <string-reference>Proceedings of the 9th annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>Proceedings of the 12th annual international conference on Mobile computing and networking</string-reference>
+      <string-reference>proceedings of the 4th annual acm/ieee international conference on mobile computing and networking (mobicom'98)</string-reference>
+      <string-reference>Proc. 6th ACM International Conference on Mobile Computing and Networking</string-reference>
+      <string-reference>Proc. First Annual International Conference on Mobile Computing and Networking</string-reference>
+      <string-reference>Seventh Annual International Conference on Mobile Computing and Networking</string-reference>
+      <string-reference>Int. Conf. Mobile Computing and Networking</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>28</id>
+      <idClass>107</idClass>
+      <title>AI Magazine</title>
+      <string-reference>Readings from the AI magazine table of contents</string-reference>
+      <pub-type>M</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>29</id>
+      <idClass>20420</idClass>
+      <acronym>CDC</acronym>
+      <title>IEEE Conference on Decision and Control</title>
+      <string-reference>Proceedings of the IEEE International Conference on Decision and Control</string-reference>
+      <string-reference>Proceedings of the 43rd Conference on Decision and Control (CDC 2004)</string-reference>
+      <string-reference>Proc. 1974 IEEE Conf. On Decision and Control</string-reference>
+      <string-reference>Submitted to 45th IEEE Conference on Decision and Control</string-reference>
+      <string-reference>38th ieee conference on decsions and control</string-reference>
+      <string-reference>Proceedings of the Tenth IEEE Conference on Decisions and Control</string-reference>
+      <string-reference>proceedings of the 36th ieee conference on decision and control</string-reference>
+      <string-reference>proceedings ieee conference decis control</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>30</id>
+      <idClass>10362</idClass>
+      <acronym>TOPLAS</acronym>
+      <title>ACM Transactions on Programming Languages and Systems</title>
+      <string-reference>ACM Transactionson Programming Languages and Systems</string-reference>
+      <string-reference>ACM Transactions on Programming Languages and Systems (TOPLAS)</string-reference>
+      <string-reference>TOPLAS</string-reference>
+      <string-reference>ACM, TOPLAS</string-reference>
+      <string-reference>A Behavioral Notion of Subtyping. ACM TOPLAS</string-reference>
+      <string-reference>KK, I-Structures-Data Structures For Parallel Computing", TOPLAS</string-reference>
+      <string-reference>ACM Transactions on Programming Language and Systems</string-reference>
+      <string-reference>Atomic Data Types, ACM Transactions on Programming Languages and Systems</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>31</id>
+      <idClass>101259</idClass>
+      <title>The American Mathematical Monthly</title>
+      <string-reference>Amer. Math. Monthly</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>32</id>
+      <idClass>10412</idClass>
+      <acronym>TOCS</acronym>
+      <title>ACM Transactions on Computer Systems</title>
+      <string-reference>ACM Trans. Comput. Syst</string-reference>
+      <string-reference>ACM Transactions on Computer System</string-reference>
+      <string-reference>ACM Transactions on Computer Systems (TOCS)</string-reference>
+      <string-reference>TOCS</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>33</id>
+      <idClass>20208</idClass>
+      <acronym>ACL</acronym>
+      <title>Annual Meeting of the Association for Computational Linguistics</title>
+      <string-reference>Proceedings of the 38th Annual Meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 22nd conference on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 43rd Annual Meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 18th conference on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 40th Annual Meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings 40th Annual Meeting of the Association of Computational Linguistics (ACL'2002)</string-reference>
+      <string-reference>Proceedings of the 37th conference on Association for Computational Linguistics</string-reference>
+      <string-reference>lexicalized models for statistical parsing," in proceedings of the 35th annual meeting of the association for computational linguistics</string-reference>
+      <string-reference>Proceedings of the 42nd Annual Meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 23rd conference on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of th (35th Annual Meeting of the Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 45th Annual Meeting of the Association of Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 26th conference on Association for Computational Linguistics</string-reference>
+      <string-reference>ACL</string-reference>
+      <string-reference>Proceedings of the 34th Annual Meeting of the Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the ACL 2005 on Interactive poster and demonstration sessions</string-reference>
+      <string-reference>Proceedings of the 23rd annual meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Proc. ACL</string-reference>
+      <string-reference>Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 32nd annual meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Prvccedings of ACL'99</string-reference>
+      <string-reference>Proceedings of the 20th conference on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 32 ndAnnual Meeting of the Association for Computational Linguistics</string-reference>
+      <string-reference>the 33rd annual meeting of the association of computational linguistics</string-reference>
+      <string-reference>Proceedings of ACL-85</string-reference>
+      <string-reference>Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the ACL</string-reference>
+      <string-reference>Proceedings of the 35th conference on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 31st Annual Meeting of the Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 39th Annual Meeting on Association for Computational Linguistics</string-reference>
+      <string-reference>Proceedings of the 45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions</string-reference>
+      <string-reference>Proceedings of the 21st conference on Association for Computational Linguistics</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>34</id>
+      <idClass>20163</idClass>
+      <acronym>ICDE</acronym>
+      <title>International Conference on Data Engineering</title>
+      <string-reference>Proceedings of the 19th International Conference on Data Engineering (ICDE'03)</string-reference>
+      <string-reference>Proc. 16th ICDE</string-reference>
+      <string-reference>16th International Conference on Data Engineering</string-reference>
+      <string-reference>sudarshan. user interaction in banks system: a demonstration. international conference of data enginerring</string-reference>
+      <string-reference>proceedings of the international conference on data engineering (icde98)</string-reference>
+      <string-reference>Proceedings of the 18th International Conference on Data Engineering (ICDE'02)</string-reference>
+      <string-reference>proceedings 18th international conference on data engineering</string-reference>
+      <string-reference>invited talk at international conference on data engineering</string-reference>
+      <string-reference>ICDE</string-reference>
+      <string-reference>Sixth Int. Conf. on Data Eng</string-reference>
+      <string-reference>Proc. of IEEE ICDE</string-reference>
+      <string-reference>Data Engineering, 2007. ICDE 2007. IEEE 23rd International Conference on</string-reference>
+      <string-reference>Proceedings of the 20th International Conference on Data Engineering</string-reference>
+      <string-reference>Proc. Int'l Conf. Data Eng.(ICDE)</string-reference>
+      <string-reference>Proc. Int'l Conf. Data Eng</string-reference>
+      <string-reference>Proc. of the 16th Int'l Conf. on Data engineering (ICDE). IEEE</string-reference>
+      <string-reference>Proceedings of IEEE International Conference on Data Engineering</string-reference>
+      <string-reference>18 th International Conference on Data Engineering</string-reference>
+      <string-reference>proceedings the 22nd international conference on data engineering (icde'06)</string-reference>
+      <string-reference>Conference on Data Engineering</string-reference>
+      <string-reference>Proc. of the 21st Int'l Conf. on Data Engineering (ICDE). Tokyo: IEEE Computer Society</string-reference>
+      <string-reference>Proceedings of the 11th International Conference on Data Engineering (ICDE'95)</string-reference>
+      <string-reference>Proc. of the 2005 Intl. Conf. on Data Engineering</string-reference>
+      <string-reference>Proceedings of the 16th International Conference on Data Engineering (ICDE)</string-reference>
+      <string-reference>Intl. Conf. on Data Engineering (ICDE)</string-reference>
+      <string-reference>Proc. ICDE</string-reference>
+      <string-reference>Proceedings of the Third International Conference on Data Engineering table of contents</string-reference>
+      <string-reference>Proc. of the 19th International Conference on Data Engineering (ICDE 2003)</string-reference>
+      <string-reference>Proceedings of the 21st IEEE ICDE International Conference on Data Engineering</string-reference>
+      <string-reference>IEEE ICDE Conference</string-reference>
+      <string-reference>IEEE Data Engineering Conference</string-reference>
+      <string-reference>Proceedings of the 17th International Conference on Data Engineering</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>35</id>
+      <idClass>10147</idClass>
+      <title>IEEE Micro</title>
+      <string-reference>IEEE Micro</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>36</id>
+      <idClass>10163</idClass>
+      <acronym>JCSS</acronym>
+      <title>Journal of Computer and System Sciences</title>
+      <string-reference>JCSS</string-reference>
+      <string-reference>J. Computer &amp; System Sciences</string-reference>
+      <string-reference>J. Comput. System Sci</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>37</id>
+      <idClass>101808</idClass>
+      <acronym>CAN</acronym>
+      <title>ACM SIGARCH Computer Architecture News</title>
+      <string-reference>Computer Architecture News</string-reference>
+      <string-reference>Computer Architecture News (Special Issue ISCA21 Proceedings)</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>38</id>
+      <idClass>101837</idClass>
+      <acronym>JSSC</acronym>
+      <title>IEEE Journal of Solid State Circuits</title>
+      <string-reference>IEEE Journal of Solid State Circuit</string-reference>
+      <string-reference>IEEE JSSC</string-reference>
+      <string-reference>Solid-State Circuits, IEEE Journal of</string-reference>
+      <string-reference>IEEE JOURNAL OF SOLID-STATE CIRCUITS</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>39</id>
+      <idClass>101074</idClass>
+      <title>Operating Systems Review</title>
+      <string-reference>ACM SIGOPS Operating Systems Review</string-reference>
+      <string-reference>Operating Systems Review (SIGOPS), US, ACM Headquarter, New York</string-reference>
+      <string-reference>ACM Operating Systems Review</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>40</id>
+      <idClass>20198</idClass>
+      <acronym>CVPR</acronym>
+      <title>IEEE Computer Society International Conference on Computer Vision and Pattern Recognition</title>
+      <string-reference>Computer Vision and Pattern Recognition, 2006 IEEE Computer Society Conference on</string-reference>
+      <string-reference>Proceedings of the 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition-Volume 1</string-reference>
+      <string-reference>Proceedings of the 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition-Volume 2</string-reference>
+      <string-reference>proceedings of the ieee conference on computer vision and pattern recognition (cvpr'98)</string-reference>
+      <string-reference>Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on</string-reference>
+      <string-reference>The IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)</string-reference>
+      <string-reference>PROC IEEE COMPUT SOC CONF COMPUT VISION PATTERN RECOGNIT</string-reference>
+      <string-reference>Computer Vision and Pattern Recognition</string-reference>
+      <string-reference>Proc. Computer Vision and Pattern Recognition</string-reference>
+      <string-reference>Proceedings of the 1997 Conference on Computer Vision and Pattern Recognition (CVPR'97)</string-reference>
+      <string-reference>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</string-reference>
+      <string-reference>IEEE International Conference on Computer Vision and Pattern Recognition</string-reference>
+      <string-reference>Proc. CVPR</string-reference>
+      <string-reference>Proc. IEEE Conf. on Computer Vision and Pattern Recognition</string-reference>
+      <string-reference>Computer Vision and Pattern Recognition (CVPR)</string-reference>
+      <string-reference>Proceedings of CVPR</string-reference>
+      <string-reference>Conference on Computer Vision and Pattern Recognition (CVPR)</string-reference>
+      <string-reference>Energy Minimization Methods in Computer Vision and Pattern Recognition</string-reference>
+      <string-reference>Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>41</id>
+      <idClass>20455</idClass>
+      <acronym>ICRA</acronym>
+      <title>IEEE International Conference on Robotics and Automation</title>
+      <string-reference>Proceedings of the 1998 International Conference on Robotics and Automation</string-reference>
+      <string-reference>Robotics and Automation, 2006. ICRA 2006. Proceedings 2006 IEEE International Conference on</string-reference>
+      <string-reference>Proceedings IEEE International Conference on Robotics and Automation</string-reference>
+      <string-reference>International Conference on Robotics and Automation</string-reference>
+      <string-reference>Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)</string-reference>
+      <string-reference>Proc. ICRA</string-reference>
+      <string-reference>1987 ieee international conference on robotics and automation</string-reference>
+      <string-reference>Robotics and Automation, 2004. Proceedings. ICRA'04. 2004 IEEE International Conference on</string-reference>
+      <string-reference>ICRA</string-reference>
+      <string-reference>Int. Conference of Robotics and Automation</string-reference>
+      <string-reference>Proc. of the IEEE International Conference on Robotics 'AND' Automation (ICRA)</string-reference>
+      <string-reference>Lecture Notes, Workshop in 1996 IEEE International Conference on Robotics and Automation</string-reference>
+      <string-reference>proceedings of the international conference on robotics and automation. ieee</string-reference>
+      <string-reference>Proc. IEEE Int. Conf. on Robotics and Automation</string-reference>
+      <string-reference>PROC IEEE INT CONF ROB AUTOM</string-reference>
+      <string-reference>IEEE ICRA, San Francisco, CA, April</string-reference>
+      <string-reference>Proceedings of the 2001 IEEE, International Conference on Robotics and Automation</string-reference>
+      <string-reference>Proc. IEEE Int. Conf. on Rob. and Aut</string-reference>
+      <string-reference>Emergent Behaviors from a Carefully Evolved Network Proceedings of the 1989 IEEE international Conference on Robotics and Automation</string-reference>
+      <string-reference>Proceedings of IEEE Conference on Robotics and Automation</string-reference>
+      <string-reference>Proc. 2006 IEEE International Conference on Robotics and Automation</string-reference>
+      <string-reference>Proc. of the IEEEInt. Conf on Robot. andAutomat.(ICRA)</string-reference>
+      <string-reference>Proc. IEEE Int. Conf. Robot. Automat</string-reference>
+      <string-reference>proceedings of 2006 ieee international conference on robotics and automation</string-reference>
+      <string-reference>Proc. 2006 IEEE Intl. Conf. on Robotics and Automation (ICRA)</string-reference>
+      <string-reference>proceedings of ieee international conference on robots and automation</string-reference>
+      <string-reference>Proceedings- IEEE International Conference on Robotics and Automation</string-reference>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>42</id>
+      <idClass>10385</idClass>
+      <acronym>TSE</acronym>
+      <title>IEEE Transactions on Software Engineering</title>
+      <string-reference>IEEE transactions on Software Engineering SE-4 (3)</string-reference>
+      <string-reference>ieee transaction on software engineering</string-reference>
+      <string-reference>TSE</string-reference>
+      <string-reference>IEEE Trans. Software Eng</string-reference>
+      <string-reference>Software Engineering, IEEE Transactions on</string-reference>
+      <string-reference>IEEETSE, SE-3</string-reference>
+      <string-reference>IEEE Transactionson Software Engineering</string-reference>
+      <string-reference>The Sea View security model, IEEE Trans. Software Eng</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>43</id>
+      <idClass>202</idClass>
+      <acronym>FOCS</acronym>
+      <title>Annual IEEE Symposium on Foundations of Computer Science</title>
+      <string-reference>25th Symposium on FOCS</string-reference>
+      <string-reference>Proceedings of the fourty fourth IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 37th Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 42 ndIEEE FOCS</string-reference>
+      <string-reference>Proc. 30th IEEE Symp. Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 36th Annual Symposium on Foundations of Computer Science (FOCS'95)</string-reference>
+      <string-reference>proceedings of the annual symposium on foundations of computer science</string-reference>
+      <string-reference>Proceedings of the 24th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 41st Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>32nd IEEE FOCS</string-reference>
+      <string-reference>Proceedings of the 28th Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Submitted to the Thirty-Sixth Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proc. 27th IEEE Symposium on Foundations of Computer Science (FOCS)</string-reference>
+      <string-reference>21st annual symposium on foundations of computer science</string-reference>
+      <string-reference>Proceedings of the 41st Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>proceedings 20th annual ieee symposium on foundations of computer science</string-reference>
+      <string-reference>36th IEEE Conference on the Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 30th Annual IEEE Symposium on the Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of IEEE Symposium on Foundations of Computer Science (FOCS)</string-reference>
+      <string-reference>Proceedings of the 32nd annual symposium on Foundations of computer science table of contents</string-reference>
+      <string-reference>Proceedings of the 46th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>20th Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proc. of the 26th IEEE Ann. Symp. on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 44th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>31st Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings, 42nd Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 33rd Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceeding of the 35th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>20th Ann. IEEE Syrup. on Foundations of Computer Science, San Juan, Puerto Rico</string-reference>
+      <string-reference>36th Annual Symposium on Foundations of Computer Science (FOCS)</string-reference>
+      <string-reference>Proceedings of the 44th Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 23rd Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 39th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>proceedings 18th annual symposium foundations of computer science</string-reference>
+      <string-reference>Proceedings of the 39th Symposium on Foundations of Computer Science (FOCS'98)</string-reference>
+      <string-reference>40th Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 37th FOCS</string-reference>
+      <string-reference>Proc. 33rd IEEE Symp. on Foundations of Computer Science</string-reference>
+      <string-reference>21st annual symposium on foundations of computer science (21st focs</string-reference>
+      <string-reference>Proceedings of the 23rd Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proc. 41st Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>FOCS</string-reference>
+      <string-reference>Proc. 47th Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 28th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 20th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Foundations of Computer Science, 2005. FOCS 2005. 46th Annual IEEE Symposium on</string-reference>
+      <string-reference>Proceedings 45th Annual IEEE Symposium on Foundations of Computer Science (FOCS)</string-reference>
+      <string-reference>27th Symposium FOCS. IEEE</string-reference>
+      <string-reference>Proceedings of the 35th Annual Symposium on Foundations of Computer Science (FOCS)</string-reference>
+      <string-reference>Proceedings of the 44th Symposium on the Foundations of Computer Science (FOCS)</string-reference>
+      <string-reference>Proceedings of the 39th Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 41th Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 37th Annual IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>24th Annual Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 41st IEEE Symposium on Foundations of Computer Science</string-reference>
+      <string-reference>Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06)-Volume 00</string-reference>
+      <string-reference>Proceedings of the 37th IEEE Symposium on Foundations of Computer Science</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>44</id>
+      <idClass>20159</idClass>
+      <acronym>PODS</acronym>
+      <title>ACM SIGACT SIGMOD SIGART Symposium on Principles of Database Systems</title>
+      <string-reference>Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>seventeenth acm sigactsigmod-sigart international conference on management of data and symposium on principles of database systems (pods). seattle</string-reference>
+      <string-reference>PODS</string-reference>
+      <string-reference>Invited Talk. PODS</string-reference>
+      <string-reference>In Proc. of the 2002 ACM Symp. on Principles of Database Systems</string-reference>
+      <string-reference>Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems</string-reference>
+      <string-reference>Proc. of the 23rd ACM SIGACT SIGMOD SIGART Symp. on Principles of Database Systems (PODS 2004)</string-reference>
+      <string-reference>Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>Proceedings of the eighteenth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>Fifth ACM Symposium on Principles of Database Systems</string-reference>
+      <string-reference>Proceedings of the 14th ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems</string-reference>
+      <string-reference>Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of database systems</string-reference>
+      <string-reference>Proc. 16th ACM SIGACT SIGMOD SIGART Symp. on Principles of Database Systems</string-reference>
+      <string-reference>Proc. ACM PODS</string-reference>
+      <string-reference>Proceedings of the twenty-third ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems</string-reference>
+      <string-reference>Selected papers of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems table of contents</string-reference>
+      <string-reference>Proc. 15th Symposium on Principles of Database Systems</string-reference>
+      <string-reference>Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems</string-reference>
+      <string-reference>Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems</string-reference>
+      <string-reference>Proc. of the 2000 ACM Symp. on Principles of Database Systems</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>45</id>
+      <idClass>2015</idClass>
+      <acronym>SoCG</acronym>
+      <title>Annual ACM Symposium on Computational Geometry</title>
+      <string-reference>Conference on Computational Geometry</string-reference>
+      <string-reference>Proceedings of the eighteenth annual symposium on Computational geometry</string-reference>
+      <string-reference>proceedings 11th annu. acm sympos. comput. geom.</string-reference>
+      <string-reference>Proceedings of the twenty-second annual symposium on Computational geometry</string-reference>
+      <string-reference>Proceedings of the 20th Annual ACM Symposium on Computational Geometry</string-reference>
+      <string-reference>Proceedings of the twenty-first annual symposium on Computational geometry</string-reference>
+      <string-reference>ACM Symposium on Computational Geometry</string-reference>
+      <string-reference>Proceedings of the twenty-third annual symposium on Computational geometry</string-reference>
+      <string-reference>Proceedings of the 16th Annual ACM Symposium on Computational Geometry</string-reference>
+      <string-reference>Symposium on Computational Geometry</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>46</id>
+      <idClass>2020</idClass>
+      <acronym>CCCG</acronym>
+      <title>Canadian Conference on Computational Geometry</title>
+      <string-reference>CCCG Canadian Conference on Computational Geometry</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>47</id>
+      <idClass>10637</idClass>
+      <acronym>ENTCS</acronym>
+      <title>Electronic Notes in Theoretical Computer Science</title>
+      <string-reference>Electronic Notes in Theoretical Computer Science (ENTCS)</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>48</id>
+      <idClass>10455</idClass>
+      <title>Theoretical Computer Science</title>
+      <string-reference>THEOR COMPUT SCI</string-reference>
+      <string-reference>Theoretical Computer Science: Essays in Memory of Shimon Even</string-reference>
+      <string-reference>Theoretical Computer Science, Special Issue on Online Algorithms, In Memoriam: Steve Seiden</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>49</id>
+      <idClass>10145</idClass>
+      <acronym>TON</acronym>
+      <title>IEEE ACM Transactions on Networking</title>
+      <string-reference>Submitted to IEEE Transactions on Networking</string-reference>
+      <string-reference>Networking, IEEE/ACM Transactions on</string-reference>
+      <string-reference>ACM Transactions on Netwoking</string-reference>
+      <string-reference>Transactions on Networks</string-reference>
+      <string-reference>Recovery Timer Adaptation in SRM. Submitted to IEEE Transactions on Networking</string-reference>
+      <string-reference>submitted to ieee/acm transactions on networking. also available as hpng technical report-tr02-hpng-031001</string-reference>
+      <string-reference>IEEE/ACM Trans. Netw</string-reference>
+      <string-reference>acm transactions on networking</string-reference>
+      <string-reference>IEEE/ACM Transactions on Networking (TON)</string-reference>
+      <string-reference>IEEE/ACM Transactions on Networking</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>50</id>
+      <idClass>10360</idClass>
+      <acronym>TOG</acronym>
+      <title>ACM Transactions on Graphics</title>
+      <string-reference>ACM Transactions on Graphics (TOG)</string-reference>
+      <string-reference>ACM Transaction of Graphics</string-reference>
+      <string-reference>ACM Trans. Graph</string-reference>
+      <pub-type>J</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>51</id>
+      <idClass>2076</idClass>
+      <acronym>CAV</acronym>
+      <title>International Conference on Computer Aided Verification</title>
+      <string-reference>proceedings of the conference on computer aided verification</string-reference>
+      <string-reference>Proceedings of the 11th International Conference on Computer Aided Verification</string-reference>
+      <string-reference>Proc. 5th Conference on Computer Aided Verification</string-reference>
+      <string-reference>Computer-Aided Verification</string-reference>
+      <string-reference>proceedings of the 8th conference on computer-aided verification (new brunswick</string-reference>
+      <string-reference>Proc. CAV'96-8th Intl. Conf. on Computer-Aided Verification</string-reference>
+      <string-reference>Proc. Computer-Aided Verification (CAV 1994)</string-reference>
+      <string-reference>14th International Conference on Computer-Aided Verification</string-reference>
+      <string-reference>international conference on computer-aided verification</string-reference>
+      <string-reference>Computer Aided Verification</string-reference>
+      <string-reference>CAV'05: Conference on Computer Aided Verification</string-reference>
+      <string-reference>Proceedings of the 8th International Conference on Computer Aided Verification</string-reference>
+      <string-reference>Proceedings of the sixth International Conference on Computer-Aided Verification CAV</string-reference>
+      <string-reference>CAV</string-reference>
+      <string-reference>Proc. 8 thIntl. Conference on Computer Aided Verification</string-reference>
+      <string-reference>Computer-Aided Verification (CAV'05</string-reference>
+      <string-reference>16th conference on Computer Aided Verification (CAV'04)</string-reference>
+      <string-reference>Proceedings of the 6th International Conference on Computer Aided Verification</string-reference>
+      <string-reference>Computer Aided Verification (CAV'98)</string-reference>
+      <string-reference>Proceedings of the 10th International Conference on Computer Aided Verification</string-reference>
+      <string-reference>17th Conference on Computer Aided Verification (CAV'05)</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>52</id>
+      <idClass>20115</idClass>
+      <acronym>IPTPS</acronym>
+      <title>International Workshop on Peer To Peer Systems</title>
+      <string-reference>proceedings 2nd iptps</string-reference>
+      <string-reference>Proc. of IPTPS</string-reference>
+      <string-reference>International Workshop on Peer-to-Peer Systems (IPTPS 2007)</string-reference>
+      <string-reference>proceedings of the1st international workshop on peer-to-peer systems (iptps'02)</string-reference>
+      <string-reference>Proc. 1st International Workshop on Peer-to-Peer Systems (IPTPS)</string-reference>
+      <string-reference>proceedings of iptps05</string-reference>
+      <string-reference>Proceedings of the 3rd IPTPS</string-reference>
+      <string-reference>Electronic Proceedings for the 1st International Workshop on Peer-to-Peer Systems (IPTPS'02)</string-reference>
+      <string-reference>Proceedings of the 1st International Workshop on Peer-to-Peer Systems (IPTPS'02)</string-reference>
+      <string-reference>Proceedings of the 2nd International Workshop on Peer-to-Peer Systems (IPTPS'03)</string-reference>
+      <string-reference>Proceedings of 4th International Workshop on Peer-to-Peer Systems (IPTPS)</string-reference>
+      <string-reference>i> proceedings second international workshop peer-to-peer systems (iptps)</string-reference>
+      <string-reference>Proc. of IPTPS'06</string-reference>
+      <string-reference>Proc. of the 3rd IPTPS</string-reference>
+      <string-reference>Proceedings of the 4th International Workshop on Peer-To-Peer Systems (IPTPS'05)</string-reference>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>53</id>
+      <idClass>202546</idClass>
+      <string-reference>IEEE Worskhop on Articulated and Nonrigid Motion at CVPR, June</string-reference>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>54</id>
+      <idClass>202833</idClass>
+      <string-reference>Agent-Mediated Electronic Commerce Workshop at the International Joint Conference on Artificial Intelligence</string-reference>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</publication-venues>

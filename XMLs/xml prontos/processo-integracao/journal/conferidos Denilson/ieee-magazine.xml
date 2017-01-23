@@ -1,0 +1,9 @@
+<publication-venues>
+   <from>IEEE - http://www.computer.org/csdl</from>
+   <pub-venue>
+      <id>5</id>
+      <entity>IEEE</entity>
+      <pub-venue-title>IEEE Concurrency (out of print)</pub-venue-title>
+      <pub-type>M</pub-type>
+   </pub-venue>
+</publication-venues>

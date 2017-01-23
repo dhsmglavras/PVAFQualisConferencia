@@ -1,0 +1,806 @@
+Thu Oct 03 12:42:32 BRT 2013
+minSim: 1.0
+maxSim: 1.0
+minSimIfAcronEqual: 0.6
+toAsk: false
+
+<setId>
+    <pub-venue>
+            <id>359</id>
+            <idClass>2036</idClass>
+            <acronym>FoSSaCS</acronym>
+            <title>Foundations of Software Science and Computation Structure</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>81</id>
+            <idClass>2036</idClass>
+            <acronym>FOSSACS</acronym>
+            <title>Foundations of Software Science and Computation Structures</title>
+            <title>Foundations of Software Science and Computation Structures Conference</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>422</id>
+            <idClass>20134</idClass>
+            <acronym>WOWMOM</acronym>
+            <title>Workshop on Wireless Mobile Multimedia</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>177</id>
+            <idClass>20134</idClass>
+            <entity>IEEE</entity>
+            <entity>ACM</entity>
+            <acronym>WoWMoM</acronym>
+            <title>International Symposium on on World of Wireless, Mobile and Multimedia Networks</title>
+            <title>IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks</title>
+            <pub-type>W</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>487</id>
+            <idClass>20195</idClass>
+            <acronym>TABLEAUX</acronym>
+            <title>Analytic Tableaux and Related Methods</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>234</id>
+            <idClass>20195</idClass>
+            <acronym>TABLEAUX</acronym>
+            <title>International Conference on Automated Reasoning with Analytic Tableaux and Related Methods</title>
+            <title>International Conference on Theorem Proving with Analytic Tableaux and Related Methods</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2824</id>
+            <idClass>20212</idClass>
+            <acronym>NAACL</acronym>
+            <title>Human Language Technologies: The Conference of the North American Chapter of the Association for Computational Linguistics</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>251</id>
+            <idClass>20212</idClass>
+            <acronym>NAACL</acronym>
+            <title>North American Chapter of the Association for Computational Linguistics Annual Meeting</title>
+            <title>Conference of the North American Chapter of the Association for Computational Linguistics</title>
+            <title>Annual Conference of the North American Chapter of the Association for Computational Linguistics</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>328</id>
+            <idClass>20245</idClass>
+            <acronym>CSCL</acronym>
+            <title>Computer Support for Collaborative Learning</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>283</id>
+            <idClass>20245</idClass>
+            <acronym>CSCL</acronym>
+            <title>Conference in Computer Supported Collaborative Learning</title>
+            <title>International Conference on Computer Supported Collaborative Learning</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>84</id>
+            <idClass>20253</idClass>
+            <acronym>Hypertext</acronym>
+            <title>ACM Conference on Hypertext</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>291</id>
+            <idClass>20253</idClass>
+            <entity>ACM</entity>
+            <acronym>Hypertext</acronym>
+            <acronym>HT</acronym>
+            <title>ACM conference on Hypertext and social media</title>
+            <title>ACM Conference on Hypertext and Hypermedia</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>A2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>489</id>
+            <idClass>20278</idClass>
+            <acronym>PPDP</acronym>
+            <title>Principles and Practice of Declarative Programming</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>314</id>
+            <idClass>20278</idClass>
+            <entity>ACM</entity>
+            <acronym>PPDP</acronym>
+            <title>ACM-SIGPLAN International Conference on Principles and Practice of Declarative Programming</title>
+            <title>international ACM SIGPLAN symposium on Principles and practice of declarative programming</title>
+            <title>International ACM SIGPLAN Conference on Principles and Practice of Declarative Programming</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B4</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>348</id>
+            <idClass>20325</idClass>
+            <acronym>ITSC</acronym>
+            <title>International Conference on Intelligent Transportation</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>360</id>
+            <idClass>20325</idClass>
+            <acronym>ITSC</acronym>
+            <title>Conference on Intelligent Transportation Systems</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>712</id>
+            <idClass>20337</idClass>
+            <acronym>DGCI</acronym>
+            <title>Discrete Geometry for Computer Imagery</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>371</id>
+            <idClass>20337</idClass>
+            <acronym>DGCI</acronym>
+            <title>Digital Geometry for Computer Imagery</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1456</id>
+            <idClass>20412</idClass>
+            <acronym>COMSWARE</acronym>
+            <title>International Conference on Communication Systems Software and Middleware</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>444</id>
+            <idClass>20412</idClass>
+            <entity>ACM</entity>
+            <acronym>COMSWARE</acronym>
+            <title>International Conference on COMmunication System softWAre and MiddlewaRE</title>
+            <title>ICST International Conference on COMmunication System softWAre and MiddlewaRE</title>
+            <title>International ICST Conference on Communication System Software and Middleware</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>247</id>
+            <idClass>20463</idClass>
+            <acronym>ICWS</acronym>
+            <title>International Conference on Web Services</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>494</id>
+            <idClass>20463</idClass>
+            <entity>IEEE</entity>
+            <acronym>ICWS</acronym>
+            <title>IEEE International Conference on Web Services</title>
+            <title>International/European Conference on Web Services</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>713</id>
+            <idClass>20481</idClass>
+            <acronym>HASE</acronym>
+            <title>High-Assurance Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>512</id>
+            <idClass>20481</idClass>
+            <entity>IEEE</entity>
+            <acronym>HASE</acronym>
+            <title>IEEE International Symposium on High Assurance Systems Engineering</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>379</id>
+            <idClass>20487</idClass>
+            <acronym>ISORC</acronym>
+            <title>Object-Oriented Real-Time Distributed Computing</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>518</id>
+            <idClass>20487</idClass>
+            <entity>IEEE</entity>
+            <acronym>ISORC</acronym>
+            <title>IEEE International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing</title>
+            <title>IEEE Computer Society International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>452</id>
+            <idClass>20528</idClass>
+            <acronym>HRI</acronym>
+            <title>Human-Robot Interaction</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>558</id>
+            <idClass>20528</idClass>
+            <entity>IEEE</entity>
+            <entity>ACM</entity>
+            <acronym>HRI</acronym>
+            <title>IEEE/ACM International Conference on Human Robot Interaction</title>
+            <title>annual ACM/IEEE international conference on Human-Robot Interaction</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B4</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>655</id>
+            <idClass>20554</idClass>
+            <acronym>SEC</acronym>
+            <title>Information Security</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>583</id>
+            <idClass>20554</idClass>
+            <acronym>SEC</acronym>
+            <title>IFIP International Information Security Conference</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1446</id>
+            <idClass>20561</idClass>
+            <acronym>IVCNZ</acronym>
+            <title>Image and Vision Computing New Zealand</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>590</id>
+            <idClass>20561</idClass>
+            <acronym>IVCNZ</acronym>
+            <title>Image and Vision Computing Conference</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>360</id>
+            <idClass>20583</idClass>
+            <acronym>3DIM</acronym>
+            <title>International Conference on 3-D Imaging and Modeling</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>612</id>
+            <idClass>20583</idClass>
+            <acronym>3DIM</acronym>
+            <title>International Conference on 3-D Digital Imaging and Modeling</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1039</id>
+            <idClass>20600</idClass>
+            <acronym>AISC</acronym>
+            <title>Artificial Intelligence and Symbolic Computation</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>628</id>
+            <idClass>20600</idClass>
+            <acronym>AISC</acronym>
+            <title>International Conference on Artificial Intelligence and Symbolic Computing</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B5</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1300</id>
+            <idClass>20612</idClass>
+            <acronym>CIMCA</acronym>
+            <title>International Conference on Computational Intelligence forModelling, Control and Automation</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>640</id>
+            <idClass>20612</idClass>
+            <acronym>CIMCA</acronym>
+            <title>International Conference on Computational Intelligence for Modelling Control and Automation</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>734</id>
+            <idClass>20657</idClass>
+            <acronym>FORMATS</acronym>
+            <title>Formal Modeling and Analysis of Timed Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>684</id>
+            <idClass>20657</idClass>
+            <acronym>FORMATS</acronym>
+            <title>International Conference on Formal Modelling and Analysis of Timed Systems</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B2</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>299</id>
+            <idClass>20723</idClass>
+            <acronym>PDIS</acronym>
+            <title>Conference on Parallel andDistributed Information Systems</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>750</id>
+            <idClass>20723</idClass>
+            <acronym>PDIS</acronym>
+            <title>Conference on Parallel and Distributed Information Systems</title>
+            <title>International Conference on Parallel and Distributed Information Systems</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B5</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1157</id>
+            <idClass>20751</idClass>
+            <acronym>TIDSE</acronym>
+            <title>Technologies for Interactive Digital Storytelling and Entertainment</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>776</id>
+            <idClass>20751</idClass>
+            <acronym>TIDSE</acronym>
+            <title>International Conference on Technology for Interactive Digital Storytelling and Entertainment</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>200</id>
+            <idClass>20758</idClass>
+            <acronym>PKC</acronym>
+            <title>Public Key Cryptography</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>783</id>
+            <idClass>20758</idClass>
+            <acronym>PKC</acronym>
+            <title>International Conference on Practice and Theory in Public Key Cryptography</title>
+            <title>International Conference on Theory and Practice of Public-Key Cryptography</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B1</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>546</id>
+            <idClass>20784</idClass>
+            <acronym>DNA</acronym>
+            <title>DNA Computing</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>808</id>
+            <idClass>20784</idClass>
+            <acronym>DNA</acronym>
+            <title>International Meeting on DNA Computing</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B4</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2876</id>
+            <idClass>20813</idClass>
+            <acronym>HPCS</acronym>
+            <title>International Conference on High Performance Computing &amp; Simulation</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>837</id>
+            <idClass>20813</idClass>
+            <acronym>HPCS</acronym>
+            <title>International Symposium on High Performance Computing Systems and Applications</title>
+            <title>Annual International Symposium on High Performance Computing Systems and Applications</title>
+            <title>International Symposium on High Performance Computing Systems</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>408</id>
+            <idClass>20956</idClass>
+            <acronym>PEPM</acronym>
+            <title>Partial Evaluation and Semantic-Based Program Manipulation</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>980</id>
+            <idClass>20956</idClass>
+            <acronym>PEPM</acronym>
+            <title>Symposium on Partial Evaluation and Program Manipulation</title>
+            <pub-type>C</pub-type>
+            <qualis-estrato>B4</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>832</id>
+            <idClass>201004</idClass>
+            <acronym>WEA</acronym>
+            <title>Workshop on Experimental and Efficient Algorithms</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1028</id>
+            <idClass>201004</idClass>
+            <acronym>WEA</acronym>
+            <title>Workshop on Experimental Algorithms</title>
+            <pub-type>W</pub-type>
+            <qualis-estrato>B3</qualis-estrato>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>801</id>
+            <idClass>201216</idClass>
+            <acronym>CUU</acronym>
+            <title>ACM Conference on Universal Usability</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1237</id>
+            <idClass>201216</idClass>
+            <entity>ACM</entity>
+            <acronym>CUU</acronym>
+            <title>conference on Universal usability</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>584</id>
+            <idClass>201311</idClass>
+            <acronym>ETRA</acronym>
+            <title>Eye Tracking Research &amp; Application</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1331</id>
+            <idClass>201311</idClass>
+            <entity>ACM</entity>
+            <acronym>ETRA</acronym>
+            <title>Symposium on Eye Tracking Research and Applications</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3034</id>
+            <idClass>201438</idClass>
+            <acronym>INM</acronym>
+            <title>IEEE Internet Network Management Workshop</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1455</id>
+            <idClass>201438</idClass>
+            <entity>ACM</entity>
+            <acronym>INM</acronym>
+            <title>SIGCOMM workshop on Internet network management</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1166</id>
+            <idClass>201447</idClass>
+            <acronym>IRAL</acronym>
+            <title>International Workshop on Information Retrieval with Asia Languages</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1464</id>
+            <idClass>201447</idClass>
+            <entity>ACM</entity>
+            <acronym>IRAL</acronym>
+            <title>international workshop on on Information retrieval with Asian languages</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1894</id>
+            <idClass>201749</idClass>
+            <acronym>SDE</acronym>
+            <title>Software Development Environments</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1760</id>
+            <idClass>201749</idClass>
+            <entity>ACM</entity>
+            <acronym>SDE</acronym>
+            <title>ACM SIGSOFT symposium on Software development environments</title>
+            <title>ACM SIGSOFT Symposium on Software Development Environment</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3418</id>
+            <idClass>201889</idClass>
+            <acronym>ULTRAVIS</acronym>
+            <title>Workshop on Ultrascale Visualization, UltraVis</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>1896</id>
+            <idClass>201889</idClass>
+            <entity>ACM</entity>
+            <acronym>UltraVis</acronym>
+            <title>Workshop on Ultrascale Visualization</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3073</id>
+            <idClass>202089</idClass>
+            <acronym>BWCCA</acronym>
+            <title>International Conference on Broadband, Wireless Computing, Communication and Applications</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2090</id>
+            <idClass>202089</idClass>
+            <acronym>BWCCA</acronym>
+            <title>International Conference on Broadband, Wireless Computing, Communication and Application</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2576</id>
+            <idClass>202152</idClass>
+            <acronym>CSIE</acronym>
+            <title>Computer Science and Information Engineering</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2152</id>
+            <idClass>202152</idClass>
+            <acronym>CSIE</acronym>
+            <title>World Congress on Computer Science and Information Engineering</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2478</id>
+            <idClass>202171</idClass>
+            <acronym>DBT</acronym>
+            <title>IEEE International Workshop on Current and Defect Based Testing, DBT, Proceedings</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2171</id>
+            <idClass>202171</idClass>
+            <entity>IEEE</entity>
+            <acronym>DBT</acronym>
+            <title>IEEE International Workshop on Defect Based Testing</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2957</id>
+            <idClass>202270</idClass>
+            <acronym>HIBI</acronym>
+            <title>International Workshop on High Performance Computational Systems Biology</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2270</id>
+            <idClass>202270</idClass>
+            <acronym>HIBI</acronym>
+            <title>International Workshop on High Performance Computational Systems Biolog</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>624</id>
+            <idClass>202447</idClass>
+            <acronym>ISESE</acronym>
+            <title>International Symposium on Empirical Software</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2443</id>
+            <idClass>202447</idClass>
+            <acronym>ISESE</acronym>
+            <title>International Symposium on Empirical Software Engineering</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1584</id>
+            <idClass>202534</idClass>
+            <acronym>MSN</acronym>
+            <title>Mobile Sensor Networks</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2528</id>
+            <idClass>202534</idClass>
+            <acronym>MSN</acronym>
+            <title>International Conference on Mobile Ad-hoc and Sensor Networks</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3271</id>
+            <idClass>202583</idClass>
+            <acronym>PCSPA</acronym>
+            <title>International Conference on Pervasive Computing Signal Processing and Applications</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2575</id>
+            <idClass>202583</idClass>
+            <acronym>PCSPA</acronym>
+            <title>International Conference on Pervasive Computing, Signal Porcessing and Applications</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1815</id>
+            <idClass>202862</idClass>
+            <acronym>AUSDM</acronym>
+            <title>Australasian Conference on Knowledge Discovery and Data Mining</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2840</id>
+            <idClass>202862</idClass>
+            <acronym>AusDM</acronym>
+            <title>Australasian Data Mining Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>625</id>
+            <idClass>202892</idClass>
+            <acronym>CARDIS</acronym>
+            <title>Tenth Smart Card Research and Advanced Application Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2870</id>
+            <idClass>202892</idClass>
+            <acronym>CARDIS</acronym>
+            <title>International Conference on Smart Card Research and Advanced Applications</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>3093</id>
+            <idClass>202971</idClass>
+            <acronym>CTW</acronym>
+            <title>Cologne Twente Workshop on Graphs and Combinatorical Optimization</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>2946</id>
+            <idClass>202971</idClass>
+            <acronym>CTW</acronym>
+            <title>Cologne Twente Workshop on Graphs and Combinatorial Optimization</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>1242</id>
+            <idClass>203073</idClass>
+            <acronym>FMLDO</acronym>
+            <title>Workshop on Foundations of Models and Languages for Data and Objects</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3045</id>
+            <idClass>203073</idClass>
+            <acronym>FMLDO</acronym>
+            <title>Workshop on Foundations of Models and Languagesfor Data and Objects</title>
+            <pub-type>W</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>274</id>
+            <idClass>203352</idClass>
+            <acronym>LISA</acronym>
+            <title>USENIX Systems Administration Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3315</id>
+            <idClass>203352</idClass>
+            <acronym>LISA</acronym>
+            <title>USENIX Large Installation Systems Administration Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>
+<setId>
+    <pub-venue>
+            <id>2894</id>
+            <idClass>203577</idClass>
+            <acronym>VNC</acronym>
+            <title>IEEE Vehicular Networking Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+    <pub-venue>
+            <id>3536</id>
+            <idClass>203577</idClass>
+            <acronym>VNC</acronym>
+            <title>Vehicular Networking Conference</title>
+            <pub-type>C</pub-type>
+    </pub-venue>
+</setId>

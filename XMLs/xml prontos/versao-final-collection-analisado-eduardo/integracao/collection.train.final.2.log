@@ -1,0 +1,1140 @@
+Juncao dos veículos que possuem jaccard maior que 1.0, sem fazer limpeza dos dados.
+Threshold = 1.6
+AddIfAcronsIsEqual = 1.0 # Este valor é somado ao valor de similaridade encontrada caso as siglas sejam iguais.
+K = 10
+Sem fazer limpeza nos títulos.
+Total de veículos: 5627
+Total de clusters: 5592
+Diferenca: 35
+<cluster>
+   <pub-venue>
+      <id>1968</id>
+      <idClass>2010</idClass>
+      <acronym>SODA</acronym>
+      <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+      <title>Symposium on Discrete Algorithms</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>3758</id>
+      <idClass>201804</idClass>
+      <entity>ACM</entity>
+      <acronym>SODA</acronym>
+      <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+      <title-formerly>annual ACM-SIAM symposium on Discrete algorithm</title-formerly>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>2010</idClass>
+      <entity>ACM</entity>
+      <acronym>SODA</acronym>
+      <title>Annual ACM-SIAM Symposium on Discrete Algorithms</title>
+      <title>ACM–SIAM Symposium on Discrete Algorithms</title>
+      <title>Symposium on Discrete Algorithms</title>
+      <title-formerly>annual ACM-SIAM symposium on Discrete algorithm</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>1970</id>
+      <idClass>2012</idClass>
+      <acronym>WADS</acronym>
+      <title>Algorithms and Data Structures Symposium</title>
+      <title-formerly>Workshop on Algorithms and Data Structures</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>2940</id>
+      <idClass>20985</idClass>
+      <acronym>WADS</acronym>
+      <title>Workshop on Algorithms and Data Structures</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>2012</idClass>
+      <acronym>WADS</acronym>
+      <title>Algorithms and Data Structures Symposium</title>
+      <title-formerly>Workshop on Algorithms and Data Structures</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>1984</id>
+      <idClass>2026</idClass>
+      <entity>ACM</entity>
+      <acronym>CIAA</acronym>
+      <title>International Conference on Implementation and Application of Automata</title>
+      <title-formerly>Workshop on Implementation of Automata</title-formerly>
+      <acronym-formerly>WIA</acronym-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4862</id>
+      <idClass>202910</idClass>
+      <acronym>CIAA</acronym>
+      <title>International Conference on Implementation and Application of Automata</title>
+      <title-formerly>International Workshop on Implementing Automata</title-formerly>
+      <acronym-formerly>WIA</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>2026</idClass>
+      <entity>ACM</entity>
+      <acronym>CIAA</acronym>
+      <title>International Conference on Implementation and Application of Automata</title>
+      <title-formerly>Workshop on Implementation of Automata</title-formerly>
+      <title-formerly>International Workshop on Implementing Automata</title-formerly>
+      <acronym-formerly>WIA</acronym-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2055</id>
+      <idClass>2097</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>CODES+ISSS</acronym>
+      <acronym>CODES</acronym>
+      <title>IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis</title>
+      <title>International Conference on Hardware Software Codesign</title>
+      <title>International Conference on Hardware/Software Codesign and System Synthesis</title>
+      <title-formerly>international symposium on Hardware/software codesign</title-formerly>
+      <title-formerly>IEEE/ACM international conference on Hardware/software codesign and system synthesis</title-formerly>
+      <title-formerly>international workshop on Hardware/software codesign</title-formerly>
+      <acronym-formerly>CODES/CASHE</acronym-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4090</id>
+      <idClass>202136</idClass>
+      <acronym>CODES</acronym>
+      <title>International Workshop on Hardware/Software Co-Design</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>2097</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>CODES+ISSS</acronym>
+      <acronym>CODES</acronym>
+      <title>IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis</title>
+      <title>International Conference on Hardware Software Codesign</title>
+      <title>International Workshop on Hardware/Software Co-Design</title>
+      <title>International Conference on Hardware/Software Codesign and System Synthesis</title>
+      <title-formerly>international symposium on Hardware/software codesign</title-formerly>
+      <title-formerly>IEEE/ACM international conference on Hardware/software codesign and system synthesis</title-formerly>
+      <title-formerly>international workshop on Hardware/software codesign</title-formerly>
+      <acronym-formerly>CODES/CASHE</acronym-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2089</id>
+      <idClass>20131</idClass>
+      <acronym>EWSN</acronym>
+      <title>European Conference on Wireless Sensor Networks</title>
+      <title-formerly>European Workshop on Wireless Sensor Networks</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5013</id>
+      <idClass>203062</idClass>
+      <acronym>EWSN</acronym>
+      <title>European Conference on Wireless Sensor Networks</title>
+      <title>European Workshop on Wireless Sensor Networks</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20131</idClass>
+      <acronym>EWSN</acronym>
+      <title>European Conference on Wireless Sensor Networks</title>
+      <title-formerly>European Workshop on Wireless Sensor Networks</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2090</id>
+      <idClass>20132</idClass>
+      <entity>ACM</entity>
+      <acronym>MSWiM</acronym>
+      <title>ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems</title>
+      <title>ACM/IEEE International Conference on Modelling Analysis and Simulation of Wireless and Mobile Systems</title>
+      <title-formerly>ACM international workshop on Modeling analysis and simulation of wireless and mobile systems</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5345</id>
+      <idClass>203394</idClass>
+      <acronym>MSWiM</acronym>
+      <title>International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20132</idClass>
+      <entity>ACM</entity>
+      <acronym>MSWiM</acronym>
+      <title>ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems</title>
+      <title>International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems</title>
+      <title>ACM/IEEE International Conference on Modelling Analysis and Simulation of Wireless and Mobile Systems</title>
+      <title-formerly>ACM international workshop on Modeling analysis and simulation of wireless and mobile systems</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2100</id>
+      <idClass>20142</idClass>
+      <acronym>CSF</acronym>
+      <title>Computer Security Foundations Symposium</title>
+      <title>IEEE Computer Security Foundations Symposium</title>
+      <title>IEEComputer Security Foundations Symposium</title>
+      <title-formerly>IEEE Computer Security Foundations Workshop</title-formerly>
+      <title-formerly>Computer Security Foundations Workshop</title-formerly>
+      <acronym-formerly>CSFW</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>2374</id>
+      <idClass>20416</idClass>
+      <entity>IEEE</entity>
+      <acronym>CSFW</acronym>
+      <title>IEEE Computer Security Foundations Workshop</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20142</idClass>
+      <entity>IEEE</entity>
+      <acronym>CSF</acronym>
+      <title>Computer Security Foundations Symposium</title>
+      <title>IEEE Computer Security Foundations Symposium</title>
+      <title>IEEComputer Security Foundations Symposium</title>
+      <title-formerly>IEEE Computer Security Foundations Workshop</title-formerly>
+      <title-formerly>Computer Security Foundations Workshop</title-formerly>
+      <acronym-formerly>CSFW</acronym-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>A1</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2129</id>
+      <idClass>20171</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>ICIS</acronym>
+      <title>International Conference on Interaction Sciences</title>
+      <title>International Conference on Information Systems</title>
+      <title-formerly>IEEE/ACIS International Conference on Computer and Information Science</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5125</id>
+      <idClass>203174</idClass>
+      <acronym>ICIS</acronym>
+      <title>International Conference on Interaction Sciences</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20171</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>ICIS</acronym>
+      <title>International Conference on Interaction Sciences</title>
+      <title>International Conference on Information Systems</title>
+      <title-formerly>IEEE/ACIS International Conference on Computer and Information Science</title-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2141</id>
+      <idClass>20183</idClass>
+      <acronym>ICAPS</acronym>
+      <title>International Conference on Automated Planning and Scheduling</title>
+      <merge-of-title>Conference on Artificial Intelligence Planning Systems</merge-of-title>
+      <merge-of-title>European Conference on Planning</merge-of-title>
+      <merge-of-acronym>ECP</merge-of-acronym>
+      <merge-of-acronym>AIPS</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4963</id>
+      <idClass>203012</idClass>
+      <acronym>ECP</acronym>
+      <title>European Conference on Planning</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20183</idClass>
+      <acronym>ICAPS</acronym>
+      <title>International Conference on Automated Planning and Scheduling</title>
+      <merge-of-title>Conference on Artificial Intelligence Planning Systems</merge-of-title>
+      <merge-of-title>European Conference on Planning</merge-of-title>
+      <merge-of-acronym>ECP</merge-of-acronym>
+      <merge-of-acronym>AIPS</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2145</id>
+      <idClass>20187</idClass>
+      <acronym>ECML PKDD</acronym>
+      <title>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</title>
+      <title-formerly>European Working Session on Learning</title-formerly>
+      <title-formerly>European Symposium on Principles of Data Mining and Knowledge Discovery from Databases</title-formerly>
+      <acronym-formerly>EWSL</acronym-formerly>
+      <acronym-formerly>PKDD</acronym-formerly>
+      <merge-of-title>European Conference on Machine Learning</merge-of-title>
+      <merge-of-title>European Conference on Principles and Practice of Knowledge Discovery in Databases</merge-of-title>
+      <merge-of-acronym>ECML</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5411</id>
+      <idClass>203460</idClass>
+      <acronym>PKDD</acronym>
+      <title>European Conference on Principles of Data Mining and Knowledge Discovery</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20187</idClass>
+      <acronym>ECML PKDD</acronym>
+      <title>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</title>
+      <title>European Conference on Principles of Data Mining and Knowledge Discovery</title>
+      <title-formerly>European Working Session on Learning</title-formerly>
+      <title-formerly>European Symposium on Principles of Data Mining and Knowledge Discovery from Databases</title-formerly>
+      <acronym-formerly>EWSL</acronym-formerly>
+      <acronym-formerly>PKDD</acronym-formerly>
+      <merge-of-title>European Conference on Machine Learning</merge-of-title>
+      <merge-of-title>European Conference on Principles and Practice of Knowledge Discovery in Databases</merge-of-title>
+      <merge-of-acronym>ECML</merge-of-acronym>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2154</id>
+      <idClass>20196</idClass>
+      <acronym>LPAR</acronym>
+      <title>International Conference on Logic for Programming, Artificial Intelligence and Reasoning</title>
+      <title>International Conference on Logic for Programming, Artificial Intelligence, and Reasoning</title>
+      <title-formerly>International Conference on Logic Programming and Automated Reasoning</title-formerly>
+      <title-formerly>Russian Conference on Logic Programming</title-formerly>
+      <acronym-formerly>RCLP</acronym-formerly>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>2877</id>
+      <idClass>20922</idClass>
+      <acronym>LPAR</acronym>
+      <title>Logic Programming and Automated Reasoning</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20196</idClass>
+      <acronym>LPAR</acronym>
+      <title>International Conference on Logic for Programming, Artificial Intelligence, and Reasoning</title>
+      <title>International Conference on Logic for Programming, Artificial Intelligence and Reasoning</title>
+      <title>Logic Programming and Automated Reasoning</title>
+      <title-formerly>International Conference on Logic Programming and Automated Reasoning</title-formerly>
+      <title-formerly>Russian Conference on Logic Programming</title-formerly>
+      <acronym-formerly>RCLP</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B1</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2192</id>
+      <idClass>20234</idClass>
+      <entity>IEEE</entity>
+      <acronym>VL/HCC</acronym>
+      <acronym>VLHCC</acronym>
+      <title>IEEE Symposium on Visual Languages and Human-Centric Computing</title>
+      <title-formerly>IEEE Symposium on Human Centric Computing Languages and Environments</title-formerly>
+      <title-formerly>IEEE Symposium on Visual Languages</title-formerly>
+      <acronym-formerly>VL</acronym-formerly>
+      <acronym-formerly>HCC</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4221</id>
+      <idClass>202267</idClass>
+      <entity>IEEE</entity>
+      <acronym>HCC</acronym>
+      <title>IEEE CS International Symposium on Human-Centric Computing Languages and Environments</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4664</id>
+      <idClass>202711</idClass>
+      <entity>IEEE</entity>
+      <acronym>VL</acronym>
+      <title>IEEE Symposium on Visual Languages</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20234</idClass>
+      <entity>IEEE</entity>
+      <acronym>VLHCC</acronym>
+      <acronym>VL/HCC</acronym>
+      <title>IEEE Symposium on Visual Languages and Human-Centric Computing</title>
+      <title>IEEE CS International Symposium on Human-Centric Computing Languages and Environments</title>
+      <title-formerly>IEEE Symposium on Human Centric Computing Languages and Environments</title-formerly>
+      <title-formerly>IEEE Symposium on Visual Languages</title-formerly>
+      <acronym-formerly>VL</acronym-formerly>
+      <acronym-formerly>HCC</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2220</id>
+      <idClass>20262</idClass>
+      <acronym>MobiWac</acronym>
+      <title>ACM International Workshop on Mobility Management and Wireless Access</title>
+      <title>International Mobility and Wireless Access Workshop</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>3565</id>
+      <idClass>201611</idClass>
+      <entity>ACM</entity>
+      <acronym>MobiWac</acronym>
+      <title>ACM international symposium on Mobility management and wireless access</title>
+      <title-formerly>international workshop on Mobility management and wireless access protocols</title-formerly>
+      <title-formerly>International Workshop on Mobility and Wireless Access</title-formerly>
+      <title-formerly>ACM international workshop on Mobility management and wireless access</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20262</idClass>
+      <entity>ACM</entity>
+      <acronym>MobiWac</acronym>
+      <title>ACM International Workshop on Mobility Management and Wireless Access</title>
+      <title>International Mobility and Wireless Access Workshop</title>
+      <title>ACM international symposium on Mobility management and wireless access</title>
+      <title-formerly>international workshop on Mobility management and wireless access protocols</title-formerly>
+      <title-formerly>International Workshop on Mobility and Wireless Access</title-formerly>
+      <title-formerly>ACM international workshop on Mobility management and wireless access</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2221</id>
+      <idClass>20263</idClass>
+      <acronym>MIR</acronym>
+      <title>Workshop on Multimedia Information Retrieval</title>
+      <title>ACM International Workshop on Multimedia Information Retrieval</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>3500</id>
+      <idClass>201546</idClass>
+      <entity>ACM</entity>
+      <acronym>MIR</acronym>
+      <title>ACM international conference on Multimedia information retrieval</title>
+      <title-formerly>ACM international workshop on multimedia information retrieval</title-formerly>
+      <title-formerly>ACM SIGMM international workshop on Multimedia information retrieval</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20263</idClass>
+      <entity>ACM</entity>
+      <acronym>MIR</acronym>
+      <title>Workshop on Multimedia Information Retrieval</title>
+      <title>ACM International Workshop on Multimedia Information Retrieval</title>
+      <title>ACM international conference on Multimedia information retrieval</title>
+      <title-formerly>ACM SIGMM international workshop on Multimedia information retrieval</title-formerly>
+      <title-formerly>ACM international workshop on multimedia information retrieval</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2261</id>
+      <idClass>20303</idClass>
+      <acronym>CASCON</acronym>
+      <title>Annual International Conference on Computer Science and Software Engineering</title>
+      <title>Conference of the Center for Advanced Studies on Collaborative Research</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4845</id>
+      <idClass>202893</idClass>
+      <acronym>CASCON</acronym>
+      <title>Conference of the Centre for Advanced Studies on Collaborative Research</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20303</idClass>
+      <acronym>CASCON</acronym>
+      <title>Annual International Conference on Computer Science and Software Engineering</title>
+      <title>Conference of the Centre for Advanced Studies on Collaborative Research</title>
+      <title>Conference of the Center for Advanced Studies on Collaborative Research</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2285</id>
+      <idClass>20327</idClass>
+      <acronym>CSEET</acronym>
+      <acronym>CSEE&amp;T</acronym>
+      <title>Conference on Software Engineering Education and Training</title>
+      <title-formerly>Conference on Software Engineering Education</title-formerly>
+      <acronym-formerly>CSEE</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4105</id>
+      <idClass>202151</idClass>
+      <acronym>CSEE</acronym>
+      <title>Conference on Software Engineering Education</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20327</idClass>
+      <acronym>CSEET</acronym>
+      <acronym>CSEE&amp;T</acronym>
+      <title>Conference on Software Engineering Education and Training</title>
+      <title-formerly>Conference on Software Engineering Education</title-formerly>
+      <acronym-formerly>CSEE</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2390</id>
+      <idClass>20432</idClass>
+      <entity>IEEE</entity>
+      <acronym>ICASSP</acronym>
+      <title>IEEE International Conference on Acoustics Speech and SP</title>
+      <title>IEEE International Conference on Acoustics, Speech, and Signal Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5090</id>
+      <idClass>203139</idClass>
+      <acronym>ICASSP</acronym>
+      <title>International Conference on Acoustics, Speech, and Signal Processing</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20432</idClass>
+      <entity>IEEE</entity>
+      <acronym>ICASSP</acronym>
+      <title>IEEE International Conference on Acoustics, Speech, and Signal Processing</title>
+      <title>IEEE International Conference on Acoustics Speech and SP</title>
+      <title>International Conference on Acoustics, Speech, and Signal Processing</title>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2541</id>
+      <idClass>20584</idClass>
+      <entity>ACM</entity>
+      <acronym>Web3D</acronym>
+      <title>International Conference on 3D Web Technology</title>
+      <title>International Symposium on Web3D Technology</title>
+      <title-formerly>Symposium on The Virtual Reality Modeling Language</title-formerly>
+      <acronym-formerly>VRML</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>3858</id>
+      <idClass>201904</idClass>
+      <entity>ACM</entity>
+      <acronym>VRML</acronym>
+      <title>symposium on Virtual reality modeling language</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20584</idClass>
+      <entity>ACM</entity>
+      <acronym>Web3D</acronym>
+      <title>International Conference on 3D Web Technology</title>
+      <title>symposium on Virtual reality modeling language</title>
+      <title>International Symposium on Web3D Technology</title>
+      <title-formerly>Symposium on The Virtual Reality Modeling Language</title-formerly>
+      <acronym-formerly>VRML</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2762</id>
+      <idClass>20807</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>ESEM</acronym>
+      <title>International Symposium on Empirical Software Engineering and Measurement</title>
+      <title>ACM-IEEE International Symposium on Empirical Software Engineering and Measurement</title>
+      <title-formerly>ACM-IEEE International Symposium on Empirical Software Engineering</title-formerly>
+      <acronym-formerly>ISESE</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4401</id>
+      <idClass>202447</idClass>
+      <acronym>ISESE</acronym>
+      <title>International Symposium on Empirical Software Engineering</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20807</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>ESEM</acronym>
+      <title>International Symposium on Empirical Software Engineering and Measurement</title>
+      <title>International Symposium on Empirical Software Engineering</title>
+      <title>ACM-IEEE International Symposium on Empirical Software Engineering and Measurement</title>
+      <title-formerly>ACM-IEEE International Symposium on Empirical Software Engineering</title-formerly>
+      <acronym-formerly>ISESE</acronym-formerly>
+      <pub-type>C</pub-type>
+      <qualis-estrato>B4</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2823</id>
+      <idClass>20868</idClass>
+      <acronym>CRIWG</acronym>
+      <title>International Workshop on Groupware</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>4911</id>
+      <idClass>202960</idClass>
+      <acronym>CRIWG</acronym>
+      <title>International Conference on Collaboration and Technology</title>
+      <title-formerly>International Workshop on Groupware</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>20868</idClass>
+      <acronym>CRIWG</acronym>
+      <title>International Conference on Collaboration and Technology</title>
+      <title-formerly>International Workshop on Groupware</title-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B2</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>2959</id>
+      <idClass>201004</idClass>
+      <acronym>WEA</acronym>
+      <title>Workshop on Experimental Algorithms</title>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+   <pub-venue>
+      <id>5456</id>
+      <idClass>203505</idClass>
+      <acronym>SEA</acronym>
+      <title>International Symposium on Experimental Algorithms</title>
+      <title-formerly>International Workshop on Experimental and Efficient Algorithms</title-formerly>
+      <title-formerly>International Workshop on Experimental Algorithms</title-formerly>
+      <acronym-formerly>WEA</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201004</idClass>
+      <acronym>SEA</acronym>
+      <title>Workshop on Experimental Algorithms</title>
+      <title>International Symposium on Experimental Algorithms</title>
+      <title-formerly>International Workshop on Experimental and Efficient Algorithms</title-formerly>
+      <title-formerly>International Workshop on Experimental Algorithms</title-formerly>
+      <acronym-formerly>WEA</acronym-formerly>
+      <pub-type>W</pub-type>
+      <qualis-estrato>B3</qualis-estrato>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3241</id>
+      <idClass>201287</idClass>
+      <entity>ACM</entity>
+      <acronym>ECHT</acronym>
+      <title>ACM European conference on Hypermedia technology</title>
+      <title-formerly>ACM conference on Hypertext</title-formerly>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4957</id>
+      <idClass>203006</idClass>
+      <acronym>ECHT</acronym>
+      <title>European Conference on Hypertext</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201287</idClass>
+      <entity>ACM</entity>
+      <acronym>ECHT</acronym>
+      <title>ACM European conference on Hypermedia technology</title>
+      <title>European Conference on Hypertext</title>
+      <title-formerly>ACM conference on Hypertext</title-formerly>
+      <pub-type>C</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3410</id>
+      <idClass>201456</idClass>
+      <entity>ACM</entity>
+      <acronym>ISPW</acronym>
+      <title>International Software Process Workshop</title>
+      <title-formerly>international software process workshop on Experience with software process models</title-formerly>
+      <title-formerly>international software process workshop on Representing and enacting the software process</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>3776</id>
+      <idClass>201822</idClass>
+      <entity>ACM</entity>
+      <acronym>ICSSP</acronym>
+      <title>International Conference on Software and Systems Process</title>
+      <title>International Conference on Software and System Process</title>
+      <title-formerly>International Software Process Workshop</title-formerly>
+      <title-formerly>International Conference on Software Process</title-formerly>
+      <acronym-formerly>ICSP</acronym-formerly>
+      <acronym-formerly>ISPW</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201456</idClass>
+      <entity>ACM</entity>
+      <acronym>ICSSP</acronym>
+      <title>International Conference on Software and Systems Process</title>
+      <title>International Conference on Software and System Process</title>
+      <title-formerly>international software process workshop on Experience with software process models</title-formerly>
+      <title-formerly>international software process workshop on Representing and enacting the software process</title-formerly>
+      <title-formerly>International Software Process Workshop</title-formerly>
+      <title-formerly>International Conference on Software Process</title-formerly>
+      <acronym-formerly>ICSP</acronym-formerly>
+      <acronym-formerly>ISPW</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3493</id>
+      <idClass>201539</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>MEMOCODE</acronym>
+      <title>IEEE/ACM International Conference on Formal Methods and Models for Codesign</title>
+      <title>ACM/IEEE International Conference on Formal Methods and Models for Co-Design</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5321</id>
+      <idClass>203370</idClass>
+      <acronym>MEMOCODE</acronym>
+      <title>International Conference on Formal Methods and Models for Co-Design</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201539</idClass>
+      <entity>IEEE</entity>
+      <entity>ACM</entity>
+      <acronym>MEMOCODE</acronym>
+      <title>International Conference on Formal Methods and Models for Co-Design</title>
+      <title>ACM/IEEE International Conference on Formal Methods and Models for Co-Design</title>
+      <title>IEEE/ACM International Conference on Formal Methods and Models for Codesign</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3532</id>
+      <idClass>201578</idClass>
+      <entity>ACM</entity>
+      <acronym>MSR</acronym>
+      <title>international Working Conference on Mining Software Repositories</title>
+      <title>Conference on Mining Software Repositories</title>
+      <title-formerly>International Workshop on Mining Software Repositories</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4489</id>
+      <idClass>202535</idClass>
+      <acronym>MSR</acronym>
+      <title>International Workshop on Mining Software Repositories</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201578</idClass>
+      <entity>ACM</entity>
+      <acronym>MSR</acronym>
+      <title>international Working Conference on Mining Software Repositories</title>
+      <title>Conference on Mining Software Repositories</title>
+      <title-formerly>International Workshop on Mining Software Repositories</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3707</id>
+      <idClass>201753</idClass>
+      <entity>ACM</entity>
+      <acronym>SEAMS</acronym>
+      <title>International Symposium on Software Engineering for Adaptive and Self-Managing Systems</title>
+      <title-formerly>international workshop on Self-adaptation and self-managing systems</title-formerly>
+      <title-formerly>international workshop on Software engineering for adaptive and self-managing systems</title-formerly>
+      <title-formerly>ICSE Workshop on Software Engineering for Adaptive and Self-Managing Systems</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4585</id>
+      <idClass>202632</idClass>
+      <acronym>SEAMS</acronym>
+      <title>International Workshop on Software Engineering for Adaptive and Self-Managing Systems</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201753</idClass>
+      <entity>ACM</entity>
+      <acronym>SEAMS</acronym>
+      <title>International Workshop on Software Engineering for Adaptive and Self-Managing Systems</title>
+      <title>International Symposium on Software Engineering for Adaptive and Self-Managing Systems</title>
+      <title-formerly>international workshop on Self-adaptation and self-managing systems</title-formerly>
+      <title-formerly>international workshop on Software engineering for adaptive and self-managing systems</title-formerly>
+      <title-formerly>ICSE Workshop on Software Engineering for Adaptive and Self-Managing Systems</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3724</id>
+      <idClass>201770</idClass>
+      <entity>ACM</entity>
+      <acronym>SHARK</acronym>
+      <title>ICSE Workshop on Sharing and Reusing Architectural Knowledge</title>
+      <title>International Workshop on SHAring and Reusing Architectural Knowledge</title>
+      <title-formerly>Workshop on SHAring and Reusing architectural Knowledge Architecture, Rationale, and Design Intent</title-formerly>
+      <acronym-formerly>SHARK-ADI</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4601</id>
+      <idClass>202648</idClass>
+      <acronym>SHARK-ADI</acronym>
+      <title>Workshop on SHAring and Reusing architectural Knowledge Architecture, Rationale, and Design Intent</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201770</idClass>
+      <entity>ACM</entity>
+      <acronym>SHARK</acronym>
+      <title>ICSE Workshop on Sharing and Reusing Architectural Knowledge</title>
+      <title>International Workshop on SHAring and Reusing Architectural Knowledge</title>
+      <title-formerly>Workshop on SHAring and Reusing architectural Knowledge Architecture, Rationale, and Design Intent</title-formerly>
+      <acronym-formerly>SHARK-ADI</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3740</id>
+      <idClass>201786</idClass>
+      <entity>ACM</entity>
+      <acronym>SISAP</acronym>
+      <title>International Conference on SImilarity Search and APplications</title>
+      <title-formerly>International Workshop on Similarity Search and Applications</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4603</id>
+      <idClass>202650</idClass>
+      <acronym>SISAP</acronym>
+      <title>International Workshop on Similarity Search and Applications</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201786</idClass>
+      <entity>ACM</entity>
+      <acronym>SISAP</acronym>
+      <title>International Conference on SImilarity Search and APplications</title>
+      <title-formerly>International Workshop on Similarity Search and Applications</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3904</id>
+      <idClass>201950</idClass>
+      <entity>ACM</entity>
+      <acronym>ICPE</acronym>
+      <title>joint WOSP/SIPEW international conference on Performance Engineering</title>
+      <title-formerly>international workshop on Software and performance</title-formerly>
+      <acronym-formerly>WOSP/SIPEW</acronym-formerly>
+      <acronym-formerly>WOSP</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5141</id>
+      <idClass>203190</idClass>
+      <acronym>WOSP</acronym>
+      <title>Workshop on Software and Performance</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201950</idClass>
+      <entity>ACM</entity>
+      <acronym>ICPE</acronym>
+      <title>joint WOSP/SIPEW international conference on Performance Engineering</title>
+      <title>Workshop on Software and Performance</title>
+      <title-formerly>international workshop on Software and performance</title-formerly>
+      <acronym-formerly>WOSP/SIPEW</acronym-formerly>
+      <acronym-formerly>WOSP</acronym-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>3905</id>
+      <idClass>201951</idClass>
+      <entity>ACM</entity>
+      <acronym>WOSS</acronym>
+      <title>ACM SIGSOFT workshop on Self-managed systems</title>
+      <title-formerly>workshop on Self-healing systems</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5581</id>
+      <idClass>203630</idClass>
+      <acronym>WOSS</acronym>
+      <title>Workshop on Self-Healing Systems</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>201951</idClass>
+      <entity>ACM</entity>
+      <acronym>WOSS</acronym>
+      <title>Workshop on Self-Healing Systems</title>
+      <title>ACM SIGSOFT workshop on Self-managed systems</title>
+      <title-formerly>workshop on Self-healing systems</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>4005</id>
+      <idClass>202051</idClass>
+      <acronym>APVIS</acronym>
+      <title>Asia-Pacific Symposium on Visualization</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4529</id>
+      <idClass>202575</idClass>
+      <entity>IEEE</entity>
+      <acronym>PACIFICVIS</acronym>
+      <title>IEEE Pacific Visualization Symposium</title>
+      <title-formerly>International Asia-Pacific Symposium on Visualization</title-formerly>
+      <title-formerly>Australasian Symposium on Information Visualisation</title-formerly>
+      <title-formerly>Asia Pacific Symposium on Information Visualisation</title-formerly>
+      <acronym-formerly>InVis.au</acronym-formerly>
+      <acronym-formerly>APVIS</acronym-formerly>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>202051</idClass>
+      <entity>IEEE</entity>
+      <acronym>PACIFICVIS</acronym>
+      <title>Asia-Pacific Symposium on Visualization</title>
+      <title>IEEE Pacific Visualization Symposium</title>
+      <title-formerly>International Asia-Pacific Symposium on Visualization</title-formerly>
+      <title-formerly>Australasian Symposium on Information Visualisation</title-formerly>
+      <title-formerly>Asia Pacific Symposium on Information Visualisation</title-formerly>
+      <acronym-formerly>InVis.au</acronym-formerly>
+      <acronym-formerly>APVIS</acronym-formerly>
+      <pub-type>C</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>4134</id>
+      <idClass>202180</idClass>
+      <entity>IEEE</entity>
+      <acronym>DELTA</acronym>
+      <title>IEEE International Workshop on Electronic Design, Test and Applications</title>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>4936</id>
+      <idClass>202985</idClass>
+      <acronym>DELTA</acronym>
+      <title>IEEE International Symposium on Electronic Design, Test and Applications</title>
+      <title-formerly>IEEE International Workshop on Electronic Design, Test and Applications</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>202180</idClass>
+      <entity>IEEE</entity>
+      <acronym>DELTA</acronym>
+      <title>IEEE International Symposium on Electronic Design, Test and Applications</title>
+      <title-formerly>IEEE International Workshop on Electronic Design, Test and Applications</title-formerly>
+      <pub-type>W</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>4319</id>
+      <idClass>202365</idClass>
+      <acronym>ICMAS</acronym>
+      <title>International Conference on Multi-Agent Systems</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5131</id>
+      <idClass>203180</idClass>
+      <acronym>ICMAS</acronym>
+      <title>International Conference on Multiagent Systems</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>202365</idClass>
+      <acronym>ICMAS</acronym>
+      <title>International Conference on Multi-Agent Systems</title>
+      <title>International Conference on Multiagent Systems</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+</cluster>
+<cluster>
+   <pub-venue>
+      <id>4463</id>
+      <idClass>202509</idClass>
+      <acronym>MCETECH</acronym>
+      <title>International MCETECH Conference on e-Technologies</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <pub-venue>
+      <id>5314</id>
+      <idClass>203363</idClass>
+      <acronym>MCETECH</acronym>
+      <title>MCETECH International Conference on eTechnologies</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+   <FINAL/>
+   <pub-venue>
+      <id>0</id>
+      <idClass>202509</idClass>
+      <acronym>MCETECH</acronym>
+      <title>MCETECH International Conference on eTechnologies</title>
+      <title>International MCETECH Conference on e-Technologies</title>
+      <pub-type>C</pub-type>
+   </pub-venue>
+</cluster>

@@ -1,0 +1,127 @@
+DBLP
+Arquivo: ./src/dblp-conf.xml
+Not using file recomend.
+Threshold: 0.9
+PenaltAcronym: 1.0
+ThresholdWithPA: 2.5
+K: 100
+   <fusion>
+      <id>913</id>
+      <acronym>ICSSP</acronym>
+      <title>International Conference on Software and System Process</title>
+      <id>914</id>
+      <acronym>ICSP</acronym>
+      <title>International Conference on the Software Process</title>
+   </fusion>
+   <fusion>
+      <id>1034</id>
+      <acronym>IPDPS</acronym>
+      <title>IEEE International Parallel and Distributed Processing Symposium</title>
+      <id>1607</id>
+      <acronym>SPDP</acronym>
+      <title>IEEE Symposium on Parallel and Distributed Processing</title>
+   </fusion>
+   <fusion>
+      <id>1830</id>
+      <acronym>CDES</acronym>
+      <title>International Conference on Computer Design</title>
+      <id>1831</id>
+      <acronym>ICCD</acronym>
+      <title>IEEE International Conference on Computer Design</title>
+   </fusion>
+   <fusion>
+      <id>1832</id>
+      <acronym>CENTERIS</acronym>
+      <title>Conference on ENTERprise Information Systems</title>
+      <id>1833</id>
+      <acronym>ICEIS</acronym>
+      <title>International Conference on Enterprise Information Systems</title>
+   </fusion>
+   <fusion>
+      <id>1837</id>
+      <acronym>ICSCI</acronym>
+      <title>International Conference on Information Security and Cryptology</title>
+      <id>1838</id>
+      <acronym>Inscrypt</acronym>
+      <title>International Conference on Information Security and Cryptology</title>
+   </fusion>
+   <fusion>
+      <id>1841</id>
+      <acronym>DAGM</acronym>
+      <title>Symposium for Pattern Recognition</title>
+      <id>1842</id>
+      <acronym>ICPR</acronym>
+      <title>International Conference on Pattern Recognition</title>
+   </fusion>
+   <fusion>
+      <id>1843</id>
+      <acronym>FCS</acronym>
+      <title>International Conference on Foundations of Computer Science</title>
+      <id>1844</id>
+      <acronym>FOCS</acronym>
+      <title>Annual IEEE Symposium on Foundations of Computer Science</title>
+   </fusion>
+   <fusion>
+      <id>1847</id>
+      <acronym>ICN</acronym>
+      <title>International Conference on Networking</title>
+      <id>1848</id>
+      <acronym>TERENA</acronym>
+      <title>Networking Conference</title>
+   </fusion>
+   <fusion>
+      <id>1849</id>
+      <acronym>ADB</acronym>
+      <title>International Conference on Applications of Databases</title>
+      <id>1850</id>
+      <title>International Conference on Databases and Applications</title>
+   </fusion>
+   <fusion>
+      <id>1851</id>
+      <acronym>ICCG</acronym>
+      <title>International Conference on Computer Graphics</title>
+      <id>1852</id>
+      <acronym>SIGGRAPH</acronym>
+      <title>Annual Conference on Computer Graphics</title>
+   </fusion>
+   <fusion>
+      <id>1853</id>
+      <acronym>AIA</acronym>
+      <title>International Conference on Artificial Intelligence and Applications</title>
+      <id>1854</id>
+      <acronym>CAIA</acronym>
+      <title>Conference on Artificial Intelligence Applications</title>
+   </fusion>
+   <fusion>
+      <id>1855</id>
+      <acronym>CloudComp</acronym>
+      <title>International Conference on Cloud Computing</title>
+      <id>1856</id>
+      <acronym>SoCC</acronym>
+      <title>Symposium on Cloud Computing</title>
+   </fusion>
+   <fusion>
+      <id>1857</id>
+      <acronym>EACSL</acronym>
+      <title>Annual Conference for Computer Science Logic</title>
+      <id>1858</id>
+      <acronym>LICS</acronym>
+      <title>Annual IEEE Symposium on Logic in Computer Science</title>
+   </fusion>
+   <fusion>
+      <id>1859</id>
+      <acronym>HPCC</acronym>
+      <title>IEEE International Conference on High Performance Computing and Communications</title>
+      <id>1860</id>
+      <acronym>IPCCC</acronym>
+      <title>IEEE International Performance, Computing, and Communications Conference</title>
+   </fusion>
+   <fusion>
+      <id>1861</id>
+      <acronym>ISCN</acronym>
+      <title>International Symposium on Computer Networks</title>
+      <id>1862</id>
+      <acronym>CN</acronym>
+      <title>International Conference on Computer Networks</title>
+   </fusion>
+Total de publicacoes fundidas: 15
