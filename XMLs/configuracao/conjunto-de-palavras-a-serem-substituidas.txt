@@ -1,0 +1,52 @@
+cns:proc\.? , proceedings
+cns:procs\.? , proceedings
+cns:conf\.? , conference
+cns:symp\.? , symposium
+cns:worksh\.? , workshop
+cns:wksp\.? , workshop
+cns:jorn\.? , journal
+cns:j\.? , journal
+cns:trans\.? , transactions
+cns:ann\.? , annual
+cns:intern\.? , international
+cns:inter\.? , international
+cns:int\.? , international
+cns:intl\.? , international
+cns:int'l\.? , international
+cns:proceedings of the , 
+cns:proceedings of , 
+cns:proceedings the , 
+cns:proceedings , 
+cns:proceeding of the , 
+cns:proceeding of , 
+cns:proceeding the , 
+cns:proceeding , 
+cns:table of contents , 
+cns:table contents , 
+cns:browse , 
+cns:poster , 
+cns:revised , 
+cns:papers , 
+cns:paper , 
+cns:articles , 
+cns:article , 
+cns:publication , 
+cns:submitted , 
+cns:to appear , 
+cns:committee , 
+cns:series , 
+cns:archive , 
+cns:available , 
+cns:homepage , 
+cns:symposium , conference
+cns:systems , system
+cns:decisions , decision
+cns:transactions , transaction
+cns:services , service
+cns:sci , science
+\d+st , 
+\d+nd , 
+\d+rd , 
+\d+th , 
+\p{Punct}*\d+\p{Punct}* , 
+\d+ , 
