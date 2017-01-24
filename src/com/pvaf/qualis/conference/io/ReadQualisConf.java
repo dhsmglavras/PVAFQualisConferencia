@@ -76,13 +76,11 @@ public class ReadQualisConf {
                     
                     byte array[] = a1.getContents().getBytes("UTF-8");
                     String sigla = new String(array,"UTF-8");
-                    sigla = sigla.toUpperCase();
                     sigla = sigla.replaceAll(";", "");
-                    sigla = sigla.replace(";","");
+                    sigla = sigla.trim();
                                         
                     array = a2.getContents().getBytes("UTF-8");
                     String title = new String(array,"UTF-8");
-                    title = title.toUpperCase();
                     title = title.replaceAll(";","");
                     title = title.trim();
                     
