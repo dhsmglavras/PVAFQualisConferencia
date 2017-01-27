@@ -144,6 +144,7 @@ public class ConferenceDAO {
                 ps.setString(i++, t);
                 ps.executeUpdate();
                 ps.close();
+                conn.commit();
             }
             
             // inseri qualis
@@ -165,7 +166,7 @@ public class ConferenceDAO {
             
             conn.commit();            
         }catch(SQLException e){
-            System.err.println( "C Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
+            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
             if(conn !=null){
 		try{
                     conn.rollback();
@@ -258,7 +259,7 @@ public class ConferenceDAO {
             
             conn.commit();
         }catch(SQLException e){
-            System.err.println( "B Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
+            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
             if(conn !=null){
 		try{
                     conn.rollback();
@@ -384,10 +385,11 @@ public class ConferenceDAO {
                     }                     
                     ps.close();                    
                 }
+                conn.commit();
             }
-            conn.commit();
+            
         }catch(SQLException e){
-            System.err.println( "A Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
+            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
             if(conn !=null){
 		try{
                     conn.rollback();
