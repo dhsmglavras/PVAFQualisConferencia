@@ -214,7 +214,7 @@ public class AppQualisConf {
         
         Set<String> setConferencesQualis = lerQualis("qualis-conf-cc-2012.xls");
                 
-        List<QualisConference> listQualisConferences = processQualisConference(setConferencesQualis,2014);
+        List<QualisConference> listQualisConferences = processQualisConference(setConferencesQualis,2012);
         
         Set<Acronym> setAcronymDB = AcronymDAO.acronymDB();
         
