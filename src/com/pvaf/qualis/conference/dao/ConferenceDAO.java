@@ -135,18 +135,6 @@ public class ConferenceDAO {
             ps.executeUpdate();
             ps.close();
             
-            
-            // Inserir titulos
-            for(String t: conference.getTitles()){
-                i=1;
-                ps = conn.prepareStatement("INSERT INTO title (id_pub_venue,title) VALUES (?,?)");
-                ps.setInt(i++,idPubVenue);
-                ps.setString(i++, t);
-                ps.executeUpdate();
-                ps.close();
-                conn.commit();
-            }
-            
             // inseri qualis
             int idArea = 0;
             AreaAvaliacao area = checkAreaExists("CIÊNCIA DA COMPUTAÇÃO");
@@ -163,6 +151,17 @@ public class ConferenceDAO {
             ps.setString(i++,conference.getClassification());
             ps.executeUpdate();
             ps.close();
+            
+            // Inserir titulos
+            for (String t : conference.getTitles()) {
+                i = 1;
+                ps = conn.prepareStatement("INSERT INTO title (id_pub_venue,title) VALUES (?,?)");
+                ps.setInt(i++, idPubVenue);
+                ps.setString(i++, t);
+                ps.executeUpdate();
+                ps.close();
+                conn.commit();
+            }
             
             conn.commit();            
         }catch(SQLException e){
