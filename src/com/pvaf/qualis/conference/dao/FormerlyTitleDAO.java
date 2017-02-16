@@ -6,6 +6,7 @@
 package com.pvaf.qualis.conference.dao;
 
 import com.pvaf.qualis.conference.entidades.FormerlyTitle;
+import com.pvaf.qualis.conference.exceptions.ErrorException;
 import com.pvaf.qualis.conference.service.DBLocator;
 import java.io.UnsupportedEncodingException;
 import java.sql.Connection;
@@ -13,8 +14,9 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.apache.log4j.Logger;
+
+
 
 /**
  *
@@ -22,7 +24,9 @@ import java.util.logging.Logger;
  */
 public class FormerlyTitleDAO {
     
-    public static ArrayList<FormerlyTitle> getAllFormerlyTitle(){
+    private final static Logger log = Logger.getLogger(FormerlyTitleDAO.class);
+    
+    public static ArrayList<FormerlyTitle> getAllFormerlyTitle() throws ErrorException{
        ArrayList<FormerlyTitle> listF = new ArrayList<>();
         
         try(Connection conn = DBLocator.getConnection(); 
@@ -32,7 +36,7 @@ public class FormerlyTitleDAO {
                 FormerlyTitle formerlytitle=null;
                 while(rs.next()){
                     int id = rs.getInt("id_pub_venue");
-                    
+                                        
                     /*String strAcronym = "";
                     if(!rs.getString("acronym").isEmpty()){
                         strAcronym = rs.getString("acronym");
@@ -45,18 +49,18 @@ public class FormerlyTitleDAO {
                     
                     listF.add(formerlytitle);
                 }
-                return listF;
-            } catch (UnsupportedEncodingException ex) {
-                Logger.getLogger(FormerlyTitleDAO.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (UnsupportedEncodingException u) {
+                log.error("Ocorreu uma exceção de codificação de caracteres.", u.fillInStackTrace());
+                throw new ErrorException("Ocorreu um Erro Interno");
             }
-            
-	}catch(SQLException e){
-            System.err.println("Ocorreu uma exceção de SQL. Causa: " + e.getMessage());
-	}
-	return null;
+	} catch (SQLException e) {
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        }
+	return listF;
     }
     
-    public static ArrayList<String> getAcronyms(int idPubVenue){
+    public static ArrayList<String> getAcronyms(int idPubVenue) throws ErrorException{
         ArrayList<String> listA = new ArrayList<>();
         int i=1;
         
@@ -74,14 +78,14 @@ public class FormerlyTitleDAO {
                     
                     listA.add(strAcronym);
                 }
-                return listA;
-            } catch (UnsupportedEncodingException ex) {
-                Logger.getLogger(AcronymDAO.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (UnsupportedEncodingException u) {
+                log.error("Ocorreu uma exceção de codificação de caracteres.", u.fillInStackTrace());
+                throw new ErrorException("Ocorreu um Erro Interno");
             }
-            
-	}catch(SQLException e){
-            System.err.println("Ocorreu uma exceção de SQL. Causa: " + e.getMessage());
-	}
-	return null;
+	} catch (SQLException e) {
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        }
+        return listA;	
     }
 }

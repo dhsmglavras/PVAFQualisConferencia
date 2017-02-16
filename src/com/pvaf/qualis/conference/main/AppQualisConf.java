@@ -12,6 +12,7 @@ import com.pvaf.qualis.conference.entidades.Acronym;
 import com.pvaf.qualis.conference.entidades.Conference;
 import com.pvaf.qualis.conference.entidades.QualisConference;
 import com.pvaf.qualis.conference.entidades.Title;
+import com.pvaf.qualis.conference.exceptions.ErrorException;
 import com.pvaf.qualis.conference.io.ReadQualisConf;
 
 import java.util.ArrayList;
@@ -21,12 +22,19 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import org.apache.log4j.PropertyConfigurator;
 
 /**
  *
  * @author douglas
  */
 public class AppQualisConf {
+    
+    static {
+        PropertyConfigurator.configure("properties/log4j.properties");
+    }
     
     protected static List<QualisConference> conferencesIne = new ArrayList<>();
     protected static List<QualisConference> conferencesExi = new ArrayList<>();    
@@ -36,7 +44,7 @@ public class AppQualisConf {
     protected static TreeSet<String> acronymsExi = new TreeSet<>(); // acronyms existentes no bd
     protected static TreeSet<String> acronymsUpd = new TreeSet<>(); // acronyms existentes no bd
     
-    public static Set<String> lerQualis(String path){
+    public static Set<String> lerQualis(String path) throws ErrorException{
         ReadQualisConf rq = new ReadQualisConf(path);
         rq.redQualis();
         return rq.getConferencesQualis();
@@ -80,7 +88,7 @@ public class AppQualisConf {
         return acronymCo;
     }
     
-    public static void splitConferences(Set<Acronym> acronyms, List<QualisConference> conferences){
+    public static void splitConferences(Set<Acronym> acronyms, List<QualisConference> conferences) throws ErrorException{
         
         String fileStopWords = "./XMLs/configuracao/conjunto-de-stopWords.txt";
         String fileWordsToReplace = "./XMLs/configuracao/conjunto-de-palavras-a-serem-substituidas.txt";
@@ -212,48 +220,53 @@ public class AppQualisConf {
     
     public static void main(String[] args) {
         
-        Set<String> setConferencesQualis = lerQualis("qualis-conf-cc-2012.xls");
-                
-        List<QualisConference> listQualisConferences = processQualisConference(setConferencesQualis,2012);
-        
-        Set<Acronym> setAcronymDB = AcronymDAO.acronymDB();
-        
-        splitConferences(setAcronymDB, listQualisConferences);
-        
-        setConferencesQualis.clear();
-        listQualisConferences.clear();
-        setAcronymDB.clear();
-        
-        List<Conference> qualisConfExi = createListQualis(acronymsExi);
-        addAttributesConferences(qualisConfExi,conferencesExi);
-        conferencesExi.clear();
-        acronymsExi.clear();
-        
-        List<Conference> qualisConfIne = createListQualis(acronymsIne);
-        addAttributesConferences(qualisConfIne,conferencesIne);
-        conferencesIne.clear();
-        acronymsIne.clear();
-        
-        List<Conference> qualisConfUpd = createListQualis(acronymsUpd);
-        addAttributesConferences(qualisConfUpd,conferencesUpd);
-        conferencesUpd.clear();
-        acronymsUpd.clear();
-        
-        for(Conference c: qualisConfExi){
-            ConferenceDAO.updateQualis(c);
+        try {
+            Set<String> setConferencesQualis = lerQualis("qualis-conf-cc-2012.xls");
+            
+            List<QualisConference> listQualisConferences = processQualisConference(setConferencesQualis,2012);
+            
+            Set<Acronym> setAcronymDB = AcronymDAO.acronymDB();
+            
+            splitConferences(setAcronymDB, listQualisConferences);
+            
+            setConferencesQualis.clear();
+            listQualisConferences.clear();
+            setAcronymDB.clear();
+            
+            List<Conference> qualisConfExi = createListQualis(acronymsExi);
+            addAttributesConferences(qualisConfExi,conferencesExi);
+            conferencesExi.clear();
+            acronymsExi.clear();
+            
+            List<Conference> qualisConfIne = createListQualis(acronymsIne);
+            addAttributesConferences(qualisConfIne,conferencesIne);
+            conferencesIne.clear();
+            acronymsIne.clear();
+            
+            List<Conference> qualisConfUpd = createListQualis(acronymsUpd);
+            addAttributesConferences(qualisConfUpd,conferencesUpd);
+            conferencesUpd.clear();
+            acronymsUpd.clear();
+            
+            for(Conference c: qualisConfExi){
+                ConferenceDAO.updateQualis(c);
+            }
+            
+            for(Conference c: qualisConfUpd){
+                ConferenceDAO.updateQualisAndAcronym(c);
+            }
+            
+            for(Conference c: qualisConfIne){
+                ConferenceDAO.insertConference(c);
+            }
+            
+            System.out.println(qualisConfExi.size());
+            System.out.println(qualisConfUpd.size());
+            System.out.println(qualisConfIne.size());
+            
+        } catch (ErrorException ex) {
+            System.err.println(ex.getMessage());
         }
-        
-        for(Conference c: qualisConfUpd){
-           ConferenceDAO.updateQualisAndAcronym(c);
-        }
-        
-        for(Conference c: qualisConfIne){
-            ConferenceDAO.insertConference(c);
-        }
-        
-        System.out.println(qualisConfExi.size());
-        System.out.println(qualisConfUpd.size());
-        System.out.println(qualisConfIne.size());
     }
     
     private static class CompararConfrencesTitulos implements Comparator<QualisConference>{      

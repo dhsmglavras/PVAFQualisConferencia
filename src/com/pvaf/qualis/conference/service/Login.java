@@ -10,12 +10,16 @@ package com.pvaf.qualis.conference.service;
  * @author douglas
  */
 
+import com.pvaf.qualis.conference.exceptions.ErrorException;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+import org.apache.log4j.Logger;
 
 public class Login {
+    
+    private final static Logger log = Logger.getLogger(Login.class);
 	
     private String user;
 
@@ -23,7 +27,7 @@ public class Login {
 	
     private String url;
 		
-    public Login(){
+    public Login() throws ErrorException{
         try{
             Properties props = new Properties();
             try (FileInputStream file = new FileInputStream("./properties/login.properties")) {
@@ -33,10 +37,12 @@ public class Login {
                 this.user = props.getProperty("user").toString().trim();
                 this.url = props.getProperty("url").toString().trim();
             }
-        }catch(FileNotFoundException e){
-            System.err.println();
-        }catch(IOException e){
-            System.err.println();
+        } catch (FileNotFoundException e) {
+            log.error("Arq. nao existe.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } catch (IOException e) {
+            log.error("Erro de E/S.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
         }
     }
 	

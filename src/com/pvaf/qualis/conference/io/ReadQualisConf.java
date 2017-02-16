@@ -5,19 +5,18 @@
  */
 package com.pvaf.qualis.conference.io;
 
-import com.pvaf.qualis.conference.common.Strings;
+import com.pvaf.qualis.conference.exceptions.ErrorException;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import jxl.Cell;
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.WorkbookSettings;
 import jxl.read.biff.BiffException;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -27,6 +26,7 @@ public class ReadQualisConf {
     
     private final String path;
     private Set<String> conferencesQualis = new TreeSet<>();
+    private final static Logger log = Logger.getLogger(ReadQualisConf.class);
 
     public ReadQualisConf(String path) {
         this.path = path;
@@ -46,7 +46,7 @@ public class ReadQualisConf {
         return conferencesQualis;
     }
 
-    public void redQualis() {
+    public void redQualis() throws ErrorException {
         
         try{            
             File file = new File(path);
@@ -97,12 +97,14 @@ public class ReadQualisConf {
             workbook.close();
             
         } catch (FileNotFoundException f) {
-            System.err.println("Arq. nao existe. Causa: " + f.getMessage());
+            log.error("Arq. nao existe.", f.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
         } catch (IOException e) {
-            System.err.println("Erro de E/S. Causa: " + e.getMessage());
+            log.error("Erro de E/S.", e.fillInStackTrace());
+            throw new ErrorException("Ocorreu um Erro Interno");
         } catch (BiffException ex) {
-            Logger.getLogger(ReadQualisConf.class.getName()).log(Level.SEVERE, null, ex);
-            System.err.println("Erro de Leitura do arquivo biff. Causa: " + ex.getMessage());
+            log.error("Erro de Leitura do arquivo biff.", ex.fillInStackTrace());
+            throw new ErrorException("Salve no Formato Microsoft Excel (.xls)");
         }
     }
 }

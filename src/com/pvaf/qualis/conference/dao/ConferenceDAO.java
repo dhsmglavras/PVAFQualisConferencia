@@ -9,6 +9,7 @@ import com.pvaf.qualis.conference.entidades.AreaAvaliacao;
 import com.pvaf.qualis.conference.entidades.Conference;
 import com.pvaf.qualis.conference.entidades.FormerlyTitle;
 import com.pvaf.qualis.conference.entidades.Title;
+import com.pvaf.qualis.conference.exceptions.ErrorException;
 import com.pvaf.qualis.conference.service.DBLocator;
 import java.math.BigDecimal;
 import java.sql.Connection;
@@ -17,6 +18,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+import org.apache.log4j.Logger;
 
 /**
  *
@@ -24,7 +26,9 @@ import java.util.List;
  */
 public class ConferenceDAO {
     
-    private static AreaAvaliacao checkAreaExists(String area){
+    private final static Logger log = Logger.getLogger(ConferenceDAO.class);
+    
+    private static AreaAvaliacao checkAreaExists(String area) throws ErrorException{
         List<AreaAvaliacao> listA = AreaAvaliacaoDAO.getAllNamesAreaAvaliacao();
         
         for(AreaAvaliacao a: listA){
@@ -35,7 +39,7 @@ public class ConferenceDAO {
         return null;
     }
     
-    private static boolean checkAcronymExists(int idPubVenue, Conference conference){
+    private static boolean checkAcronymExists(int idPubVenue, Conference conference) throws ErrorException{
         List<String> listA = AcronymDAO.getAcronyms(idPubVenue);
         String acronym = conference.getAcronym();
         acronym = acronym.toLowerCase();
@@ -50,7 +54,7 @@ public class ConferenceDAO {
         return false;
     }
     
-    private static boolean checkAcronymFormerlyTitleExists(int idPubVenue, Conference conference){
+    private static boolean checkAcronymFormerlyTitleExists(int idPubVenue, Conference conference) throws ErrorException{
         List<String> listA = FormerlyTitleDAO.getAcronyms(idPubVenue);
         String acronym = conference.getAcronym();
         acronym = acronym.toLowerCase();
@@ -65,7 +69,7 @@ public class ConferenceDAO {
         return false;
     }
     
-    private static boolean checkFormerlyTitleExists(Conference conference){
+    private static boolean checkFormerlyTitleExists(Conference conference) throws ErrorException{
         List<FormerlyTitle> listF = FormerlyTitleDAO.getAllFormerlyTitle();
         int cont=0;
         for(String title1: conference.getTitles()){
@@ -98,7 +102,7 @@ public class ConferenceDAO {
         return indice;
     }
     
-    public static void insertConference(Conference conference){
+    public static void insertConference(Conference conference) throws ErrorException{
         Connection conn = null;
         try{
             
@@ -165,26 +169,29 @@ public class ConferenceDAO {
             
             conn.commit();            
         }catch(SQLException e){
-            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
             if(conn !=null){
 		try{
                     conn.rollback();
-		}catch(SQLException e1){
-                    System.err.println( "Exceção ao realizar rollback. Causa: " + e1.getMessage() );
+		}catch(SQLException e1){                   
+                    log.error("Exceção ao realizar rollback.", e1.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
 		}
             }
+            throw new ErrorException("Ocorreu um Erro Interno");
         }finally{
             if(conn !=null){
 		try{
                     conn.close();
 		}catch(SQLException e){
-                    System.err.println( "Exceção ao fechar a conexão. Causa: " + e.getMessage() );
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
 		}
             }
 	}
     }
     
-    public static void updateQualisAndAcronym(Conference conference){
+    public static void updateQualisAndAcronym(Conference conference) throws ErrorException{
         Connection conn = null;
         
         try{
@@ -257,27 +264,30 @@ public class ConferenceDAO {
             ps.close();
             
             conn.commit();
-        }catch(SQLException e){
-            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
-            if(conn !=null){
-		try{
+        } catch (SQLException e) {
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            if (conn != null) {
+                try {
                     conn.rollback();
-		}catch(SQLException e1){
-                    System.err.println( "Exceção ao realizar rollback. Causa: " + e1.getMessage() );
-		}
+                } catch (SQLException e1) {
+                    log.error("Exceção ao realizar rollback.", e1.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-        }finally{
-            if(conn !=null){
-		try{
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } finally {
+            if (conn != null) {
+                try {
                     conn.close();
-		}catch(SQLException e){
-                    System.err.println( "Exceção ao fechar a conexão. Causa: " + e.getMessage() );
-		}
+                } catch (SQLException e) {
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-	}
+        }
     }
     
-    public static void updateQualis(Conference conference){
+    public static void updateQualis(Conference conference)throws ErrorException{
         Connection conn = null;
         
         try{
@@ -286,6 +296,7 @@ public class ConferenceDAO {
             PreparedStatement ps;
                         
             List<Title> titles = new ArrayList<>();
+            
             if(idPubVenue!=0){
                 titles = TitleDAO.getTitles(idPubVenue);
             }
@@ -387,23 +398,26 @@ public class ConferenceDAO {
                 conn.commit();
             }
             
-        }catch(SQLException e){
-            System.err.println( "Ocorreu uma exceção de SQL. Causa: " + e.getMessage() );
-            if(conn !=null){
-		try{
+        } catch (SQLException e) {
+            log.error("Ocorreu uma exceção de SQL.", e.fillInStackTrace());
+            if (conn != null) {
+                try {
                     conn.rollback();
-		}catch(SQLException e1){
-                    System.err.println( "Exceção ao realizar rollback. Causa: " + e1.getMessage() );
-		}
+                } catch (SQLException e1) {
+                    log.error("Exceção ao realizar rollback.", e1.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-        }finally{
-            if(conn !=null){
-		try{
+            throw new ErrorException("Ocorreu um Erro Interno");
+        } finally {
+            if (conn != null) {
+                try {
                     conn.close();
-		}catch(SQLException e){
-                    System.err.println( "Exceção ao fechar a conexão. Causa: " + e.getMessage() );
-		}
+                } catch (SQLException e) {
+                    log.error("Exceção ao fechar a conexão.", e.fillInStackTrace());
+                    throw new ErrorException("Ocorreu um Erro Interno");
+                }
             }
-	}
+        }
     }
 }

@@ -6,6 +6,7 @@ package com.pvaf.qualis.conference.main;
 
 import com.pvaf.qualis.conference.common.HashStopWords;
 import com.pvaf.qualis.conference.common.Strings;
+import com.pvaf.qualis.conference.exceptions.ErrorException;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -14,8 +15,8 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import org.apache.log4j.Logger;
+
 
 /**
  *
@@ -25,18 +26,20 @@ public class Clear implements Serializable {
 
     private HashStopWords stopWords;
     private String[] wordsToReplace;
+    private final static Logger log = Logger.getLogger(Clear.class);
 
-    public Clear(String fileStopWords, String fileWordsToReplace) {
+    public Clear(String fileStopWords, String fileWordsToReplace) throws ErrorException {
 
         try {
             stopWords = new HashStopWords(fileStopWords);
             wordsToReplace = getWordsToReplace(fileWordsToReplace);
         } catch (IOException ex) {
-            Logger.getLogger(Clear.class.getName()).log(Level.SEVERE, "StopWords and Words to replace was not loaded.", ex);
-            System.out.println("StopWords and Words to replace was not loaded: "+new File("./").getAbsolutePath());
-            
+            //Logger.getLogger(Clear.class.getName()).log(Level.SEVERE, "StopWords and Words to replace was not loaded.", ex);
+            //System.out.println("StopWords and Words to replace was not loaded: "+new File("./").getAbsolutePath());
+            log.error("StopWords and Words to replace was not loaded: " + new File("./").getAbsolutePath(), ex.fillInStackTrace());
             stopWords = new HashStopWords();
             wordsToReplace = new String[0];
+            throw new ErrorException("Ocorreu um Erro Interno");
         }
 
     }
@@ -272,7 +275,8 @@ public class Clear implements Serializable {
 
             }
         } catch (Exception ex) {
-            Logger.getLogger(Clear.class.getName()).log(Level.SEVERE, null, ex);
+            //Logger.getLogger(Clear.class.getName()).log(Level.SEVERE, null, ex);
+            log.error("Exceção: "+ex.getMessage(), ex.fillInStackTrace());
             throw new IllegalArgumentException("erro na linha " + i + "do arquivo " + file + "\n" + ex);
         }
         return wtr.toArray(new String[wtr.size()]);
