@@ -64,6 +64,10 @@ public class ReadQualisConf {
                 
                 Cell cell = sheet.findCell("Sigla");
                 
+                if(cell==null){
+                    throw new ErrorException("Verifique se o arquivo está configurado corretamente");
+                }
+                
                 cell.getRow();
                                 
                 for(int i = cell.getRow() +1; i < linhas; i++){
