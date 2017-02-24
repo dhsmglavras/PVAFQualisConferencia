@@ -62,21 +62,25 @@ public class ReadQualisConf {
                 
                 int linhas = sheet.getRows();
                 
-                Cell cell = sheet.findCell("Sigla");
+                Cell cellSigla = sheet.findCell("Sigla");
+                Cell cellNome = sheet.findCell("Nome");
+                Cell cellEstrato = sheet.findCell("Estrato");
                 
-                if(cell==null){
+                if(cellSigla==null || cellNome==null || cellEstrato==null){
                     throw new ErrorException("Verifique se o arquivo está configurado corretamente");
                 }
                 
-                cell.getRow();
+                cellSigla.getRow();
                                 
-                for(int i = cell.getRow() +1; i < linhas; i++){
+                for(int i = cellSigla.getRow() +1; i < linhas; i++){
                     
-                    int column = cell.getColumn();
-                    Cell a1 = sheet.getCell(column++, i);
-                    Cell a2 = sheet.getCell(column++, i);
-                    column++;
-                    Cell a3 = sheet.getCell(column++, i);
+                    int columnSigla = cellSigla.getColumn();
+                    int columnNome = cellNome.getColumn();
+                    int columnEstrato = cellEstrato.getColumn();
+                    
+                    Cell a1 = sheet.getCell(columnSigla, i);
+                    Cell a2 = sheet.getCell(columnNome, i);
+                    Cell a3 = sheet.getCell(columnEstrato, i);
                     
                     byte array[] = a1.getContents().getBytes("UTF-8");
                     String sigla = new String(array,"UTF-8");
