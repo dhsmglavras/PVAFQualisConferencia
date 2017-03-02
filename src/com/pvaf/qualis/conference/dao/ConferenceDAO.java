@@ -373,15 +373,19 @@ public class ConferenceDAO {
                         
                     try(ResultSet tableQualis = ps.executeQuery()){
                         if(tableQualis.first()){
-                            i=1;
-                            ps = conn.prepareStatement("UPDATE qualis SET qualis = ? WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
-                            ps.setString(i++,conference.getClassification());
-                            ps.setInt(i++,idPubVenue);
-                            ps.setInt(i++,idArea);
-                            ps.setBigDecimal(i++,BigDecimal.valueOf(conference.getYear()));
-                            ps.executeUpdate();
-                            ps.close();
-                            
+                            String qualis = tableQualis.getString("qualis");
+                            int indicePVAF = getIndice(qualis);
+                            int indiceNew = getIndice(conference.getClassification());
+                            if (indicePVAF < indiceNew) {
+                                i = 1;
+                                ps = conn.prepareStatement("UPDATE qualis SET qualis = ? WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
+                                ps.setString(i++, conference.getClassification());
+                                ps.setInt(i++, idPubVenue);
+                                ps.setInt(i++, idArea);
+                                ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
+                                ps.executeUpdate();
+                                ps.close();
+                            }
                         }else{
                             i=1;
                             ps = conn.prepareStatement("INSERT INTO qualis (id_pub_venue,id_area,year,qualis) VALUES (?,?,?,?)");
