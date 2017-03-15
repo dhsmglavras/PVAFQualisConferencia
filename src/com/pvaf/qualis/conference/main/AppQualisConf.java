@@ -22,8 +22,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 /**
@@ -220,7 +218,12 @@ public class AppQualisConf {
     
     public static void main(String[] args) {
         
+        long init =0; long end=0; long diff=0;
+        
         try {
+            
+            init = System.currentTimeMillis();
+            
             Set<String> setConferencesQualis = lerQualis("qualis-conf-cc-2012.xls");
             
             List<QualisConference> listQualisConferences = processQualisConference(setConferencesQualis,2012);
@@ -264,9 +267,15 @@ public class AppQualisConf {
             System.out.println(qualisConfUpd.size());
             System.out.println(qualisConfIne.size());
             
+            end = System.currentTimeMillis();
+            
         } catch (ErrorException ex) {
             System.err.println(ex.getMessage());
         }
+        
+        diff = end - init; 
+        System.out.println("Demorou " + (double)(diff / 1000) + " segundos");
+        
     }
     
     private static class CompararConfrencesTitulos implements Comparator<QualisConference>{      

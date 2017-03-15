@@ -72,6 +72,7 @@ public class ConferenceDAO {
     private static boolean checkFormerlyTitleExists(Conference conference) throws ErrorException{
         List<FormerlyTitle> listF = FormerlyTitleDAO.getAllFormerlyTitle();
         int cont=0;
+        boolean test = false;
         for(String title1: conference.getTitles()){
             String t1 = title1.toLowerCase();
                        
@@ -83,7 +84,7 @@ public class ConferenceDAO {
                     if(checkAcronymExists(formerlyTitle.getIdPubVenue(),conference) || checkAcronymFormerlyTitleExists(formerlyTitle.getIdPubVenue(),conference)){
                         return true;
                     }
-                }            
+                }
             }
         }
         return false;
@@ -158,12 +159,19 @@ public class ConferenceDAO {
             
             // Inserir titulos
             for (String t : conference.getTitles()) {
-                i = 1;
-                ps = conn.prepareStatement("INSERT INTO title (id_pub_venue,title) VALUES (?,?)");
-                ps.setInt(i++, idPubVenue);
-                ps.setString(i++, t);
-                ps.executeUpdate();
-                ps.close();
+                
+                int idPubVenueAux = 0;
+
+                idPubVenueAux = TitleDAO.checkIdPubVenue(idPubVenue, t);
+
+                if (idPubVenue != idPubVenueAux) {
+                    i = 1;
+                    ps = conn.prepareStatement("INSERT INTO title (id_pub_venue, title) VALUES (?,?)");
+                    ps.setInt(i++, idPubVenue);
+                    ps.setString(i++, t);
+                    ps.executeUpdate();
+                    ps.close();
+                }
                 conn.commit();
             }
             
@@ -200,8 +208,9 @@ public class ConferenceDAO {
             PreparedStatement ps;
             
             int i=1;
-            ps = conn.prepareStatement("SELECT * FROM acronym WHERE id_pub_venue = ?");
+            ps = conn.prepareStatement("SELECT * FROM acronym WHERE id_pub_venue = ? AND acronym = ?");
             ps.setInt(i++,idPubVenue);
+            ps.setString(i++, conference.getAcronym());
             
             try(ResultSet tableAcronym = ps.executeQuery()){
                 if(tableAcronym.first()){
@@ -236,7 +245,7 @@ public class ConferenceDAO {
             ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
 
             try (ResultSet tableQualis = ps.executeQuery()) {
-                if (tableQualis.first()) {
+                if(tableQualis.first()){
                     String qualis = tableQualis.getString("qualis");
                     int indicePVAF = getIndice(qualis);
                     int indiceNew = getIndice(conference.getClassification());
@@ -297,108 +306,65 @@ public class ConferenceDAO {
                         
             List<Title> titles = new ArrayList<>();
             
+            int idArea = 0;
+            AreaAvaliacao area = checkAreaExists("CIÊNCIA DA COMPUTAÇÃO");
+
+            if (!(area == null)) {
+                idArea = area.getIdArea();
+            }
+
+            int i = 1;
+            ps = conn.prepareStatement("SELECT * FROM qualis WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
+            ps.setInt(i++, idPubVenue);
+            ps.setInt(i++, idArea);
+            ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
+
+            try (ResultSet tableQualis = ps.executeQuery()) {
+                if (tableQualis.first()) {
+                    String qualis = tableQualis.getString("qualis");
+                    int indicePVAF = getIndice(qualis);
+                    int indiceNew = getIndice(conference.getClassification());
+                    if (indicePVAF < indiceNew) {
+                        i = 1;
+                        ps = conn.prepareStatement("UPDATE qualis SET qualis = ? WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
+                        ps.setString(i++, conference.getClassification());
+                        ps.setInt(i++, idPubVenue);
+                        ps.setInt(i++, idArea);
+                        ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
+                        ps.executeUpdate();
+                        ps.close();
+                    }
+                } else {
+                    i = 1;
+                    ps = conn.prepareStatement("INSERT INTO qualis (id_pub_venue,id_area,year,qualis) VALUES (?,?,?,?)");
+                    ps.setInt(i++, idPubVenue);
+                    ps.setInt(i++, idArea);
+                    ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
+                    ps.setString(i++, conference.getClassification());
+                    ps.executeUpdate();
+                    ps.close();
+                }
+            }
+            ps.close();
+            
             if(idPubVenue!=0){
                 titles = TitleDAO.getTitles(idPubVenue);
             }
             
             for(String journalTitle: conference.getTitles()){
-                int  i;
-                
+                                
                 int idPubVenueAux = 0;
                 
                 idPubVenueAux = TitleDAO.checkIdPubVenue(idPubVenue, journalTitle);
                 
-                if (idPubVenue == idPubVenueAux) {
-                    
-                    int idArea = 0;
-                    AreaAvaliacao area = checkAreaExists("CIÊNCIA DA COMPUTAÇÃO");
-                        
-                    if(!(area==null)){
-                        idArea = area.getIdArea();
-                    }
-                        
-                    i=1;
-                    ps = conn.prepareStatement("SELECT * FROM qualis WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
-                    ps.setInt(i++,idPubVenue);
-                    ps.setInt(i++,idArea);
-                    ps.setBigDecimal(i++,BigDecimal.valueOf(conference.getYear()));
-                        
-                    try(ResultSet tableQualis = ps.executeQuery()){
-                        if(tableQualis.first()){
-                            String qualis = tableQualis.getString("qualis");
-                            int indicePVAF = getIndice(qualis);
-                            int indiceNew = getIndice(conference.getClassification());
-                            if (indicePVAF < indiceNew) {
-                                i = 1;
-                                ps = conn.prepareStatement("UPDATE qualis SET qualis = ? WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
-                                ps.setString(i++, conference.getClassification());
-                                ps.setInt(i++, idPubVenue);
-                                ps.setInt(i++, idArea);
-                                ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
-                                ps.executeUpdate();
-                                ps.close();
-                            }
-                        }else{
-                            i=1;
-                            ps = conn.prepareStatement("INSERT INTO qualis (id_pub_venue,id_area,year,qualis) VALUES (?,?,?,?)");
-                            ps.setInt(i++,idPubVenue);
-                            ps.setInt(i++,idArea);
-                            ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
-                            ps.setString(i++,conference.getClassification());
-                            ps.executeUpdate();
-                            ps.close();
-                        }    
-                    }                     
-                    ps.close();              
-                }else{
+                if (idPubVenue != idPubVenueAux) {
                     i=1;
                     ps = conn.prepareStatement("INSERT INTO title (id_pub_venue, title) VALUES (?,?)");
                     ps.setInt(i++,idPubVenue);
                     ps.setString(i++, journalTitle);
                     ps.executeUpdate();
                     ps.close();
-                    
-                    int idArea = 0;
-                    AreaAvaliacao area = checkAreaExists("CIÊNCIA DA COMPUTAÇÃO");
-                        
-                    if(!(area==null)){
-                        idArea = area.getIdArea();
-                    }
-                    
-                    i=1;
-                    ps = conn.prepareStatement("SELECT * FROM qualis WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
-                    ps.setInt(i++,idPubVenue);
-                    ps.setInt(i++,idArea);
-                    ps.setBigDecimal(i++,BigDecimal.valueOf(conference.getYear()));
-                        
-                    try(ResultSet tableQualis = ps.executeQuery()){
-                        if(tableQualis.first()){
-                            String qualis = tableQualis.getString("qualis");
-                            int indicePVAF = getIndice(qualis);
-                            int indiceNew = getIndice(conference.getClassification());
-                            if (indicePVAF < indiceNew) {
-                                i = 1;
-                                ps = conn.prepareStatement("UPDATE qualis SET qualis = ? WHERE id_pub_venue = ? AND id_area = ? AND year = ?");
-                                ps.setString(i++, conference.getClassification());
-                                ps.setInt(i++, idPubVenue);
-                                ps.setInt(i++, idArea);
-                                ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
-                                ps.executeUpdate();
-                                ps.close();
-                            }
-                        }else{
-                            i=1;
-                            ps = conn.prepareStatement("INSERT INTO qualis (id_pub_venue,id_area,year,qualis) VALUES (?,?,?,?)");
-                            ps.setInt(i++,idPubVenue);
-                            ps.setInt(i++,idArea);
-                            ps.setBigDecimal(i++, BigDecimal.valueOf(conference.getYear()));
-                            ps.setString(i++,conference.getClassification());
-                            ps.executeUpdate();
-                            ps.close();
-                        }    
-                    }                     
-                    ps.close();                    
-                }
+                }    
                 conn.commit();
             }
             
